@@ -1,0 +1,22 @@
+{% load staticfiles %}
+{% static "" as baseUrl %}
+<html>
+<head>
+    <style>
+        body{
+              background-image:url("{{baseUrl}}vp.jpg");
+
+        }
+
+
+    </style>
+</head>
+<body>
+<center><h2 style="color:white;"> Playing<h1 style="color:yellow;">{{vname}}</h1></h2></center><br>
+<br>
+
+<center><video width="800" height="400" controls>
+<source src="{{baseUrl}}Video/{{vname}}" type="video/mp4">
+</video></center>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{% load staticfiles %}
+{% static "" as baseUrl %}
+<html>
+<head>
+    <style>
+        body{
+              background-image:url("{{baseUrl}}vi.jpg");
+
+        }
+
+
+    </style>
+</head>
+<body>
+<center> <h1 style="color:pink;"> Videos Related to farming(खेती से संबंधित वीडियो) </h1></center>
+<br><br>
+<center>{% for i in vlst %}
+<a href="vplay?vname={{i}}" style="color:white;">{{i}}</a><br><br>
+{% endfor %}
+</center>
+</body>
+</html>

@@ -1,0 +1,263 @@
+{% load staticfiles %}
+{% static "" as baseUrl %}
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>KISAAN</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="{{baseUrl}}img/favicon.png" rel="icon">
+  <link href="{{baseUrl}}img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="{{baseUrl}}https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700|Open+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="{{baseUrl}}lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="{{baseUrl}}lib/animate/animate.min.css" rel="stylesheet">
+  <link href="{{baseUrl}}lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="{{baseUrl}}lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="{{baseUrl}}lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="{{baseUrl}}css/style.css" rel="stylesheet">
+<style>
+.b1{
+color: #900;
+  background: #FF0;
+  font-weight: bold;
+  border: 1px solid #900; cursor:pointer;}
+
+.b1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+</style>
+</head>
+
+<body>
+
+  <!--==========================
+    Header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <h1><a href="#intro" class="scrollto"><b><font color="black">KISAAN</font> <b></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="#intro"><img src="{{baseUrl}}img/logo.png" alt="" title=""></a> -->
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li><a href="#about"><font color="black">Login(लॉग इन करें)</font></a></li>
+          <li><a href="#advanced-features"><font color="black">Signup(खाता बनाएं)</font></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!--==========================
+    Intro Section
+  ============================-->
+  <section id="intro">
+
+    <div class="intro-text">
+      <h2>किसान सशक्तिकरण</h2>
+      <p>शिक्षित किसान
+सशक्त किसान</p>
+      <a href="#about" class="btn-get-started scrollto">जानकारी ले</a>
+    </div>
+
+    <div class="product-screens">
+
+      <div class="product-screen-1 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.6s">
+        <img src="{{baseUrl}}img/a3.jpg" alt="">
+      </div>
+
+      <div class="product-screen-2 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.6s">
+        <img src="{{baseUrl}}img/a1.jpg" alt="">
+      </div>
+
+      <div class="product-screen-3 wow fadeInUp" data-wow-duration="0.6s">
+        <img src="{{baseUrl}}img/a2.jpg" alt="">
+      </div>
+
+    </div>
+
+  </section><!-- #intro -->
+
+  <main id="main">
+
+   <!--==========================
+    Login Section
+    ============================-->
+    <section id="about" class="section-bg">
+      <div class="container-fluid">
+        <div class="section-header">
+          <h3 class="section-title" style="color:blue;font-family:Algerian;">Login(लॉग इन करें)</h3>
+          <span class="section-divider"></span>
+          <pre class="section-description" style="color:grey"><b>शिक्षित हो<br>कुशल हो</b>
+          </pre>
+
+        </div>
+ <div class="row">
+          <div class="col-lg-6 about-img wow fadeInLeft">
+            <img src="{{baseUrl}}img/kk.jpg" alt="">
+          </div>
+
+
+          <div class="col-lg-6 content wow fadeInRight">
+            <form action="Login">
+<table>
+    <tr >
+
+        <td width="5%"><font size="4" color="blue"><b>Email(ईमेल)</b></font></td><td><input type="text" name="email" required></td></tr>
+    <tr>
+        <td  width="5%"><font size="4" color="blue"><b>Password(पासवर्ड)</b></font></td><td><input type="password" name="password" required></td>
+    </tr>
+  </table>
+              <br>
+       <center>      <input type="submit" value="Login(लॉग इन करें)" name="Login"></center>
+   <br>{{error}}
+    </tr>
+
+
+            </form>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- #about -->
+
+
+    <!--==========================
+      Signup Section
+    ============================-->
+    <section id="advanced-features">
+
+      <div class="features-row section-bg">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <img class="advanced-feature-img-right wow fadeInRight" src="{{baseUrl}}img/farm.jpg" alt="">
+               <center><h2 class="section-title" style="color:blue;font-family:Algerian;">Signup(खाता बनाएं)</h2></center>
+              <span class="section-divider"></span>
+              <div>
+                <form action="Signup">
+    <table >
+
+    <tr>
+        <td width="80%" ></td>
+        <td width="5%"><b>Name(नाम)</b></td><td width="10%"><input type="text" name="name" id="name" required></td>
+    </tr>
+        <tr></tr>
+        <tr>
+        <td width="80%"></td>
+        <td width="5%"><b>Email(ईमेल)</b></td><td width="10%"><input type="email" name="email" id="email" placeholder="eg. abc@xyz.com" required></td>
+    </tr><tr></tr>
+         <tr>
+        <td width="80%"></td>
+        <td width="5%"><b>Password(पासवर्ड)</b></td><td width="10%"><input type="password" name="password" id="password" pattern=".{6,}" placeholder="Atleast Six Characters" required></td>
+    </tr>
+        <tr> </tr>
+         <tr>
+        <td width="80%"></td>
+        <td width="5%"><b>Date of Birth(जन्म की तारीख)</b></td><td width="10%"><input type="date" name="dob" id="dob" required> </td>
+    </tr>
+        <tr><br></tr>
+        <tr>
+            <td width="70%"></td>
+            <td width="5%"><b>Gender(लिंग)</b></td>
+            <td><input type="radio" name="gender" value="male" id="g1" required><b>Male(पुरुष)</b></td>
+             <td><input type="radio" name="gender" value="female" required><b>Female(महिला)</b></td>
+
+        </tr>
+        <tr></tr>
+        <tr>
+        <td width="80%"></td>
+        <td width="5%"><b>State(राज्य)</b></td><td width="10%"><select id="state" name="state"><option></option><option>Uttar Pradesh</option><option>Rajasthan</option></select></td>
+    </tr>
+        <tr> <br></tr>
+        <tr>
+        <td width="80%"></td>
+        <td width="5%"><b>District(जिला)</b></td><td width="10%"><input type="text" name="district" id="district" required></td>
+    </tr>
+        <tr></tr>
+        <tr>
+            <td width="80%"></td>
+            <td width="10%"><input type="submit" value="Signup(खाता बनाएं)"></td>
+        </tr>
+
+</table>
+</form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    </section><!-- #Signup section -->
+
+
+
+
+
+
+
+
+
+    </main>
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 text-lg-left text-center">
+          <div class="copyright">
+            &copy; Copyright <strong>UTAINMENT</strong>. All Rights Reserved
+          </div>
+          <div class="credits">
+            <!--
+              All the links in the footer should remain intact.
+              You can delete the links only if you purchased the pro version.
+              Licensing information: https://bootstrapmade.com/license/
+              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Avilon
+            -->
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="{{baseUrl}}lib/jquery/jquery.min.js"></script>
+  <script src="{{baseUrl}}lib/jquery/jquery-migrate.min.js"></script>
+  <script src="{{baseUrl}}lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="{{baseUrl}}lib/easing/easing.min.js"></script>
+  <script src="{{baseUrl}}lib/wow/wow.min.js"></script>
+  <script src="{{baseUrl}}lib/superfish/hoverIntent.js"></script>
+  <script src="{{baseUrl}}lib/superfish/superfish.min.js"></script>
+  <script src="{{baseUrl}}lib/magnific-popup/magnific-popup.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="{{baseUrl}}contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="{{baseUrl}}js/main.js"></script>
+
+</body>
+</html>

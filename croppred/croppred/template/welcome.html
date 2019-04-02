@@ -1,0 +1,187 @@
+{% load staticfiles %}
+{% static "" as baseUrl %}
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+  <meta charset="utf-8">
+  <title>KISAAN</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="{{baseUrl}}img/favicon.png" rel="icon">
+  <link href="{{baseUrl}}img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="{{baseUrl}}https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700|Open+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="{{baseUrl}}lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="{{baseUrl}}lib/animate/animate.min.css" rel="stylesheet">
+  <link href="{{baseUrl}}lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="{{baseUrl}}lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="{{baseUrl}}lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="{{baseUrl}}css/style.css" rel="stylesheet">
+<style>
+.b1{
+color: #900;
+  background: #FF0;
+  font-weight: bold;
+  border: 1px solid #900; cursor:pointer;}
+
+.b1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+</style>
+</head>
+
+<body>
+
+  <!--==========================
+    Header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <div id="logo" >
+        <h1><a href="#intro" class="scrollto"><b>KISAAN<b></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="#intro"><img src="{{baseUrl}}img/logo.png" alt="" title=""></a> -->
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li><a href="#about"><font color="black"> Goal(लक्ष्य)</font></a></li>
+            <li><a href="#team" ><font color="black">farming tools(खेती के औजार)</font></a></li>
+          <li><a href="cp"><font color="black">Current Policies(वर्तमान नीतियां)</font></a></li>
+          <li><a href="vindex"><font color="black">Crop Related Info(फसल संबंधी जानकारी)</font></a></li>
+          <li><a href="p"><font color="black">Predict Production(उत्पादन अनुमान)</font></a></li>
+            <li><a href="logout"><font color="black">Logout(लॉगआउट)</font></a></li>
+            <li><a href="videos"><font color="black">Videos(वीडियो)</font></a></li>
+             <li><a href="district"><font color="black">Area wise Best Crop(जिलेवार सर्वोत्तम फसल)</font></a></li>
+
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <br>
+  <section id="intro">
+
+    <div class="intro-text">
+      <h2>किसान सशक्तिकरण</h2>
+
+      <a href="#about" class="btn-get-started scrollto">लक्ष्य</a>
+    </div>
+
+    <div class="product-screens">
+
+       <div class="product-screen-1 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.6s">
+        <img src="{{baseUrl}}img/a3.jpg" alt="">
+      </div>
+
+      <div class="product-screen-2 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.6s">
+        <img src="{{baseUrl}}img/a1.jpg" alt="">
+      </div>
+
+      <div class="product-screen-3 wow fadeInUp" data-wow-duration="0.6s">
+        <img src="{{baseUrl}}img/a2.jpg" alt="">
+      </div>
+
+
+    </div>
+
+  </section><!-- #intro -->
+<section  class="section-bg" id="about">
+      <div class="container-fluid">
+        <div class="section-header">
+          <h1 class="section-title" style="color:blue;font-family:Algerian;"><b>Goal of website(वेबसाइट का लक्ष्य)</b></h1>
+          <span class="section-divider"></span>
+
+
+        </div>
+ <div class="row">
+          <div class="col-lg-6 about-img wow fadeInLeft">
+            <img src="{{baseUrl}}img/f1.jpg" alt="">
+          </div>
+
+
+          <div class="col-lg-6 content wow fadeInRight">
+ <h1>Primary Goals(प्राथमिक लक्ष्य)</h1>
+        <p>हमारी वेबसाइट का मुख्य लक्ष्य किसानों को जानकारीह उपलब्ध कराना है|भारत गांवों का देश है । भारत की आत्मा गांवों और किसानों में बसती है । इसलिए भारत एक कृषि प्रधान देश भी कहलता है । यहां की 70-80 प्रतिशत जनता प्रत्यक्ष और अप्रत्यक्ष रूप से कृषि पर निर्भर करती है । किसान हमारे लिए अन्न, फल, सब्दिया आदि उपजाता है ।</p>
+              <p>अभी भी उसके पास वही बरसों पुराने खेती के साधन हैं ।उसे बहुत कुछ मानसून पर निर्भर रहना पड़ता है । अगर समय पर अच्छी बरसात नहीं होती, तो उसके खेत सूखे पड़े रहते हैं । गांव में अकाल पड़ जाता है, और भूखों मरने की नौबत आ जाती है । वह अपने हाथों से कठोर परिश्रम करता है, खून-पसीना बहाता है, फिर भी वह गरीब और परवश है ।</p>
+              <p>अशिक्षित होने के कारण वह अपने, अधिकारों के प्रति जागरूक नहीं हैं । दूसरे लोग सरलता से उसके आधिकारों का हनन कर लेते हैं । उसे शिक्षित किया जाना बहुत आवश्यक है । </p>
+          </div>
+     <div>
+
+     </div>
+        </div>
+
+      </div>
+    </section><!-- #about -->
+
+
+
+
+
+
+<section id="team">
+
+    <div >
+        <center><h2 class="section-title" style="color:orange;font-family:Algerian;">farming tools(खेती के औजार)</h2></center>
+        <h4>Old Farming Tools(पुराने खेती के उपकरण)</h4>
+           1) <img src="{{baseUrl}}img/1.jpg" style="width:350px;heigth:360px;">
+    2)<img src="{{baseUrl}}img/2.jpg" style="width:350px;heigth:360px;">
+    </div>
+</section>
+  </main>
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 text-lg-left text-center">
+          <div class="copyright">
+            &copy; Copyright <strong>KISAAN</strong>. All Rights Reserved
+          </div>
+          <div class="credits">
+            <!--
+              All the links in the footer should remain intact.
+              You can delete the links only if you purchased the pro version.
+              Licensing information: https://bootstrapmade.com/license/
+              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Avilon
+            -->
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="{{baseUrl}}lib/jquery/jquery.min.js"></script>
+  <script src="{{baseUrl}}lib/jquery/jquery-migrate.min.js"></script>
+  <script src="{{baseUrl}}lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="{{baseUrl}}lib/easing/easing.min.js"></script>
+  <script src="{{baseUrl}}lib/wow/wow.min.js"></script>
+  <script src="{{baseUrl}}lib/superfish/hoverIntent.js"></script>
+  <script src="{{baseUrl}}lib/superfish/superfish.min.js"></script>
+  <script src="{{baseUrl}}lib/magnific-popup/magnific-popup.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="{{baseUrl}}contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="{{baseUrl}}js/main.js"></script>
+
+</body>
+</html>
