@@ -92,3 +92,6 @@ def info(request):
     return render(request,"info.html")
 def wheat(request):
     return render(request,"Wheat.html")
+def bajra(request):
+    return render(request,"Bajra.html")
+
