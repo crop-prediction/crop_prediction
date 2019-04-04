@@ -43,3 +43,54 @@ def videos(request):
     return render(request, "videolist.html", {"vlst": a})
 def vplay(request):
     return render(request,"vplay.html",{"vname":request.GET.get("vname")})
+def prediction(request):
+    return render(request,"prediction.html")
+def roh(request):
+    x=int(request.GET.get("area"))
+    nm=str(request.GET.get("crop"))
+    print(nm)
+    if nm == "Wheat":
+        y=WheatPred(x)
+    else:
+        y=BajraPred(x)
+    return render(request,"production.html",{"prod":y,"crop":nm,"area":x})
+def WheatPred(x):
+    print("h2")
+    data=pd.read_csv('F:\crop\croppred\module\data1.csv')
+    X=data['Production'].values
+    Y=data['Area'].values
+    mean_x = np.mean(X)
+    mean_y = np.mean(Y)
+    m = len(X)
+    num = 0
+    den = 0
+    for i in range(m):
+        num += (X[i] - mean_x) * (Y[i] - mean_y)
+        den += (X[i] - mean_x) ** 2
+    b1 = num / den
+    b0 = mean_y - (b1* mean_x)
+    y=b1*x
+    return y
+def BajraPred(x):
+    print("h3")
+    data=pd.read_csv('F:\crop\croppred\module\data2.csv')
+    X=data['Production'].values
+    Y=data['Area'].values
+    mean_x = np.mean(X)
+    mean_y = np.mean(Y)
+    m = len(X)
+    num = 0
+    den = 0
+    for i in range(m):
+        num += (X[i] - mean_x) * (Y[i] - mean_y)
+        den += (X[i] - mean_x) ** 2
+    b1 = num / den
+    b0 = mean_y - (b1* mean_x)
+    y=b1*x
+    return y
+def info(request):
+    return render(request,"info.html")
+def wheat(request):
+    return render(request,"Wheat.html")
+def bajra(request):
+    return render(request,"Bajra.html")
