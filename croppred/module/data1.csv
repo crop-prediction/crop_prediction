@@ -1,0 +1,912 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Uttar Pradesh,DEORIA,1997,Rabi       ,Wheat,130934,301647
+Uttar Pradesh,DEORIA,1998,Rabi       ,Wheat,137653,326272
+Uttar Pradesh,DEORIA,1999,Rabi       ,Wheat,134676,359141
+Uttar Pradesh,DEORIA,2000,Rabi       ,Wheat,139398,387008
+Uttar Pradesh,DEORIA,2001,Rabi       ,Wheat,142765,374727
+Uttar Pradesh,DEORIA,2002,Rabi       ,Wheat,141432,307774
+Uttar Pradesh,DEORIA,2003,Rabi       ,Wheat,147656,378573
+Uttar Pradesh,DEORIA,2004,Rabi       ,Wheat,147932,350355
+Uttar Pradesh,DEORIA,2005,Rabi       ,Wheat,151399,330807
+Uttar Pradesh,DEORIA,2006,Rabi       ,Wheat,126116,316501
+Uttar Pradesh,DEORIA,2007,Rabi       ,Wheat,146212,402668
+Uttar Pradesh,DEORIA,2008,Rabi       ,Wheat,152129,413334
+Uttar Pradesh,DEORIA,2009,Rabi       ,Wheat,147477,374592
+Uttar Pradesh,DEORIA,2010,Rabi       ,Wheat,148681,440839
+Uttar Pradesh,DEORIA,2011,Rabi       ,Wheat,148224,456975
+Uttar Pradesh,DEORIA,2012,Rabi       ,Wheat,155756,483934
+Uttar Pradesh,DEORIA,2013,Rabi       ,Wheat,156285,472628
+Uttar Pradesh,DEORIA,2014,Rabi       ,Wheat,155105,291133
+Uttar Pradesh,ETAH,1997,Rabi       ,Wheat,194802,574644
+Uttar Pradesh,ETAH,1998,Rabi       ,Wheat,189559,527475
+Uttar Pradesh,ETAH,1999,Rabi       ,Wheat,200249,597906
+Uttar Pradesh,ETAH,2000,Rabi       ,Wheat,194161,629715
+Uttar Pradesh,ETAH,2001,Rabi       ,Wheat,217924,645729
+Uttar Pradesh,ETAH,2002,Rabi       ,Wheat,214649,594321
+Uttar Pradesh,ETAH,2003,Rabi       ,Wheat,217830,676277
+Uttar Pradesh,ETAH,2004,Rabi       ,Wheat,223926,564185
+Uttar Pradesh,ETAH,2005,Rabi       ,Wheat,206806,571819
+Uttar Pradesh,ETAH,2006,Rabi       ,Wheat,227576,644495
+Uttar Pradesh,ETAH,2007,Rabi       ,Wheat,222498,625664
+Uttar Pradesh,ETAH,2008,Rabi       ,Wheat,228431,734406
+Uttar Pradesh,ETAH,2009,Rabi       ,Wheat,135064,410189
+Uttar Pradesh,ETAH,2010,Rabi       ,Wheat,136560,442318
+Uttar Pradesh,ETAH,2011,Rabi       ,Wheat,135549,475641
+Uttar Pradesh,ETAH,2012,Rabi       ,Wheat,136461,462193
+Uttar Pradesh,ETAH,2013,Rabi       ,Wheat,134108,484935
+Uttar Pradesh,ETAH,2014,Rabi       ,Wheat,133604,264536
+Uttar Pradesh,ETAWAH,1997,Rabi       ,Wheat,81044,193022
+Uttar Pradesh,ETAWAH,1998,Rabi       ,Wheat,81639,258737
+Uttar Pradesh,ETAWAH,1999,Rabi       ,Wheat,84513,261279
+Uttar Pradesh,ETAWAH,2000,Rabi       ,Wheat,87411,239666
+Uttar Pradesh,ETAWAH,2001,Rabi       ,Wheat,87152,259933
+Uttar Pradesh,ETAWAH,2002,Rabi       ,Wheat,85848,267416
+Uttar Pradesh,ETAWAH,2003,Rabi       ,Wheat,88351,275992
+Uttar Pradesh,ETAWAH,2004,Rabi       ,Wheat,89322,252425
+Uttar Pradesh,ETAWAH,2005,Rabi       ,Wheat,88995,271969
+Uttar Pradesh,ETAWAH,2006,Rabi       ,Wheat,88342,285080
+Uttar Pradesh,ETAWAH,2007,Rabi       ,Wheat,91660,254906
+Uttar Pradesh,ETAWAH,2008,Rabi       ,Wheat,93502,325667
+Uttar Pradesh,ETAWAH,2009,Rabi       ,Wheat,93568,272624
+Uttar Pradesh,ETAWAH,2010,Rabi       ,Wheat,94864,334111
+Uttar Pradesh,ETAWAH,2011,Rabi       ,Wheat,94353,363087
+Uttar Pradesh,ETAWAH,2012,Rabi       ,Wheat,93695,366688
+Uttar Pradesh,ETAWAH,2013,Rabi       ,Wheat,96592,360658
+Uttar Pradesh,ETAWAH,2014,Rabi       ,Wheat,96640,164868
+Uttar Pradesh,FAIZABAD,1997,Rabi       ,Wheat,99193,237786
+Uttar Pradesh,FAIZABAD,1998,Rabi       ,Wheat,98090,218734
+Uttar Pradesh,FAIZABAD,1999,Rabi       ,Wheat,95938,251946
+Uttar Pradesh,FAIZABAD,2000,Rabi       ,Wheat,97812,230591
+Uttar Pradesh,FAIZABAD,2001,Rabi       ,Wheat,98729,236163
+Uttar Pradesh,FAIZABAD,2002,Rabi       ,Wheat,97663,212781
+Uttar Pradesh,FAIZABAD,2003,Rabi       ,Wheat,79203,208895
+Uttar Pradesh,FAIZABAD,2004,Rabi       ,Wheat,79102,188020
+Uttar Pradesh,FAIZABAD,2005,Rabi       ,Wheat,76155,198841
+Uttar Pradesh,FAIZABAD,2006,Rabi       ,Wheat,78887,211812
+Uttar Pradesh,FAIZABAD,2007,Rabi       ,Wheat,79242,218549
+Uttar Pradesh,FAIZABAD,2008,Rabi       ,Wheat,103796,292601
+Uttar Pradesh,FAIZABAD,2009,Rabi       ,Wheat,108013,282454
+Uttar Pradesh,FAIZABAD,2010,Rabi       ,Wheat,108951,307133
+Uttar Pradesh,FAIZABAD,2011,Rabi       ,Wheat,109023,322926
+Uttar Pradesh,FAIZABAD,2012,Rabi       ,Wheat,108071,319782
+Uttar Pradesh,FAIZABAD,2013,Rabi       ,Wheat,109098,269145
+Uttar Pradesh,FAIZABAD,2014,Rabi       ,Wheat,110261,227138
+Uttar Pradesh,FARRUKHABAD,1997,Rabi       ,Wheat,94534,292795
+Uttar Pradesh,FARRUKHABAD,1998,Rabi       ,Wheat,77647,236235
+Uttar Pradesh,FARRUKHABAD,1999,Rabi       ,Wheat,74750,252911
+Uttar Pradesh,FARRUKHABAD,2000,Rabi       ,Wheat,75611,252984
+Uttar Pradesh,FARRUKHABAD,2001,Rabi       ,Wheat,77062,258113
+Uttar Pradesh,FARRUKHABAD,2002,Rabi       ,Wheat,72818,231451
+Uttar Pradesh,FARRUKHABAD,2003,Rabi       ,Wheat,72123,238044
+Uttar Pradesh,FARRUKHABAD,2004,Rabi       ,Wheat,73316,214029
+Uttar Pradesh,FARRUKHABAD,2005,Rabi       ,Wheat,73872,230729
+Uttar Pradesh,FARRUKHABAD,2006,Rabi       ,Wheat,70779,230669
+Uttar Pradesh,FARRUKHABAD,2007,Rabi       ,Wheat,70024,221827
+Uttar Pradesh,FARRUKHABAD,2008,Rabi       ,Wheat,71375,245276
+Uttar Pradesh,FARRUKHABAD,2009,Rabi       ,Wheat,72185,249945
+Uttar Pradesh,FARRUKHABAD,2010,Rabi       ,Wheat,73371,263012
+Uttar Pradesh,FARRUKHABAD,2011,Rabi       ,Wheat,74481,282655
+Uttar Pradesh,FARRUKHABAD,2012,Rabi       ,Wheat,75378,272429
+Uttar Pradesh,FARRUKHABAD,2013,Rabi       ,Wheat,75776,263950
+Uttar Pradesh,FARRUKHABAD,2014,Rabi       ,Wheat,77049,180327
+Uttar Pradesh,FATEHPUR,1997,Rabi       ,Wheat,140168,333772
+Uttar Pradesh,FATEHPUR,1998,Rabi       ,Wheat,144452,338608
+Uttar Pradesh,FATEHPUR,1999,Rabi       ,Wheat,145628,371498
+Uttar Pradesh,FATEHPUR,2000,Rabi       ,Wheat,147261,341041
+Uttar Pradesh,FATEHPUR,2001,Rabi       ,Wheat,150750,379008
+Uttar Pradesh,FATEHPUR,2002,Rabi       ,Wheat,148593,364425
+Uttar Pradesh,FATEHPUR,2003,Rabi       ,Wheat,151769,398603
+Uttar Pradesh,FATEHPUR,2004,Rabi       ,Wheat,151430,362240
+Uttar Pradesh,FATEHPUR,2005,Rabi       ,Wheat,150047,323915
+Uttar Pradesh,FATEHPUR,2006,Rabi       ,Wheat,147236,363910
+Uttar Pradesh,FATEHPUR,2007,Rabi       ,Wheat,151705,390680
+Uttar Pradesh,FATEHPUR,2008,Rabi       ,Wheat,156740,454552
+Uttar Pradesh,FATEHPUR,2009,Rabi       ,Wheat,161632,442702
+Uttar Pradesh,FATEHPUR,2010,Rabi       ,Wheat,163606,535491
+Uttar Pradesh,FATEHPUR,2011,Rabi       ,Wheat,169259,554352
+Uttar Pradesh,FATEHPUR,2012,Rabi       ,Wheat,170681,560591
+Uttar Pradesh,FATEHPUR,2013,Rabi       ,Wheat,174453,595895
+Uttar Pradesh,FATEHPUR,2014,Rabi       ,Wheat,174246,341436
+Uttar Pradesh,FIROZABAD,1997,Rabi       ,Wheat,91897,245553
+Uttar Pradesh,FIROZABAD,1998,Rabi       ,Wheat,97789,281877
+Uttar Pradesh,FIROZABAD,1999,Rabi       ,Wheat,100733,320940
+Uttar Pradesh,FIROZABAD,2000,Rabi       ,Wheat,109295,305190
+Uttar Pradesh,FIROZABAD,2001,Rabi       ,Wheat,110573,322196
+Uttar Pradesh,FIROZABAD,2002,Rabi       ,Wheat,105238,299221
+Uttar Pradesh,FIROZABAD,2003,Rabi       ,Wheat,104505,330205
+Uttar Pradesh,FIROZABAD,2004,Rabi       ,Wheat,102786,288431
+Uttar Pradesh,FIROZABAD,2005,Rabi       ,Wheat,99965,310091
+Uttar Pradesh,FIROZABAD,2006,Rabi       ,Wheat,105443,309475
+Uttar Pradesh,FIROZABAD,2007,Rabi       ,Wheat,95100,312308
+Uttar Pradesh,FIROZABAD,2008,Rabi       ,Wheat,88042,304153
+Uttar Pradesh,FIROZABAD,2009,Rabi       ,Wheat,105758,355770
+Uttar Pradesh,FIROZABAD,2010,Rabi       ,Wheat,101839,371203
+Uttar Pradesh,FIROZABAD,2011,Rabi       ,Wheat,104278,376548
+Uttar Pradesh,FIROZABAD,2012,Rabi       ,Wheat,99498,368839
+Uttar Pradesh,FIROZABAD,2013,Rabi       ,Wheat,96543,348520
+Uttar Pradesh,FIROZABAD,2014,Rabi       ,Wheat,97764,188098
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1997,Rabi       ,Wheat,69804,238346
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1998,Rabi       ,Wheat,69684,210070
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1999,Rabi       ,Wheat,74396,243924
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2000,Rabi       ,Wheat,77919,265801
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2001,Rabi       ,Wheat,71796,268049
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2002,Rabi       ,Wheat,70172,234401
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2003,Rabi       ,Wheat,64627,206086
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2004,Rabi       ,Wheat,63852,203720
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2005,Rabi       ,Wheat,66416,196193
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2006,Rabi       ,Wheat,62746,180646
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2007,Rabi       ,Wheat,64236,203628
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2008,Rabi       ,Wheat,55965,194590
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2009,Rabi       ,Wheat,51450,184140
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2010,Rabi       ,Wheat,56346,210227
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2011,Rabi       ,Wheat,54549,204668
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2012,Rabi       ,Wheat,45934,178591
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2013,Rabi       ,Wheat,46130,192731
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2014,Rabi       ,Wheat,40032,85909
+Uttar Pradesh,GHAZIABAD,1997,Rabi       ,Wheat,70500,240759
+Uttar Pradesh,GHAZIABAD,1998,Rabi       ,Wheat,71003,234413
+Uttar Pradesh,GHAZIABAD,1999,Rabi       ,Wheat,70148,260168
+Uttar Pradesh,GHAZIABAD,2000,Rabi       ,Wheat,71538,246947
+Uttar Pradesh,GHAZIABAD,2001,Rabi       ,Wheat,71185,248855
+Uttar Pradesh,GHAZIABAD,2002,Rabi       ,Wheat,70297,255201
+Uttar Pradesh,GHAZIABAD,2003,Rabi       ,Wheat,95923,339200
+Uttar Pradesh,GHAZIABAD,2004,Rabi       ,Wheat,72749,249626
+Uttar Pradesh,GHAZIABAD,2005,Rabi       ,Wheat,90516,318888
+Uttar Pradesh,GHAZIABAD,2006,Rabi       ,Wheat,71835,288346
+Uttar Pradesh,GHAZIABAD,2007,Rabi       ,Wheat,71031,255072
+Uttar Pradesh,GHAZIABAD,2008,Rabi       ,Wheat,75503,303975
+Uttar Pradesh,GHAZIABAD,2009,Rabi       ,Wheat,76071,267846
+Uttar Pradesh,GHAZIABAD,2010,Rabi       ,Wheat,76344,317667
+Uttar Pradesh,GHAZIABAD,2011,Rabi       ,Wheat,75491,329594
+Uttar Pradesh,GHAZIABAD,2012,Rabi       ,Wheat,28227,123550
+Uttar Pradesh,GHAZIABAD,2013,Rabi       ,Wheat,28164,115726
+Uttar Pradesh,GHAZIABAD,2014,Rabi       ,Wheat,26619,86645
+Uttar Pradesh,GHAZIPUR,1997,Rabi       ,Wheat,152800,331580
+Uttar Pradesh,GHAZIPUR,1998,Rabi       ,Wheat,156085,321252
+Uttar Pradesh,GHAZIPUR,1999,Rabi       ,Wheat,158525,359991
+Uttar Pradesh,GHAZIPUR,2000,Rabi       ,Wheat,159280,370621
+Uttar Pradesh,GHAZIPUR,2001,Rabi       ,Wheat,160607,362010
+Uttar Pradesh,GHAZIPUR,2002,Rabi       ,Wheat,164069,297781
+Uttar Pradesh,GHAZIPUR,2003,Rabi       ,Wheat,166184,376858
+Uttar Pradesh,GHAZIPUR,2004,Rabi       ,Wheat,166153,301366
+Uttar Pradesh,GHAZIPUR,2005,Rabi       ,Wheat,166891,366826
+Uttar Pradesh,GHAZIPUR,2006,Rabi       ,Wheat,166359,403735
+Uttar Pradesh,GHAZIPUR,2007,Rabi       ,Wheat,167715,405963
+Uttar Pradesh,GHAZIPUR,2008,Rabi       ,Wheat,173793,462247
+Uttar Pradesh,GHAZIPUR,2009,Rabi       ,Wheat,169681,394808
+Uttar Pradesh,GHAZIPUR,2010,Rabi       ,Wheat,171211,462161
+Uttar Pradesh,GHAZIPUR,2011,Rabi       ,Wheat,173018,486392
+Uttar Pradesh,GHAZIPUR,2012,Rabi       ,Wheat,174612,501740
+Uttar Pradesh,GHAZIPUR,2013,Rabi       ,Wheat,174040,456998
+Uttar Pradesh,GHAZIPUR,2014,Rabi       ,Wheat,175209,309379
+Uttar Pradesh,GONDA,1997,Rabi       ,Wheat,152619,369830
+Uttar Pradesh,GONDA,1998,Rabi       ,Wheat,158559,408602
+Uttar Pradesh,GONDA,1999,Rabi       ,Wheat,154907,395077
+Uttar Pradesh,GONDA,2000,Rabi       ,Wheat,157737,410313
+Uttar Pradesh,GONDA,2001,Rabi       ,Wheat,159960,431366
+Uttar Pradesh,GONDA,2002,Rabi       ,Wheat,162217,403997
+Uttar Pradesh,GONDA,2003,Rabi       ,Wheat,159146,433629
+Uttar Pradesh,GONDA,2004,Rabi       ,Wheat,159340,376571
+Uttar Pradesh,GONDA,2005,Rabi       ,Wheat,163109,406305
+Uttar Pradesh,GONDA,2006,Rabi       ,Wheat,156719,428758
+Uttar Pradesh,GONDA,2007,Rabi       ,Wheat,149982,416642
+Uttar Pradesh,GONDA,2008,Rabi       ,Wheat,147363,429268
+Uttar Pradesh,GONDA,2009,Rabi       ,Wheat,159290,433269
+Uttar Pradesh,GONDA,2010,Rabi       ,Wheat,160011,468992
+Uttar Pradesh,GONDA,2011,Rabi       ,Wheat,160915,483550
+Uttar Pradesh,GONDA,2012,Rabi       ,Wheat,155802,454007
+Uttar Pradesh,GONDA,2013,Rabi       ,Wheat,153277,456919
+Uttar Pradesh,GONDA,2014,Rabi       ,Wheat,154990,401889
+Uttar Pradesh,GORAKHPUR,1997,Rabi       ,Wheat,172165,386693
+Uttar Pradesh,GORAKHPUR,1998,Rabi       ,Wheat,180742,417867
+Uttar Pradesh,GORAKHPUR,1999,Rabi       ,Wheat,178806,434243
+Uttar Pradesh,GORAKHPUR,2000,Rabi       ,Wheat,180722,431174
+Uttar Pradesh,GORAKHPUR,2001,Rabi       ,Wheat,187175,494151
+Uttar Pradesh,GORAKHPUR,2002,Rabi       ,Wheat,185344,389444
+Uttar Pradesh,GORAKHPUR,2003,Rabi       ,Wheat,188283,445288
+Uttar Pradesh,GORAKHPUR,2004,Rabi       ,Wheat,184279,441701
+Uttar Pradesh,GORAKHPUR,2005,Rabi       ,Wheat,187412,410807
+Uttar Pradesh,GORAKHPUR,2006,Rabi       ,Wheat,184304,465368
+Uttar Pradesh,GORAKHPUR,2007,Rabi       ,Wheat,186639,512996
+Uttar Pradesh,GORAKHPUR,2008,Rabi       ,Wheat,188362,512497
+Uttar Pradesh,GORAKHPUR,2009,Rabi       ,Wheat,189211,501319
+Uttar Pradesh,GORAKHPUR,2010,Rabi       ,Wheat,190446,557387
+Uttar Pradesh,GORAKHPUR,2011,Rabi       ,Wheat,188998,578523
+Uttar Pradesh,GORAKHPUR,2012,Rabi       ,Wheat,190259,592467
+Uttar Pradesh,GORAKHPUR,2013,Rabi       ,Wheat,190537,618676
+Uttar Pradesh,GORAKHPUR,2014,Rabi       ,Wheat,190247,331410
+Uttar Pradesh,HAMIRPUR,1997,Rabi       ,Wheat,90998,165253
+Uttar Pradesh,HAMIRPUR,1998,Rabi       ,Wheat,86392,184098
+Uttar Pradesh,HAMIRPUR,1999,Rabi       ,Wheat,91166,217795
+Uttar Pradesh,HAMIRPUR,2000,Rabi       ,Wheat,83658,167500
+Uttar Pradesh,HAMIRPUR,2001,Rabi       ,Wheat,83234,183181
+Uttar Pradesh,HAMIRPUR,2002,Rabi       ,Wheat,79609,171062
+Uttar Pradesh,HAMIRPUR,2003,Rabi       ,Wheat,82199,190150
+Uttar Pradesh,HAMIRPUR,2004,Rabi       ,Wheat,74974,130023
+Uttar Pradesh,HAMIRPUR,2005,Rabi       ,Wheat,74916,174709
+Uttar Pradesh,HAMIRPUR,2006,Rabi       ,Wheat,82453,168500
+Uttar Pradesh,HAMIRPUR,2007,Rabi       ,Wheat,63790,118391
+Uttar Pradesh,HAMIRPUR,2008,Rabi       ,Wheat,98732,244034
+Uttar Pradesh,HAMIRPUR,2009,Rabi       ,Wheat,89212,225092
+Uttar Pradesh,HAMIRPUR,2010,Rabi       ,Wheat,95371,254843
+Uttar Pradesh,HAMIRPUR,2011,Rabi       ,Wheat,91427,265718
+Uttar Pradesh,HAMIRPUR,2012,Rabi       ,Wheat,113299,322731
+Uttar Pradesh,HAMIRPUR,2013,Rabi       ,Wheat,111347,298733
+Uttar Pradesh,HAMIRPUR,2014,Rabi       ,Wheat,113329,171992
+Uttar Pradesh,HAPUR,2012,Rabi       ,Wheat,43672,207835
+Uttar Pradesh,HAPUR,2013,Rabi       ,Wheat,42412,197216
+Uttar Pradesh,HAPUR,2014,Rabi       ,Wheat,44552,136507
+Uttar Pradesh,HARDOI,1997,Rabi       ,Wheat,268143,661994
+Uttar Pradesh,HARDOI,1998,Rabi       ,Wheat,269042,680818
+Uttar Pradesh,HARDOI,1999,Rabi       ,Wheat,280467,781594
+Uttar Pradesh,HARDOI,2000,Rabi       ,Wheat,294156,798160
+Uttar Pradesh,HARDOI,2001,Rabi       ,Wheat,305726,795789
+Uttar Pradesh,HARDOI,2002,Rabi       ,Wheat,303374,868139
+Uttar Pradesh,HARDOI,2003,Rabi       ,Wheat,306396,866936
+Uttar Pradesh,HARDOI,2004,Rabi       ,Wheat,312973,821886
+Uttar Pradesh,HARDOI,2005,Rabi       ,Wheat,300504,800543
+Uttar Pradesh,HARDOI,2006,Rabi       ,Wheat,307716,923145
+Uttar Pradesh,HARDOI,2007,Rabi       ,Wheat,309644,924287
+Uttar Pradesh,HARDOI,2008,Rabi       ,Wheat,325908,1009330
+Uttar Pradesh,HARDOI,2009,Rabi       ,Wheat,330637,1020013
+Uttar Pradesh,HARDOI,2010,Rabi       ,Wheat,341765,1139960
+Uttar Pradesh,HARDOI,2011,Rabi       ,Wheat,327969,1176241
+Uttar Pradesh,HARDOI,2012,Rabi       ,Wheat,327776,1041832
+Uttar Pradesh,HARDOI,2013,Rabi       ,Wheat,318253,1130771
+Uttar Pradesh,HARDOI,2014,Rabi       ,Wheat,326194,719258
+Uttar Pradesh,HATHRAS,1997,Rabi       ,Wheat,83956,282738
+Uttar Pradesh,HATHRAS,1998,Rabi       ,Wheat,82530,279550
+Uttar Pradesh,HATHRAS,1999,Rabi       ,Wheat,84433,303250
+Uttar Pradesh,HATHRAS,2000,Rabi       ,Wheat,99205,342160
+Uttar Pradesh,HATHRAS,2001,Rabi       ,Wheat,96473,296188
+Uttar Pradesh,HATHRAS,2002,Rabi       ,Wheat,93992,313339
+Uttar Pradesh,HATHRAS,2003,Rabi       ,Wheat,92938,297247
+Uttar Pradesh,HATHRAS,2004,Rabi       ,Wheat,92265,280353
+Uttar Pradesh,HATHRAS,2005,Rabi       ,Wheat,81572,255076
+Uttar Pradesh,HATHRAS,2006,Rabi       ,Wheat,85405,238280
+Uttar Pradesh,HATHRAS,2007,Rabi       ,Wheat,82596,253983
+Uttar Pradesh,HATHRAS,2008,Rabi       ,Wheat,77916,226813
+Uttar Pradesh,HATHRAS,2009,Rabi       ,Wheat,85579,237824
+Uttar Pradesh,HATHRAS,2010,Rabi       ,Wheat,80230,243177
+Uttar Pradesh,HATHRAS,2011,Rabi       ,Wheat,86515,290777
+Uttar Pradesh,HATHRAS,2012,Rabi       ,Wheat,76850,275584
+Uttar Pradesh,HATHRAS,2013,Rabi       ,Wheat,79227,308906
+Uttar Pradesh,HATHRAS,2014,Rabi       ,Wheat,82134,191947
+Uttar Pradesh,JALAUN,1997,Rabi       ,Wheat,107680,246624
+Uttar Pradesh,JALAUN,1998,Rabi       ,Wheat,102623,292601
+Uttar Pradesh,JALAUN,1999,Rabi       ,Wheat,115812,377398
+Uttar Pradesh,JALAUN,2000,Rabi       ,Wheat,117674,339140
+Uttar Pradesh,JALAUN,2001,Rabi       ,Wheat,125152,412320
+Uttar Pradesh,JALAUN,2002,Rabi       ,Wheat,127202,388518
+Uttar Pradesh,JALAUN,2003,Rabi       ,Wheat,130683,389793
+Uttar Pradesh,JALAUN,2004,Rabi       ,Wheat,116483,370251
+Uttar Pradesh,JALAUN,2005,Rabi       ,Wheat,121025,372083
+Uttar Pradesh,JALAUN,2006,Rabi       ,Wheat,116484,328038
+Uttar Pradesh,JALAUN,2007,Rabi       ,Wheat,103722,174829
+Uttar Pradesh,JALAUN,2008,Rabi       ,Wheat,157937,498571
+Uttar Pradesh,JALAUN,2009,Rabi       ,Wheat,143554,401291
+Uttar Pradesh,JALAUN,2010,Rabi       ,Wheat,135223,432152
+Uttar Pradesh,JALAUN,2011,Rabi       ,Wheat,142049,477297
+Uttar Pradesh,JALAUN,2012,Rabi       ,Wheat,145440,467112
+Uttar Pradesh,JALAUN,2013,Rabi       ,Wheat,149458,445320
+Uttar Pradesh,JALAUN,2014,Rabi       ,Wheat,155125,206239
+Uttar Pradesh,JAUNPUR,1997,Rabi       ,Wheat,183914,432462
+Uttar Pradesh,JAUNPUR,1998,Rabi       ,Wheat,187329,425697
+Uttar Pradesh,JAUNPUR,1999,Rabi       ,Wheat,188020,442667
+Uttar Pradesh,JAUNPUR,2000,Rabi       ,Wheat,185685,478279
+Uttar Pradesh,JAUNPUR,2001,Rabi       ,Wheat,187032,452739
+Uttar Pradesh,JAUNPUR,2002,Rabi       ,Wheat,188178,436832
+Uttar Pradesh,JAUNPUR,2003,Rabi       ,Wheat,196337,463089
+Uttar Pradesh,JAUNPUR,2004,Rabi       ,Wheat,193364,404269
+Uttar Pradesh,JAUNPUR,2005,Rabi       ,Wheat,174791,416702
+Uttar Pradesh,JAUNPUR,2006,Rabi       ,Wheat,193364,518796
+Uttar Pradesh,JAUNPUR,2007,Rabi       ,Wheat,196970,521380
+Uttar Pradesh,JAUNPUR,2008,Rabi       ,Wheat,188256,538224
+Uttar Pradesh,JAUNPUR,2009,Rabi       ,Wheat,201324,547803
+Uttar Pradesh,JAUNPUR,2010,Rabi       ,Wheat,208204,594006
+Uttar Pradesh,JAUNPUR,2011,Rabi       ,Wheat,205686,654758
+Uttar Pradesh,JAUNPUR,2012,Rabi       ,Wheat,210453,655140
+Uttar Pradesh,JAUNPUR,2013,Rabi       ,Wheat,210671,602940
+Uttar Pradesh,JAUNPUR,2014,Rabi       ,Wheat,209445,405486
+Uttar Pradesh,JHANSI,1997,Rabi       ,Wheat,126332,283802
+Uttar Pradesh,JHANSI,1998,Rabi       ,Wheat,118757,260926
+Uttar Pradesh,JHANSI,1999,Rabi       ,Wheat,129179,338754
+Uttar Pradesh,JHANSI,2000,Rabi       ,Wheat,128977,298897
+Uttar Pradesh,JHANSI,2001,Rabi       ,Wheat,130628,363138
+Uttar Pradesh,JHANSI,2002,Rabi       ,Wheat,119796,306875
+Uttar Pradesh,JHANSI,2003,Rabi       ,Wheat,125419,329689
+Uttar Pradesh,JHANSI,2004,Rabi       ,Wheat,105343,240036
+Uttar Pradesh,JHANSI,2005,Rabi       ,Wheat,126839,263023
+Uttar Pradesh,JHANSI,2006,Rabi       ,Wheat,112811,234758
+Uttar Pradesh,JHANSI,2007,Rabi       ,Wheat,101013,191527
+Uttar Pradesh,JHANSI,2008,Rabi       ,Wheat,116956,318318
+Uttar Pradesh,JHANSI,2009,Rabi       ,Wheat,128909,319425
+Uttar Pradesh,JHANSI,2010,Rabi       ,Wheat,142456,384439
+Uttar Pradesh,JHANSI,2011,Rabi       ,Wheat,178532,558556
+Uttar Pradesh,JHANSI,2012,Rabi       ,Wheat,156091,434532
+Uttar Pradesh,JHANSI,2013,Rabi       ,Wheat,153384,235384
+Uttar Pradesh,JHANSI,2014,Rabi       ,Wheat,155061,183641
+Uttar Pradesh,KANNAUJ,1997,Rabi       ,Wheat,74492,228029
+Uttar Pradesh,KANNAUJ,1998,Rabi       ,Wheat,74968,259444
+Uttar Pradesh,KANNAUJ,1999,Rabi       ,Wheat,76983,262872
+Uttar Pradesh,KANNAUJ,2000,Rabi       ,Wheat,78524,279793
+Uttar Pradesh,KANNAUJ,2001,Rabi       ,Wheat,76950,235689
+Uttar Pradesh,KANNAUJ,2002,Rabi       ,Wheat,73959,206337
+Uttar Pradesh,KANNAUJ,2003,Rabi       ,Wheat,75218,245740
+Uttar Pradesh,KANNAUJ,2004,Rabi       ,Wheat,72942,227285
+Uttar Pradesh,KANNAUJ,2005,Rabi       ,Wheat,75236,251799
+Uttar Pradesh,KANNAUJ,2006,Rabi       ,Wheat,74147,258686
+Uttar Pradesh,KANNAUJ,2007,Rabi       ,Wheat,73305,255343
+Uttar Pradesh,KANNAUJ,2008,Rabi       ,Wheat,75066,268557
+Uttar Pradesh,KANNAUJ,2009,Rabi       ,Wheat,72427,250571
+Uttar Pradesh,KANNAUJ,2010,Rabi       ,Wheat,73545,262612
+Uttar Pradesh,KANNAUJ,2011,Rabi       ,Wheat,74109,277001
+Uttar Pradesh,KANNAUJ,2012,Rabi       ,Wheat,70105,268920
+Uttar Pradesh,KANNAUJ,2013,Rabi       ,Wheat,77569,297075
+Uttar Pradesh,KANNAUJ,2014,Rabi       ,Wheat,76686,108049
+Uttar Pradesh,KANPUR DEHAT,1997,Rabi       ,Wheat,99835,281182
+Uttar Pradesh,KANPUR DEHAT,1998,Rabi       ,Wheat,100380,325983
+Uttar Pradesh,KANPUR DEHAT,2003,Rabi       ,Wheat,119071,447734
+Uttar Pradesh,KANPUR DEHAT,2004,Rabi       ,Wheat,116802,377903
+Uttar Pradesh,KANPUR DEHAT,2005,Rabi       ,Wheat,99562,304537
+Uttar Pradesh,KANPUR DEHAT,2006,Rabi       ,Wheat,112329,386438
+Uttar Pradesh,KANPUR DEHAT,2007,Rabi       ,Wheat,119298,394367
+Uttar Pradesh,KANPUR DEHAT,2008,Rabi       ,Wheat,118454,437945
+Uttar Pradesh,KANPUR DEHAT,2009,Rabi       ,Wheat,119223,412472
+Uttar Pradesh,KANPUR DEHAT,2010,Rabi       ,Wheat,111495,435774
+Uttar Pradesh,KANPUR DEHAT,2011,Rabi       ,Wheat,122856,486582
+Uttar Pradesh,KANPUR DEHAT,2012,Rabi       ,Wheat,120580,435969
+Uttar Pradesh,KANPUR DEHAT,2013,Rabi       ,Wheat,127503,457446
+Uttar Pradesh,KANPUR DEHAT,2014,Rabi       ,Wheat,122103,203542
+Uttar Pradesh,KANPUR NAGAR,1997,Rabi       ,Wheat,100821,301675
+Uttar Pradesh,KANPUR NAGAR,1998,Rabi       ,Wheat,102090,317626
+Uttar Pradesh,KANPUR NAGAR,1999,Rabi       ,Wheat,203576,666531
+Uttar Pradesh,KANPUR NAGAR,2000,Rabi       ,Wheat,209038,647014
+Uttar Pradesh,KANPUR NAGAR,2001,Rabi       ,Wheat,219787,723117
+Uttar Pradesh,KANPUR NAGAR,2002,Rabi       ,Wheat,217858,642237
+Uttar Pradesh,KANPUR NAGAR,2003,Rabi       ,Wheat,98981,325992
+Uttar Pradesh,KANPUR NAGAR,2004,Rabi       ,Wheat,103011,265513
+Uttar Pradesh,KANPUR NAGAR,2005,Rabi       ,Wheat,89745,250922
+Uttar Pradesh,KANPUR NAGAR,2006,Rabi       ,Wheat,89726,270138
+Uttar Pradesh,KANPUR NAGAR,2007,Rabi       ,Wheat,99847,266372
+Uttar Pradesh,KANPUR NAGAR,2008,Rabi       ,Wheat,101671,298443
+Uttar Pradesh,KANPUR NAGAR,2009,Rabi       ,Wheat,100134,295050
+Uttar Pradesh,KANPUR NAGAR,2010,Rabi       ,Wheat,101518,353250
+Uttar Pradesh,KANPUR NAGAR,2011,Rabi       ,Wheat,102955,356662
+Uttar Pradesh,KANPUR NAGAR,2012,Rabi       ,Wheat,106886,380275
+Uttar Pradesh,KANPUR NAGAR,2013,Rabi       ,Wheat,102821,395335
+Uttar Pradesh,KANPUR NAGAR,2014,Rabi       ,Wheat,102753,155171
+Uttar Pradesh,KASGANJ,2009,Rabi       ,Wheat,94515,278914
+Uttar Pradesh,KASGANJ,2010,Rabi       ,Wheat,93870,319064
+Uttar Pradesh,KASGANJ,2011,Rabi       ,Wheat,95125,345875
+Uttar Pradesh,KASGANJ,2012,Rabi       ,Wheat,94210,320314
+Uttar Pradesh,KASGANJ,2013,Rabi       ,Wheat,97331,342897
+Uttar Pradesh,KASGANJ,2014,Rabi       ,Wheat,98653,229467
+Uttar Pradesh,KAUSHAMBI,1997,Rabi       ,Wheat,64286,136926
+Uttar Pradesh,KAUSHAMBI,1998,Rabi       ,Wheat,61902,116998
+Uttar Pradesh,KAUSHAMBI,1999,Rabi       ,Wheat,60369,151060
+Uttar Pradesh,KAUSHAMBI,2000,Rabi       ,Wheat,59590,138944
+Uttar Pradesh,KAUSHAMBI,2001,Rabi       ,Wheat,65813,153750
+Uttar Pradesh,KAUSHAMBI,2002,Rabi       ,Wheat,67520,139755
+Uttar Pradesh,KAUSHAMBI,2003,Rabi       ,Wheat,68407,165024
+Uttar Pradesh,KAUSHAMBI,2004,Rabi       ,Wheat,67754,155817
+Uttar Pradesh,KAUSHAMBI,2005,Rabi       ,Wheat,65938,137415
+Uttar Pradesh,KAUSHAMBI,2006,Rabi       ,Wheat,68503,149126
+Uttar Pradesh,KAUSHAMBI,2007,Rabi       ,Wheat,63597,132208
+Uttar Pradesh,KAUSHAMBI,2008,Rabi       ,Wheat,69406,180525
+Uttar Pradesh,KAUSHAMBI,2009,Rabi       ,Wheat,70698,168299
+Uttar Pradesh,KAUSHAMBI,2010,Rabi       ,Wheat,71572,192775
+Uttar Pradesh,KAUSHAMBI,2011,Rabi       ,Wheat,72593,209721
+Uttar Pradesh,KAUSHAMBI,2012,Rabi       ,Wheat,75647,219631
+Uttar Pradesh,KAUSHAMBI,2013,Rabi       ,Wheat,66491,161600
+Uttar Pradesh,KAUSHAMBI,2014,Rabi       ,Wheat,70882,108449
+Uttar Pradesh,KHERI,1997,Rabi       ,Wheat,192629,437513
+Uttar Pradesh,KHERI,1998,Rabi       ,Wheat,197697,479549
+Uttar Pradesh,KHERI,1999,Rabi       ,Wheat,199737,554059
+Uttar Pradesh,KHERI,2000,Rabi       ,Wheat,200654,535409
+Uttar Pradesh,KHERI,2001,Rabi       ,Wheat,197365,589646
+Uttar Pradesh,KHERI,2002,Rabi       ,Wheat,195218,527329
+Uttar Pradesh,KHERI,2003,Rabi       ,Wheat,203270,580397
+Uttar Pradesh,KHERI,2004,Rabi       ,Wheat,204074,568658
+Uttar Pradesh,KHERI,2005,Rabi       ,Wheat,201483,556093
+Uttar Pradesh,KHERI,2006,Rabi       ,Wheat,190523,575379
+Uttar Pradesh,KHERI,2007,Rabi       ,Wheat,200467,639089
+Uttar Pradesh,KHERI,2008,Rabi       ,Wheat,193189,649888
+Uttar Pradesh,KHERI,2009,Rabi       ,Wheat,202431,600613
+Uttar Pradesh,KHERI,2010,Rabi       ,Wheat,191001,652077
+Uttar Pradesh,KHERI,2011,Rabi       ,Wheat,197303,671817
+Uttar Pradesh,KHERI,2012,Rabi       ,Wheat,183938,640472
+Uttar Pradesh,KHERI,2013,Rabi       ,Wheat,195575,705439
+Uttar Pradesh,KHERI,2014,Rabi       ,Wheat,185828,498172
+Uttar Pradesh,KUSHI NAGAR,1997,Rabi       ,Wheat,103187,243419
+Uttar Pradesh,KUSHI NAGAR,1998,Rabi       ,Wheat,106768,247802
+Uttar Pradesh,KUSHI NAGAR,1999,Rabi       ,Wheat,108126,283271
+Uttar Pradesh,KUSHI NAGAR,2000,Rabi       ,Wheat,110993,329185
+Uttar Pradesh,KUSHI NAGAR,2001,Rabi       ,Wheat,107899,289561
+Uttar Pradesh,KUSHI NAGAR,2002,Rabi       ,Wheat,108098,243781
+Uttar Pradesh,KUSHI NAGAR,2003,Rabi       ,Wheat,115364,297940
+Uttar Pradesh,KUSHI NAGAR,2004,Rabi       ,Wheat,117782,312133
+Uttar Pradesh,KUSHI NAGAR,2005,Rabi       ,Wheat,111757,214685
+Uttar Pradesh,KUSHI NAGAR,2006,Rabi       ,Wheat,117988,329658
+Uttar Pradesh,KUSHI NAGAR,2007,Rabi       ,Wheat,107561,331611
+Uttar Pradesh,KUSHI NAGAR,2008,Rabi       ,Wheat,115299,330447
+Uttar Pradesh,KUSHI NAGAR,2009,Rabi       ,Wheat,115798,302696
+Uttar Pradesh,KUSHI NAGAR,2010,Rabi       ,Wheat,119090,345837
+Uttar Pradesh,KUSHI NAGAR,2011,Rabi       ,Wheat,113535,342535
+Uttar Pradesh,KUSHI NAGAR,2012,Rabi       ,Wheat,113917,330929
+Uttar Pradesh,KUSHI NAGAR,2013,Rabi       ,Wheat,115703,351737
+Uttar Pradesh,KUSHI NAGAR,2014,Rabi       ,Wheat,116559,193954
+Uttar Pradesh,LALITPUR,1997,Rabi       ,Wheat,107132,197615
+Uttar Pradesh,LALITPUR,1998,Rabi       ,Wheat,95284,181784
+Uttar Pradesh,LALITPUR,1999,Rabi       ,Wheat,107874,218595
+Uttar Pradesh,LALITPUR,2000,Rabi       ,Wheat,94797,152435
+Uttar Pradesh,LALITPUR,2001,Rabi       ,Wheat,94847,172493
+Uttar Pradesh,LALITPUR,2002,Rabi       ,Wheat,76896,126477
+Uttar Pradesh,LALITPUR,2003,Rabi       ,Wheat,98336,198633
+Uttar Pradesh,LALITPUR,2004,Rabi       ,Wheat,95863,191074
+Uttar Pradesh,LALITPUR,2005,Rabi       ,Wheat,93430,152102
+Uttar Pradesh,LALITPUR,2006,Rabi       ,Wheat,96659,180269
+Uttar Pradesh,LALITPUR,2007,Rabi       ,Wheat,62313,98392
+Uttar Pradesh,LALITPUR,2008,Rabi       ,Wheat,110610,231297
+Uttar Pradesh,LALITPUR,2009,Rabi       ,Wheat,116621,279191
+Uttar Pradesh,LALITPUR,2010,Rabi       ,Wheat,125595,295996
+Uttar Pradesh,LALITPUR,2011,Rabi       ,Wheat,162594,423557
+Uttar Pradesh,LALITPUR,2012,Rabi       ,Wheat,163229,437611
+Uttar Pradesh,LALITPUR,2013,Rabi       ,Wheat,178578,372871
+Uttar Pradesh,LALITPUR,2014,Rabi       ,Wheat,173401,367957
+Uttar Pradesh,LUCKNOW,1997,Rabi       ,Wheat,81707,180057
+Uttar Pradesh,LUCKNOW,1998,Rabi       ,Wheat,81146,159930
+Uttar Pradesh,LUCKNOW,1999,Rabi       ,Wheat,80848,204973
+Uttar Pradesh,LUCKNOW,2000,Rabi       ,Wheat,95132,247809
+Uttar Pradesh,LUCKNOW,2001,Rabi       ,Wheat,85715,213302
+Uttar Pradesh,LUCKNOW,2002,Rabi       ,Wheat,84411,203626
+Uttar Pradesh,LUCKNOW,2003,Rabi       ,Wheat,85337,198410
+Uttar Pradesh,LUCKNOW,2004,Rabi       ,Wheat,84992,205682
+Uttar Pradesh,LUCKNOW,2005,Rabi       ,Wheat,82078,194437
+Uttar Pradesh,LUCKNOW,2006,Rabi       ,Wheat,84067,224459
+Uttar Pradesh,LUCKNOW,2007,Rabi       ,Wheat,82853,213761
+Uttar Pradesh,LUCKNOW,2008,Rabi       ,Wheat,83894,229032
+Uttar Pradesh,LUCKNOW,2009,Rabi       ,Wheat,85135,226629
+Uttar Pradesh,LUCKNOW,2010,Rabi       ,Wheat,83618,236473
+Uttar Pradesh,LUCKNOW,2011,Rabi       ,Wheat,82274,222469
+Uttar Pradesh,LUCKNOW,2012,Rabi       ,Wheat,83388,239490
+Uttar Pradesh,LUCKNOW,2013,Rabi       ,Wheat,81363,241811
+Uttar Pradesh,LUCKNOW,2014,Rabi       ,Wheat,79315,144512
+Uttar Pradesh,MAHARAJGANJ,1997,Rabi       ,Wheat,133674,295708
+Uttar Pradesh,MAHARAJGANJ,1998,Rabi       ,Wheat,135996,307903
+Uttar Pradesh,MAHARAJGANJ,1999,Rabi       ,Wheat,138592,394975
+Uttar Pradesh,MAHARAJGANJ,2000,Rabi       ,Wheat,135820,391392
+Uttar Pradesh,MAHARAJGANJ,2001,Rabi       ,Wheat,138696,369366
+Uttar Pradesh,MAHARAJGANJ,2002,Rabi       ,Wheat,139007,305287
+Uttar Pradesh,MAHARAJGANJ,2003,Rabi       ,Wheat,143548,365487
+Uttar Pradesh,MAHARAJGANJ,2004,Rabi       ,Wheat,148003,369882
+Uttar Pradesh,MAHARAJGANJ,2005,Rabi       ,Wheat,142975,202596
+Uttar Pradesh,MAHARAJGANJ,2006,Rabi       ,Wheat,143903,400133
+Uttar Pradesh,MAHARAJGANJ,2007,Rabi       ,Wheat,149600,444162
+Uttar Pradesh,MAHARAJGANJ,2008,Rabi       ,Wheat,146715,413443
+Uttar Pradesh,MAHARAJGANJ,2009,Rabi       ,Wheat,147110,432651
+Uttar Pradesh,MAHARAJGANJ,2010,Rabi       ,Wheat,150724,479001
+Uttar Pradesh,MAHARAJGANJ,2011,Rabi       ,Wheat,149390,490896
+Uttar Pradesh,MAHARAJGANJ,2012,Rabi       ,Wheat,154351,510902
+Uttar Pradesh,MAHARAJGANJ,2013,Rabi       ,Wheat,148850,500136
+Uttar Pradesh,MAHARAJGANJ,2014,Rabi       ,Wheat,152333,361486
+Uttar Pradesh,MAHOBA,1997,Rabi       ,Wheat,69343,118336
+Uttar Pradesh,MAHOBA,1998,Rabi       ,Wheat,63669,123021
+Uttar Pradesh,MAHOBA,1999,Rabi       ,Wheat,67838,148821
+Uttar Pradesh,MAHOBA,2000,Rabi       ,Wheat,63464,88521
+Uttar Pradesh,MAHOBA,2001,Rabi       ,Wheat,67182,118679
+Uttar Pradesh,MAHOBA,2002,Rabi       ,Wheat,58607,72264
+Uttar Pradesh,MAHOBA,2003,Rabi       ,Wheat,65646,94088
+Uttar Pradesh,MAHOBA,2004,Rabi       ,Wheat,63683,106844
+Uttar Pradesh,MAHOBA,2005,Rabi       ,Wheat,64497,74756
+Uttar Pradesh,MAHOBA,2006,Rabi       ,Wheat,68763,91125
+Uttar Pradesh,MAHOBA,2007,Rabi       ,Wheat,15169,8644
+Uttar Pradesh,MAHOBA,2008,Rabi       ,Wheat,36764,76546
+Uttar Pradesh,MAHOBA,2009,Rabi       ,Wheat,66084,102970
+Uttar Pradesh,MAHOBA,2010,Rabi       ,Wheat,62202,76976
+Uttar Pradesh,MAHOBA,2011,Rabi       ,Wheat,62984,116023
+Uttar Pradesh,MAHOBA,2012,Rabi       ,Wheat,71221,140868
+Uttar Pradesh,MAHOBA,2013,Rabi       ,Wheat,74888,129180
+Uttar Pradesh,MAHOBA,2014,Rabi       ,Wheat,69598,67961
+Uttar Pradesh,MAINPURI,1997,Rabi       ,Wheat,130748,365483
+Uttar Pradesh,MAINPURI,1998,Rabi       ,Wheat,132997,393099
+Uttar Pradesh,MAINPURI,1999,Rabi       ,Wheat,138441,415669
+Uttar Pradesh,MAINPURI,2000,Rabi       ,Wheat,132468,431832
+Uttar Pradesh,MAINPURI,2001,Rabi       ,Wheat,131562,419863
+Uttar Pradesh,MAINPURI,2002,Rabi       ,Wheat,129362,395830
+Uttar Pradesh,MAINPURI,2003,Rabi       ,Wheat,116444,359361
+Uttar Pradesh,MAINPURI,2004,Rabi       ,Wheat,117857,317173
+Uttar Pradesh,MAINPURI,2005,Rabi       ,Wheat,102329,327993
+Uttar Pradesh,MAINPURI,2006,Rabi       ,Wheat,119101,355515
+Uttar Pradesh,MAINPURI,2007,Rabi       ,Wheat,142968,451350
+Uttar Pradesh,MAINPURI,2008,Rabi       ,Wheat,146567,490560
+Uttar Pradesh,MAINPURI,2009,Rabi       ,Wheat,143887,468064
+Uttar Pradesh,MAINPURI,2010,Rabi       ,Wheat,160611,559880
+Uttar Pradesh,MAINPURI,2011,Rabi       ,Wheat,161486,603796
+Uttar Pradesh,MAINPURI,2012,Rabi       ,Wheat,152558,548751
+Uttar Pradesh,MAINPURI,2013,Rabi       ,Wheat,153478,581375
+Uttar Pradesh,MAINPURI,2014,Rabi       ,Wheat,149855,349312
+Uttar Pradesh,MATHURA,1997,Rabi       ,Wheat,162711,540940
+Uttar Pradesh,MATHURA,1998,Rabi       ,Wheat,179992,540527
+Uttar Pradesh,MATHURA,1999,Rabi       ,Wheat,195013,658504
+Uttar Pradesh,MATHURA,2000,Rabi       ,Wheat,209170,713512
+Uttar Pradesh,MATHURA,2001,Rabi       ,Wheat,200804,627902
+Uttar Pradesh,MATHURA,2002,Rabi       ,Wheat,188938,663797
+Uttar Pradesh,MATHURA,2003,Rabi       ,Wheat,198346,655433
+Uttar Pradesh,MATHURA,2004,Rabi       ,Wheat,188891,589554
+Uttar Pradesh,MATHURA,2005,Rabi       ,Wheat,198347,654148
+Uttar Pradesh,MATHURA,2006,Rabi       ,Wheat,188891,538340
+Uttar Pradesh,MATHURA,2007,Rabi       ,Wheat,172287,628848
+Uttar Pradesh,MATHURA,2008,Rabi       ,Wheat,180271,689717
+Uttar Pradesh,MATHURA,2009,Rabi       ,Wheat,191200,616046
+Uttar Pradesh,MATHURA,2010,Rabi       ,Wheat,192631,722174
+Uttar Pradesh,MATHURA,2011,Rabi       ,Wheat,193061,712202
+Uttar Pradesh,MATHURA,2012,Rabi       ,Wheat,196974,735895
+Uttar Pradesh,MATHURA,2013,Rabi       ,Wheat,194364,677553
+Uttar Pradesh,MATHURA,2014,Rabi       ,Wheat,194214,407849
+Uttar Pradesh,MAU,1997,Rabi       ,Wheat,91207,214116
+Uttar Pradesh,MAU,1998,Rabi       ,Wheat,91754,212091
+Uttar Pradesh,MAU,1999,Rabi       ,Wheat,92319,211816
+Uttar Pradesh,MAU,2000,Rabi       ,Wheat,92729,214380
+Uttar Pradesh,MAU,2001,Rabi       ,Wheat,89439,221632
+Uttar Pradesh,MAU,2002,Rabi       ,Wheat,91686,197205
+Uttar Pradesh,MAU,2003,Rabi       ,Wheat,91626,231294
+Uttar Pradesh,MAU,2004,Rabi       ,Wheat,92212,198574
+Uttar Pradesh,MAU,2005,Rabi       ,Wheat,88008,208931
+Uttar Pradesh,MAU,2006,Rabi       ,Wheat,87596,213033
+Uttar Pradesh,MAU,2007,Rabi       ,Wheat,89033,228993
+Uttar Pradesh,MAU,2008,Rabi       ,Wheat,94140,259356
+Uttar Pradesh,MAU,2009,Rabi       ,Wheat,94791,227498
+Uttar Pradesh,MAU,2010,Rabi       ,Wheat,93122,262883
+Uttar Pradesh,MAU,2011,Rabi       ,Wheat,94869,284417
+Uttar Pradesh,MAU,2012,Rabi       ,Wheat,94885,315208
+Uttar Pradesh,MAU,2013,Rabi       ,Wheat,93556,285626
+Uttar Pradesh,MAU,2014,Rabi       ,Wheat,95097,198467
+Uttar Pradesh,MEERUT,1997,Rabi       ,Wheat,82592,291966
+Uttar Pradesh,MEERUT,1998,Rabi       ,Wheat,81965,288369
+Uttar Pradesh,MEERUT,1999,Rabi       ,Wheat,83892,324153
+Uttar Pradesh,MEERUT,2000,Rabi       ,Wheat,86329,312225
+Uttar Pradesh,MEERUT,2001,Rabi       ,Wheat,82542,306025
+Uttar Pradesh,MEERUT,2002,Rabi       ,Wheat,76456,279984
+Uttar Pradesh,MEERUT,2003,Rabi       ,Wheat,77880,293444
+Uttar Pradesh,MEERUT,2004,Rabi       ,Wheat,79633,288080
+Uttar Pradesh,MEERUT,2005,Rabi       ,Wheat,79001,285036
+Uttar Pradesh,MEERUT,2006,Rabi       ,Wheat,81314,302651
+Uttar Pradesh,MEERUT,2007,Rabi       ,Wheat,77856,288301
+Uttar Pradesh,MEERUT,2008,Rabi       ,Wheat,87795,314833
+Uttar Pradesh,MEERUT,2009,Rabi       ,Wheat,81622,299308
+Uttar Pradesh,MEERUT,2010,Rabi       ,Wheat,81215,331357
+Uttar Pradesh,MEERUT,2011,Rabi       ,Wheat,78449,330192
+Uttar Pradesh,MEERUT,2012,Rabi       ,Wheat,78236,323115
+Uttar Pradesh,MEERUT,2013,Rabi       ,Wheat,76532,328475
+Uttar Pradesh,MEERUT,2014,Rabi       ,Wheat,76072,245180
+Uttar Pradesh,MIRZAPUR,1997,Rabi       ,Wheat,107142,188348
+Uttar Pradesh,MIRZAPUR,1998,Rabi       ,Wheat,109136,214785
+Uttar Pradesh,MIRZAPUR,1999,Rabi       ,Wheat,111494,239884
+Uttar Pradesh,MIRZAPUR,2000,Rabi       ,Wheat,114440,226272
+Uttar Pradesh,MIRZAPUR,2001,Rabi       ,Wheat,114486,223370
+Uttar Pradesh,MIRZAPUR,2002,Rabi       ,Wheat,107904,205147
+Uttar Pradesh,MIRZAPUR,2003,Rabi       ,Wheat,112193,239018
+Uttar Pradesh,MIRZAPUR,2004,Rabi       ,Wheat,98249,142366
+Uttar Pradesh,MIRZAPUR,2005,Rabi       ,Wheat,78382,124713
+Uttar Pradesh,MIRZAPUR,2006,Rabi       ,Wheat,101402,206329
+Uttar Pradesh,MIRZAPUR,2007,Rabi       ,Wheat,90412,172158
+Uttar Pradesh,MIRZAPUR,2008,Rabi       ,Wheat,94972,187259
+Uttar Pradesh,MIRZAPUR,2009,Rabi       ,Wheat,94173,187454
+Uttar Pradesh,MIRZAPUR,2010,Rabi       ,Wheat,97121,224822
+Uttar Pradesh,MIRZAPUR,2011,Rabi       ,Wheat,98230,241442
+Uttar Pradesh,MIRZAPUR,2012,Rabi       ,Wheat,96784,253905
+Uttar Pradesh,MIRZAPUR,2013,Rabi       ,Wheat,97530,248407
+Uttar Pradesh,MIRZAPUR,2014,Rabi       ,Wheat,98339,174733
+Uttar Pradesh,MORADABAD,1997,Rabi       ,Wheat,167350,474190
+Uttar Pradesh,MORADABAD,1998,Rabi       ,Wheat,170143,479685
+Uttar Pradesh,MORADABAD,1999,Rabi       ,Wheat,181446,561816
+Uttar Pradesh,MORADABAD,2000,Rabi       ,Wheat,196895,623383
+Uttar Pradesh,MORADABAD,2001,Rabi       ,Wheat,197483,623133
+Uttar Pradesh,MORADABAD,2002,Rabi       ,Wheat,195259,575001
+Uttar Pradesh,MORADABAD,2003,Rabi       ,Wheat,206414,653948
+Uttar Pradesh,MORADABAD,2004,Rabi       ,Wheat,213188,548751
+Uttar Pradesh,MORADABAD,2005,Rabi       ,Wheat,199542,560114
+Uttar Pradesh,MORADABAD,2006,Rabi       ,Wheat,195267,592635
+Uttar Pradesh,MORADABAD,2007,Rabi       ,Wheat,205981,605172
+Uttar Pradesh,MORADABAD,2008,Rabi       ,Wheat,200496,646600
+Uttar Pradesh,MORADABAD,2009,Rabi       ,Wheat,204774,611865
+Uttar Pradesh,MORADABAD,2010,Rabi       ,Wheat,196087,612968
+Uttar Pradesh,MORADABAD,2011,Rabi       ,Wheat,193634,615756
+Uttar Pradesh,MORADABAD,2012,Rabi       ,Wheat,118320,362769
+Uttar Pradesh,MORADABAD,2013,Rabi       ,Wheat,122018,394362
+Uttar Pradesh,MORADABAD,2014,Rabi       ,Wheat,122232,196916
+Uttar Pradesh,MUZAFFARNAGAR,1997,Rabi       ,Wheat,129534,424896
+Uttar Pradesh,MUZAFFARNAGAR,1998,Rabi       ,Wheat,133333,403063
+Uttar Pradesh,MUZAFFARNAGAR,1999,Rabi       ,Wheat,136640,478756
+Uttar Pradesh,MUZAFFARNAGAR,2000,Rabi       ,Wheat,135558,473174
+Uttar Pradesh,MUZAFFARNAGAR,2001,Rabi       ,Wheat,131725,489194
+Uttar Pradesh,MUZAFFARNAGAR,2002,Rabi       ,Wheat,115850,388212
+Uttar Pradesh,MUZAFFARNAGAR,2003,Rabi       ,Wheat,125015,433333
+Uttar Pradesh,MUZAFFARNAGAR,2004,Rabi       ,Wheat,129299,426390
+Uttar Pradesh,MUZAFFARNAGAR,2005,Rabi       ,Wheat,123911,416093
+Uttar Pradesh,MUZAFFARNAGAR,2006,Rabi       ,Wheat,125867,407683
+Uttar Pradesh,MUZAFFARNAGAR,2007,Rabi       ,Wheat,130570,429967
+Uttar Pradesh,MUZAFFARNAGAR,2008,Rabi       ,Wheat,130611,428927
+Uttar Pradesh,MUZAFFARNAGAR,2009,Rabi       ,Wheat,133556,459032
+Uttar Pradesh,MUZAFFARNAGAR,2010,Rabi       ,Wheat,121871,411408
+Uttar Pradesh,MUZAFFARNAGAR,2011,Rabi       ,Wheat,133841,525995
+Uttar Pradesh,MUZAFFARNAGAR,2012,Rabi       ,Wheat,81418,297013
+Uttar Pradesh,MUZAFFARNAGAR,2013,Rabi       ,Wheat,75244,279155
+Uttar Pradesh,MUZAFFARNAGAR,2014,Rabi       ,Wheat,78843,221470
+Uttar Pradesh,PILIBHIT,1997,Rabi       ,Wheat,138401,336031
+Uttar Pradesh,PILIBHIT,1998,Rabi       ,Wheat,141945,391650
+Uttar Pradesh,PILIBHIT,1999,Rabi       ,Wheat,140527,489298
+Uttar Pradesh,PILIBHIT,2000,Rabi       ,Wheat,141609,458179
+Uttar Pradesh,PILIBHIT,2001,Rabi       ,Wheat,140985,429988
+Uttar Pradesh,PILIBHIT,2002,Rabi       ,Wheat,149641,449372
+Uttar Pradesh,PILIBHIT,2003,Rabi       ,Wheat,162548,498135
+Uttar Pradesh,PILIBHIT,2004,Rabi       ,Wheat,173247,536748
+Uttar Pradesh,PILIBHIT,2005,Rabi       ,Wheat,152401,502161
+Uttar Pradesh,PILIBHIT,2006,Rabi       ,Wheat,155439,516990
+Uttar Pradesh,PILIBHIT,2007,Rabi       ,Wheat,158818,586991
+Uttar Pradesh,PILIBHIT,2008,Rabi       ,Wheat,155015,564565
+Uttar Pradesh,PILIBHIT,2009,Rabi       ,Wheat,158573,535818
+Uttar Pradesh,PILIBHIT,2010,Rabi       ,Wheat,149823,567230
+Uttar Pradesh,PILIBHIT,2011,Rabi       ,Wheat,150414,575935
+Uttar Pradesh,PILIBHIT,2012,Rabi       ,Wheat,136892,494317
+Uttar Pradesh,PILIBHIT,2013,Rabi       ,Wheat,143500,525354
+Uttar Pradesh,PILIBHIT,2014,Rabi       ,Wheat,144784,371371
+Uttar Pradesh,PRATAPGARH,1997,Rabi       ,Wheat,142980,317913
+Uttar Pradesh,PRATAPGARH,1998,Rabi       ,Wheat,142527,279966
+Uttar Pradesh,PRATAPGARH,1999,Rabi       ,Wheat,143113,329835
+Uttar Pradesh,PRATAPGARH,2000,Rabi       ,Wheat,142951,333524
+Uttar Pradesh,PRATAPGARH,2001,Rabi       ,Wheat,147666,316131
+Uttar Pradesh,PRATAPGARH,2002,Rabi       ,Wheat,144715,295327
+Uttar Pradesh,PRATAPGARH,2003,Rabi       ,Wheat,145987,390260
+Uttar Pradesh,PRATAPGARH,2004,Rabi       ,Wheat,147299,304995
+Uttar Pradesh,PRATAPGARH,2005,Rabi       ,Wheat,144353,294336
+Uttar Pradesh,PRATAPGARH,2006,Rabi       ,Wheat,147300,359998
+Uttar Pradesh,PRATAPGARH,2007,Rabi       ,Wheat,148528,344876
+Uttar Pradesh,PRATAPGARH,2008,Rabi       ,Wheat,146433,398091
+Uttar Pradesh,PRATAPGARH,2009,Rabi       ,Wheat,144989,345218
+Uttar Pradesh,PRATAPGARH,2010,Rabi       ,Wheat,147798,415599
+Uttar Pradesh,PRATAPGARH,2011,Rabi       ,Wheat,148783,436512
+Uttar Pradesh,PRATAPGARH,2012,Rabi       ,Wheat,146677,413042
+Uttar Pradesh,PRATAPGARH,2013,Rabi       ,Wheat,147814,415653
+Uttar Pradesh,PRATAPGARH,2014,Rabi       ,Wheat,138562,191903
+Uttar Pradesh,RAE BARELI,1997,Rabi       ,Wheat,169054,324779
+Uttar Pradesh,RAE BARELI,1998,Rabi       ,Wheat,171889,349843
+Uttar Pradesh,RAE BARELI,1999,Rabi       ,Wheat,174488,405706
+Uttar Pradesh,RAE BARELI,2000,Rabi       ,Wheat,174808,382444
+Uttar Pradesh,RAE BARELI,2001,Rabi       ,Wheat,177911,394379
+Uttar Pradesh,RAE BARELI,2002,Rabi       ,Wheat,181384,369605
+Uttar Pradesh,RAE BARELI,2003,Rabi       ,Wheat,183703,421984
+Uttar Pradesh,RAE BARELI,2004,Rabi       ,Wheat,183488,394478
+Uttar Pradesh,RAE BARELI,2005,Rabi       ,Wheat,184790,380296
+Uttar Pradesh,RAE BARELI,2006,Rabi       ,Wheat,184220,431415
+Uttar Pradesh,RAE BARELI,2007,Rabi       ,Wheat,179429,417668
+Uttar Pradesh,RAE BARELI,2008,Rabi       ,Wheat,187533,477643
+Uttar Pradesh,RAE BARELI,2009,Rabi       ,Wheat,189172,472714
+Uttar Pradesh,RAE BARELI,2010,Rabi       ,Wheat,166471,448960
+Uttar Pradesh,RAE BARELI,2011,Rabi       ,Wheat,132299,379830
+Uttar Pradesh,RAE BARELI,2012,Rabi       ,Wheat,131752,373644
+Uttar Pradesh,RAE BARELI,2013,Rabi       ,Wheat,134767,400393
+Uttar Pradesh,RAE BARELI,2014,Rabi       ,Wheat,167432,270235
+Uttar Pradesh,RAMPUR,1997,Rabi       ,Wheat,113537,355416
+Uttar Pradesh,RAMPUR,1998,Rabi       ,Wheat,123479,399829
+Uttar Pradesh,RAMPUR,1999,Rabi       ,Wheat,129140,459512
+Uttar Pradesh,RAMPUR,2000,Rabi       ,Wheat,133686,489037
+Uttar Pradesh,RAMPUR,2001,Rabi       ,Wheat,133854,466293
+Uttar Pradesh,RAMPUR,2002,Rabi       ,Wheat,127615,387862
+Uttar Pradesh,RAMPUR,2003,Rabi       ,Wheat,139277,487304
+Uttar Pradesh,RAMPUR,2004,Rabi       ,Wheat,143963,429175
+Uttar Pradesh,RAMPUR,2005,Rabi       ,Wheat,121309,369386
+Uttar Pradesh,RAMPUR,2006,Rabi       ,Wheat,140239,451990
+Uttar Pradesh,RAMPUR,2007,Rabi       ,Wheat,146951,496837
+Uttar Pradesh,RAMPUR,2008,Rabi       ,Wheat,135631,469961
+Uttar Pradesh,RAMPUR,2009,Rabi       ,Wheat,148645,486069
+Uttar Pradesh,RAMPUR,2010,Rabi       ,Wheat,144796,491872
+Uttar Pradesh,RAMPUR,2011,Rabi       ,Wheat,144074,504115
+Uttar Pradesh,RAMPUR,2012,Rabi       ,Wheat,140318,487184
+Uttar Pradesh,RAMPUR,2013,Rabi       ,Wheat,147277,508106
+Uttar Pradesh,RAMPUR,2014,Rabi       ,Wheat,147846,264644
+Uttar Pradesh,SAHARANPUR,1997,Rabi       ,Wheat,126784,356303
+Uttar Pradesh,SAHARANPUR,1998,Rabi       ,Wheat,126209,354722
+Uttar Pradesh,SAHARANPUR,1999,Rabi       ,Wheat,125274,380873
+Uttar Pradesh,SAHARANPUR,2000,Rabi       ,Wheat,121506,357788
+Uttar Pradesh,SAHARANPUR,2001,Rabi       ,Wheat,115362,343928
+Uttar Pradesh,SAHARANPUR,2002,Rabi       ,Wheat,115306,331467
+Uttar Pradesh,SAHARANPUR,2003,Rabi       ,Wheat,122149,354308
+Uttar Pradesh,SAHARANPUR,2004,Rabi       ,Wheat,120088,320022
+Uttar Pradesh,SAHARANPUR,2005,Rabi       ,Wheat,116145,311849
+Uttar Pradesh,SAHARANPUR,2006,Rabi       ,Wheat,114276,335857
+Uttar Pradesh,SAHARANPUR,2007,Rabi       ,Wheat,115197,332343
+Uttar Pradesh,SAHARANPUR,2008,Rabi       ,Wheat,139357,412915
+Uttar Pradesh,SAHARANPUR,2009,Rabi       ,Wheat,112619,343713
+Uttar Pradesh,SAHARANPUR,2010,Rabi       ,Wheat,106909,320727
+Uttar Pradesh,SAHARANPUR,2011,Rabi       ,Wheat,112582,391335
+Uttar Pradesh,SAHARANPUR,2012,Rabi       ,Wheat,110575,374739
+Uttar Pradesh,SAHARANPUR,2013,Rabi       ,Wheat,109144,378184
+Uttar Pradesh,SAHARANPUR,2014,Rabi       ,Wheat,118844,244224
+Uttar Pradesh,SAMBHAL,2012,Rabi       ,Wheat,140493,450702
+Uttar Pradesh,SAMBHAL,2013,Rabi       ,Wheat,139875,492500
+Uttar Pradesh,SAMBHAL,2014,Rabi       ,Wheat,143456,283613
+Uttar Pradesh,SANT KABEER NAGAR,1997,Rabi       ,Wheat,79324,184883
+Uttar Pradesh,SANT KABEER NAGAR,1998,Rabi       ,Wheat,78031,167957
+Uttar Pradesh,SANT KABEER NAGAR,1999,Rabi       ,Wheat,78125,225566
+Uttar Pradesh,SANT KABEER NAGAR,2000,Rabi       ,Wheat,83803,202647
+Uttar Pradesh,SANT KABEER NAGAR,2001,Rabi       ,Wheat,89677,238337
+Uttar Pradesh,SANT KABEER NAGAR,2002,Rabi       ,Wheat,87964,208651
+Uttar Pradesh,SANT KABEER NAGAR,2003,Rabi       ,Wheat,90847,236098
+Uttar Pradesh,SANT KABEER NAGAR,2004,Rabi       ,Wheat,90187,209399
+Uttar Pradesh,SANT KABEER NAGAR,2005,Rabi       ,Wheat,84569,179033
+Uttar Pradesh,SANT KABEER NAGAR,2006,Rabi       ,Wheat,90187,221508
+Uttar Pradesh,SANT KABEER NAGAR,2007,Rabi       ,Wheat,91295,240928
+Uttar Pradesh,SANT KABEER NAGAR,2008,Rabi       ,Wheat,92660,250553
+Uttar Pradesh,SANT KABEER NAGAR,2009,Rabi       ,Wheat,91717,252864
+Uttar Pradesh,SANT KABEER NAGAR,2010,Rabi       ,Wheat,90776,251903
+Uttar Pradesh,SANT KABEER NAGAR,2011,Rabi       ,Wheat,91629,266457
+Uttar Pradesh,SANT KABEER NAGAR,2012,Rabi       ,Wheat,91860,274110
+Uttar Pradesh,SANT KABEER NAGAR,2013,Rabi       ,Wheat,92210,304201
+Uttar Pradesh,SANT KABEER NAGAR,2014,Rabi       ,Wheat,90522,224042
+Uttar Pradesh,SANT RAVIDAS NAGAR,1997,Rabi       ,Wheat,44792,131500
+Uttar Pradesh,SANT RAVIDAS NAGAR,1998,Rabi       ,Wheat,45432,89822
+Uttar Pradesh,SANT RAVIDAS NAGAR,1999,Rabi       ,Wheat,47071,119380
+Uttar Pradesh,SANT RAVIDAS NAGAR,2000,Rabi       ,Wheat,47490,115353
+Uttar Pradesh,SANT RAVIDAS NAGAR,2001,Rabi       ,Wheat,45282,104577
+Uttar Pradesh,SANT RAVIDAS NAGAR,2002,Rabi       ,Wheat,46202,96504
+Uttar Pradesh,SANT RAVIDAS NAGAR,2003,Rabi       ,Wheat,46434,101931
+Uttar Pradesh,SANT RAVIDAS NAGAR,2004,Rabi       ,Wheat,46740,73047
+Uttar Pradesh,SANT RAVIDAS NAGAR,2005,Rabi       ,Wheat,47416,97772
+Uttar Pradesh,SANT RAVIDAS NAGAR,2006,Rabi       ,Wheat,37926,92691
+Uttar Pradesh,SANT RAVIDAS NAGAR,2007,Rabi       ,Wheat,47158,103606
+Uttar Pradesh,SANT RAVIDAS NAGAR,2008,Rabi       ,Wheat,46622,121539
+Uttar Pradesh,SANT RAVIDAS NAGAR,2009,Rabi       ,Wheat,48144,107554
+Uttar Pradesh,SANT RAVIDAS NAGAR,2010,Rabi       ,Wheat,44634,128055
+Uttar Pradesh,SANT RAVIDAS NAGAR,2011,Rabi       ,Wheat,47418,149041
+Uttar Pradesh,SANT RAVIDAS NAGAR,2012,Rabi       ,Wheat,48269,137416
+Uttar Pradesh,SANT RAVIDAS NAGAR,2013,Rabi       ,Wheat,48216,131630
+Uttar Pradesh,SANT RAVIDAS NAGAR,2014,Rabi       ,Wheat,48033,74114
+Uttar Pradesh,SHAHJAHANPUR,1997,Rabi       ,Wheat,216503,667049
+Uttar Pradesh,SHAHJAHANPUR,1998,Rabi       ,Wheat,243703,674459
+Uttar Pradesh,SHAHJAHANPUR,1999,Rabi       ,Wheat,252100,799254
+Uttar Pradesh,SHAHJAHANPUR,2000,Rabi       ,Wheat,257834,844816
+Uttar Pradesh,SHAHJAHANPUR,2001,Rabi       ,Wheat,260163,857663
+Uttar Pradesh,SHAHJAHANPUR,2002,Rabi       ,Wheat,242036,768266
+Uttar Pradesh,SHAHJAHANPUR,2003,Rabi       ,Wheat,252370,808690
+Uttar Pradesh,SHAHJAHANPUR,2004,Rabi       ,Wheat,252570,782584
+Uttar Pradesh,SHAHJAHANPUR,2005,Rabi       ,Wheat,247112,864892
+Uttar Pradesh,SHAHJAHANPUR,2006,Rabi       ,Wheat,252570,869346
+Uttar Pradesh,SHAHJAHANPUR,2007,Rabi       ,Wheat,248575,895865
+Uttar Pradesh,SHAHJAHANPUR,2008,Rabi       ,Wheat,253928,915410
+Uttar Pradesh,SHAHJAHANPUR,2009,Rabi       ,Wheat,259172,927317
+Uttar Pradesh,SHAHJAHANPUR,2010,Rabi       ,Wheat,249556,898651
+Uttar Pradesh,SHAHJAHANPUR,2011,Rabi       ,Wheat,247222,940185
+Uttar Pradesh,SHAHJAHANPUR,2012,Rabi       ,Wheat,264247,959481
+Uttar Pradesh,SHAHJAHANPUR,2013,Rabi       ,Wheat,255240,934689
+Uttar Pradesh,SHAHJAHANPUR,2014,Rabi       ,Wheat,260462,517017
+Uttar Pradesh,SHAMLI,2012,Rabi       ,Wheat,50033,188124
+Uttar Pradesh,SHAMLI,2013,Rabi       ,Wheat,46385,173665
+Uttar Pradesh,SHAMLI,2014,Rabi       ,Wheat,49296,149367
+Uttar Pradesh,SHRAVASTI,1997,Rabi       ,Wheat,80899,159238
+Uttar Pradesh,SHRAVASTI,1998,Rabi       ,Wheat,81620,172354
+Uttar Pradesh,SHRAVASTI,1999,Rabi       ,Wheat,90059,215379
+Uttar Pradesh,SHRAVASTI,2000,Rabi       ,Wheat,93469,211766
+Uttar Pradesh,SHRAVASTI,2001,Rabi       ,Wheat,60549,151480
+Uttar Pradesh,SHRAVASTI,2002,Rabi       ,Wheat,59790,127578
+Uttar Pradesh,SHRAVASTI,2003,Rabi       ,Wheat,59693,162825
+Uttar Pradesh,SHRAVASTI,2004,Rabi       ,Wheat,58437,134523
+Uttar Pradesh,SHRAVASTI,2005,Rabi       ,Wheat,62816,142655
+Uttar Pradesh,SHRAVASTI,2006,Rabi       ,Wheat,58426,153251
+Uttar Pradesh,SHRAVASTI,2007,Rabi       ,Wheat,59470,137614
+Uttar Pradesh,SHRAVASTI,2008,Rabi       ,Wheat,60890,162515
+Uttar Pradesh,SHRAVASTI,2009,Rabi       ,Wheat,58266,155622
+Uttar Pradesh,SHRAVASTI,2010,Rabi       ,Wheat,62301,169210
+Uttar Pradesh,SHRAVASTI,2011,Rabi       ,Wheat,67143,198340
+Uttar Pradesh,SHRAVASTI,2012,Rabi       ,Wheat,63787,171523
+Uttar Pradesh,SHRAVASTI,2013,Rabi       ,Wheat,70928,216401
+Uttar Pradesh,SHRAVASTI,2014,Rabi       ,Wheat,68165,182410
+Uttar Pradesh,SIDDHARTH NAGAR,1997,Rabi       ,Wheat,125071,265528
+Uttar Pradesh,SIDDHARTH NAGAR,1998,Rabi       ,Wheat,125339,289935
+Uttar Pradesh,SIDDHARTH NAGAR,1999,Rabi       ,Wheat,128653,377736
+Uttar Pradesh,SIDDHARTH NAGAR,2000,Rabi       ,Wheat,130412,357941
+Uttar Pradesh,SIDDHARTH NAGAR,2001,Rabi       ,Wheat,128961,312721
+Uttar Pradesh,SIDDHARTH NAGAR,2002,Rabi       ,Wheat,148348,303272
+Uttar Pradesh,SIDDHARTH NAGAR,2003,Rabi       ,Wheat,144404,353931
+Uttar Pradesh,SIDDHARTH NAGAR,2004,Rabi       ,Wheat,145118,252776
+Uttar Pradesh,SIDDHARTH NAGAR,2005,Rabi       ,Wheat,145043,371890
+Uttar Pradesh,SIDDHARTH NAGAR,2006,Rabi       ,Wheat,152837,385149
+Uttar Pradesh,SIDDHARTH NAGAR,2007,Rabi       ,Wheat,167141,375232
+Uttar Pradesh,SIDDHARTH NAGAR,2008,Rabi       ,Wheat,167255,422821
+Uttar Pradesh,SIDDHARTH NAGAR,2009,Rabi       ,Wheat,166621,388394
+Uttar Pradesh,SIDDHARTH NAGAR,2010,Rabi       ,Wheat,159332,499984
+Uttar Pradesh,SIDDHARTH NAGAR,2011,Rabi       ,Wheat,157619,537638
+Uttar Pradesh,SIDDHARTH NAGAR,2012,Rabi       ,Wheat,159883,567105
+Uttar Pradesh,SIDDHARTH NAGAR,2013,Rabi       ,Wheat,157897,596693
+Uttar Pradesh,SIDDHARTH NAGAR,2014,Rabi       ,Wheat,161544,408222
+Uttar Pradesh,SITAPUR,1997,Rabi       ,Wheat,192766,423769
+Uttar Pradesh,SITAPUR,1998,Rabi       ,Wheat,199123,443661
+Uttar Pradesh,SITAPUR,1999,Rabi       ,Wheat,198814,481591
+Uttar Pradesh,SITAPUR,2000,Rabi       ,Wheat,206207,459802
+Uttar Pradesh,SITAPUR,2001,Rabi       ,Wheat,198535,487280
+Uttar Pradesh,SITAPUR,2002,Rabi       ,Wheat,198589,484999
+Uttar Pradesh,SITAPUR,2003,Rabi       ,Wheat,215644,542147
+Uttar Pradesh,SITAPUR,2004,Rabi       ,Wheat,209974,476720
+Uttar Pradesh,SITAPUR,2005,Rabi       ,Wheat,202584,484784
+Uttar Pradesh,SITAPUR,2006,Rabi       ,Wheat,190985,522614
+Uttar Pradesh,SITAPUR,2007,Rabi       ,Wheat,188632,522105
+Uttar Pradesh,SITAPUR,2008,Rabi       ,Wheat,223913,656513
+Uttar Pradesh,SITAPUR,2009,Rabi       ,Wheat,223901,592666
+Uttar Pradesh,SITAPUR,2010,Rabi       ,Wheat,217102,665418
+Uttar Pradesh,SITAPUR,2011,Rabi       ,Wheat,215859,682114
+Uttar Pradesh,SITAPUR,2012,Rabi       ,Wheat,212016,674635
+Uttar Pradesh,SITAPUR,2013,Rabi       ,Wheat,210932,651569
+Uttar Pradesh,SITAPUR,2014,Rabi       ,Wheat,208675,372484
+Uttar Pradesh,SONBHADRA,1997,Rabi       ,Wheat,58020,59628
+Uttar Pradesh,SONBHADRA,1998,Rabi       ,Wheat,58323,62289
+Uttar Pradesh,SONBHADRA,1999,Rabi       ,Wheat,58876,80314
+Uttar Pradesh,SONBHADRA,2000,Rabi       ,Wheat,59174,71567
+Uttar Pradesh,SONBHADRA,2001,Rabi       ,Wheat,61150,99663
+Uttar Pradesh,SONBHADRA,2002,Rabi       ,Wheat,63344,105689
+Uttar Pradesh,SONBHADRA,2003,Rabi       ,Wheat,68750,98798
+Uttar Pradesh,SONBHADRA,2004,Rabi       ,Wheat,52029,53275
+Uttar Pradesh,SONBHADRA,2005,Rabi       ,Wheat,68750,69866
+Uttar Pradesh,SONBHADRA,2006,Rabi       ,Wheat,52112,67457
+Uttar Pradesh,SONBHADRA,2007,Rabi       ,Wheat,22193,35292
+Uttar Pradesh,SONBHADRA,2008,Rabi       ,Wheat,47669,71770
+Uttar Pradesh,SONBHADRA,2009,Rabi       ,Wheat,56692,107924
+Uttar Pradesh,SONBHADRA,2010,Rabi       ,Wheat,53912,92894
+Uttar Pradesh,SONBHADRA,2011,Rabi       ,Wheat,55981,105693
+Uttar Pradesh,SONBHADRA,2012,Rabi       ,Wheat,54811,117261
+Uttar Pradesh,SONBHADRA,2013,Rabi       ,Wheat,57853,135887
+Uttar Pradesh,SONBHADRA,2014,Rabi       ,Wheat,57789,117617
+Uttar Pradesh,SULTANPUR,1997,Rabi       ,Wheat,162420,428513
+Uttar Pradesh,SULTANPUR,1998,Rabi       ,Wheat,163360,393140
+Uttar Pradesh,SULTANPUR,1999,Rabi       ,Wheat,163955,443276
+Uttar Pradesh,SULTANPUR,2000,Rabi       ,Wheat,163002,413259
+Uttar Pradesh,SULTANPUR,2001,Rabi       ,Wheat,163760,431839
+Uttar Pradesh,SULTANPUR,2002,Rabi       ,Wheat,165268,424135
+Uttar Pradesh,SULTANPUR,2003,Rabi       ,Wheat,166983,462053
+Uttar Pradesh,SULTANPUR,2004,Rabi       ,Wheat,167024,422457
+Uttar Pradesh,SULTANPUR,2005,Rabi       ,Wheat,164944,425554
+Uttar Pradesh,SULTANPUR,2006,Rabi       ,Wheat,165817,452172
+Uttar Pradesh,SULTANPUR,2007,Rabi       ,Wheat,168720,471569
+Uttar Pradesh,SULTANPUR,2008,Rabi       ,Wheat,169501,478331
+Uttar Pradesh,SULTANPUR,2009,Rabi       ,Wheat,169281,462122
+Uttar Pradesh,SULTANPUR,2010,Rabi       ,Wheat,103237,327043
+Uttar Pradesh,SULTANPUR,2011,Rabi       ,Wheat,104286,332464
+Uttar Pradesh,SULTANPUR,2012,Rabi       ,Wheat,104661,325914
+Uttar Pradesh,SULTANPUR,2013,Rabi       ,Wheat,104250,256247
+Uttar Pradesh,SULTANPUR,2014,Rabi       ,Wheat,104295,238836
+Uttar Pradesh,UNNAO,1997,Rabi       ,Wheat,193705,436790
+Uttar Pradesh,UNNAO,1998,Rabi       ,Wheat,197635,430859
+Uttar Pradesh,UNNAO,1999,Rabi       ,Wheat,207814,518877
+Uttar Pradesh,UNNAO,2000,Rabi       ,Wheat,206256,469647
+Uttar Pradesh,UNNAO,2001,Rabi       ,Wheat,209993,515813
+Uttar Pradesh,UNNAO,2002,Rabi       ,Wheat,213721,538964
+Uttar Pradesh,UNNAO,2003,Rabi       ,Wheat,218556,565367
+Uttar Pradesh,UNNAO,2004,Rabi       ,Wheat,223707,542488
+Uttar Pradesh,UNNAO,2005,Rabi       ,Wheat,218555,520358
+Uttar Pradesh,UNNAO,2006,Rabi       ,Wheat,222960,638307
+Uttar Pradesh,UNNAO,2007,Rabi       ,Wheat,226162,599103
+Uttar Pradesh,UNNAO,2008,Rabi       ,Wheat,232176,686542
+Uttar Pradesh,UNNAO,2009,Rabi       ,Wheat,236773,653471
+Uttar Pradesh,UNNAO,2010,Rabi       ,Wheat,239040,708754
+Uttar Pradesh,UNNAO,2011,Rabi       ,Wheat,240711,718277
+Uttar Pradesh,UNNAO,2012,Rabi       ,Wheat,240113,686003
+Uttar Pradesh,UNNAO,2013,Rabi       ,Wheat,241717,736753
+Uttar Pradesh,UNNAO,2014,Rabi       ,Wheat,243188,488078
+Uttar Pradesh,VARANASI,1997,Rabi       ,Wheat,69282,199806
+Uttar Pradesh,VARANASI,1998,Rabi       ,Wheat,68591,154746
+Uttar Pradesh,VARANASI,1999,Rabi       ,Wheat,68652,185859
+Uttar Pradesh,VARANASI,2000,Rabi       ,Wheat,67491,170635
+Uttar Pradesh,VARANASI,2001,Rabi       ,Wheat,64746,165141
+Uttar Pradesh,VARANASI,2002,Rabi       ,Wheat,66918,142279
+Uttar Pradesh,VARANASI,2003,Rabi       ,Wheat,68777,178850
+Uttar Pradesh,VARANASI,2004,Rabi       ,Wheat,69457,132019
+Uttar Pradesh,VARANASI,2005,Rabi       ,Wheat,69323,148663
+Uttar Pradesh,VARANASI,2006,Rabi       ,Wheat,69702,176671
+Uttar Pradesh,VARANASI,2007,Rabi       ,Wheat,76433,194260
+Uttar Pradesh,VARANASI,2008,Rabi       ,Wheat,69728,196842
+Uttar Pradesh,VARANASI,2009,Rabi       ,Wheat,70988,178387
+Uttar Pradesh,VARANASI,2010,Rabi       ,Wheat,70642,198007
+Uttar Pradesh,VARANASI,2011,Rabi       ,Wheat,69610,210381
+Uttar Pradesh,VARANASI,2012,Rabi       ,Wheat,69705,214609
+Uttar Pradesh,VARANASI,2013,Rabi       ,Wheat,69399,188955
+Uttar Pradesh,VARANASI,2014,Rabi       ,Wheat,68617,127010

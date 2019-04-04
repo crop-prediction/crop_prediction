@@ -1,0 +1,1175 @@
+State,District_Name,Crop_Year,Season,Crop,Area,Production
+Uttar Pradesh,AGRA,1997,Kharif     ,Bajra,99898,147994
+Uttar Pradesh,AGRA,1998,Kharif     ,Bajra,98533,146550
+Uttar Pradesh,AGRA,1999,Kharif     ,Bajra,101129,171623
+Uttar Pradesh,AGRA,2000,Kharif     ,Bajra,103220,145099
+Uttar Pradesh,AGRA,2001,Kharif     ,Bajra,107560,120855
+Uttar Pradesh,AGRA,2002,Kharif     ,Bajra,97178,154781
+Uttar Pradesh,AGRA,2003,Kharif     ,Bajra,105629,150139
+Uttar Pradesh,AGRA,2004,Kharif     ,Bajra,99841,195144
+Uttar Pradesh,AGRA,2005,Kharif     ,Bajra,93316,130728
+Uttar Pradesh,AGRA,2006,Kharif     ,Bajra,100918,139647
+Uttar Pradesh,AGRA,2007,Kharif     ,Bajra,90360,113188
+Uttar Pradesh,AGRA,2008,Kharif     ,Bajra,102227,160619
+Uttar Pradesh,AGRA,2009,Kharif     ,Bajra,105576,166055
+Uttar Pradesh,AGRA,2010,Kharif     ,Bajra,121219,214773
+Uttar Pradesh,AGRA,2011,Kharif     ,Bajra,141624,298933
+Uttar Pradesh,AGRA,2012,Kharif     ,Bajra,115946,248945
+Uttar Pradesh,AGRA,2013,Kharif     ,Bajra,118294,284151
+Uttar Pradesh,AGRA,2014,Kharif     ,Bajra,118146,246736
+Uttar Pradesh,ALIGARH,1997,Kharif     ,Bajra,73168,135408
+Uttar Pradesh,ALIGARH,1998,Kharif     ,Bajra,72087,87299
+Uttar Pradesh,ALIGARH,1999,Kharif     ,Bajra,75196,130908
+Uttar Pradesh,ALIGARH,2000,Kharif     ,Bajra,82995,137685
+Uttar Pradesh,ALIGARH,2001,Kharif     ,Bajra,82749,106726
+Uttar Pradesh,ALIGARH,2002,Kharif     ,Bajra,75675,116690
+Uttar Pradesh,ALIGARH,2003,Kharif     ,Bajra,85570,133287
+Uttar Pradesh,ALIGARH,2004,Kharif     ,Bajra,80644,150165
+Uttar Pradesh,ALIGARH,2005,Kharif     ,Bajra,88563,153564
+Uttar Pradesh,ALIGARH,2006,Kharif     ,Bajra,83772,143837
+Uttar Pradesh,ALIGARH,2007,Kharif     ,Bajra,83559,159847
+Uttar Pradesh,ALIGARH,2008,Kharif     ,Bajra,81069,165785
+Uttar Pradesh,ALIGARH,2009,Kharif     ,Bajra,79532,144032
+Uttar Pradesh,ALIGARH,2010,Kharif     ,Bajra,92970,184452
+Uttar Pradesh,ALIGARH,2011,Kharif     ,Bajra,82175,158680
+Uttar Pradesh,ALIGARH,2012,Kharif     ,Bajra,91309,227816
+Uttar Pradesh,ALIGARH,2013,Kharif     ,Bajra,86298,269595
+Uttar Pradesh,ALIGARH,2014,Kharif     ,Bajra,84037,175469
+Uttar Pradesh,ALLAHABAD,1997,Kharif     ,Bajra,33276,28575
+Uttar Pradesh,ALLAHABAD,1998,Kharif     ,Bajra,33750,31544
+Uttar Pradesh,ALLAHABAD,1999,Kharif     ,Bajra,27470,41093
+Uttar Pradesh,ALLAHABAD,2000,Kharif     ,Bajra,31635,18582
+Uttar Pradesh,ALLAHABAD,2001,Kharif     ,Bajra,34497,31800
+Uttar Pradesh,ALLAHABAD,2002,Kharif     ,Bajra,33925,30208
+Uttar Pradesh,ALLAHABAD,2003,Kharif     ,Bajra,31062,18895
+Uttar Pradesh,ALLAHABAD,2004,Kharif     ,Bajra,28913,27768
+Uttar Pradesh,ALLAHABAD,2005,Kharif     ,Bajra,26262,31190
+Uttar Pradesh,ALLAHABAD,2006,Kharif     ,Bajra,28913,26470
+Uttar Pradesh,ALLAHABAD,2007,Kharif     ,Bajra,27672,31793
+Uttar Pradesh,ALLAHABAD,2008,Kharif     ,Bajra,30254,31348
+Uttar Pradesh,ALLAHABAD,2009,Kharif     ,Bajra,27862,26116
+Uttar Pradesh,ALLAHABAD,2010,Kharif     ,Bajra,24615,24873
+Uttar Pradesh,ALLAHABAD,2011,Kharif     ,Bajra,26651,25310
+Uttar Pradesh,ALLAHABAD,2012,Kharif     ,Bajra,28879,26474
+Uttar Pradesh,ALLAHABAD,2013,Kharif     ,Bajra,27065,19786
+Uttar Pradesh,ALLAHABAD,2014,Kharif     ,Bajra,25672,17773
+Uttar Pradesh,AMBEDKAR NAGAR,1997,Kharif     ,Bajra,142,147
+Uttar Pradesh,AMBEDKAR NAGAR,1998,Kharif     ,Bajra,28,35
+Uttar Pradesh,AMBEDKAR NAGAR,1999,Kharif     ,Bajra,34,52
+Uttar Pradesh,AMBEDKAR NAGAR,2000,Kharif     ,Bajra,76,118
+Uttar Pradesh,AMBEDKAR NAGAR,2001,Kharif     ,Bajra,478,601
+Uttar Pradesh,AMBEDKAR NAGAR,2002,Kharif     ,Bajra,40,55
+Uttar Pradesh,AMBEDKAR NAGAR,2003,Kharif     ,Bajra,73,100
+Uttar Pradesh,AMBEDKAR NAGAR,2004,Kharif     ,Bajra,41,64
+Uttar Pradesh,AMBEDKAR NAGAR,2005,Kharif     ,Bajra,78,122
+Uttar Pradesh,AMBEDKAR NAGAR,2006,Kharif     ,Bajra,34,51
+Uttar Pradesh,AMBEDKAR NAGAR,2007,Kharif     ,Bajra,11,17
+Uttar Pradesh,AMBEDKAR NAGAR,2008,Kharif     ,Bajra,27,45
+Uttar Pradesh,AMBEDKAR NAGAR,2009,Kharif     ,Bajra,16,27
+Uttar Pradesh,AMBEDKAR NAGAR,2010,Kharif     ,Bajra,17,17
+Uttar Pradesh,AMBEDKAR NAGAR,2011,Kharif     ,Bajra,193,367
+Uttar Pradesh,AMBEDKAR NAGAR,2012,Kharif     ,Bajra,8,7
+Uttar Pradesh,AMBEDKAR NAGAR,2013,Kharif     ,Bajra,53,51
+Uttar Pradesh,AMBEDKAR NAGAR,2014,Kharif     ,Bajra,14,17
+Uttar Pradesh,AMETHI,2010,Kharif     ,Bajra,550,645
+Uttar Pradesh,AMETHI,2011,Kharif     ,Bajra,1010,1918
+Uttar Pradesh,AMETHI,2012,Kharif     ,Bajra,486,410
+Uttar Pradesh,AMETHI,2013,Kharif     ,Bajra,773,736
+Uttar Pradesh,AMETHI,2014,Kharif     ,Bajra,159,196
+Uttar Pradesh,AMROHA,1997,Kharif     ,Bajra,7118,6018
+Uttar Pradesh,AMROHA,1998,Kharif     ,Bajra,6836,4771
+Uttar Pradesh,AMROHA,1999,Kharif     ,Bajra,6260,4137
+Uttar Pradesh,AMROHA,2000,Kharif     ,Bajra,6801,6129
+Uttar Pradesh,AMROHA,2001,Kharif     ,Bajra,5637,7533
+Uttar Pradesh,AMROHA,2002,Kharif     ,Bajra,5228,2129
+Uttar Pradesh,AMROHA,2003,Kharif     ,Bajra,5116,3368
+Uttar Pradesh,AMROHA,2004,Kharif     ,Bajra,4194,3903
+Uttar Pradesh,AMROHA,2005,Kharif     ,Bajra,5857,4586
+Uttar Pradesh,AMROHA,2006,Kharif     ,Bajra,4194,2897
+Uttar Pradesh,AMROHA,2007,Kharif     ,Bajra,2214,2188
+Uttar Pradesh,AMROHA,2008,Kharif     ,Bajra,3550,3632
+Uttar Pradesh,AMROHA,2009,Kharif     ,Bajra,4030,3663
+Uttar Pradesh,AMROHA,2010,Kharif     ,Bajra,4115,3177
+Uttar Pradesh,AMROHA,2011,Kharif     ,Bajra,2674,2238
+Uttar Pradesh,AMROHA,2012,Kharif     ,Bajra,3953,2241
+Uttar Pradesh,AMROHA,2013,Kharif     ,Bajra,3375,1914
+Uttar Pradesh,AMROHA,2014,Kharif     ,Bajra,4172,4310
+Uttar Pradesh,AURAIYA,1997,Kharif     ,Bajra,23806,37853
+Uttar Pradesh,AURAIYA,1998,Kharif     ,Bajra,24025,39118
+Uttar Pradesh,AURAIYA,1999,Kharif     ,Bajra,23213,38765
+Uttar Pradesh,AURAIYA,2000,Kharif     ,Bajra,24378,35068
+Uttar Pradesh,AURAIYA,2001,Kharif     ,Bajra,21902,29596
+Uttar Pradesh,AURAIYA,2002,Kharif     ,Bajra,28260,39094
+Uttar Pradesh,AURAIYA,2003,Kharif     ,Bajra,29559,39690
+Uttar Pradesh,AURAIYA,2004,Kharif     ,Bajra,28771,44053
+Uttar Pradesh,AURAIYA,2005,Kharif     ,Bajra,25255,38851
+Uttar Pradesh,AURAIYA,2006,Kharif     ,Bajra,28309,48997
+Uttar Pradesh,AURAIYA,2007,Kharif     ,Bajra,30047,55345
+Uttar Pradesh,AURAIYA,2008,Kharif     ,Bajra,22833,53879
+Uttar Pradesh,AURAIYA,2009,Kharif     ,Bajra,32973,74839
+Uttar Pradesh,AURAIYA,2010,Kharif     ,Bajra,35282,70470
+Uttar Pradesh,AURAIYA,2011,Kharif     ,Bajra,24467,50433
+Uttar Pradesh,AURAIYA,2012,Kharif     ,Bajra,29943,71736
+Uttar Pradesh,AURAIYA,2013,Kharif     ,Bajra,28105,64286
+Uttar Pradesh,AURAIYA,2014,Kharif     ,Bajra,36540,80311
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Bajra,214,219
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Bajra,208,258
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Bajra,192,310
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Bajra,133,104
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Bajra,120,142
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Bajra,58,78
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Bajra,193,260
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Bajra,92,149
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Bajra,445,673
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Bajra,96,148
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Bajra,113,176
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Bajra,268,446
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Bajra,67,114
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Bajra,144,139
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Bajra,979,1442
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Bajra,69,133
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Bajra,116,147
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Bajra,68,135
+Uttar Pradesh,BAGHPAT,1997,Kharif     ,Bajra,928,1300
+Uttar Pradesh,BAGHPAT,1998,Kharif     ,Bajra,843,1045
+Uttar Pradesh,BAGHPAT,1999,Kharif     ,Bajra,745,1123
+Uttar Pradesh,BAGHPAT,2000,Kharif     ,Bajra,716,918
+Uttar Pradesh,BAGHPAT,2001,Kharif     ,Bajra,673,668
+Uttar Pradesh,BAGHPAT,2002,Kharif     ,Bajra,564,712
+Uttar Pradesh,BAGHPAT,2003,Kharif     ,Bajra,912,1299
+Uttar Pradesh,BAGHPAT,2004,Kharif     ,Bajra,653,967
+Uttar Pradesh,BAGHPAT,2005,Kharif     ,Bajra,1358,1951
+Uttar Pradesh,BAGHPAT,2006,Kharif     ,Bajra,626,777
+Uttar Pradesh,BAGHPAT,2007,Kharif     ,Bajra,1193,1806
+Uttar Pradesh,BAGHPAT,2008,Kharif     ,Bajra,466,832
+Uttar Pradesh,BAGHPAT,2009,Kharif     ,Bajra,319,613
+Uttar Pradesh,BAGHPAT,2010,Kharif     ,Bajra,458,818
+Uttar Pradesh,BAGHPAT,2011,Kharif     ,Bajra,405,759
+Uttar Pradesh,BAGHPAT,2012,Kharif     ,Bajra,440,1024
+Uttar Pradesh,BAGHPAT,2013,Kharif     ,Bajra,922,1242
+Uttar Pradesh,BAGHPAT,2014,Kharif     ,Bajra,685,1392
+Uttar Pradesh,BAHRAICH,1997,Kharif     ,Bajra,315,559
+Uttar Pradesh,BAHRAICH,1998,Kharif     ,Bajra,284,415
+Uttar Pradesh,BAHRAICH,1999,Kharif     ,Bajra,289,488
+Uttar Pradesh,BAHRAICH,2000,Kharif     ,Bajra,286,496
+Uttar Pradesh,BAHRAICH,2001,Kharif     ,Bajra,212,340
+Uttar Pradesh,BAHRAICH,2002,Kharif     ,Bajra,23,36
+Uttar Pradesh,BAHRAICH,2003,Kharif     ,Bajra,88,129
+Uttar Pradesh,BAHRAICH,2004,Kharif     ,Bajra,34,63
+Uttar Pradesh,BAHRAICH,2005,Kharif     ,Bajra,258,393
+Uttar Pradesh,BAHRAICH,2006,Kharif     ,Bajra,17,30
+Uttar Pradesh,BAHRAICH,2007,Kharif     ,Bajra,13,20
+Uttar Pradesh,BAHRAICH,2008,Kharif     ,Bajra,51,93
+Uttar Pradesh,BAHRAICH,2009,Kharif     ,Bajra,13,21
+Uttar Pradesh,BAHRAICH,2011,Kharif     ,Bajra,12,25
+Uttar Pradesh,BAHRAICH,2012,Kharif     ,Bajra,20,41
+Uttar Pradesh,BAHRAICH,2013,Kharif     ,Bajra,24,49
+Uttar Pradesh,BAHRAICH,2014,Kharif     ,Bajra,25,48
+Uttar Pradesh,BALLIA,1997,Kharif     ,Bajra,1717,1756
+Uttar Pradesh,BALLIA,1998,Kharif     ,Bajra,1919,2383
+Uttar Pradesh,BALLIA,1999,Kharif     ,Bajra,819,1323
+Uttar Pradesh,BALLIA,2000,Kharif     ,Bajra,1491,1172
+Uttar Pradesh,BALLIA,2001,Kharif     ,Bajra,1849,2192
+Uttar Pradesh,BALLIA,2002,Kharif     ,Bajra,1589,2127
+Uttar Pradesh,BALLIA,2003,Kharif     ,Bajra,1649,2223
+Uttar Pradesh,BALLIA,2004,Kharif     ,Bajra,2052,3329
+Uttar Pradesh,BALLIA,2005,Kharif     ,Bajra,1504,2275
+Uttar Pradesh,BALLIA,2006,Kharif     ,Bajra,2296,3552
+Uttar Pradesh,BALLIA,2007,Kharif     ,Bajra,2098,3271
+Uttar Pradesh,BALLIA,2008,Kharif     ,Bajra,1960,3264
+Uttar Pradesh,BALLIA,2009,Kharif     ,Bajra,1110,1884
+Uttar Pradesh,BALLIA,2010,Kharif     ,Bajra,1957,1891
+Uttar Pradesh,BALLIA,2011,Kharif     ,Bajra,2003,2949
+Uttar Pradesh,BALLIA,2012,Kharif     ,Bajra,2060,3959
+Uttar Pradesh,BALLIA,2013,Kharif     ,Bajra,1770,2250
+Uttar Pradesh,BALLIA,2014,Kharif     ,Bajra,2012,3996
+Uttar Pradesh,BALRAMPUR,2000,Kharif     ,Bajra,127,220
+Uttar Pradesh,BALRAMPUR,2001,Kharif     ,Bajra,124,199
+Uttar Pradesh,BALRAMPUR,2002,Kharif     ,Bajra,114,176
+Uttar Pradesh,BALRAMPUR,2004,Kharif     ,Bajra,106,198
+Uttar Pradesh,BALRAMPUR,2006,Kharif     ,Bajra,106,187
+Uttar Pradesh,BALRAMPUR,2008,Kharif     ,Bajra,118,215
+Uttar Pradesh,BALRAMPUR,2010,Kharif     ,Bajra,13,22
+Uttar Pradesh,BANDA,1997,Kharif     ,Bajra,2940,2300
+Uttar Pradesh,BANDA,1998,Kharif     ,Bajra,3356,1850
+Uttar Pradesh,BANDA,1999,Kharif     ,Bajra,2991,1294
+Uttar Pradesh,BANDA,2000,Kharif     ,Bajra,2790,2352
+Uttar Pradesh,BANDA,2001,Kharif     ,Bajra,3796,2749
+Uttar Pradesh,BANDA,2002,Kharif     ,Bajra,2679,918
+Uttar Pradesh,BANDA,2003,Kharif     ,Bajra,2786,2031
+Uttar Pradesh,BANDA,2004,Kharif     ,Bajra,2621,2878
+Uttar Pradesh,BANDA,2005,Kharif     ,Bajra,1483,1551
+Uttar Pradesh,BANDA,2006,Kharif     ,Bajra,2005,1640
+Uttar Pradesh,BANDA,2007,Kharif     ,Bajra,3909,2260
+Uttar Pradesh,BANDA,2008,Kharif     ,Bajra,2583,2054
+Uttar Pradesh,BANDA,2009,Kharif     ,Bajra,1640,1062
+Uttar Pradesh,BANDA,2010,Kharif     ,Bajra,3206,2647
+Uttar Pradesh,BANDA,2011,Kharif     ,Bajra,3761,3450
+Uttar Pradesh,BANDA,2012,Kharif     ,Bajra,2679,3821
+Uttar Pradesh,BANDA,2013,Kharif     ,Bajra,1036,1271
+Uttar Pradesh,BANDA,2014,Kharif     ,Bajra,3957,3669
+Uttar Pradesh,BARABANKI,1997,Kharif     ,Bajra,844,879
+Uttar Pradesh,BARABANKI,1998,Kharif     ,Bajra,885,1103
+Uttar Pradesh,BARABANKI,1999,Kharif     ,Bajra,786,1199
+Uttar Pradesh,BARABANKI,2000,Kharif     ,Bajra,822,1276
+Uttar Pradesh,BARABANKI,2001,Kharif     ,Bajra,896,1127
+Uttar Pradesh,BARABANKI,2002,Kharif     ,Bajra,1107,1526
+Uttar Pradesh,BARABANKI,2003,Kharif     ,Bajra,971,1326
+Uttar Pradesh,BARABANKI,2004,Kharif     ,Bajra,896,1406
+Uttar Pradesh,BARABANKI,2005,Kharif     ,Bajra,718,1125
+Uttar Pradesh,BARABANKI,2006,Kharif     ,Bajra,949,1419
+Uttar Pradesh,BARABANKI,2007,Kharif     ,Bajra,926,1444
+Uttar Pradesh,BARABANKI,2008,Kharif     ,Bajra,793,1313
+Uttar Pradesh,BARABANKI,2009,Kharif     ,Bajra,682,1142
+Uttar Pradesh,BARABANKI,2010,Kharif     ,Bajra,1280,1309
+Uttar Pradesh,BARABANKI,2011,Kharif     ,Bajra,545,1035
+Uttar Pradesh,BARABANKI,2012,Kharif     ,Bajra,524,335
+Uttar Pradesh,BARABANKI,2013,Kharif     ,Bajra,475,452
+Uttar Pradesh,BARABANKI,2014,Kharif     ,Bajra,578,712
+Uttar Pradesh,BAREILLY,1997,Kharif     ,Bajra,13336,14718
+Uttar Pradesh,BAREILLY,1998,Kharif     ,Bajra,9501,5871
+Uttar Pradesh,BAREILLY,1999,Kharif     ,Bajra,9466,9313
+Uttar Pradesh,BAREILLY,2000,Kharif     ,Bajra,7775,11199
+Uttar Pradesh,BAREILLY,2001,Kharif     ,Bajra,6555,6587
+Uttar Pradesh,BAREILLY,2002,Kharif     ,Bajra,10229,11013
+Uttar Pradesh,BAREILLY,2003,Kharif     ,Bajra,11625,13438
+Uttar Pradesh,BAREILLY,2004,Kharif     ,Bajra,10129,12076
+Uttar Pradesh,BAREILLY,2005,Kharif     ,Bajra,6862,6854
+Uttar Pradesh,BAREILLY,2006,Kharif     ,Bajra,10142,13385
+Uttar Pradesh,BAREILLY,2007,Kharif     ,Bajra,5144,5949
+Uttar Pradesh,BAREILLY,2008,Kharif     ,Bajra,6786,8726
+Uttar Pradesh,BAREILLY,2009,Kharif     ,Bajra,14979,21264
+Uttar Pradesh,BAREILLY,2010,Kharif     ,Bajra,7328,9723
+Uttar Pradesh,BAREILLY,2011,Kharif     ,Bajra,7380,11097
+Uttar Pradesh,BAREILLY,2012,Kharif     ,Bajra,8369,12013
+Uttar Pradesh,BAREILLY,2013,Kharif     ,Bajra,7455,9281
+Uttar Pradesh,BAREILLY,2014,Kharif     ,Bajra,7980,8607
+Uttar Pradesh,BASTI,1997,Kharif     ,Bajra,75,154
+Uttar Pradesh,BASTI,1998,Kharif     ,Bajra,8,16
+Uttar Pradesh,BASTI,1999,Kharif     ,Bajra,7,15
+Uttar Pradesh,BASTI,2000,Kharif     ,Bajra,6,11
+Uttar Pradesh,BASTI,2001,Kharif     ,Bajra,49,85
+Uttar Pradesh,BASTI,2002,Kharif     ,Bajra,18,30
+Uttar Pradesh,BASTI,2003,Kharif     ,Bajra,48,82
+Uttar Pradesh,BASTI,2004,Kharif     ,Bajra,39,74
+Uttar Pradesh,BASTI,2005,Kharif     ,Bajra,90,157
+Uttar Pradesh,BASTI,2006,Kharif     ,Bajra,145,242
+Uttar Pradesh,BASTI,2009,Kharif     ,Bajra,33,60
+Uttar Pradesh,BASTI,2011,Kharif     ,Bajra,25,52
+Uttar Pradesh,BIJNOR,1997,Kharif     ,Bajra,113,95
+Uttar Pradesh,BIJNOR,1998,Kharif     ,Bajra,51,36
+Uttar Pradesh,BIJNOR,2000,Kharif     ,Bajra,9,8
+Uttar Pradesh,BIJNOR,2001,Kharif     ,Bajra,15,20
+Uttar Pradesh,BIJNOR,2003,Kharif     ,Bajra,6,6
+Uttar Pradesh,BIJNOR,2008,Kharif     ,Bajra,3,3
+Uttar Pradesh,BIJNOR,2011,Kharif     ,Bajra,3,3
+Uttar Pradesh,BUDAUN,1997,Kharif     ,Bajra,125244,172479
+Uttar Pradesh,BUDAUN,1998,Kharif     ,Bajra,110090,113792
+Uttar Pradesh,BUDAUN,1999,Kharif     ,Bajra,113254,138216
+Uttar Pradesh,BUDAUN,2000,Kharif     ,Bajra,117911,209698
+Uttar Pradesh,BUDAUN,2001,Kharif     ,Bajra,111942,124896
+Uttar Pradesh,BUDAUN,2002,Kharif     ,Bajra,120949,153224
+Uttar Pradesh,BUDAUN,2003,Kharif     ,Bajra,147298,256834
+Uttar Pradesh,BUDAUN,2004,Kharif     ,Bajra,142837,199080
+Uttar Pradesh,BUDAUN,2005,Kharif     ,Bajra,133994,184436
+Uttar Pradesh,BUDAUN,2006,Kharif     ,Bajra,142395,204422
+Uttar Pradesh,BUDAUN,2007,Kharif     ,Bajra,149178,222964
+Uttar Pradesh,BUDAUN,2008,Kharif     ,Bajra,131989,198536
+Uttar Pradesh,BUDAUN,2009,Kharif     ,Bajra,153241,289686
+Uttar Pradesh,BUDAUN,2010,Kharif     ,Bajra,146570,263656
+Uttar Pradesh,BUDAUN,2011,Kharif     ,Bajra,135997,230225
+Uttar Pradesh,BUDAUN,2012,Kharif     ,Bajra,99758,185030
+Uttar Pradesh,BUDAUN,2013,Kharif     ,Bajra,109948,207137
+Uttar Pradesh,BUDAUN,2014,Kharif     ,Bajra,121780,206452
+Uttar Pradesh,BULANDSHAHR,1997,Kharif     ,Bajra,10192,14274
+Uttar Pradesh,BULANDSHAHR,1998,Kharif     ,Bajra,9675,11994
+Uttar Pradesh,BULANDSHAHR,1999,Kharif     ,Bajra,8373,12626
+Uttar Pradesh,BULANDSHAHR,2000,Kharif     ,Bajra,8935,14461
+Uttar Pradesh,BULANDSHAHR,2001,Kharif     ,Bajra,8225,12242
+Uttar Pradesh,BULANDSHAHR,2002,Kharif     ,Bajra,8052,10111
+Uttar Pradesh,BULANDSHAHR,2003,Kharif     ,Bajra,9873,14398
+Uttar Pradesh,BULANDSHAHR,2004,Kharif     ,Bajra,8885,12321
+Uttar Pradesh,BULANDSHAHR,2005,Kharif     ,Bajra,10205,15460
+Uttar Pradesh,BULANDSHAHR,2006,Kharif     ,Bajra,6543,10384
+Uttar Pradesh,BULANDSHAHR,2007,Kharif     ,Bajra,8453,13209
+Uttar Pradesh,BULANDSHAHR,2008,Kharif     ,Bajra,5844,10676
+Uttar Pradesh,BULANDSHAHR,2009,Kharif     ,Bajra,7317,14744
+Uttar Pradesh,BULANDSHAHR,2010,Kharif     ,Bajra,8501,16985
+Uttar Pradesh,BULANDSHAHR,2011,Kharif     ,Bajra,13090,25099
+Uttar Pradesh,BULANDSHAHR,2012,Kharif     ,Bajra,11983,23587
+Uttar Pradesh,BULANDSHAHR,2013,Kharif     ,Bajra,11502,24488
+Uttar Pradesh,BULANDSHAHR,2014,Kharif     ,Bajra,13775,27906
+Uttar Pradesh,CHANDAULI,1997,Kharif     ,Bajra,4173,4430
+Uttar Pradesh,CHANDAULI,1998,Kharif     ,Bajra,4138,3735
+Uttar Pradesh,CHANDAULI,1999,Kharif     ,Bajra,3931,3750
+Uttar Pradesh,CHANDAULI,2000,Kharif     ,Bajra,3903,4084
+Uttar Pradesh,CHANDAULI,2001,Kharif     ,Bajra,3687,4768
+Uttar Pradesh,CHANDAULI,2002,Kharif     ,Bajra,3717,6373
+Uttar Pradesh,CHANDAULI,2003,Kharif     ,Bajra,4375,4268
+Uttar Pradesh,CHANDAULI,2004,Kharif     ,Bajra,4557,4983
+Uttar Pradesh,CHANDAULI,2005,Kharif     ,Bajra,4436,5886
+Uttar Pradesh,CHANDAULI,2006,Kharif     ,Bajra,2848,4491
+Uttar Pradesh,CHANDAULI,2007,Kharif     ,Bajra,4899,7069
+Uttar Pradesh,CHANDAULI,2008,Kharif     ,Bajra,4668,5630
+Uttar Pradesh,CHANDAULI,2009,Kharif     ,Bajra,4758,4152
+Uttar Pradesh,CHANDAULI,2010,Kharif     ,Bajra,5106,6669
+Uttar Pradesh,CHANDAULI,2011,Kharif     ,Bajra,6482,9960
+Uttar Pradesh,CHANDAULI,2012,Kharif     ,Bajra,4643,5800
+Uttar Pradesh,CHANDAULI,2013,Kharif     ,Bajra,4892,4999
+Uttar Pradesh,CHANDAULI,2014,Kharif     ,Bajra,8792,13821
+Uttar Pradesh,CHITRAKOOT,1997,Kharif     ,Bajra,7615,5959
+Uttar Pradesh,CHITRAKOOT,1998,Kharif     ,Bajra,7844,6465
+Uttar Pradesh,CHITRAKOOT,1999,Kharif     ,Bajra,7594,6143
+Uttar Pradesh,CHITRAKOOT,2000,Kharif     ,Bajra,8119,5921
+Uttar Pradesh,CHITRAKOOT,2001,Kharif     ,Bajra,7359,5216
+Uttar Pradesh,CHITRAKOOT,2002,Kharif     ,Bajra,9733,5647
+Uttar Pradesh,CHITRAKOOT,2003,Kharif     ,Bajra,9719,7423
+Uttar Pradesh,CHITRAKOOT,2004,Kharif     ,Bajra,7921,9016
+Uttar Pradesh,CHITRAKOOT,2005,Kharif     ,Bajra,9040,8565
+Uttar Pradesh,CHITRAKOOT,2006,Kharif     ,Bajra,9608,7700
+Uttar Pradesh,CHITRAKOOT,2007,Kharif     ,Bajra,8091,4231
+Uttar Pradesh,CHITRAKOOT,2008,Kharif     ,Bajra,10330,12205
+Uttar Pradesh,CHITRAKOOT,2009,Kharif     ,Bajra,9231,6372
+Uttar Pradesh,CHITRAKOOT,2010,Kharif     ,Bajra,13078,8856
+Uttar Pradesh,CHITRAKOOT,2011,Kharif     ,Bajra,10257,9132
+Uttar Pradesh,CHITRAKOOT,2012,Kharif     ,Bajra,9874,13594
+Uttar Pradesh,CHITRAKOOT,2013,Kharif     ,Bajra,8155,11633
+Uttar Pradesh,CHITRAKOOT,2014,Kharif     ,Bajra,7271,7332
+Uttar Pradesh,DEORIA,1997,Kharif     ,Bajra,1170,1974
+Uttar Pradesh,DEORIA,1998,Kharif     ,Bajra,542,860
+Uttar Pradesh,DEORIA,1999,Kharif     ,Bajra,407,726
+Uttar Pradesh,DEORIA,2000,Kharif     ,Bajra,379,635
+Uttar Pradesh,DEORIA,2001,Kharif     ,Bajra,244,343
+Uttar Pradesh,DEORIA,2002,Kharif     ,Bajra,278,417
+Uttar Pradesh,DEORIA,2003,Kharif     ,Bajra,352,521
+Uttar Pradesh,DEORIA,2004,Kharif     ,Bajra,314,543
+Uttar Pradesh,DEORIA,2005,Kharif     ,Bajra,488,766
+Uttar Pradesh,DEORIA,2006,Kharif     ,Bajra,468,755
+Uttar Pradesh,DEORIA,2007,Kharif     ,Bajra,454,708
+Uttar Pradesh,DEORIA,2008,Kharif     ,Bajra,113,195
+Uttar Pradesh,DEORIA,2009,Kharif     ,Bajra,239,408
+Uttar Pradesh,DEORIA,2010,Kharif     ,Bajra,286,490
+Uttar Pradesh,DEORIA,2011,Kharif     ,Bajra,156,318
+Uttar Pradesh,DEORIA,2012,Kharif     ,Bajra,50,104
+Uttar Pradesh,DEORIA,2013,Kharif     ,Bajra,213,440
+Uttar Pradesh,DEORIA,2014,Kharif     ,Bajra,164,315
+Uttar Pradesh,ETAH,1997,Kharif     ,Bajra,76051,125615
+Uttar Pradesh,ETAH,1998,Kharif     ,Bajra,71235,88278
+Uttar Pradesh,ETAH,1999,Kharif     ,Bajra,71093,111904
+Uttar Pradesh,ETAH,2000,Kharif     ,Bajra,70240,122472
+Uttar Pradesh,ETAH,2001,Kharif     ,Bajra,70549,104211
+Uttar Pradesh,ETAH,2002,Kharif     ,Bajra,66416,96671
+Uttar Pradesh,ETAH,2003,Kharif     ,Bajra,77941,95250
+Uttar Pradesh,ETAH,2004,Kharif     ,Bajra,75841,123494
+Uttar Pradesh,ETAH,2005,Kharif     ,Bajra,77929,128951
+Uttar Pradesh,ETAH,2006,Kharif     ,Bajra,75841,137310
+Uttar Pradesh,ETAH,2007,Kharif     ,Bajra,83549,160452
+Uttar Pradesh,ETAH,2008,Kharif     ,Bajra,71206,129998
+Uttar Pradesh,ETAH,2009,Kharif     ,Bajra,29365,59491
+Uttar Pradesh,ETAH,2010,Kharif     ,Bajra,40510,77885
+Uttar Pradesh,ETAH,2011,Kharif     ,Bajra,41267,112717
+Uttar Pradesh,ETAH,2012,Kharif     ,Bajra,48677,136490
+Uttar Pradesh,ETAH,2013,Kharif     ,Bajra,42922,127993
+Uttar Pradesh,ETAH,2014,Kharif     ,Bajra,47460,148170
+Uttar Pradesh,ETAWAH,1997,Kharif     ,Bajra,33283,57597
+Uttar Pradesh,ETAWAH,1998,Kharif     ,Bajra,35068,40364
+Uttar Pradesh,ETAWAH,1999,Kharif     ,Bajra,34539,58941
+Uttar Pradesh,ETAWAH,2000,Kharif     ,Bajra,37072,54030
+Uttar Pradesh,ETAWAH,2001,Kharif     ,Bajra,34864,45977
+Uttar Pradesh,ETAWAH,2002,Kharif     ,Bajra,35992,49225
+Uttar Pradesh,ETAWAH,2003,Kharif     ,Bajra,41121,36176
+Uttar Pradesh,ETAWAH,2004,Kharif     ,Bajra,38183,73617
+Uttar Pradesh,ETAWAH,2005,Kharif     ,Bajra,37571,64839
+Uttar Pradesh,ETAWAH,2006,Kharif     ,Bajra,42587,73198
+Uttar Pradesh,ETAWAH,2007,Kharif     ,Bajra,37616,69159
+Uttar Pradesh,ETAWAH,2008,Kharif     ,Bajra,29440,63965
+Uttar Pradesh,ETAWAH,2009,Kharif     ,Bajra,33550,67258
+Uttar Pradesh,ETAWAH,2010,Kharif     ,Bajra,36027,74000
+Uttar Pradesh,ETAWAH,2011,Kharif     ,Bajra,36586,73399
+Uttar Pradesh,ETAWAH,2012,Kharif     ,Bajra,35459,84639
+Uttar Pradesh,ETAWAH,2013,Kharif     ,Bajra,35235,87422
+Uttar Pradesh,ETAWAH,2014,Kharif     ,Bajra,37706,73955
+Uttar Pradesh,FAIZABAD,1997,Kharif     ,Bajra,93,97
+Uttar Pradesh,FAIZABAD,1998,Kharif     ,Bajra,5,6
+Uttar Pradesh,FAIZABAD,1999,Kharif     ,Bajra,23,35
+Uttar Pradesh,FAIZABAD,2000,Kharif     ,Bajra,16,25
+Uttar Pradesh,FAIZABAD,2001,Kharif     ,Bajra,23,29
+Uttar Pradesh,FAIZABAD,2002,Kharif     ,Bajra,8,11
+Uttar Pradesh,FAIZABAD,2003,Kharif     ,Bajra,3,4
+Uttar Pradesh,FAIZABAD,2004,Kharif     ,Bajra,2,3
+Uttar Pradesh,FAIZABAD,2005,Kharif     ,Bajra,2,3
+Uttar Pradesh,FAIZABAD,2006,Kharif     ,Bajra,2,3
+Uttar Pradesh,FAIZABAD,2008,Kharif     ,Bajra,17,28
+Uttar Pradesh,FAIZABAD,2009,Kharif     ,Bajra,20,33
+Uttar Pradesh,FAIZABAD,2012,Kharif     ,Bajra,10,8
+Uttar Pradesh,FAIZABAD,2013,Kharif     ,Bajra,2,2
+Uttar Pradesh,FAIZABAD,2014,Kharif     ,Bajra,15,19
+Uttar Pradesh,FARRUKHABAD,1997,Kharif     ,Bajra,6543,9439
+Uttar Pradesh,FARRUKHABAD,1998,Kharif     ,Bajra,6229,7350
+Uttar Pradesh,FARRUKHABAD,1999,Kharif     ,Bajra,5858,7109
+Uttar Pradesh,FARRUKHABAD,2000,Kharif     ,Bajra,5113,6348
+Uttar Pradesh,FARRUKHABAD,2001,Kharif     ,Bajra,4162,4406
+Uttar Pradesh,FARRUKHABAD,2002,Kharif     ,Bajra,3293,3878
+Uttar Pradesh,FARRUKHABAD,2003,Kharif     ,Bajra,4118,3704
+Uttar Pradesh,FARRUKHABAD,2004,Kharif     ,Bajra,3480,5656
+Uttar Pradesh,FARRUKHABAD,2005,Kharif     ,Bajra,2379,2593
+Uttar Pradesh,FARRUKHABAD,2006,Kharif     ,Bajra,3324,4125
+Uttar Pradesh,FARRUKHABAD,2007,Kharif     ,Bajra,5826,7657
+Uttar Pradesh,FARRUKHABAD,2008,Kharif     ,Bajra,5115,10799
+Uttar Pradesh,FARRUKHABAD,2009,Kharif     ,Bajra,4031,8205
+Uttar Pradesh,FARRUKHABAD,2010,Kharif     ,Bajra,3743,5651
+Uttar Pradesh,FARRUKHABAD,2011,Kharif     ,Bajra,4224,5104
+Uttar Pradesh,FARRUKHABAD,2012,Kharif     ,Bajra,4006,6132
+Uttar Pradesh,FARRUKHABAD,2013,Kharif     ,Bajra,4336,5667
+Uttar Pradesh,FARRUKHABAD,2014,Kharif     ,Bajra,3787,5843
+Uttar Pradesh,FATEHPUR,1997,Kharif     ,Bajra,7895,4751
+Uttar Pradesh,FATEHPUR,1998,Kharif     ,Bajra,7276,5110
+Uttar Pradesh,FATEHPUR,1999,Kharif     ,Bajra,6986,7024
+Uttar Pradesh,FATEHPUR,2000,Kharif     ,Bajra,7620,6431
+Uttar Pradesh,FATEHPUR,2001,Kharif     ,Bajra,7086,5457
+Uttar Pradesh,FATEHPUR,2002,Kharif     ,Bajra,6777,5552
+Uttar Pradesh,FATEHPUR,2003,Kharif     ,Bajra,6817,6835
+Uttar Pradesh,FATEHPUR,2004,Kharif     ,Bajra,5771,6857
+Uttar Pradesh,FATEHPUR,2005,Kharif     ,Bajra,4289,5024
+Uttar Pradesh,FATEHPUR,2006,Kharif     ,Bajra,4631,5399
+Uttar Pradesh,FATEHPUR,2007,Kharif     ,Bajra,4497,5847
+Uttar Pradesh,FATEHPUR,2008,Kharif     ,Bajra,5954,6125
+Uttar Pradesh,FATEHPUR,2009,Kharif     ,Bajra,7528,6975
+Uttar Pradesh,FATEHPUR,2010,Kharif     ,Bajra,9244,9350
+Uttar Pradesh,FATEHPUR,2011,Kharif     ,Bajra,7023,7182
+Uttar Pradesh,FATEHPUR,2012,Kharif     ,Bajra,6994,8964
+Uttar Pradesh,FATEHPUR,2013,Kharif     ,Bajra,6478,6211
+Uttar Pradesh,FATEHPUR,2014,Kharif     ,Bajra,5161,3939
+Uttar Pradesh,FIROZABAD,1997,Kharif     ,Bajra,56681,103634
+Uttar Pradesh,FIROZABAD,1998,Kharif     ,Bajra,54473,77716
+Uttar Pradesh,FIROZABAD,1999,Kharif     ,Bajra,59222,92593
+Uttar Pradesh,FIROZABAD,2000,Kharif     ,Bajra,61495,106539
+Uttar Pradesh,FIROZABAD,2001,Kharif     ,Bajra,62049,65958
+Uttar Pradesh,FIROZABAD,2002,Kharif     ,Bajra,59097,75171
+Uttar Pradesh,FIROZABAD,2003,Kharif     ,Bajra,65024,57981
+Uttar Pradesh,FIROZABAD,2004,Kharif     ,Bajra,65714,124248
+Uttar Pradesh,FIROZABAD,2005,Kharif     ,Bajra,63572,120283
+Uttar Pradesh,FIROZABAD,2006,Kharif     ,Bajra,59566,109525
+Uttar Pradesh,FIROZABAD,2007,Kharif     ,Bajra,66427,119575
+Uttar Pradesh,FIROZABAD,2008,Kharif     ,Bajra,56580,118479
+Uttar Pradesh,FIROZABAD,2009,Kharif     ,Bajra,54087,111847
+Uttar Pradesh,FIROZABAD,2010,Kharif     ,Bajra,67199,137402
+Uttar Pradesh,FIROZABAD,2011,Kharif     ,Bajra,59603,133351
+Uttar Pradesh,FIROZABAD,2012,Kharif     ,Bajra,63325,143635
+Uttar Pradesh,FIROZABAD,2013,Kharif     ,Bajra,70411,166540
+Uttar Pradesh,FIROZABAD,2014,Kharif     ,Bajra,75371,160016
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1997,Kharif     ,Bajra,12297,16377
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1998,Kharif     ,Bajra,12769,15829
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1999,Kharif     ,Bajra,11063,16683
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2000,Kharif     ,Bajra,11334,16772
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2001,Kharif     ,Bajra,12660,19706
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2002,Kharif     ,Bajra,7157,8996
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2003,Kharif     ,Bajra,6019,8611
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2004,Kharif     ,Bajra,7879,13189
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2005,Kharif     ,Bajra,3569,4308
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2006,Kharif     ,Bajra,8932,8861
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2007,Kharif     ,Bajra,4389,6136
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2008,Kharif     ,Bajra,4321,7467
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2009,Kharif     ,Bajra,1880,2942
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2010,Kharif     ,Bajra,2344,2389
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2011,Kharif     ,Bajra,1427,2026
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2012,Kharif     ,Bajra,1947,4529
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2013,Kharif     ,Bajra,8760,11798
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2014,Kharif     ,Bajra,1442,2903
+Uttar Pradesh,GHAZIABAD,1997,Kharif     ,Bajra,1376,1927
+Uttar Pradesh,GHAZIABAD,1998,Kharif     ,Bajra,1297,1608
+Uttar Pradesh,GHAZIABAD,1999,Kharif     ,Bajra,1344,2027
+Uttar Pradesh,GHAZIABAD,2000,Kharif     ,Bajra,976,1251
+Uttar Pradesh,GHAZIABAD,2001,Kharif     ,Bajra,1034,1027
+Uttar Pradesh,GHAZIABAD,2002,Kharif     ,Bajra,726,917
+Uttar Pradesh,GHAZIABAD,2003,Kharif     ,Bajra,578,824
+Uttar Pradesh,GHAZIABAD,2004,Kharif     ,Bajra,295,437
+Uttar Pradesh,GHAZIABAD,2005,Kharif     ,Bajra,553,794
+Uttar Pradesh,GHAZIABAD,2006,Kharif     ,Bajra,295,366
+Uttar Pradesh,GHAZIABAD,2007,Kharif     ,Bajra,150,227
+Uttar Pradesh,GHAZIABAD,2008,Kharif     ,Bajra,269,480
+Uttar Pradesh,GHAZIABAD,2009,Kharif     ,Bajra,172,331
+Uttar Pradesh,GHAZIABAD,2010,Kharif     ,Bajra,370,660
+Uttar Pradesh,GHAZIABAD,2011,Kharif     ,Bajra,280,524
+Uttar Pradesh,GHAZIABAD,2012,Kharif     ,Bajra,237,551
+Uttar Pradesh,GHAZIABAD,2013,Kharif     ,Bajra,187,252
+Uttar Pradesh,GHAZIPUR,1997,Kharif     ,Bajra,11389,6892
+Uttar Pradesh,GHAZIPUR,1998,Kharif     ,Bajra,11523,12346
+Uttar Pradesh,GHAZIPUR,1999,Kharif     ,Bajra,10919,10415
+Uttar Pradesh,GHAZIPUR,2000,Kharif     ,Bajra,9888,12202
+Uttar Pradesh,GHAZIPUR,2001,Kharif     ,Bajra,9760,9514
+Uttar Pradesh,GHAZIPUR,2002,Kharif     ,Bajra,9833,10310
+Uttar Pradesh,GHAZIPUR,2003,Kharif     ,Bajra,11293,10696
+Uttar Pradesh,GHAZIPUR,2004,Kharif     ,Bajra,12630,18509
+Uttar Pradesh,GHAZIPUR,2005,Kharif     ,Bajra,7043,9630
+Uttar Pradesh,GHAZIPUR,2006,Kharif     ,Bajra,13981,19793
+Uttar Pradesh,GHAZIPUR,2007,Kharif     ,Bajra,13982,19875
+Uttar Pradesh,GHAZIPUR,2008,Kharif     ,Bajra,12511,17607
+Uttar Pradesh,GHAZIPUR,2009,Kharif     ,Bajra,13615,21752
+Uttar Pradesh,GHAZIPUR,2010,Kharif     ,Bajra,15333,21554
+Uttar Pradesh,GHAZIPUR,2011,Kharif     ,Bajra,11325,17345
+Uttar Pradesh,GHAZIPUR,2012,Kharif     ,Bajra,16148,24455
+Uttar Pradesh,GHAZIPUR,2013,Kharif     ,Bajra,14986,11002
+Uttar Pradesh,GHAZIPUR,2014,Kharif     ,Bajra,13037,23380
+Uttar Pradesh,GONDA,1997,Kharif     ,Bajra,101,179
+Uttar Pradesh,GONDA,1998,Kharif     ,Bajra,101,147
+Uttar Pradesh,GONDA,1999,Kharif     ,Bajra,112,189
+Uttar Pradesh,GONDA,2000,Kharif     ,Bajra,125,217
+Uttar Pradesh,GONDA,2001,Kharif     ,Bajra,103,165
+Uttar Pradesh,GONDA,2002,Kharif     ,Bajra,29,45
+Uttar Pradesh,GONDA,2003,Kharif     ,Bajra,84,124
+Uttar Pradesh,GONDA,2004,Kharif     ,Bajra,58,108
+Uttar Pradesh,GONDA,2005,Kharif     ,Bajra,28,43
+Uttar Pradesh,GONDA,2006,Kharif     ,Bajra,68,120
+Uttar Pradesh,GONDA,2007,Kharif     ,Bajra,37,58
+Uttar Pradesh,GONDA,2008,Kharif     ,Bajra,2,4
+Uttar Pradesh,GONDA,2009,Kharif     ,Bajra,2,3
+Uttar Pradesh,GORAKHPUR,1997,Kharif     ,Bajra,626,1056
+Uttar Pradesh,GORAKHPUR,1998,Kharif     ,Bajra,269,427
+Uttar Pradesh,GORAKHPUR,1999,Kharif     ,Bajra,378,675
+Uttar Pradesh,GORAKHPUR,2000,Kharif     ,Bajra,278,466
+Uttar Pradesh,GORAKHPUR,2001,Kharif     ,Bajra,136,191
+Uttar Pradesh,GORAKHPUR,2002,Kharif     ,Bajra,209,313
+Uttar Pradesh,GORAKHPUR,2003,Kharif     ,Bajra,154,228
+Uttar Pradesh,GORAKHPUR,2004,Kharif     ,Bajra,161,279
+Uttar Pradesh,GORAKHPUR,2005,Kharif     ,Bajra,155,243
+Uttar Pradesh,GORAKHPUR,2006,Kharif     ,Bajra,161,260
+Uttar Pradesh,GORAKHPUR,2007,Kharif     ,Bajra,117,182
+Uttar Pradesh,GORAKHPUR,2008,Kharif     ,Bajra,53,92
+Uttar Pradesh,GORAKHPUR,2009,Kharif     ,Bajra,11,19
+Uttar Pradesh,GORAKHPUR,2010,Kharif     ,Bajra,34,58
+Uttar Pradesh,GORAKHPUR,2011,Kharif     ,Bajra,22,45
+Uttar Pradesh,GORAKHPUR,2012,Kharif     ,Bajra,6,12
+Uttar Pradesh,GORAKHPUR,2013,Kharif     ,Bajra,6,12
+Uttar Pradesh,GORAKHPUR,2014,Kharif     ,Bajra,4,8
+Uttar Pradesh,HAMIRPUR,1997,Kharif     ,Bajra,378,296
+Uttar Pradesh,HAMIRPUR,1998,Kharif     ,Bajra,578,319
+Uttar Pradesh,HAMIRPUR,1999,Kharif     ,Bajra,611,264
+Uttar Pradesh,HAMIRPUR,2000,Kharif     ,Bajra,412,347
+Uttar Pradesh,HAMIRPUR,2001,Kharif     ,Bajra,316,232
+Uttar Pradesh,HAMIRPUR,2002,Kharif     ,Bajra,478,208
+Uttar Pradesh,HAMIRPUR,2003,Kharif     ,Bajra,548,466
+Uttar Pradesh,HAMIRPUR,2004,Kharif     ,Bajra,626,712
+Uttar Pradesh,HAMIRPUR,2006,Kharif     ,Bajra,626,542
+Uttar Pradesh,HAMIRPUR,2007,Kharif     ,Bajra,604,834
+Uttar Pradesh,HAMIRPUR,2008,Kharif     ,Bajra,300,396
+Uttar Pradesh,HAMIRPUR,2009,Kharif     ,Bajra,539,366
+Uttar Pradesh,HAMIRPUR,2010,Kharif     ,Bajra,492,285
+Uttar Pradesh,HAMIRPUR,2011,Kharif     ,Bajra,393,329
+Uttar Pradesh,HAMIRPUR,2012,Kharif     ,Bajra,317,538
+Uttar Pradesh,HAMIRPUR,2013,Kharif     ,Bajra,359,619
+Uttar Pradesh,HAMIRPUR,2014,Kharif     ,Bajra,386,281
+Uttar Pradesh,HAPUR,2012,Kharif     ,Bajra,13,30
+Uttar Pradesh,HAPUR,2013,Kharif     ,Bajra,1,1
+Uttar Pradesh,HARDOI,1997,Kharif     ,Bajra,6033,6651
+Uttar Pradesh,HARDOI,1998,Kharif     ,Bajra,5844,2940
+Uttar Pradesh,HARDOI,1999,Kharif     ,Bajra,4683,5096
+Uttar Pradesh,HARDOI,2000,Kharif     ,Bajra,5096,3994
+Uttar Pradesh,HARDOI,2001,Kharif     ,Bajra,4553,3772
+Uttar Pradesh,HARDOI,2002,Kharif     ,Bajra,2407,2012
+Uttar Pradesh,HARDOI,2003,Kharif     ,Bajra,5036,3447
+Uttar Pradesh,HARDOI,2004,Kharif     ,Bajra,4328,4643
+Uttar Pradesh,HARDOI,2005,Kharif     ,Bajra,13501,12472
+Uttar Pradesh,HARDOI,2006,Kharif     ,Bajra,13022,19668
+Uttar Pradesh,HARDOI,2007,Kharif     ,Bajra,8610,9242
+Uttar Pradesh,HARDOI,2008,Kharif     ,Bajra,5491,6579
+Uttar Pradesh,HARDOI,2009,Kharif     ,Bajra,4106,4714
+Uttar Pradesh,HARDOI,2010,Kharif     ,Bajra,4146,5233
+Uttar Pradesh,HARDOI,2011,Kharif     ,Bajra,3546,3462
+Uttar Pradesh,HARDOI,2012,Kharif     ,Bajra,4028,4852
+Uttar Pradesh,HARDOI,2013,Kharif     ,Bajra,3780,4490
+Uttar Pradesh,HARDOI,2014,Kharif     ,Bajra,3830,3785
+Uttar Pradesh,HATHRAS,1997,Kharif     ,Bajra,35535,65771
+Uttar Pradesh,HATHRAS,1998,Kharif     ,Bajra,36744,53351
+Uttar Pradesh,HATHRAS,1999,Kharif     ,Bajra,37806,54592
+Uttar Pradesh,HATHRAS,2000,Kharif     ,Bajra,47279,83773
+Uttar Pradesh,HATHRAS,2001,Kharif     ,Bajra,44273,40381
+Uttar Pradesh,HATHRAS,2002,Kharif     ,Bajra,37065,69334
+Uttar Pradesh,HATHRAS,2003,Kharif     ,Bajra,45512,79405
+Uttar Pradesh,HATHRAS,2004,Kharif     ,Bajra,48713,82667
+Uttar Pradesh,HATHRAS,2005,Kharif     ,Bajra,43426,71262
+Uttar Pradesh,HATHRAS,2006,Kharif     ,Bajra,46411,74490
+Uttar Pradesh,HATHRAS,2007,Kharif     ,Bajra,42988,74842
+Uttar Pradesh,HATHRAS,2008,Kharif     ,Bajra,47052,69448
+Uttar Pradesh,HATHRAS,2009,Kharif     ,Bajra,37786,67108
+Uttar Pradesh,HATHRAS,2010,Kharif     ,Bajra,45450,80583
+Uttar Pradesh,HATHRAS,2011,Kharif     ,Bajra,43593,79252
+Uttar Pradesh,HATHRAS,2012,Kharif     ,Bajra,45388,86373
+Uttar Pradesh,HATHRAS,2013,Kharif     ,Bajra,45373,82760
+Uttar Pradesh,HATHRAS,2014,Kharif     ,Bajra,36688,80604
+Uttar Pradesh,JALAUN,1997,Kharif     ,Bajra,12924,18327
+Uttar Pradesh,JALAUN,1998,Kharif     ,Bajra,12892,14954
+Uttar Pradesh,JALAUN,1999,Kharif     ,Bajra,11993,15407
+Uttar Pradesh,JALAUN,2000,Kharif     ,Bajra,12928,13376
+Uttar Pradesh,JALAUN,2001,Kharif     ,Bajra,11774,10582
+Uttar Pradesh,JALAUN,2002,Kharif     ,Bajra,12063,11975
+Uttar Pradesh,JALAUN,2003,Kharif     ,Bajra,15935,7325
+Uttar Pradesh,JALAUN,2004,Kharif     ,Bajra,13210,10668
+Uttar Pradesh,JALAUN,2005,Kharif     ,Bajra,14343,15305
+Uttar Pradesh,JALAUN,2006,Kharif     ,Bajra,14402,26385
+Uttar Pradesh,JALAUN,2007,Kharif     ,Bajra,12489,6637
+Uttar Pradesh,JALAUN,2008,Kharif     ,Bajra,8429,5136
+Uttar Pradesh,JALAUN,2009,Kharif     ,Bajra,19495,17250
+Uttar Pradesh,JALAUN,2010,Kharif     ,Bajra,15683,13399
+Uttar Pradesh,JALAUN,2011,Kharif     ,Bajra,9902,9488
+Uttar Pradesh,JALAUN,2012,Kharif     ,Bajra,13111,23399
+Uttar Pradesh,JALAUN,2013,Kharif     ,Bajra,11922,8002
+Uttar Pradesh,JALAUN,2014,Kharif     ,Bajra,15683,12932
+Uttar Pradesh,JAUNPUR,1997,Kharif     ,Bajra,5438,5773
+Uttar Pradesh,JAUNPUR,1998,Kharif     ,Bajra,5853,5283
+Uttar Pradesh,JAUNPUR,1999,Kharif     ,Bajra,5360,5113
+Uttar Pradesh,JAUNPUR,2000,Kharif     ,Bajra,4896,7538
+Uttar Pradesh,JAUNPUR,2001,Kharif     ,Bajra,5140,3331
+Uttar Pradesh,JAUNPUR,2002,Kharif     ,Bajra,4560,5187
+Uttar Pradesh,JAUNPUR,2003,Kharif     ,Bajra,5022,3869
+Uttar Pradesh,JAUNPUR,2004,Kharif     ,Bajra,4999,5334
+Uttar Pradesh,JAUNPUR,2005,Kharif     ,Bajra,4846,6153
+Uttar Pradesh,JAUNPUR,2006,Kharif     ,Bajra,12330,14407
+Uttar Pradesh,JAUNPUR,2007,Kharif     ,Bajra,5190,5564
+Uttar Pradesh,JAUNPUR,2008,Kharif     ,Bajra,5347,5159
+Uttar Pradesh,JAUNPUR,2009,Kharif     ,Bajra,3156,4404
+Uttar Pradesh,JAUNPUR,2010,Kharif     ,Bajra,6050,8266
+Uttar Pradesh,JAUNPUR,2011,Kharif     ,Bajra,10366,16251
+Uttar Pradesh,JAUNPUR,2012,Kharif     ,Bajra,5502,7778
+Uttar Pradesh,JAUNPUR,2013,Kharif     ,Bajra,10287,8962
+Uttar Pradesh,JAUNPUR,2014,Kharif     ,Bajra,6630,8217
+Uttar Pradesh,JHANSI,1997,Kharif     ,Bajra,14,20
+Uttar Pradesh,JHANSI,1998,Kharif     ,Bajra,12,14
+Uttar Pradesh,JHANSI,1999,Kharif     ,Bajra,135,165
+Uttar Pradesh,JHANSI,2000,Kharif     ,Bajra,148,158
+Uttar Pradesh,JHANSI,2001,Kharif     ,Bajra,101,89
+Uttar Pradesh,JHANSI,2002,Kharif     ,Bajra,62,58
+Uttar Pradesh,JHANSI,2003,Kharif     ,Bajra,42,17
+Uttar Pradesh,JHANSI,2004,Kharif     ,Bajra,24,21
+Uttar Pradesh,JHANSI,2005,Kharif     ,Bajra,40,42
+Uttar Pradesh,JHANSI,2006,Kharif     ,Bajra,17,31
+Uttar Pradesh,JHANSI,2007,Kharif     ,Bajra,89,46
+Uttar Pradesh,JHANSI,2008,Kharif     ,Bajra,314,193
+Uttar Pradesh,JHANSI,2009,Kharif     ,Bajra,13,11
+Uttar Pradesh,JHANSI,2010,Kharif     ,Bajra,35,30
+Uttar Pradesh,JHANSI,2011,Kharif     ,Bajra,30,29
+Uttar Pradesh,JHANSI,2012,Kharif     ,Bajra,44,82
+Uttar Pradesh,JHANSI,2013,Kharif     ,Bajra,2,1
+Uttar Pradesh,JHANSI,2014,Kharif     ,Bajra,4923,3945
+Uttar Pradesh,KANNAUJ,1997,Kharif     ,Bajra,4782,7840
+Uttar Pradesh,KANNAUJ,1998,Kharif     ,Bajra,4486,5294
+Uttar Pradesh,KANNAUJ,1999,Kharif     ,Bajra,4485,5443
+Uttar Pradesh,KANNAUJ,2000,Kharif     ,Bajra,4101,5091
+Uttar Pradesh,KANNAUJ,2001,Kharif     ,Bajra,3684,3900
+Uttar Pradesh,KANNAUJ,2002,Kharif     ,Bajra,3533,4026
+Uttar Pradesh,KANNAUJ,2003,Kharif     ,Bajra,3283,2083
+Uttar Pradesh,KANNAUJ,2004,Kharif     ,Bajra,2932,1832
+Uttar Pradesh,KANNAUJ,2005,Kharif     ,Bajra,3634,5679
+Uttar Pradesh,KANNAUJ,2006,Kharif     ,Bajra,2474,4084
+Uttar Pradesh,KANNAUJ,2007,Kharif     ,Bajra,3389,6212
+Uttar Pradesh,KANNAUJ,2008,Kharif     ,Bajra,2621,5749
+Uttar Pradesh,KANNAUJ,2009,Kharif     ,Bajra,1973,3952
+Uttar Pradesh,KANNAUJ,2010,Kharif     ,Bajra,2821,5660
+Uttar Pradesh,KANNAUJ,2011,Kharif     ,Bajra,2211,3959
+Uttar Pradesh,KANNAUJ,2012,Kharif     ,Bajra,2572,5879
+Uttar Pradesh,KANNAUJ,2013,Kharif     ,Bajra,1341,2365
+Uttar Pradesh,KANNAUJ,2014,Kharif     ,Bajra,1081,1179
+Uttar Pradesh,KANPUR DEHAT,1997,Kharif     ,Bajra,12792,17115
+Uttar Pradesh,KANPUR DEHAT,1998,Kharif     ,Bajra,12487,12452
+Uttar Pradesh,KANPUR DEHAT,2003,Kharif     ,Bajra,13996,14856
+Uttar Pradesh,KANPUR DEHAT,2004,Kharif     ,Bajra,14128,18377
+Uttar Pradesh,KANPUR DEHAT,2005,Kharif     ,Bajra,16856,21853
+Uttar Pradesh,KANPUR DEHAT,2006,Kharif     ,Bajra,11999,18927
+Uttar Pradesh,KANPUR DEHAT,2007,Kharif     ,Bajra,19347,35987
+Uttar Pradesh,KANPUR DEHAT,2008,Kharif     ,Bajra,13692,28522
+Uttar Pradesh,KANPUR DEHAT,2009,Kharif     ,Bajra,15423,21313
+Uttar Pradesh,KANPUR DEHAT,2010,Kharif     ,Bajra,17706,34439
+Uttar Pradesh,KANPUR DEHAT,2011,Kharif     ,Bajra,14047,28718
+Uttar Pradesh,KANPUR DEHAT,2012,Kharif     ,Bajra,16921,41065
+Uttar Pradesh,KANPUR DEHAT,2013,Kharif     ,Bajra,16563,41123
+Uttar Pradesh,KANPUR DEHAT,2014,Kharif     ,Bajra,18127,38679
+Uttar Pradesh,KANPUR NAGAR,1997,Kharif     ,Bajra,1053,1726
+Uttar Pradesh,KANPUR NAGAR,1998,Kharif     ,Bajra,1091,1287
+Uttar Pradesh,KANPUR NAGAR,1999,Kharif     ,Bajra,10729,15753
+Uttar Pradesh,KANPUR NAGAR,2000,Kharif     ,Bajra,10735,13859
+Uttar Pradesh,KANPUR NAGAR,2001,Kharif     ,Bajra,12305,15895
+Uttar Pradesh,KANPUR NAGAR,2002,Kharif     ,Bajra,14022,16705
+Uttar Pradesh,KANPUR NAGAR,2003,Kharif     ,Bajra,831,991
+Uttar Pradesh,KANPUR NAGAR,2004,Kharif     ,Bajra,794,1290
+Uttar Pradesh,KANPUR NAGAR,2005,Kharif     ,Bajra,801,1252
+Uttar Pradesh,KANPUR NAGAR,2006,Kharif     ,Bajra,3344,5519
+Uttar Pradesh,KANPUR NAGAR,2007,Kharif     ,Bajra,412,755
+Uttar Pradesh,KANPUR NAGAR,2008,Kharif     ,Bajra,684,1500
+Uttar Pradesh,KANPUR NAGAR,2009,Kharif     ,Bajra,890,1782
+Uttar Pradesh,KANPUR NAGAR,2010,Kharif     ,Bajra,1203,2414
+Uttar Pradesh,KANPUR NAGAR,2011,Kharif     ,Bajra,1819,3257
+Uttar Pradesh,KANPUR NAGAR,2012,Kharif     ,Bajra,1562,2074
+Uttar Pradesh,KANPUR NAGAR,2013,Kharif     ,Bajra,1171,2066
+Uttar Pradesh,KANPUR NAGAR,2014,Kharif     ,Bajra,1022,1264
+Uttar Pradesh,KASGANJ,2009,Kharif     ,Bajra,31743,64978
+Uttar Pradesh,KASGANJ,2010,Kharif     ,Bajra,35149,66638
+Uttar Pradesh,KASGANJ,2011,Kharif     ,Bajra,37701,99628
+Uttar Pradesh,KASGANJ,2012,Kharif     ,Bajra,36350,104271
+Uttar Pradesh,KASGANJ,2013,Kharif     ,Bajra,39422,123115
+Uttar Pradesh,KASGANJ,2014,Kharif     ,Bajra,47288,157611
+Uttar Pradesh,KAUSHAMBI,1997,Kharif     ,Bajra,17929,27673
+Uttar Pradesh,KAUSHAMBI,1998,Kharif     ,Bajra,17174,19648
+Uttar Pradesh,KAUSHAMBI,1999,Kharif     ,Bajra,15104,11582
+Uttar Pradesh,KAUSHAMBI,2000,Kharif     ,Bajra,14528,10843
+Uttar Pradesh,KAUSHAMBI,2001,Kharif     ,Bajra,9530,10068
+Uttar Pradesh,KAUSHAMBI,2002,Kharif     ,Bajra,12105,12748
+Uttar Pradesh,KAUSHAMBI,2003,Kharif     ,Bajra,11997,14270
+Uttar Pradesh,KAUSHAMBI,2004,Kharif     ,Bajra,9291,12654
+Uttar Pradesh,KAUSHAMBI,2005,Kharif     ,Bajra,9916,10962
+Uttar Pradesh,KAUSHAMBI,2006,Kharif     ,Bajra,10204,11865
+Uttar Pradesh,KAUSHAMBI,2007,Kharif     ,Bajra,11593,13917
+Uttar Pradesh,KAUSHAMBI,2008,Kharif     ,Bajra,8612,10945
+Uttar Pradesh,KAUSHAMBI,2009,Kharif     ,Bajra,9689,10314
+Uttar Pradesh,KAUSHAMBI,2010,Kharif     ,Bajra,11661,13595
+Uttar Pradesh,KAUSHAMBI,2011,Kharif     ,Bajra,7346,12483
+Uttar Pradesh,KAUSHAMBI,2012,Kharif     ,Bajra,6416,8254
+Uttar Pradesh,KAUSHAMBI,2013,Kharif     ,Bajra,7835,7486
+Uttar Pradesh,KAUSHAMBI,2014,Kharif     ,Bajra,11306,10588
+Uttar Pradesh,KHERI,1997,Kharif     ,Bajra,228,251
+Uttar Pradesh,KHERI,1998,Kharif     ,Bajra,204,103
+Uttar Pradesh,KHERI,1999,Kharif     ,Bajra,214,233
+Uttar Pradesh,KHERI,2000,Kharif     ,Bajra,228,179
+Uttar Pradesh,KHERI,2001,Kharif     ,Bajra,410,340
+Uttar Pradesh,KHERI,2002,Kharif     ,Bajra,396,289
+Uttar Pradesh,KHERI,2003,Kharif     ,Bajra,434,345
+Uttar Pradesh,KHERI,2004,Kharif     ,Bajra,353,370
+Uttar Pradesh,KHERI,2005,Kharif     ,Bajra,466,376
+Uttar Pradesh,KHERI,2006,Kharif     ,Bajra,336,494
+Uttar Pradesh,KHERI,2007,Kharif     ,Bajra,855,746
+Uttar Pradesh,KHERI,2008,Kharif     ,Bajra,346,363
+Uttar Pradesh,KHERI,2009,Kharif     ,Bajra,311,253
+Uttar Pradesh,KHERI,2010,Kharif     ,Bajra,115,135
+Uttar Pradesh,KHERI,2011,Kharif     ,Bajra,493,535
+Uttar Pradesh,KHERI,2012,Kharif     ,Bajra,527,453
+Uttar Pradesh,KHERI,2013,Kharif     ,Bajra,548,440
+Uttar Pradesh,KHERI,2014,Kharif     ,Bajra,284,305
+Uttar Pradesh,KUSHI NAGAR,1997,Kharif     ,Bajra,310,523
+Uttar Pradesh,KUSHI NAGAR,1998,Kharif     ,Bajra,226,358
+Uttar Pradesh,KUSHI NAGAR,1999,Kharif     ,Bajra,204,364
+Uttar Pradesh,KUSHI NAGAR,2000,Kharif     ,Bajra,196,329
+Uttar Pradesh,KUSHI NAGAR,2001,Kharif     ,Bajra,154,217
+Uttar Pradesh,KUSHI NAGAR,2002,Kharif     ,Bajra,128,192
+Uttar Pradesh,KUSHI NAGAR,2003,Kharif     ,Bajra,104,154
+Uttar Pradesh,KUSHI NAGAR,2004,Kharif     ,Bajra,94,163
+Uttar Pradesh,KUSHI NAGAR,2005,Kharif     ,Bajra,98,154
+Uttar Pradesh,KUSHI NAGAR,2006,Kharif     ,Bajra,103,166
+Uttar Pradesh,KUSHI NAGAR,2007,Kharif     ,Bajra,108,168
+Uttar Pradesh,KUSHI NAGAR,2008,Kharif     ,Bajra,125,216
+Uttar Pradesh,KUSHI NAGAR,2009,Kharif     ,Bajra,95,162
+Uttar Pradesh,KUSHI NAGAR,2010,Kharif     ,Bajra,45,77
+Uttar Pradesh,KUSHI NAGAR,2011,Kharif     ,Bajra,70,143
+Uttar Pradesh,KUSHI NAGAR,2012,Kharif     ,Bajra,91,189
+Uttar Pradesh,KUSHI NAGAR,2013,Kharif     ,Bajra,68,141
+Uttar Pradesh,KUSHI NAGAR,2014,Kharif     ,Bajra,92,176
+Uttar Pradesh,LALITPUR,1997,Kharif     ,Bajra,51,72
+Uttar Pradesh,LALITPUR,1998,Kharif     ,Bajra,30,36
+Uttar Pradesh,LALITPUR,1999,Kharif     ,Bajra,15,18
+Uttar Pradesh,LALITPUR,2001,Kharif     ,Bajra,168,148
+Uttar Pradesh,LALITPUR,2002,Kharif     ,Bajra,1,1
+Uttar Pradesh,LALITPUR,2003,Kharif     ,Bajra,1,0
+Uttar Pradesh,LUCKNOW,1997,Kharif     ,Bajra,2131,2349
+Uttar Pradesh,LUCKNOW,1998,Kharif     ,Bajra,1827,919
+Uttar Pradesh,LUCKNOW,1999,Kharif     ,Bajra,1866,2030
+Uttar Pradesh,LUCKNOW,2000,Kharif     ,Bajra,1572,1232
+Uttar Pradesh,LUCKNOW,2001,Kharif     ,Bajra,1555,1288
+Uttar Pradesh,LUCKNOW,2002,Kharif     ,Bajra,1435,1046
+Uttar Pradesh,LUCKNOW,2003,Kharif     ,Bajra,1708,1359
+Uttar Pradesh,LUCKNOW,2004,Kharif     ,Bajra,1806,1893
+Uttar Pradesh,LUCKNOW,2005,Kharif     ,Bajra,1317,1063
+Uttar Pradesh,LUCKNOW,2006,Kharif     ,Bajra,939,1379
+Uttar Pradesh,LUCKNOW,2007,Kharif     ,Bajra,578,1377
+Uttar Pradesh,LUCKNOW,2008,Kharif     ,Bajra,751,789
+Uttar Pradesh,LUCKNOW,2009,Kharif     ,Bajra,1300,1059
+Uttar Pradesh,LUCKNOW,2010,Kharif     ,Bajra,853,1000
+Uttar Pradesh,LUCKNOW,2011,Kharif     ,Bajra,907,983
+Uttar Pradesh,LUCKNOW,2012,Kharif     ,Bajra,814,699
+Uttar Pradesh,LUCKNOW,2013,Kharif     ,Bajra,787,632
+Uttar Pradesh,LUCKNOW,2014,Kharif     ,Bajra,628,674
+Uttar Pradesh,MAHARAJGANJ,1997,Kharif     ,Bajra,11,19
+Uttar Pradesh,MAHARAJGANJ,1998,Kharif     ,Bajra,115,182
+Uttar Pradesh,MAHARAJGANJ,1999,Kharif     ,Bajra,43,77
+Uttar Pradesh,MAHARAJGANJ,2000,Kharif     ,Bajra,2,3
+Uttar Pradesh,MAHARAJGANJ,2001,Kharif     ,Bajra,2,3
+Uttar Pradesh,MAHARAJGANJ,2002,Kharif     ,Bajra,3,5
+Uttar Pradesh,MAHARAJGANJ,2003,Kharif     ,Bajra,1,1
+Uttar Pradesh,MAHARAJGANJ,2005,Kharif     ,Bajra,2,3
+Uttar Pradesh,MAHARAJGANJ,2006,Kharif     ,Bajra,21,34
+Uttar Pradesh,MAHARAJGANJ,2007,Kharif     ,Bajra,2,3
+Uttar Pradesh,MAHARAJGANJ,2008,Kharif     ,Bajra,1,2
+Uttar Pradesh,MAHARAJGANJ,2009,Kharif     ,Bajra,1,2
+Uttar Pradesh,MAHARAJGANJ,2011,Kharif     ,Bajra,273,556
+Uttar Pradesh,MAHOBA,1997,Kharif     ,Bajra,8,6
+Uttar Pradesh,MAHOBA,1998,Kharif     ,Bajra,2,1
+Uttar Pradesh,MAHOBA,1999,Kharif     ,Bajra,10,4
+Uttar Pradesh,MAHOBA,2000,Kharif     ,Bajra,4,3
+Uttar Pradesh,MAHOBA,2001,Kharif     ,Bajra,1,1
+Uttar Pradesh,MAHOBA,2002,Kharif     ,Bajra,1,0
+Uttar Pradesh,MAHOBA,2003,Kharif     ,Bajra,3,3
+Uttar Pradesh,MAHOBA,2004,Kharif     ,Bajra,23,26
+Uttar Pradesh,MAHOBA,2006,Kharif     ,Bajra,34,29
+Uttar Pradesh,MAHOBA,2007,Kharif     ,Bajra,1,1
+Uttar Pradesh,MAHOBA,2008,Kharif     ,Bajra,3,4
+Uttar Pradesh,MAHOBA,2009,Kharif     ,Bajra,38,26
+Uttar Pradesh,MAHOBA,2010,Kharif     ,Bajra,12,7
+Uttar Pradesh,MAHOBA,2012,Kharif     ,Bajra,2,3
+Uttar Pradesh,MAHOBA,2014,Kharif     ,Bajra,1,1
+Uttar Pradesh,MAINPURI,1997,Kharif     ,Bajra,14972,26838
+Uttar Pradesh,MAINPURI,1998,Kharif     ,Bajra,15150,18601
+Uttar Pradesh,MAINPURI,1999,Kharif     ,Bajra,15945,24207
+Uttar Pradesh,MAINPURI,2000,Kharif     ,Bajra,17087,26848
+Uttar Pradesh,MAINPURI,2001,Kharif     ,Bajra,13307,19228
+Uttar Pradesh,MAINPURI,2002,Kharif     ,Bajra,21270,26704
+Uttar Pradesh,MAINPURI,2003,Kharif     ,Bajra,11023,10564
+Uttar Pradesh,MAINPURI,2004,Kharif     ,Bajra,7909,14594
+Uttar Pradesh,MAINPURI,2005,Kharif     ,Bajra,10339,16947
+Uttar Pradesh,MAINPURI,2006,Kharif     ,Bajra,6475,12536
+Uttar Pradesh,MAINPURI,2007,Kharif     ,Bajra,14056,24581
+Uttar Pradesh,MAINPURI,2008,Kharif     ,Bajra,12808,24668
+Uttar Pradesh,MAINPURI,2009,Kharif     ,Bajra,10899,19654
+Uttar Pradesh,MAINPURI,2010,Kharif     ,Bajra,20651,38045
+Uttar Pradesh,MAINPURI,2011,Kharif     ,Bajra,14567,33755
+Uttar Pradesh,MAINPURI,2012,Kharif     ,Bajra,17867,42410
+Uttar Pradesh,MAINPURI,2013,Kharif     ,Bajra,18327,41819
+Uttar Pradesh,MAINPURI,2014,Kharif     ,Bajra,21434,51063
+Uttar Pradesh,MATHURA,1997,Kharif     ,Bajra,40061,49281
+Uttar Pradesh,MATHURA,1998,Kharif     ,Bajra,43204,37903
+Uttar Pradesh,MATHURA,1999,Kharif     ,Bajra,48149,60689
+Uttar Pradesh,MATHURA,2000,Kharif     ,Bajra,62258,82184
+Uttar Pradesh,MATHURA,2001,Kharif     ,Bajra,55253,47249
+Uttar Pradesh,MATHURA,2002,Kharif     ,Bajra,42930,44875
+Uttar Pradesh,MATHURA,2003,Kharif     ,Bajra,49633,60820
+Uttar Pradesh,MATHURA,2004,Kharif     ,Bajra,43620,59471
+Uttar Pradesh,MATHURA,2005,Kharif     ,Bajra,44429,59561
+Uttar Pradesh,MATHURA,2006,Kharif     ,Bajra,43620,40488
+Uttar Pradesh,MATHURA,2007,Kharif     ,Bajra,38500,52706
+Uttar Pradesh,MATHURA,2008,Kharif     ,Bajra,40426,55828
+Uttar Pradesh,MATHURA,2009,Kharif     ,Bajra,33077,34929
+Uttar Pradesh,MATHURA,2010,Kharif     ,Bajra,42720,53058
+Uttar Pradesh,MATHURA,2011,Kharif     ,Bajra,41639,56587
+Uttar Pradesh,MATHURA,2012,Kharif     ,Bajra,38866,52430
+Uttar Pradesh,MATHURA,2013,Kharif     ,Bajra,43279,66650
+Uttar Pradesh,MATHURA,2014,Kharif     ,Bajra,39390,51443
+Uttar Pradesh,MAU,1997,Kharif     ,Bajra,240,246
+Uttar Pradesh,MAU,1998,Kharif     ,Bajra,416,517
+Uttar Pradesh,MAU,1999,Kharif     ,Bajra,362,584
+Uttar Pradesh,MAU,2000,Kharif     ,Bajra,229,180
+Uttar Pradesh,MAU,2001,Kharif     ,Bajra,170,202
+Uttar Pradesh,MAU,2002,Kharif     ,Bajra,142,190
+Uttar Pradesh,MAU,2003,Kharif     ,Bajra,136,183
+Uttar Pradesh,MAU,2004,Kharif     ,Bajra,77,125
+Uttar Pradesh,MAU,2005,Kharif     ,Bajra,164,248
+Uttar Pradesh,MAU,2006,Kharif     ,Bajra,309,478
+Uttar Pradesh,MAU,2007,Kharif     ,Bajra,55,86
+Uttar Pradesh,MAU,2008,Kharif     ,Bajra,48,80
+Uttar Pradesh,MAU,2009,Kharif     ,Bajra,370,628
+Uttar Pradesh,MAU,2010,Kharif     ,Bajra,100,97
+Uttar Pradesh,MAU,2011,Kharif     ,Bajra,80,118
+Uttar Pradesh,MAU,2012,Kharif     ,Bajra,87,168
+Uttar Pradesh,MAU,2013,Kharif     ,Bajra,40,51
+Uttar Pradesh,MAU,2014,Kharif     ,Bajra,67,133
+Uttar Pradesh,MEERUT,1997,Kharif     ,Bajra,27,38
+Uttar Pradesh,MEERUT,1998,Kharif     ,Bajra,44,54
+Uttar Pradesh,MEERUT,1999,Kharif     ,Bajra,411,620
+Uttar Pradesh,MEERUT,2000,Kharif     ,Bajra,76,97
+Uttar Pradesh,MEERUT,2001,Kharif     ,Bajra,74,74
+Uttar Pradesh,MEERUT,2002,Kharif     ,Bajra,40,51
+Uttar Pradesh,MEERUT,2003,Kharif     ,Bajra,58,83
+Uttar Pradesh,MEERUT,2004,Kharif     ,Bajra,73,108
+Uttar Pradesh,MEERUT,2005,Kharif     ,Bajra,51,73
+Uttar Pradesh,MEERUT,2006,Kharif     ,Bajra,52,64
+Uttar Pradesh,MEERUT,2007,Kharif     ,Bajra,37,56
+Uttar Pradesh,MEERUT,2008,Kharif     ,Bajra,16,29
+Uttar Pradesh,MEERUT,2009,Kharif     ,Bajra,126,242
+Uttar Pradesh,MEERUT,2010,Kharif     ,Bajra,20,36
+Uttar Pradesh,MEERUT,2011,Kharif     ,Bajra,7,13
+Uttar Pradesh,MEERUT,2012,Kharif     ,Bajra,30,70
+Uttar Pradesh,MEERUT,2013,Kharif     ,Bajra,46,62
+Uttar Pradesh,MEERUT,2014,Kharif     ,Bajra,27,55
+Uttar Pradesh,MIRZAPUR,1997,Kharif     ,Bajra,11653,16050
+Uttar Pradesh,MIRZAPUR,1998,Kharif     ,Bajra,12490,16988
+Uttar Pradesh,MIRZAPUR,1999,Kharif     ,Bajra,11511,10338
+Uttar Pradesh,MIRZAPUR,2000,Kharif     ,Bajra,11200,14950
+Uttar Pradesh,MIRZAPUR,2001,Kharif     ,Bajra,10892,12660
+Uttar Pradesh,MIRZAPUR,2002,Kharif     ,Bajra,8962,9176
+Uttar Pradesh,MIRZAPUR,2003,Kharif     ,Bajra,10476,12794
+Uttar Pradesh,MIRZAPUR,2004,Kharif     ,Bajra,10781,9478
+Uttar Pradesh,MIRZAPUR,2005,Kharif     ,Bajra,11578,14049
+Uttar Pradesh,MIRZAPUR,2006,Kharif     ,Bajra,12909,12135
+Uttar Pradesh,MIRZAPUR,2007,Kharif     ,Bajra,9845,9501
+Uttar Pradesh,MIRZAPUR,2008,Kharif     ,Bajra,9520,9330
+Uttar Pradesh,MIRZAPUR,2009,Kharif     ,Bajra,9249,11661
+Uttar Pradesh,MIRZAPUR,2010,Kharif     ,Bajra,10446,14564
+Uttar Pradesh,MIRZAPUR,2011,Kharif     ,Bajra,8687,15700
+Uttar Pradesh,MIRZAPUR,2012,Kharif     ,Bajra,9573,13046
+Uttar Pradesh,MIRZAPUR,2013,Kharif     ,Bajra,13855,16730
+Uttar Pradesh,MIRZAPUR,2014,Kharif     ,Bajra,8430,10942
+Uttar Pradesh,MORADABAD,1997,Kharif     ,Bajra,39670,45263
+Uttar Pradesh,MORADABAD,1998,Kharif     ,Bajra,36299,37536
+Uttar Pradesh,MORADABAD,1999,Kharif     ,Bajra,37278,32374
+Uttar Pradesh,MORADABAD,2000,Kharif     ,Bajra,36389,43824
+Uttar Pradesh,MORADABAD,2001,Kharif     ,Bajra,34917,36342
+Uttar Pradesh,MORADABAD,2002,Kharif     ,Bajra,35917,34904
+Uttar Pradesh,MORADABAD,2003,Kharif     ,Bajra,43206,56157
+Uttar Pradesh,MORADABAD,2004,Kharif     ,Bajra,39054,34899
+Uttar Pradesh,MORADABAD,2005,Kharif     ,Bajra,41323,40207
+Uttar Pradesh,MORADABAD,2006,Kharif     ,Bajra,35686,34899
+Uttar Pradesh,MORADABAD,2007,Kharif     ,Bajra,31231,38317
+Uttar Pradesh,MORADABAD,2008,Kharif     ,Bajra,28531,30632
+Uttar Pradesh,MORADABAD,2009,Kharif     ,Bajra,42149,53201
+Uttar Pradesh,MORADABAD,2010,Kharif     ,Bajra,40968,46207
+Uttar Pradesh,MORADABAD,2011,Kharif     ,Bajra,28798,33579
+Uttar Pradesh,MORADABAD,2012,Kharif     ,Bajra,3336,3486
+Uttar Pradesh,MORADABAD,2013,Kharif     ,Bajra,3105,4102
+Uttar Pradesh,MORADABAD,2014,Kharif     ,Bajra,4475,6207
+Uttar Pradesh,MUZAFFARNAGAR,1998,Kharif     ,Bajra,6,7
+Uttar Pradesh,MUZAFFARNAGAR,1999,Kharif     ,Bajra,2,3
+Uttar Pradesh,MUZAFFARNAGAR,2000,Kharif     ,Bajra,27,40
+Uttar Pradesh,MUZAFFARNAGAR,2001,Kharif     ,Bajra,13,15
+Uttar Pradesh,MUZAFFARNAGAR,2002,Kharif     ,Bajra,4,5
+Uttar Pradesh,PILIBHIT,1997,Kharif     ,Bajra,97,134
+Uttar Pradesh,PILIBHIT,1998,Kharif     ,Bajra,13,8
+Uttar Pradesh,PILIBHIT,1999,Kharif     ,Bajra,30,29
+Uttar Pradesh,PILIBHIT,2000,Kharif     ,Bajra,39,56
+Uttar Pradesh,PILIBHIT,2001,Kharif     ,Bajra,8,3
+Uttar Pradesh,PILIBHIT,2002,Kharif     ,Bajra,22,27
+Uttar Pradesh,PILIBHIT,2003,Kharif     ,Bajra,5,40
+Uttar Pradesh,PILIBHIT,2004,Kharif     ,Bajra,10,14
+Uttar Pradesh,PILIBHIT,2005,Kharif     ,Bajra,2,3
+Uttar Pradesh,PILIBHIT,2006,Kharif     ,Bajra,13,18
+Uttar Pradesh,PILIBHIT,2007,Kharif     ,Bajra,13,19
+Uttar Pradesh,PILIBHIT,2009,Kharif     ,Bajra,1,2
+Uttar Pradesh,PILIBHIT,2011,Kharif     ,Bajra,36,60
+Uttar Pradesh,PRATAPGARH,1997,Kharif     ,Bajra,14319,17911
+Uttar Pradesh,PRATAPGARH,1998,Kharif     ,Bajra,19820,12364
+Uttar Pradesh,PRATAPGARH,1999,Kharif     ,Bajra,13987,11311
+Uttar Pradesh,PRATAPGARH,2000,Kharif     ,Bajra,13950,14426
+Uttar Pradesh,PRATAPGARH,2001,Kharif     ,Bajra,14037,16306
+Uttar Pradesh,PRATAPGARH,2002,Kharif     ,Bajra,15006,14088
+Uttar Pradesh,PRATAPGARH,2003,Kharif     ,Bajra,13441,16505
+Uttar Pradesh,PRATAPGARH,2004,Kharif     ,Bajra,11594,11284
+Uttar Pradesh,PRATAPGARH,2005,Kharif     ,Bajra,14590,14015
+Uttar Pradesh,PRATAPGARH,2006,Kharif     ,Bajra,11298,9962
+Uttar Pradesh,PRATAPGARH,2007,Kharif     ,Bajra,12931,9332
+Uttar Pradesh,PRATAPGARH,2008,Kharif     ,Bajra,10680,8804
+Uttar Pradesh,PRATAPGARH,2009,Kharif     ,Bajra,12710,8012
+Uttar Pradesh,PRATAPGARH,2010,Kharif     ,Bajra,10859,8230
+Uttar Pradesh,PRATAPGARH,2011,Kharif     ,Bajra,10687,7900
+Uttar Pradesh,PRATAPGARH,2012,Kharif     ,Bajra,10954,8418
+Uttar Pradesh,PRATAPGARH,2013,Kharif     ,Bajra,10816,8848
+Uttar Pradesh,PRATAPGARH,2014,Kharif     ,Bajra,9860,7733
+Uttar Pradesh,RAE BARELI,1997,Kharif     ,Bajra,2987,3293
+Uttar Pradesh,RAE BARELI,1998,Kharif     ,Bajra,3024,1521
+Uttar Pradesh,RAE BARELI,1999,Kharif     ,Bajra,2582,2809
+Uttar Pradesh,RAE BARELI,2000,Kharif     ,Bajra,2681,2101
+Uttar Pradesh,RAE BARELI,2001,Kharif     ,Bajra,1408,1166
+Uttar Pradesh,RAE BARELI,2002,Kharif     ,Bajra,1353,923
+Uttar Pradesh,RAE BARELI,2003,Kharif     ,Bajra,2007,1596
+Uttar Pradesh,RAE BARELI,2004,Kharif     ,Bajra,1406,1474
+Uttar Pradesh,RAE BARELI,2005,Kharif     ,Bajra,3531,2849
+Uttar Pradesh,RAE BARELI,2006,Kharif     ,Bajra,1530,2247
+Uttar Pradesh,RAE BARELI,2007,Kharif     ,Bajra,1931,1685
+Uttar Pradesh,RAE BARELI,2008,Kharif     ,Bajra,1272,1335
+Uttar Pradesh,RAE BARELI,2009,Kharif     ,Bajra,1528,1244
+Uttar Pradesh,RAE BARELI,2010,Kharif     ,Bajra,771,904
+Uttar Pradesh,RAE BARELI,2011,Kharif     ,Bajra,802,869
+Uttar Pradesh,RAE BARELI,2012,Kharif     ,Bajra,518,445
+Uttar Pradesh,RAE BARELI,2013,Kharif     ,Bajra,668,537
+Uttar Pradesh,RAE BARELI,2014,Kharif     ,Bajra,622,667
+Uttar Pradesh,RAMPUR,1997,Kharif     ,Bajra,3442,2910
+Uttar Pradesh,RAMPUR,1998,Kharif     ,Bajra,3641,2541
+Uttar Pradesh,RAMPUR,1999,Kharif     ,Bajra,3908,2583
+Uttar Pradesh,RAMPUR,2000,Kharif     ,Bajra,3939,3550
+Uttar Pradesh,RAMPUR,2001,Kharif     ,Bajra,3830,5118
+Uttar Pradesh,RAMPUR,2002,Kharif     ,Bajra,3450,2733
+Uttar Pradesh,RAMPUR,2003,Kharif     ,Bajra,3478,3541
+Uttar Pradesh,RAMPUR,2004,Kharif     ,Bajra,3298,3309
+Uttar Pradesh,RAMPUR,2005,Kharif     ,Bajra,3401,3595
+Uttar Pradesh,RAMPUR,2006,Kharif     ,Bajra,3298,4850
+Uttar Pradesh,RAMPUR,2007,Kharif     ,Bajra,2694,4925
+Uttar Pradesh,RAMPUR,2008,Kharif     ,Bajra,2459,3500
+Uttar Pradesh,RAMPUR,2009,Kharif     ,Bajra,2394,2746
+Uttar Pradesh,RAMPUR,2010,Kharif     ,Bajra,1559,926
+Uttar Pradesh,RAMPUR,2011,Kharif     ,Bajra,2617,2805
+Uttar Pradesh,RAMPUR,2012,Kharif     ,Bajra,5984,2663
+Uttar Pradesh,RAMPUR,2013,Kharif     ,Bajra,2352,1409
+Uttar Pradesh,RAMPUR,2014,Kharif     ,Bajra,2031,1995
+Uttar Pradesh,SAHARANPUR,1997,Kharif     ,Bajra,140,204
+Uttar Pradesh,SAHARANPUR,1998,Kharif     ,Bajra,148,171
+Uttar Pradesh,SAHARANPUR,1999,Kharif     ,Bajra,76,107
+Uttar Pradesh,SAHARANPUR,2000,Kharif     ,Bajra,76,112
+Uttar Pradesh,SAHARANPUR,2001,Kharif     ,Bajra,52,59
+Uttar Pradesh,SAHARANPUR,2002,Kharif     ,Bajra,39,50
+Uttar Pradesh,SAHARANPUR,2003,Kharif     ,Bajra,3,4
+Uttar Pradesh,SAHARANPUR,2004,Kharif     ,Bajra,6,9
+Uttar Pradesh,SAHARANPUR,2005,Kharif     ,Bajra,22,32
+Uttar Pradesh,SAHARANPUR,2007,Kharif     ,Bajra,28,44
+Uttar Pradesh,SAHARANPUR,2011,Kharif     ,Bajra,27,50
+Uttar Pradesh,SAHARANPUR,2012,Kharif     ,Bajra,3,6
+Uttar Pradesh,SAHARANPUR,2013,Kharif     ,Bajra,2,4
+Uttar Pradesh,SAHARANPUR,2014,Kharif     ,Bajra,3,6
+Uttar Pradesh,SAMBHAL,2012,Kharif     ,Bajra,70841,88622
+Uttar Pradesh,SAMBHAL,2013,Kharif     ,Bajra,72566,100564
+Uttar Pradesh,SAMBHAL,2014,Kharif     ,Bajra,74352,111751
+Uttar Pradesh,SANT KABEER NAGAR,1997,Kharif     ,Bajra,227,466
+Uttar Pradesh,SANT KABEER NAGAR,1998,Kharif     ,Bajra,227,437
+Uttar Pradesh,SANT KABEER NAGAR,1999,Kharif     ,Bajra,220,457
+Uttar Pradesh,SANT KABEER NAGAR,2000,Kharif     ,Bajra,37,69
+Uttar Pradesh,SANT KABEER NAGAR,2001,Kharif     ,Bajra,24,42
+Uttar Pradesh,SANT KABEER NAGAR,2002,Kharif     ,Bajra,27,46
+Uttar Pradesh,SANT KABEER NAGAR,2003,Kharif     ,Bajra,17,29
+Uttar Pradesh,SANT KABEER NAGAR,2004,Kharif     ,Bajra,23,43
+Uttar Pradesh,SANT KABEER NAGAR,2006,Kharif     ,Bajra,20,33
+Uttar Pradesh,SANT KABEER NAGAR,2007,Kharif     ,Bajra,547,853
+Uttar Pradesh,SANT KABEER NAGAR,2009,Kharif     ,Bajra,27,50
+Uttar Pradesh,SANT KABEER NAGAR,2010,Kharif     ,Bajra,42,79
+Uttar Pradesh,SANT KABEER NAGAR,2011,Kharif     ,Bajra,14,29
+Uttar Pradesh,SANT KABEER NAGAR,2012,Kharif     ,Bajra,10,24
+Uttar Pradesh,SANT KABEER NAGAR,2013,Kharif     ,Bajra,11,21
+Uttar Pradesh,SANT KABEER NAGAR,2014,Kharif     ,Bajra,22,42
+Uttar Pradesh,SANT RAVIDAS NAGAR,1997,Kharif     ,Bajra,8781,12861
+Uttar Pradesh,SANT RAVIDAS NAGAR,1998,Kharif     ,Bajra,9012,12483
+Uttar Pradesh,SANT RAVIDAS NAGAR,1999,Kharif     ,Bajra,8741,16968
+Uttar Pradesh,SANT RAVIDAS NAGAR,2000,Kharif     ,Bajra,9309,9945
+Uttar Pradesh,SANT RAVIDAS NAGAR,2001,Kharif     ,Bajra,8931,13915
+Uttar Pradesh,SANT RAVIDAS NAGAR,2002,Kharif     ,Bajra,8657,15037
+Uttar Pradesh,SANT RAVIDAS NAGAR,2003,Kharif     ,Bajra,8188,8318
+Uttar Pradesh,SANT RAVIDAS NAGAR,2004,Kharif     ,Bajra,9037,9220
+Uttar Pradesh,SANT RAVIDAS NAGAR,2005,Kharif     ,Bajra,8086,8024
+Uttar Pradesh,SANT RAVIDAS NAGAR,2006,Kharif     ,Bajra,6508,5929
+Uttar Pradesh,SANT RAVIDAS NAGAR,2007,Kharif     ,Bajra,9012,7541
+Uttar Pradesh,SANT RAVIDAS NAGAR,2008,Kharif     ,Bajra,6589,5773
+Uttar Pradesh,SANT RAVIDAS NAGAR,2009,Kharif     ,Bajra,7930,8947
+Uttar Pradesh,SANT RAVIDAS NAGAR,2010,Kharif     ,Bajra,9397,10278
+Uttar Pradesh,SANT RAVIDAS NAGAR,2011,Kharif     ,Bajra,8552,15456
+Uttar Pradesh,SANT RAVIDAS NAGAR,2012,Kharif     ,Bajra,8719,10510
+Uttar Pradesh,SANT RAVIDAS NAGAR,2013,Kharif     ,Bajra,9004,12088
+Uttar Pradesh,SANT RAVIDAS NAGAR,2014,Kharif     ,Bajra,9694,11383
+Uttar Pradesh,SHAHJAHANPUR,1997,Kharif     ,Bajra,5189,7173
+Uttar Pradesh,SHAHJAHANPUR,1998,Kharif     ,Bajra,5247,3243
+Uttar Pradesh,SHAHJAHANPUR,1999,Kharif     ,Bajra,4335,4265
+Uttar Pradesh,SHAHJAHANPUR,2000,Kharif     ,Bajra,4617,6650
+Uttar Pradesh,SHAHJAHANPUR,2001,Kharif     ,Bajra,3553,1172
+Uttar Pradesh,SHAHJAHANPUR,2002,Kharif     ,Bajra,5165,3849
+Uttar Pradesh,SHAHJAHANPUR,2003,Kharif     ,Bajra,6171,7226
+Uttar Pradesh,SHAHJAHANPUR,2004,Kharif     ,Bajra,5265,4851
+Uttar Pradesh,SHAHJAHANPUR,2005,Kharif     ,Bajra,3310,2828
+Uttar Pradesh,SHAHJAHANPUR,2006,Kharif     ,Bajra,4666,5291
+Uttar Pradesh,SHAHJAHANPUR,2007,Kharif     ,Bajra,4063,4735
+Uttar Pradesh,SHAHJAHANPUR,2008,Kharif     ,Bajra,2807,3674
+Uttar Pradesh,SHAHJAHANPUR,2009,Kharif     ,Bajra,4722,6181
+Uttar Pradesh,SHAHJAHANPUR,2010,Kharif     ,Bajra,4131,481
+Uttar Pradesh,SHAHJAHANPUR,2011,Kharif     ,Bajra,5753,7151
+Uttar Pradesh,SHAHJAHANPUR,2012,Kharif     ,Bajra,3581,3432
+Uttar Pradesh,SHAHJAHANPUR,2013,Kharif     ,Bajra,3199,4005
+Uttar Pradesh,SHAHJAHANPUR,2014,Kharif     ,Bajra,4166,6795
+Uttar Pradesh,SHRAVASTI,1997,Kharif     ,Bajra,11,20
+Uttar Pradesh,SHRAVASTI,1998,Kharif     ,Bajra,10,15
+Uttar Pradesh,SHRAVASTI,1999,Kharif     ,Bajra,11,19
+Uttar Pradesh,SHRAVASTI,2000,Kharif     ,Bajra,28,48
+Uttar Pradesh,SHRAVASTI,2001,Kharif     ,Bajra,111,178
+Uttar Pradesh,SHRAVASTI,2002,Kharif     ,Bajra,61,94
+Uttar Pradesh,SHRAVASTI,2003,Kharif     ,Bajra,5,7
+Uttar Pradesh,SHRAVASTI,2004,Kharif     ,Bajra,2,4
+Uttar Pradesh,SHRAVASTI,2006,Kharif     ,Bajra,2,4
+Uttar Pradesh,SHRAVASTI,2013,Kharif     ,Bajra,2,4
+Uttar Pradesh,SHRAVASTI,2014,Kharif     ,Bajra,3,6
+Uttar Pradesh,SIDDHARTH NAGAR,1997,Kharif     ,Bajra,16,33
+Uttar Pradesh,SIDDHARTH NAGAR,1998,Kharif     ,Bajra,9,17
+Uttar Pradesh,SIDDHARTH NAGAR,1999,Kharif     ,Bajra,12,25
+Uttar Pradesh,SIDDHARTH NAGAR,2000,Kharif     ,Bajra,12,22
+Uttar Pradesh,SIDDHARTH NAGAR,2001,Kharif     ,Bajra,12,21
+Uttar Pradesh,SIDDHARTH NAGAR,2002,Kharif     ,Bajra,51,86
+Uttar Pradesh,SIDDHARTH NAGAR,2003,Kharif     ,Bajra,84,144
+Uttar Pradesh,SIDDHARTH NAGAR,2004,Kharif     ,Bajra,69,131
+Uttar Pradesh,SIDDHARTH NAGAR,2005,Kharif     ,Bajra,84,147
+Uttar Pradesh,SIDDHARTH NAGAR,2006,Kharif     ,Bajra,92,153
+Uttar Pradesh,SITAPUR,1997,Kharif     ,Bajra,2972,3276
+Uttar Pradesh,SITAPUR,1998,Kharif     ,Bajra,2766,1391
+Uttar Pradesh,SITAPUR,1999,Kharif     ,Bajra,3549,3862
+Uttar Pradesh,SITAPUR,2000,Kharif     ,Bajra,3513,2753
+Uttar Pradesh,SITAPUR,2001,Kharif     ,Bajra,3162,2620
+Uttar Pradesh,SITAPUR,2002,Kharif     ,Bajra,4262,2940
+Uttar Pradesh,SITAPUR,2003,Kharif     ,Bajra,5408,4716
+Uttar Pradesh,SITAPUR,2004,Kharif     ,Bajra,5418,5528
+Uttar Pradesh,SITAPUR,2005,Kharif     ,Bajra,4760,3066
+Uttar Pradesh,SITAPUR,2006,Kharif     ,Bajra,2154,1634
+Uttar Pradesh,SITAPUR,2007,Kharif     ,Bajra,4117,2745
+Uttar Pradesh,SITAPUR,2008,Kharif     ,Bajra,3257,2591
+Uttar Pradesh,SITAPUR,2009,Kharif     ,Bajra,3016,1558
+Uttar Pradesh,SITAPUR,2010,Kharif     ,Bajra,2906,2600
+Uttar Pradesh,SITAPUR,2011,Kharif     ,Bajra,4053,3867
+Uttar Pradesh,SITAPUR,2012,Kharif     ,Bajra,1992,1693
+Uttar Pradesh,SITAPUR,2013,Kharif     ,Bajra,1874,1519
+Uttar Pradesh,SITAPUR,2014,Kharif     ,Bajra,2478,2580
+Uttar Pradesh,SONBHADRA,1997,Kharif     ,Bajra,184,273
+Uttar Pradesh,SONBHADRA,1998,Kharif     ,Bajra,182,239
+Uttar Pradesh,SONBHADRA,1999,Kharif     ,Bajra,138,187
+Uttar Pradesh,SONBHADRA,2000,Kharif     ,Bajra,62,82
+Uttar Pradesh,SONBHADRA,2001,Kharif     ,Bajra,641,814
+Uttar Pradesh,SONBHADRA,2002,Kharif     ,Bajra,489,668
+Uttar Pradesh,SONBHADRA,2003,Kharif     ,Bajra,541,617
+Uttar Pradesh,SONBHADRA,2004,Kharif     ,Bajra,366,387
+Uttar Pradesh,SONBHADRA,2005,Kharif     ,Bajra,884,808
+Uttar Pradesh,SONBHADRA,2006,Kharif     ,Bajra,403,429
+Uttar Pradesh,SONBHADRA,2007,Kharif     ,Bajra,1343,1403
+Uttar Pradesh,SONBHADRA,2008,Kharif     ,Bajra,288,293
+Uttar Pradesh,SONBHADRA,2009,Kharif     ,Bajra,321,426
+Uttar Pradesh,SONBHADRA,2010,Kharif     ,Bajra,156,192
+Uttar Pradesh,SONBHADRA,2011,Kharif     ,Bajra,290,524
+Uttar Pradesh,SONBHADRA,2012,Kharif     ,Bajra,294,246
+Uttar Pradesh,SONBHADRA,2013,Kharif     ,Bajra,182,293
+Uttar Pradesh,SONBHADRA,2014,Kharif     ,Bajra,169,259
+Uttar Pradesh,SULTANPUR,1997,Kharif     ,Bajra,534,554
+Uttar Pradesh,SULTANPUR,1998,Kharif     ,Bajra,509,635
+Uttar Pradesh,SULTANPUR,1999,Kharif     ,Bajra,564,861
+Uttar Pradesh,SULTANPUR,2000,Kharif     ,Bajra,615,955
+Uttar Pradesh,SULTANPUR,2001,Kharif     ,Bajra,502,632
+Uttar Pradesh,SULTANPUR,2002,Kharif     ,Bajra,400,552
+Uttar Pradesh,SULTANPUR,2003,Kharif     ,Bajra,262,358
+Uttar Pradesh,SULTANPUR,2004,Kharif     ,Bajra,313,491
+Uttar Pradesh,SULTANPUR,2005,Kharif     ,Bajra,375,588
+Uttar Pradesh,SULTANPUR,2006,Kharif     ,Bajra,305,456
+Uttar Pradesh,SULTANPUR,2007,Kharif     ,Bajra,489,763
+Uttar Pradesh,SULTANPUR,2008,Kharif     ,Bajra,97,160
+Uttar Pradesh,SULTANPUR,2009,Kharif     ,Bajra,238,398
+Uttar Pradesh,SULTANPUR,2010,Kharif     ,Bajra,159,163
+Uttar Pradesh,SULTANPUR,2011,Kharif     ,Bajra,120,227
+Uttar Pradesh,SULTANPUR,2012,Kharif     ,Bajra,141,119
+Uttar Pradesh,SULTANPUR,2013,Kharif     ,Bajra,158,150
+Uttar Pradesh,SULTANPUR,2014,Kharif     ,Bajra,168,207
+Uttar Pradesh,UNNAO,1997,Kharif     ,Bajra,1098,1211
+Uttar Pradesh,UNNAO,1998,Kharif     ,Bajra,897,451
+Uttar Pradesh,UNNAO,1999,Kharif     ,Bajra,983,1070
+Uttar Pradesh,UNNAO,2000,Kharif     ,Bajra,874,685
+Uttar Pradesh,UNNAO,2001,Kharif     ,Bajra,700,580
+Uttar Pradesh,UNNAO,2002,Kharif     ,Bajra,1089,794
+Uttar Pradesh,UNNAO,2003,Kharif     ,Bajra,1547,1230
+Uttar Pradesh,UNNAO,2004,Kharif     ,Bajra,1665,1746
+Uttar Pradesh,UNNAO,2005,Kharif     ,Bajra,1803,1455
+Uttar Pradesh,UNNAO,2006,Kharif     ,Bajra,2048,3008
+Uttar Pradesh,UNNAO,2007,Kharif     ,Bajra,411,1232
+Uttar Pradesh,UNNAO,2008,Kharif     ,Bajra,1422,1493
+Uttar Pradesh,UNNAO,2009,Kharif     ,Bajra,1053,858
+Uttar Pradesh,UNNAO,2010,Kharif     ,Bajra,1841,2159
+Uttar Pradesh,UNNAO,2011,Kharif     ,Bajra,1827,1981
+Uttar Pradesh,UNNAO,2012,Kharif     ,Bajra,814,699
+Uttar Pradesh,UNNAO,2013,Kharif     ,Bajra,962,773
+Uttar Pradesh,UNNAO,2014,Kharif     ,Bajra,1124,1245
+Uttar Pradesh,VARANASI,1997,Kharif     ,Bajra,5355,5685
+Uttar Pradesh,VARANASI,1998,Kharif     ,Bajra,5248,6740
+Uttar Pradesh,VARANASI,1999,Kharif     ,Bajra,5255,5012
+Uttar Pradesh,VARANASI,2000,Kharif     ,Bajra,5203,5069
+Uttar Pradesh,VARANASI,2001,Kharif     ,Bajra,4169,3763
+Uttar Pradesh,VARANASI,2002,Kharif     ,Bajra,4758,4513
+Uttar Pradesh,VARANASI,2003,Kharif     ,Bajra,4004,4430
+Uttar Pradesh,VARANASI,2004,Kharif     ,Bajra,3538,3069
+Uttar Pradesh,VARANASI,2005,Kharif     ,Bajra,4008,5337
+Uttar Pradesh,VARANASI,2006,Kharif     ,Bajra,2455,3262
+Uttar Pradesh,VARANASI,2007,Kharif     ,Bajra,4497,4847
+Uttar Pradesh,VARANASI,2008,Kharif     ,Bajra,3912,4342
+Uttar Pradesh,VARANASI,2009,Kharif     ,Bajra,4370,5170
+Uttar Pradesh,VARANASI,2010,Kharif     ,Bajra,5626,6550
+Uttar Pradesh,VARANASI,2011,Kharif     ,Bajra,5068,8017
+Uttar Pradesh,VARANASI,2012,Kharif     ,Bajra,5470,6865
+Uttar Pradesh,VARANASI,2013,Kharif     ,Bajra,5283,5550
+Uttar Pradesh,VARANASI,2014,Kharif     ,Bajra,5430,5898
