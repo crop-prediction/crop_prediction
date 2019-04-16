@@ -1,0 +1,1117 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Uttar Pradesh,AGRA,1997,Kharif     ,Jowar,725,406
+Uttar Pradesh,AGRA,1998,Kharif     ,Jowar,1179,431
+Uttar Pradesh,AGRA,1999,Kharif     ,Jowar,1242,979
+Uttar Pradesh,AGRA,2000,Kharif     ,Jowar,1242,1018
+Uttar Pradesh,AGRA,2001,Kharif     ,Jowar,1062,823
+Uttar Pradesh,AGRA,2002,Kharif     ,Jowar,672,667
+Uttar Pradesh,AGRA,2003,Kharif     ,Jowar,645,573
+Uttar Pradesh,AGRA,2004,Kharif     ,Jowar,4289,3237
+Uttar Pradesh,AGRA,2005,Kharif     ,Jowar,581,548
+Uttar Pradesh,AGRA,2006,Kharif     ,Jowar,3380,3844
+Uttar Pradesh,AGRA,2007,Kharif     ,Jowar,108,67
+Uttar Pradesh,AGRA,2008,Kharif     ,Jowar,182,180
+Uttar Pradesh,AGRA,2009,Kharif     ,Jowar,240,229
+Uttar Pradesh,AGRA,2010,Kharif     ,Jowar,192,190
+Uttar Pradesh,AGRA,2011,Kharif     ,Jowar,1244,959
+Uttar Pradesh,AGRA,2012,Kharif     ,Jowar,127,139
+Uttar Pradesh,AGRA,2013,Kharif     ,Jowar,97,87
+Uttar Pradesh,AGRA,2014,Kharif     ,Jowar,70,170
+Uttar Pradesh,ALIGARH,1997,Kharif     ,Jowar,11,6
+Uttar Pradesh,ALIGARH,1998,Kharif     ,Jowar,7,3
+Uttar Pradesh,ALIGARH,1999,Kharif     ,Jowar,5,4
+Uttar Pradesh,ALIGARH,2000,Kharif     ,Jowar,11,9
+Uttar Pradesh,ALIGARH,2001,Kharif     ,Jowar,46,35
+Uttar Pradesh,ALIGARH,2002,Kharif     ,Jowar,3,3
+Uttar Pradesh,ALIGARH,2003,Kharif     ,Jowar,11,10
+Uttar Pradesh,ALIGARH,2004,Kharif     ,Jowar,13,10
+Uttar Pradesh,ALIGARH,2005,Kharif     ,Jowar,10,9
+Uttar Pradesh,ALIGARH,2006,Kharif     ,Jowar,13,15
+Uttar Pradesh,ALIGARH,2007,Kharif     ,Jowar,4,3
+Uttar Pradesh,ALIGARH,2008,Kharif     ,Jowar,2,2
+Uttar Pradesh,ALIGARH,2009,Kharif     ,Jowar,2,1
+Uttar Pradesh,ALLAHABAD,1997,Kharif     ,Jowar,12094,26137
+Uttar Pradesh,ALLAHABAD,1998,Kharif     ,Jowar,12612,10336
+Uttar Pradesh,ALLAHABAD,1999,Kharif     ,Jowar,9966,8451
+Uttar Pradesh,ALLAHABAD,2000,Kharif     ,Jowar,10292,7671
+Uttar Pradesh,ALLAHABAD,2001,Kharif     ,Jowar,10893,10821
+Uttar Pradesh,ALLAHABAD,2002,Kharif     ,Jowar,9729,7545
+Uttar Pradesh,ALLAHABAD,2003,Kharif     ,Jowar,9502,6484
+Uttar Pradesh,ALLAHABAD,2004,Kharif     ,Jowar,5712,7466
+Uttar Pradesh,ALLAHABAD,2005,Kharif     ,Jowar,5686,8669
+Uttar Pradesh,ALLAHABAD,2006,Kharif     ,Jowar,4395,6313
+Uttar Pradesh,ALLAHABAD,2007,Kharif     ,Jowar,4329,5682
+Uttar Pradesh,ALLAHABAD,2008,Kharif     ,Jowar,5203,7248
+Uttar Pradesh,ALLAHABAD,2009,Kharif     ,Jowar,5210,7468
+Uttar Pradesh,ALLAHABAD,2010,Kharif     ,Jowar,5486,6681
+Uttar Pradesh,ALLAHABAD,2011,Kharif     ,Jowar,5371,6889
+Uttar Pradesh,ALLAHABAD,2012,Kharif     ,Jowar,5342,8073
+Uttar Pradesh,ALLAHABAD,2013,Kharif     ,Jowar,5102,5317
+Uttar Pradesh,ALLAHABAD,2014,Kharif     ,Jowar,4406,3435
+Uttar Pradesh,AMBEDKAR NAGAR,1997,Kharif     ,Jowar,1851,1192
+Uttar Pradesh,AMBEDKAR NAGAR,1998,Kharif     ,Jowar,1502,354
+Uttar Pradesh,AMBEDKAR NAGAR,1999,Kharif     ,Jowar,1460,792
+Uttar Pradesh,AMBEDKAR NAGAR,2000,Kharif     ,Jowar,1439,1097
+Uttar Pradesh,AMBEDKAR NAGAR,2001,Kharif     ,Jowar,1094,969
+Uttar Pradesh,AMBEDKAR NAGAR,2002,Kharif     ,Jowar,1233,907
+Uttar Pradesh,AMBEDKAR NAGAR,2003,Kharif     ,Jowar,1278,1115
+Uttar Pradesh,AMBEDKAR NAGAR,2004,Kharif     ,Jowar,1155,853
+Uttar Pradesh,AMBEDKAR NAGAR,2005,Kharif     ,Jowar,1248,852
+Uttar Pradesh,AMBEDKAR NAGAR,2006,Kharif     ,Jowar,1245,1102
+Uttar Pradesh,AMBEDKAR NAGAR,2007,Kharif     ,Jowar,837,719
+Uttar Pradesh,AMBEDKAR NAGAR,2008,Kharif     ,Jowar,740,529
+Uttar Pradesh,AMBEDKAR NAGAR,2009,Kharif     ,Jowar,799,669
+Uttar Pradesh,AMBEDKAR NAGAR,2010,Kharif     ,Jowar,818,669
+Uttar Pradesh,AMBEDKAR NAGAR,2011,Kharif     ,Jowar,593,524
+Uttar Pradesh,AMBEDKAR NAGAR,2012,Kharif     ,Jowar,819,866
+Uttar Pradesh,AMBEDKAR NAGAR,2013,Kharif     ,Jowar,333,161
+Uttar Pradesh,AMBEDKAR NAGAR,2014,Kharif     ,Jowar,710,767
+Uttar Pradesh,AMETHI,2010,Kharif     ,Jowar,4310,2964
+Uttar Pradesh,AMETHI,2011,Kharif     ,Jowar,4388,3561
+Uttar Pradesh,AMETHI,2012,Kharif     ,Jowar,4060,4018
+Uttar Pradesh,AMETHI,2013,Kharif     ,Jowar,3277,1929
+Uttar Pradesh,AMETHI,2014,Kharif     ,Jowar,3331,3598
+Uttar Pradesh,AMROHA,1997,Kharif     ,Jowar,78,84
+Uttar Pradesh,AMROHA,1998,Kharif     ,Jowar,100,80
+Uttar Pradesh,AMROHA,1999,Kharif     ,Jowar,82,69
+Uttar Pradesh,AMROHA,2000,Kharif     ,Jowar,31,22
+Uttar Pradesh,AMROHA,2001,Kharif     ,Jowar,5,5
+Uttar Pradesh,AMROHA,2004,Kharif     ,Jowar,12,12
+Uttar Pradesh,AMROHA,2006,Kharif     ,Jowar,12,14
+Uttar Pradesh,AMROHA,2007,Kharif     ,Jowar,9,5
+Uttar Pradesh,AURAIYA,1997,Kharif     ,Jowar,2487,2972
+Uttar Pradesh,AURAIYA,1998,Kharif     ,Jowar,2498,2210
+Uttar Pradesh,AURAIYA,1999,Kharif     ,Jowar,2261,2482
+Uttar Pradesh,AURAIYA,2000,Kharif     ,Jowar,2015,2280
+Uttar Pradesh,AURAIYA,2001,Kharif     ,Jowar,2796,2083
+Uttar Pradesh,AURAIYA,2002,Kharif     ,Jowar,1776,2190
+Uttar Pradesh,AURAIYA,2003,Kharif     ,Jowar,1933,2491
+Uttar Pradesh,AURAIYA,2004,Kharif     ,Jowar,1768,1762
+Uttar Pradesh,AURAIYA,2005,Kharif     ,Jowar,3052,4192
+Uttar Pradesh,AURAIYA,2006,Kharif     ,Jowar,1486,1676
+Uttar Pradesh,AURAIYA,2007,Kharif     ,Jowar,1533,1879
+Uttar Pradesh,AURAIYA,2008,Kharif     ,Jowar,1760,2248
+Uttar Pradesh,AURAIYA,2009,Kharif     ,Jowar,1116,1194
+Uttar Pradesh,AURAIYA,2010,Kharif     ,Jowar,1198,1405
+Uttar Pradesh,AURAIYA,2011,Kharif     ,Jowar,685,842
+Uttar Pradesh,AURAIYA,2012,Kharif     ,Jowar,1017,1397
+Uttar Pradesh,AURAIYA,2013,Kharif     ,Jowar,847,1178
+Uttar Pradesh,AURAIYA,2014,Kharif     ,Jowar,708,635
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Jowar,14,9
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Jowar,10,6
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Jowar,14,17
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Jowar,12,14
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Jowar,2,2
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Jowar,13,14
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Jowar,15,17
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Jowar,13,14
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Jowar,11,14
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Jowar,8,10
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Jowar,6,5
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Jowar,2,2
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Jowar,3,3
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Jowar,93,107
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Jowar,13,19
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Jowar,5,6
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Jowar,4,4
+Uttar Pradesh,BAGHPAT,1997,Kharif     ,Jowar,36,28
+Uttar Pradesh,BAGHPAT,1998,Kharif     ,Jowar,33,20
+Uttar Pradesh,BAGHPAT,1999,Kharif     ,Jowar,39,30
+Uttar Pradesh,BAGHPAT,2000,Kharif     ,Jowar,56,45
+Uttar Pradesh,BAGHPAT,2001,Kharif     ,Jowar,15,13
+Uttar Pradesh,BAGHPAT,2002,Kharif     ,Jowar,25,23
+Uttar Pradesh,BAGHPAT,2003,Kharif     ,Jowar,57,49
+Uttar Pradesh,BAGHPAT,2004,Kharif     ,Jowar,164,131
+Uttar Pradesh,BAGHPAT,2005,Kharif     ,Jowar,53,43
+Uttar Pradesh,BAGHPAT,2006,Kharif     ,Jowar,127,103
+Uttar Pradesh,BAGHPAT,2007,Kharif     ,Jowar,123,78
+Uttar Pradesh,BAGHPAT,2008,Kharif     ,Jowar,79,60
+Uttar Pradesh,BAGHPAT,2009,Kharif     ,Jowar,13,10
+Uttar Pradesh,BAGHPAT,2011,Kharif     ,Jowar,4,3
+Uttar Pradesh,BAGHPAT,2013,Kharif     ,Jowar,12,10
+Uttar Pradesh,BAHRAICH,1997,Kharif     ,Jowar,347,394
+Uttar Pradesh,BAHRAICH,1998,Kharif     ,Jowar,366,328
+Uttar Pradesh,BAHRAICH,1999,Kharif     ,Jowar,310,209
+Uttar Pradesh,BAHRAICH,2000,Kharif     ,Jowar,301,372
+Uttar Pradesh,BAHRAICH,2001,Kharif     ,Jowar,388,463
+Uttar Pradesh,BAHRAICH,2002,Kharif     ,Jowar,144,164
+Uttar Pradesh,BAHRAICH,2003,Kharif     ,Jowar,96,122
+Uttar Pradesh,BAHRAICH,2004,Kharif     ,Jowar,63,65
+Uttar Pradesh,BAHRAICH,2005,Kharif     ,Jowar,88,96
+Uttar Pradesh,BAHRAICH,2006,Kharif     ,Jowar,50,56
+Uttar Pradesh,BAHRAICH,2007,Kharif     ,Jowar,84,79
+Uttar Pradesh,BAHRAICH,2008,Kharif     ,Jowar,19,21
+Uttar Pradesh,BAHRAICH,2009,Kharif     ,Jowar,32,31
+Uttar Pradesh,BAHRAICH,2010,Kharif     ,Jowar,75,83
+Uttar Pradesh,BAHRAICH,2011,Kharif     ,Jowar,33,30
+Uttar Pradesh,BAHRAICH,2012,Kharif     ,Jowar,47,61
+Uttar Pradesh,BAHRAICH,2013,Kharif     ,Jowar,38,37
+Uttar Pradesh,BAHRAICH,2014,Kharif     ,Jowar,72,74
+Uttar Pradesh,BALLIA,1997,Kharif     ,Jowar,1606,927
+Uttar Pradesh,BALLIA,1998,Kharif     ,Jowar,1749,1089
+Uttar Pradesh,BALLIA,1999,Kharif     ,Jowar,1067,1279
+Uttar Pradesh,BALLIA,2000,Kharif     ,Jowar,1329,1620
+Uttar Pradesh,BALLIA,2001,Kharif     ,Jowar,1606,1709
+Uttar Pradesh,BALLIA,2002,Kharif     ,Jowar,1688,1873
+Uttar Pradesh,BALLIA,2003,Kharif     ,Jowar,1557,1755
+Uttar Pradesh,BALLIA,2004,Kharif     ,Jowar,1570,1660
+Uttar Pradesh,BALLIA,2005,Kharif     ,Jowar,1051,1331
+Uttar Pradesh,BALLIA,2006,Kharif     ,Jowar,2096,2600
+Uttar Pradesh,BALLIA,2007,Kharif     ,Jowar,1515,1301
+Uttar Pradesh,BALLIA,2008,Kharif     ,Jowar,716,869
+Uttar Pradesh,BALLIA,2009,Kharif     ,Jowar,688,747
+Uttar Pradesh,BALLIA,2010,Kharif     ,Jowar,1599,1900
+Uttar Pradesh,BALLIA,2011,Kharif     ,Jowar,1678,1926
+Uttar Pradesh,BALLIA,2012,Kharif     ,Jowar,1683,2409
+Uttar Pradesh,BALLIA,2013,Kharif     ,Jowar,1749,2001
+Uttar Pradesh,BALLIA,2014,Kharif     ,Jowar,1439,1589
+Uttar Pradesh,BALRAMPUR,2000,Kharif     ,Jowar,75,93
+Uttar Pradesh,BALRAMPUR,2001,Kharif     ,Jowar,72,86
+Uttar Pradesh,BALRAMPUR,2004,Kharif     ,Jowar,18,18
+Uttar Pradesh,BALRAMPUR,2006,Kharif     ,Jowar,11,12
+Uttar Pradesh,BALRAMPUR,2008,Kharif     ,Jowar,2,2
+Uttar Pradesh,BALRAMPUR,2009,Kharif     ,Jowar,5,4
+Uttar Pradesh,BALRAMPUR,2011,Kharif     ,Jowar,3,3
+Uttar Pradesh,BALRAMPUR,2012,Kharif     ,Jowar,4,5
+Uttar Pradesh,BALRAMPUR,2014,Kharif     ,Jowar,4,4
+Uttar Pradesh,BANDA,1997,Kharif     ,Jowar,42138,18558
+Uttar Pradesh,BANDA,1998,Kharif     ,Jowar,37190,28060
+Uttar Pradesh,BANDA,1999,Kharif     ,Jowar,40988,35121
+Uttar Pradesh,BANDA,2000,Kharif     ,Jowar,39664,33663
+Uttar Pradesh,BANDA,2001,Kharif     ,Jowar,33365,24314
+Uttar Pradesh,BANDA,2002,Kharif     ,Jowar,31432,20380
+Uttar Pradesh,BANDA,2003,Kharif     ,Jowar,34131,33487
+Uttar Pradesh,BANDA,2004,Kharif     ,Jowar,27139,24553
+Uttar Pradesh,BANDA,2005,Kharif     ,Jowar,24543,23646
+Uttar Pradesh,BANDA,2006,Kharif     ,Jowar,26677,19708
+Uttar Pradesh,BANDA,2007,Kharif     ,Jowar,22793,12798
+Uttar Pradesh,BANDA,2008,Kharif     ,Jowar,21991,10856
+Uttar Pradesh,BANDA,2009,Kharif     ,Jowar,23850,16703
+Uttar Pradesh,BANDA,2010,Kharif     ,Jowar,28557,27863
+Uttar Pradesh,BANDA,2011,Kharif     ,Jowar,25261,28505
+Uttar Pradesh,BANDA,2012,Kharif     ,Jowar,24913,35736
+Uttar Pradesh,BANDA,2013,Kharif     ,Jowar,23603,27040
+Uttar Pradesh,BANDA,2014,Kharif     ,Jowar,23435,26097
+Uttar Pradesh,BARABANKI,1997,Kharif     ,Jowar,5389,3472
+Uttar Pradesh,BARABANKI,1998,Kharif     ,Jowar,4689,1104
+Uttar Pradesh,BARABANKI,1999,Kharif     ,Jowar,4592,2491
+Uttar Pradesh,BARABANKI,2000,Kharif     ,Jowar,4202,3203
+Uttar Pradesh,BARABANKI,2001,Kharif     ,Jowar,4304,4747
+Uttar Pradesh,BARABANKI,2002,Kharif     ,Jowar,3909,2855
+Uttar Pradesh,BARABANKI,2003,Kharif     ,Jowar,4500,3909
+Uttar Pradesh,BARABANKI,2004,Kharif     ,Jowar,4134,3473
+Uttar Pradesh,BARABANKI,2005,Kharif     ,Jowar,3586,1751
+Uttar Pradesh,BARABANKI,2006,Kharif     ,Jowar,3724,4301
+Uttar Pradesh,BARABANKI,2007,Kharif     ,Jowar,4077,3503
+Uttar Pradesh,BARABANKI,2008,Kharif     ,Jowar,2474,1767
+Uttar Pradesh,BARABANKI,2009,Kharif     ,Jowar,2486,2080
+Uttar Pradesh,BARABANKI,2010,Kharif     ,Jowar,1580,2053
+Uttar Pradesh,BARABANKI,2011,Kharif     ,Jowar,1553,1818
+Uttar Pradesh,BARABANKI,2012,Kharif     ,Jowar,1568,1658
+Uttar Pradesh,BARABANKI,2013,Kharif     ,Jowar,1082,522
+Uttar Pradesh,BARABANKI,2014,Kharif     ,Jowar,1124,1214
+Uttar Pradesh,BAREILLY,1997,Kharif     ,Jowar,3596,3269
+Uttar Pradesh,BAREILLY,1998,Kharif     ,Jowar,2903,1378
+Uttar Pradesh,BAREILLY,1999,Kharif     ,Jowar,1330,830
+Uttar Pradesh,BAREILLY,2000,Kharif     ,Jowar,878,739
+Uttar Pradesh,BAREILLY,2001,Kharif     ,Jowar,577,437
+Uttar Pradesh,BAREILLY,2002,Kharif     ,Jowar,568,558
+Uttar Pradesh,BAREILLY,2003,Kharif     ,Jowar,655,581
+Uttar Pradesh,BAREILLY,2004,Kharif     ,Jowar,936,714
+Uttar Pradesh,BAREILLY,2005,Kharif     ,Jowar,704,655
+Uttar Pradesh,BAREILLY,2006,Kharif     ,Jowar,691,708
+Uttar Pradesh,BAREILLY,2007,Kharif     ,Jowar,321,200
+Uttar Pradesh,BAREILLY,2008,Kharif     ,Jowar,270,255
+Uttar Pradesh,BAREILLY,2009,Kharif     ,Jowar,71,59
+Uttar Pradesh,BAREILLY,2010,Kharif     ,Jowar,198,199
+Uttar Pradesh,BAREILLY,2011,Kharif     ,Jowar,108,82
+Uttar Pradesh,BAREILLY,2012,Kharif     ,Jowar,63,68
+Uttar Pradesh,BAREILLY,2013,Kharif     ,Jowar,95,85
+Uttar Pradesh,BAREILLY,2014,Kharif     ,Jowar,25,24
+Uttar Pradesh,BASTI,2001,Kharif     ,Jowar,32,31
+Uttar Pradesh,BASTI,2002,Kharif     ,Jowar,43,51
+Uttar Pradesh,BASTI,2003,Kharif     ,Jowar,33,43
+Uttar Pradesh,BASTI,2004,Kharif     ,Jowar,25,19
+Uttar Pradesh,BASTI,2005,Kharif     ,Jowar,99,131
+Uttar Pradesh,BASTI,2006,Kharif     ,Jowar,22,27
+Uttar Pradesh,BASTI,2007,Kharif     ,Jowar,20,12
+Uttar Pradesh,BASTI,2008,Kharif     ,Jowar,24,24
+Uttar Pradesh,BASTI,2009,Kharif     ,Jowar,27,26
+Uttar Pradesh,BASTI,2011,Kharif     ,Jowar,77,92
+Uttar Pradesh,BIJNOR,1997,Kharif     ,Jowar,49,53
+Uttar Pradesh,BIJNOR,1998,Kharif     ,Jowar,2,1
+Uttar Pradesh,BIJNOR,1999,Kharif     ,Jowar,5,4
+Uttar Pradesh,BIJNOR,2000,Kharif     ,Jowar,5,3
+Uttar Pradesh,BIJNOR,2002,Kharif     ,Jowar,9,8
+Uttar Pradesh,BIJNOR,2003,Kharif     ,Jowar,15,19
+Uttar Pradesh,BIJNOR,2005,Kharif     ,Jowar,10,10
+Uttar Pradesh,BIJNOR,2012,Kharif     ,Jowar,3,2
+Uttar Pradesh,BUDAUN,1997,Kharif     ,Jowar,5164,5435
+Uttar Pradesh,BUDAUN,1998,Kharif     ,Jowar,3005,1427
+Uttar Pradesh,BUDAUN,1999,Kharif     ,Jowar,3251,2030
+Uttar Pradesh,BUDAUN,2000,Kharif     ,Jowar,2509,2111
+Uttar Pradesh,BUDAUN,2001,Kharif     ,Jowar,2243,1698
+Uttar Pradesh,BUDAUN,2002,Kharif     ,Jowar,1597,1570
+Uttar Pradesh,BUDAUN,2003,Kharif     ,Jowar,1436,1275
+Uttar Pradesh,BUDAUN,2004,Kharif     ,Jowar,1309,999
+Uttar Pradesh,BUDAUN,2005,Kharif     ,Jowar,1480,1376
+Uttar Pradesh,BUDAUN,2006,Kharif     ,Jowar,949,973
+Uttar Pradesh,BUDAUN,2007,Kharif     ,Jowar,1219,760
+Uttar Pradesh,BUDAUN,2008,Kharif     ,Jowar,650,614
+Uttar Pradesh,BUDAUN,2009,Kharif     ,Jowar,392,324
+Uttar Pradesh,BUDAUN,2010,Kharif     ,Jowar,499,503
+Uttar Pradesh,BUDAUN,2011,Kharif     ,Jowar,521,395
+Uttar Pradesh,BUDAUN,2012,Kharif     ,Jowar,465,501
+Uttar Pradesh,BUDAUN,2013,Kharif     ,Jowar,254,229
+Uttar Pradesh,BUDAUN,2014,Kharif     ,Jowar,64,61
+Uttar Pradesh,BULANDSHAHR,1997,Kharif     ,Jowar,487,386
+Uttar Pradesh,BULANDSHAHR,1998,Kharif     ,Jowar,543,320
+Uttar Pradesh,BULANDSHAHR,1999,Kharif     ,Jowar,343,264
+Uttar Pradesh,BULANDSHAHR,2000,Kharif     ,Jowar,338,275
+Uttar Pradesh,BULANDSHAHR,2001,Kharif     ,Jowar,381,329
+Uttar Pradesh,BULANDSHAHR,2002,Kharif     ,Jowar,29,271
+Uttar Pradesh,BULANDSHAHR,2003,Kharif     ,Jowar,102,88
+Uttar Pradesh,BULANDSHAHR,2004,Kharif     ,Jowar,92,74
+Uttar Pradesh,BULANDSHAHR,2005,Kharif     ,Jowar,359,289
+Uttar Pradesh,BULANDSHAHR,2006,Kharif     ,Jowar,110,89
+Uttar Pradesh,BULANDSHAHR,2007,Kharif     ,Jowar,136,86
+Uttar Pradesh,BULANDSHAHR,2008,Kharif     ,Jowar,20,15
+Uttar Pradesh,BULANDSHAHR,2009,Kharif     ,Jowar,43,32
+Uttar Pradesh,BULANDSHAHR,2010,Kharif     ,Jowar,163,132
+Uttar Pradesh,BULANDSHAHR,2011,Kharif     ,Jowar,1759,1331
+Uttar Pradesh,BULANDSHAHR,2012,Kharif     ,Jowar,104,115
+Uttar Pradesh,BULANDSHAHR,2013,Kharif     ,Jowar,187,151
+Uttar Pradesh,BULANDSHAHR,2014,Kharif     ,Jowar,100,73
+Uttar Pradesh,CHANDAULI,1997,Kharif     ,Jowar,958,929
+Uttar Pradesh,CHANDAULI,1998,Kharif     ,Jowar,972,667
+Uttar Pradesh,CHANDAULI,1999,Kharif     ,Jowar,931,812
+Uttar Pradesh,CHANDAULI,2000,Kharif     ,Jowar,937,1766
+Uttar Pradesh,CHANDAULI,2001,Kharif     ,Jowar,750,690
+Uttar Pradesh,CHANDAULI,2002,Kharif     ,Jowar,711,623
+Uttar Pradesh,CHANDAULI,2003,Kharif     ,Jowar,717,672
+Uttar Pradesh,CHANDAULI,2004,Kharif     ,Jowar,873,1111
+Uttar Pradesh,CHANDAULI,2005,Kharif     ,Jowar,574,832
+Uttar Pradesh,CHANDAULI,2006,Kharif     ,Jowar,1214,1623
+Uttar Pradesh,CHANDAULI,2007,Kharif     ,Jowar,373,455
+Uttar Pradesh,CHANDAULI,2008,Kharif     ,Jowar,720,880
+Uttar Pradesh,CHANDAULI,2009,Kharif     ,Jowar,896,990
+Uttar Pradesh,CHANDAULI,2010,Kharif     ,Jowar,770,933
+Uttar Pradesh,CHANDAULI,2011,Kharif     ,Jowar,1714,1815
+Uttar Pradesh,CHANDAULI,2012,Kharif     ,Jowar,723,984
+Uttar Pradesh,CHANDAULI,2013,Kharif     ,Jowar,1053,851
+Uttar Pradesh,CHANDAULI,2014,Kharif     ,Jowar,645,767
+Uttar Pradesh,CHITRAKOOT,1997,Kharif     ,Jowar,29457,19907
+Uttar Pradesh,CHITRAKOOT,1998,Kharif     ,Jowar,27910,20554
+Uttar Pradesh,CHITRAKOOT,1999,Kharif     ,Jowar,27645,19628
+Uttar Pradesh,CHITRAKOOT,2000,Kharif     ,Jowar,28685,24182
+Uttar Pradesh,CHITRAKOOT,2001,Kharif     ,Jowar,25996,16956
+Uttar Pradesh,CHITRAKOOT,2002,Kharif     ,Jowar,15877,10167
+Uttar Pradesh,CHITRAKOOT,2003,Kharif     ,Jowar,21883,19519
+Uttar Pradesh,CHITRAKOOT,2004,Kharif     ,Jowar,17673,19385
+Uttar Pradesh,CHITRAKOOT,2005,Kharif     ,Jowar,18960,20641
+Uttar Pradesh,CHITRAKOOT,2006,Kharif     ,Jowar,16072,10088
+Uttar Pradesh,CHITRAKOOT,2007,Kharif     ,Jowar,17196,7500
+Uttar Pradesh,CHITRAKOOT,2008,Kharif     ,Jowar,14864,11480
+Uttar Pradesh,CHITRAKOOT,2009,Kharif     ,Jowar,16451,14272
+Uttar Pradesh,CHITRAKOOT,2010,Kharif     ,Jowar,15584,12975
+Uttar Pradesh,CHITRAKOOT,2011,Kharif     ,Jowar,16819,18951
+Uttar Pradesh,CHITRAKOOT,2012,Kharif     ,Jowar,18046,22351
+Uttar Pradesh,CHITRAKOOT,2013,Kharif     ,Jowar,12794,11833
+Uttar Pradesh,CHITRAKOOT,2014,Kharif     ,Jowar,12446,11378
+Uttar Pradesh,DEORIA,1997,Kharif     ,Jowar,193,191
+Uttar Pradesh,DEORIA,1998,Kharif     ,Jowar,133,97
+Uttar Pradesh,DEORIA,1999,Kharif     ,Jowar,104,135
+Uttar Pradesh,DEORIA,2000,Kharif     ,Jowar,74,93
+Uttar Pradesh,DEORIA,2001,Kharif     ,Jowar,86,115
+Uttar Pradesh,DEORIA,2002,Kharif     ,Jowar,65,88
+Uttar Pradesh,DEORIA,2003,Kharif     ,Jowar,91,126
+Uttar Pradesh,DEORIA,2004,Kharif     ,Jowar,46,54
+Uttar Pradesh,DEORIA,2005,Kharif     ,Jowar,83,107
+Uttar Pradesh,DEORIA,2006,Kharif     ,Jowar,70,88
+Uttar Pradesh,DEORIA,2007,Kharif     ,Jowar,32,26
+Uttar Pradesh,DEORIA,2008,Kharif     ,Jowar,38,46
+Uttar Pradesh,DEORIA,2009,Kharif     ,Jowar,85,86
+Uttar Pradesh,DEORIA,2010,Kharif     ,Jowar,31,34
+Uttar Pradesh,DEORIA,2011,Kharif     ,Jowar,86,74
+Uttar Pradesh,DEORIA,2012,Kharif     ,Jowar,27,41
+Uttar Pradesh,DEORIA,2013,Kharif     ,Jowar,63,81
+Uttar Pradesh,DEORIA,2014,Kharif     ,Jowar,44,49
+Uttar Pradesh,ETAH,1997,Kharif     ,Jowar,538,301
+Uttar Pradesh,ETAH,1998,Kharif     ,Jowar,26,10
+Uttar Pradesh,ETAH,1999,Kharif     ,Jowar,168,132
+Uttar Pradesh,ETAH,2000,Kharif     ,Jowar,24,20
+Uttar Pradesh,ETAH,2001,Kharif     ,Jowar,497,385
+Uttar Pradesh,ETAH,2002,Kharif     ,Jowar,44,44
+Uttar Pradesh,ETAH,2003,Kharif     ,Jowar,123,109
+Uttar Pradesh,ETAH,2004,Kharif     ,Jowar,394,297
+Uttar Pradesh,ETAH,2005,Kharif     ,Jowar,123,116
+Uttar Pradesh,ETAH,2006,Kharif     ,Jowar,395,449
+Uttar Pradesh,ETAH,2007,Kharif     ,Jowar,287,179
+Uttar Pradesh,ETAH,2009,Kharif     ,Jowar,19,17
+Uttar Pradesh,ETAWAH,1997,Kharif     ,Jowar,857,1024
+Uttar Pradesh,ETAWAH,1998,Kharif     ,Jowar,749,662
+Uttar Pradesh,ETAWAH,1999,Kharif     ,Jowar,639,701
+Uttar Pradesh,ETAWAH,2000,Kharif     ,Jowar,857,808
+Uttar Pradesh,ETAWAH,2001,Kharif     ,Jowar,458,428
+Uttar Pradesh,ETAWAH,2002,Kharif     ,Jowar,604,659
+Uttar Pradesh,ETAWAH,2003,Kharif     ,Jowar,200,181
+Uttar Pradesh,ETAWAH,2004,Kharif     ,Jowar,239,177
+Uttar Pradesh,ETAWAH,2005,Kharif     ,Jowar,106,121
+Uttar Pradesh,ETAWAH,2006,Kharif     ,Jowar,1663,1728
+Uttar Pradesh,ETAWAH,2008,Kharif     ,Jowar,147,188
+Uttar Pradesh,ETAWAH,2009,Kharif     ,Jowar,536,573
+Uttar Pradesh,ETAWAH,2010,Kharif     ,Jowar,60,70
+Uttar Pradesh,ETAWAH,2011,Kharif     ,Jowar,31,38
+Uttar Pradesh,ETAWAH,2012,Kharif     ,Jowar,64,88
+Uttar Pradesh,ETAWAH,2013,Kharif     ,Jowar,192,267
+Uttar Pradesh,ETAWAH,2014,Kharif     ,Jowar,131,117
+Uttar Pradesh,FAIZABAD,1997,Kharif     ,Jowar,3603,2321
+Uttar Pradesh,FAIZABAD,1998,Kharif     ,Jowar,3099,730
+Uttar Pradesh,FAIZABAD,1999,Kharif     ,Jowar,3140,1704
+Uttar Pradesh,FAIZABAD,2000,Kharif     ,Jowar,2974,2266
+Uttar Pradesh,FAIZABAD,2001,Kharif     ,Jowar,2821,1122
+Uttar Pradesh,FAIZABAD,2002,Kharif     ,Jowar,3025,1619
+Uttar Pradesh,FAIZABAD,2003,Kharif     ,Jowar,2157,1212
+Uttar Pradesh,FAIZABAD,2004,Kharif     ,Jowar,2130,1572
+Uttar Pradesh,FAIZABAD,2005,Kharif     ,Jowar,872,419
+Uttar Pradesh,FAIZABAD,2006,Kharif     ,Jowar,2195,1943
+Uttar Pradesh,FAIZABAD,2007,Kharif     ,Jowar,2356,2024
+Uttar Pradesh,FAIZABAD,2008,Kharif     ,Jowar,2195,1568
+Uttar Pradesh,FAIZABAD,2009,Kharif     ,Jowar,2377,1989
+Uttar Pradesh,FAIZABAD,2010,Kharif     ,Jowar,2153,1761
+Uttar Pradesh,FAIZABAD,2011,Kharif     ,Jowar,2132,1886
+Uttar Pradesh,FAIZABAD,2012,Kharif     ,Jowar,1611,1704
+Uttar Pradesh,FAIZABAD,2013,Kharif     ,Jowar,1766,853
+Uttar Pradesh,FAIZABAD,2014,Kharif     ,Jowar,2011,2172
+Uttar Pradesh,FARRUKHABAD,1997,Kharif     ,Jowar,3946,4716
+Uttar Pradesh,FARRUKHABAD,1998,Kharif     ,Jowar,2977,2633
+Uttar Pradesh,FARRUKHABAD,1999,Kharif     ,Jowar,2686,2949
+Uttar Pradesh,FARRUKHABAD,2000,Kharif     ,Jowar,2653,2502
+Uttar Pradesh,FARRUKHABAD,2001,Kharif     ,Jowar,1635,1527
+Uttar Pradesh,FARRUKHABAD,2002,Kharif     ,Jowar,1239,1353
+Uttar Pradesh,FARRUKHABAD,2003,Kharif     ,Jowar,1464,1326
+Uttar Pradesh,FARRUKHABAD,2004,Kharif     ,Jowar,2435,1807
+Uttar Pradesh,FARRUKHABAD,2005,Kharif     ,Jowar,1910,2176
+Uttar Pradesh,FARRUKHABAD,2006,Kharif     ,Jowar,2075,2156
+Uttar Pradesh,FARRUKHABAD,2007,Kharif     ,Jowar,1570,1397
+Uttar Pradesh,FARRUKHABAD,2008,Kharif     ,Jowar,1480,1890
+Uttar Pradesh,FARRUKHABAD,2009,Kharif     ,Jowar,897,960
+Uttar Pradesh,FARRUKHABAD,2010,Kharif     ,Jowar,2729,3200
+Uttar Pradesh,FARRUKHABAD,2011,Kharif     ,Jowar,855,1052
+Uttar Pradesh,FARRUKHABAD,2012,Kharif     ,Jowar,1198,1646
+Uttar Pradesh,FARRUKHABAD,2013,Kharif     ,Jowar,833,1158
+Uttar Pradesh,FARRUKHABAD,2014,Kharif     ,Jowar,874,784
+Uttar Pradesh,FATEHPUR,1997,Kharif     ,Jowar,28493,21896
+Uttar Pradesh,FATEHPUR,1998,Kharif     ,Jowar,26401,18752
+Uttar Pradesh,FATEHPUR,1999,Kharif     ,Jowar,26711,26868
+Uttar Pradesh,FATEHPUR,2000,Kharif     ,Jowar,26984,30594
+Uttar Pradesh,FATEHPUR,2001,Kharif     ,Jowar,26347,27715
+Uttar Pradesh,FATEHPUR,2002,Kharif     ,Jowar,22938,24061
+Uttar Pradesh,FATEHPUR,2003,Kharif     ,Jowar,24293,25982
+Uttar Pradesh,FATEHPUR,2004,Kharif     ,Jowar,13197,27780
+Uttar Pradesh,FATEHPUR,2005,Kharif     ,Jowar,11971,20264
+Uttar Pradesh,FATEHPUR,2006,Kharif     ,Jowar,11459,16139
+Uttar Pradesh,FATEHPUR,2007,Kharif     ,Jowar,11994,19993
+Uttar Pradesh,FATEHPUR,2008,Kharif     ,Jowar,9029,11809
+Uttar Pradesh,FATEHPUR,2009,Kharif     ,Jowar,8000,11601
+Uttar Pradesh,FATEHPUR,2010,Kharif     ,Jowar,10619,15481
+Uttar Pradesh,FATEHPUR,2011,Kharif     ,Jowar,9212,15643
+Uttar Pradesh,FATEHPUR,2012,Kharif     ,Jowar,9509,15060
+Uttar Pradesh,FATEHPUR,2013,Kharif     ,Jowar,8091,11385
+Uttar Pradesh,FATEHPUR,2014,Kharif     ,Jowar,8214,5050
+Uttar Pradesh,FIROZABAD,1997,Kharif     ,Jowar,224,125
+Uttar Pradesh,FIROZABAD,1998,Kharif     ,Jowar,222,81
+Uttar Pradesh,FIROZABAD,1999,Kharif     ,Jowar,403,318
+Uttar Pradesh,FIROZABAD,2000,Kharif     ,Jowar,194,159
+Uttar Pradesh,FIROZABAD,2001,Kharif     ,Jowar,318,246
+Uttar Pradesh,FIROZABAD,2002,Kharif     ,Jowar,218,216
+Uttar Pradesh,FIROZABAD,2003,Kharif     ,Jowar,226,201
+Uttar Pradesh,FIROZABAD,2004,Kharif     ,Jowar,143,108
+Uttar Pradesh,FIROZABAD,2005,Kharif     ,Jowar,205,193
+Uttar Pradesh,FIROZABAD,2006,Kharif     ,Jowar,197,224
+Uttar Pradesh,FIROZABAD,2007,Kharif     ,Jowar,125,78
+Uttar Pradesh,FIROZABAD,2008,Kharif     ,Jowar,86,85
+Uttar Pradesh,FIROZABAD,2009,Kharif     ,Jowar,122,116
+Uttar Pradesh,FIROZABAD,2010,Kharif     ,Jowar,35,35
+Uttar Pradesh,FIROZABAD,2011,Kharif     ,Jowar,2458,1896
+Uttar Pradesh,FIROZABAD,2012,Kharif     ,Jowar,267,292
+Uttar Pradesh,FIROZABAD,2013,Kharif     ,Jowar,91,81
+Uttar Pradesh,FIROZABAD,2014,Kharif     ,Jowar,63,153
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1997,Kharif     ,Jowar,263,209
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1998,Kharif     ,Jowar,214,126
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1999,Kharif     ,Jowar,215,165
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2000,Kharif     ,Jowar,214,174
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2001,Kharif     ,Jowar,231,199
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2002,Kharif     ,Jowar,1,1
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2003,Kharif     ,Jowar,1230,1060
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2004,Kharif     ,Jowar,45,36
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2005,Kharif     ,Jowar,1376,1108
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2006,Kharif     ,Jowar,39,31
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2008,Kharif     ,Jowar,11,9
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2009,Kharif     ,Jowar,11,8
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2010,Kharif     ,Jowar,11,9
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2012,Kharif     ,Jowar,1,1
+Uttar Pradesh,GHAZIABAD,1997,Kharif     ,Jowar,282,224
+Uttar Pradesh,GHAZIABAD,1998,Kharif     ,Jowar,224,132
+Uttar Pradesh,GHAZIABAD,1999,Kharif     ,Jowar,101,78
+Uttar Pradesh,GHAZIABAD,2000,Kharif     ,Jowar,119,97
+Uttar Pradesh,GHAZIABAD,2001,Kharif     ,Jowar,79,68
+Uttar Pradesh,GHAZIABAD,2002,Kharif     ,Jowar,65,59
+Uttar Pradesh,GHAZIABAD,2003,Kharif     ,Jowar,20,17
+Uttar Pradesh,GHAZIABAD,2004,Kharif     ,Jowar,16,13
+Uttar Pradesh,GHAZIABAD,2005,Kharif     ,Jowar,18,15
+Uttar Pradesh,GHAZIABAD,2007,Kharif     ,Jowar,1,1
+Uttar Pradesh,GHAZIABAD,2009,Kharif     ,Jowar,40,30
+Uttar Pradesh,GHAZIABAD,2010,Kharif     ,Jowar,15,12
+Uttar Pradesh,GHAZIABAD,2011,Kharif     ,Jowar,4,3
+Uttar Pradesh,GHAZIABAD,2012,Kharif     ,Jowar,8,9
+Uttar Pradesh,GHAZIABAD,2013,Kharif     ,Jowar,2,1
+Uttar Pradesh,GHAZIPUR,1997,Kharif     ,Jowar,3701,3589
+Uttar Pradesh,GHAZIPUR,1998,Kharif     ,Jowar,3829,2630
+Uttar Pradesh,GHAZIPUR,1999,Kharif     ,Jowar,3758,3276
+Uttar Pradesh,GHAZIPUR,2000,Kharif     ,Jowar,3746,7058
+Uttar Pradesh,GHAZIPUR,2001,Kharif     ,Jowar,3443,3717
+Uttar Pradesh,GHAZIPUR,2002,Kharif     ,Jowar,3697,4145
+Uttar Pradesh,GHAZIPUR,2003,Kharif     ,Jowar,3556,2985
+Uttar Pradesh,GHAZIPUR,2004,Kharif     ,Jowar,3293,4191
+Uttar Pradesh,GHAZIPUR,2005,Kharif     ,Jowar,2432,3910
+Uttar Pradesh,GHAZIPUR,2006,Kharif     ,Jowar,3753,5533
+Uttar Pradesh,GHAZIPUR,2007,Kharif     ,Jowar,2949,5114
+Uttar Pradesh,GHAZIPUR,2008,Kharif     ,Jowar,2872,3510
+Uttar Pradesh,GHAZIPUR,2009,Kharif     ,Jowar,3122,3448
+Uttar Pradesh,GHAZIPUR,2010,Kharif     ,Jowar,3165,3836
+Uttar Pradesh,GHAZIPUR,2011,Kharif     ,Jowar,2878,3047
+Uttar Pradesh,GHAZIPUR,2012,Kharif     ,Jowar,2270,4127
+Uttar Pradesh,GHAZIPUR,2013,Kharif     ,Jowar,2775,2186
+Uttar Pradesh,GHAZIPUR,2014,Kharif     ,Jowar,2916,4589
+Uttar Pradesh,GONDA,1997,Kharif     ,Jowar,570,647
+Uttar Pradesh,GONDA,1998,Kharif     ,Jowar,550,493
+Uttar Pradesh,GONDA,1999,Kharif     ,Jowar,421,285
+Uttar Pradesh,GONDA,2000,Kharif     ,Jowar,247,305
+Uttar Pradesh,GONDA,2001,Kharif     ,Jowar,82,98
+Uttar Pradesh,GONDA,2002,Kharif     ,Jowar,67,76
+Uttar Pradesh,GONDA,2003,Kharif     ,Jowar,55,70
+Uttar Pradesh,GONDA,2005,Kharif     ,Jowar,20,22
+Uttar Pradesh,GONDA,2007,Kharif     ,Jowar,59,56
+Uttar Pradesh,GONDA,2008,Kharif     ,Jowar,25,28
+Uttar Pradesh,GONDA,2009,Kharif     ,Jowar,97,93
+Uttar Pradesh,GONDA,2010,Kharif     ,Jowar,192,212
+Uttar Pradesh,GORAKHPUR,1997,Kharif     ,Jowar,47,47
+Uttar Pradesh,GORAKHPUR,1998,Kharif     ,Jowar,23,17
+Uttar Pradesh,GORAKHPUR,1999,Kharif     ,Jowar,94,122
+Uttar Pradesh,GORAKHPUR,2000,Kharif     ,Jowar,42,53
+Uttar Pradesh,GORAKHPUR,2001,Kharif     ,Jowar,23,31
+Uttar Pradesh,GORAKHPUR,2002,Kharif     ,Jowar,131,178
+Uttar Pradesh,GORAKHPUR,2003,Kharif     ,Jowar,29,40
+Uttar Pradesh,GORAKHPUR,2004,Kharif     ,Jowar,29,34
+Uttar Pradesh,GORAKHPUR,2005,Kharif     ,Jowar,23,29
+Uttar Pradesh,GORAKHPUR,2006,Kharif     ,Jowar,29,37
+Uttar Pradesh,GORAKHPUR,2007,Kharif     ,Jowar,28,22
+Uttar Pradesh,GORAKHPUR,2008,Kharif     ,Jowar,40,48
+Uttar Pradesh,GORAKHPUR,2009,Kharif     ,Jowar,4,4
+Uttar Pradesh,GORAKHPUR,2010,Kharif     ,Jowar,3,3
+Uttar Pradesh,HAMIRPUR,1997,Kharif     ,Jowar,41874,40752
+Uttar Pradesh,HAMIRPUR,1998,Kharif     ,Jowar,32113,19769
+Uttar Pradesh,HAMIRPUR,1999,Kharif     ,Jowar,36712,30367
+Uttar Pradesh,HAMIRPUR,2000,Kharif     ,Jowar,36657,29619
+Uttar Pradesh,HAMIRPUR,2001,Kharif     ,Jowar,35318,37705
+Uttar Pradesh,HAMIRPUR,2002,Kharif     ,Jowar,31614,27317
+Uttar Pradesh,HAMIRPUR,2003,Kharif     ,Jowar,34113,33446
+Uttar Pradesh,HAMIRPUR,2004,Kharif     ,Jowar,24681,20061
+Uttar Pradesh,HAMIRPUR,2005,Kharif     ,Jowar,20933,11362
+Uttar Pradesh,HAMIRPUR,2006,Kharif     ,Jowar,28590,15858
+Uttar Pradesh,HAMIRPUR,2007,Kharif     ,Jowar,20471,3552
+Uttar Pradesh,HAMIRPUR,2008,Kharif     ,Jowar,15529,6433
+Uttar Pradesh,HAMIRPUR,2009,Kharif     ,Jowar,19635,8432
+Uttar Pradesh,HAMIRPUR,2010,Kharif     ,Jowar,22648,16551
+Uttar Pradesh,HAMIRPUR,2011,Kharif     ,Jowar,19213,18902
+Uttar Pradesh,HAMIRPUR,2012,Kharif     ,Jowar,18074,23853
+Uttar Pradesh,HAMIRPUR,2013,Kharif     ,Jowar,15537,16574
+Uttar Pradesh,HAMIRPUR,2014,Kharif     ,Jowar,15783,12989
+Uttar Pradesh,HARDOI,1997,Kharif     ,Jowar,18273,20364
+Uttar Pradesh,HARDOI,1998,Kharif     ,Jowar,18087,11573
+Uttar Pradesh,HARDOI,1999,Kharif     ,Jowar,17826,17723
+Uttar Pradesh,HARDOI,2000,Kharif     ,Jowar,15677,14096
+Uttar Pradesh,HARDOI,2001,Kharif     ,Jowar,11736,11938
+Uttar Pradesh,HARDOI,2002,Kharif     ,Jowar,9279,12937
+Uttar Pradesh,HARDOI,2003,Kharif     ,Jowar,11164,10799
+Uttar Pradesh,HARDOI,2004,Kharif     ,Jowar,9371,8984
+Uttar Pradesh,HARDOI,2005,Kharif     ,Jowar,13753,13934
+Uttar Pradesh,HARDOI,2006,Kharif     ,Jowar,3862,4273
+Uttar Pradesh,HARDOI,2007,Kharif     ,Jowar,6910,5068
+Uttar Pradesh,HARDOI,2008,Kharif     ,Jowar,6943,7536
+Uttar Pradesh,HARDOI,2009,Kharif     ,Jowar,10161,8973
+Uttar Pradesh,HARDOI,2010,Kharif     ,Jowar,6511,7052
+Uttar Pradesh,HARDOI,2011,Kharif     ,Jowar,5969,4366
+Uttar Pradesh,HARDOI,2012,Kharif     ,Jowar,6175,7502
+Uttar Pradesh,HARDOI,2013,Kharif     ,Jowar,4039,4363
+Uttar Pradesh,HARDOI,2014,Kharif     ,Jowar,4727,4585
+Uttar Pradesh,HATHRAS,1997,Kharif     ,Jowar,4,2
+Uttar Pradesh,HATHRAS,1998,Kharif     ,Jowar,3,1
+Uttar Pradesh,HATHRAS,1999,Kharif     ,Jowar,22,17
+Uttar Pradesh,HATHRAS,2000,Kharif     ,Jowar,27,22
+Uttar Pradesh,HATHRAS,2001,Kharif     ,Jowar,36,28
+Uttar Pradesh,HATHRAS,2002,Kharif     ,Jowar,21,21
+Uttar Pradesh,HATHRAS,2003,Kharif     ,Jowar,28,25
+Uttar Pradesh,HATHRAS,2004,Kharif     ,Jowar,52,39
+Uttar Pradesh,HATHRAS,2005,Kharif     ,Jowar,6,6
+Uttar Pradesh,HATHRAS,2007,Kharif     ,Jowar,5,3
+Uttar Pradesh,HATHRAS,2008,Kharif     ,Jowar,29,29
+Uttar Pradesh,HATHRAS,2009,Kharif     ,Jowar,9,8
+Uttar Pradesh,HATHRAS,2010,Kharif     ,Jowar,2,2
+Uttar Pradesh,HATHRAS,2012,Kharif     ,Jowar,1,1
+Uttar Pradesh,HATHRAS,2013,Kharif     ,Jowar,10,9
+Uttar Pradesh,HATHRAS,2014,Kharif     ,Jowar,2,2
+Uttar Pradesh,JALAUN,1997,Kharif     ,Jowar,15024,10065
+Uttar Pradesh,JALAUN,1998,Kharif     ,Jowar,12785,10191
+Uttar Pradesh,JALAUN,1999,Kharif     ,Jowar,13732,13320
+Uttar Pradesh,JALAUN,2000,Kharif     ,Jowar,14643,14288
+Uttar Pradesh,JALAUN,2001,Kharif     ,Jowar,14573,21188
+Uttar Pradesh,JALAUN,2002,Kharif     ,Jowar,10123,8107
+Uttar Pradesh,JALAUN,2003,Kharif     ,Jowar,12650,14200
+Uttar Pradesh,JALAUN,2004,Kharif     ,Jowar,8985,12114
+Uttar Pradesh,JALAUN,2005,Kharif     ,Jowar,6225,8799
+Uttar Pradesh,JALAUN,2006,Kharif     ,Jowar,11791,19857
+Uttar Pradesh,JALAUN,2007,Kharif     ,Jowar,10657,2634
+Uttar Pradesh,JALAUN,2008,Kharif     ,Jowar,9105,16744
+Uttar Pradesh,JALAUN,2009,Kharif     ,Jowar,9248,10501
+Uttar Pradesh,JALAUN,2010,Kharif     ,Jowar,8954,9899
+Uttar Pradesh,JALAUN,2011,Kharif     ,Jowar,5243,5738
+Uttar Pradesh,JALAUN,2012,Kharif     ,Jowar,7244,13737
+Uttar Pradesh,JALAUN,2013,Kharif     ,Jowar,6656,8402
+Uttar Pradesh,JALAUN,2014,Kharif     ,Jowar,6810,5877
+Uttar Pradesh,JAUNPUR,1997,Kharif     ,Jowar,4984,4833
+Uttar Pradesh,JAUNPUR,1998,Kharif     ,Jowar,4720,3242
+Uttar Pradesh,JAUNPUR,1999,Kharif     ,Jowar,4651,4055
+Uttar Pradesh,JAUNPUR,2000,Kharif     ,Jowar,4403,6266
+Uttar Pradesh,JAUNPUR,2001,Kharif     ,Jowar,4608,4481
+Uttar Pradesh,JAUNPUR,2002,Kharif     ,Jowar,3918,4299
+Uttar Pradesh,JAUNPUR,2003,Kharif     ,Jowar,3727,4064
+Uttar Pradesh,JAUNPUR,2004,Kharif     ,Jowar,2983,3871
+Uttar Pradesh,JAUNPUR,2005,Kharif     ,Jowar,3426,4963
+Uttar Pradesh,JAUNPUR,2006,Kharif     ,Jowar,1465,1958
+Uttar Pradesh,JAUNPUR,2007,Kharif     ,Jowar,3201,3909
+Uttar Pradesh,JAUNPUR,2008,Kharif     ,Jowar,2961,3618
+Uttar Pradesh,JAUNPUR,2009,Kharif     ,Jowar,4009,4428
+Uttar Pradesh,JAUNPUR,2010,Kharif     ,Jowar,3497,4239
+Uttar Pradesh,JAUNPUR,2011,Kharif     ,Jowar,5264,5573
+Uttar Pradesh,JAUNPUR,2012,Kharif     ,Jowar,3213,4374
+Uttar Pradesh,JAUNPUR,2013,Kharif     ,Jowar,4008,3239
+Uttar Pradesh,JAUNPUR,2014,Kharif     ,Jowar,3214,4713
+Uttar Pradesh,JHANSI,1997,Kharif     ,Jowar,14440,10023
+Uttar Pradesh,JHANSI,1998,Kharif     ,Jowar,9867,4033
+Uttar Pradesh,JHANSI,1999,Kharif     ,Jowar,10023,3766
+Uttar Pradesh,JHANSI,2000,Kharif     ,Jowar,8082,6982
+Uttar Pradesh,JHANSI,2001,Kharif     ,Jowar,7524,4308
+Uttar Pradesh,JHANSI,2002,Kharif     ,Jowar,3497,695
+Uttar Pradesh,JHANSI,2003,Kharif     ,Jowar,6430,5817
+Uttar Pradesh,JHANSI,2004,Kharif     ,Jowar,4373,3934
+Uttar Pradesh,JHANSI,2005,Kharif     ,Jowar,5519,2554
+Uttar Pradesh,JHANSI,2006,Kharif     ,Jowar,9616,9296
+Uttar Pradesh,JHANSI,2007,Kharif     ,Jowar,4564,1282
+Uttar Pradesh,JHANSI,2008,Kharif     ,Jowar,10022,8759
+Uttar Pradesh,JHANSI,2009,Kharif     ,Jowar,6590,1981
+Uttar Pradesh,JHANSI,2010,Kharif     ,Jowar,3213,4114
+Uttar Pradesh,JHANSI,2011,Kharif     ,Jowar,2580,2867
+Uttar Pradesh,JHANSI,2012,Kharif     ,Jowar,1559,3003
+Uttar Pradesh,JHANSI,2013,Kharif     ,Jowar,1396,837
+Uttar Pradesh,JHANSI,2014,Kharif     ,Jowar,1321,1148
+Uttar Pradesh,KANNAUJ,1997,Kharif     ,Jowar,2760,3299
+Uttar Pradesh,KANNAUJ,1998,Kharif     ,Jowar,2945,2605
+Uttar Pradesh,KANNAUJ,1999,Kharif     ,Jowar,2219,2436
+Uttar Pradesh,KANNAUJ,2000,Kharif     ,Jowar,1833,2492
+Uttar Pradesh,KANNAUJ,2001,Kharif     ,Jowar,1882,1758
+Uttar Pradesh,KANNAUJ,2002,Kharif     ,Jowar,1319,1440
+Uttar Pradesh,KANNAUJ,2003,Kharif     ,Jowar,1311,1187
+Uttar Pradesh,KANNAUJ,2004,Kharif     ,Jowar,1440,1068
+Uttar Pradesh,KANNAUJ,2005,Kharif     ,Jowar,167,190
+Uttar Pradesh,KANNAUJ,2006,Kharif     ,Jowar,2008,2086
+Uttar Pradesh,KANNAUJ,2007,Kharif     ,Jowar,1169,1040
+Uttar Pradesh,KANNAUJ,2008,Kharif     ,Jowar,693,885
+Uttar Pradesh,KANNAUJ,2009,Kharif     ,Jowar,623,667
+Uttar Pradesh,KANNAUJ,2010,Kharif     ,Jowar,935,1096
+Uttar Pradesh,KANNAUJ,2011,Kharif     ,Jowar,741,911
+Uttar Pradesh,KANNAUJ,2012,Kharif     ,Jowar,836,1149
+Uttar Pradesh,KANNAUJ,2013,Kharif     ,Jowar,488,679
+Uttar Pradesh,KANNAUJ,2014,Kharif     ,Jowar,563,505
+Uttar Pradesh,KANPUR DEHAT,1997,Kharif     ,Jowar,8182,9779
+Uttar Pradesh,KANPUR DEHAT,1998,Kharif     ,Jowar,8247,9037
+Uttar Pradesh,KANPUR DEHAT,2003,Kharif     ,Jowar,16642,19503
+Uttar Pradesh,KANPUR DEHAT,2004,Kharif     ,Jowar,15089,11841
+Uttar Pradesh,KANPUR DEHAT,2005,Kharif     ,Jowar,15373,19071
+Uttar Pradesh,KANPUR DEHAT,2006,Kharif     ,Jowar,15783,21998
+Uttar Pradesh,KANPUR DEHAT,2007,Kharif     ,Jowar,12881,14253
+Uttar Pradesh,KANPUR DEHAT,2008,Kharif     ,Jowar,11984,15247
+Uttar Pradesh,KANPUR DEHAT,2009,Kharif     ,Jowar,12247,12913
+Uttar Pradesh,KANPUR DEHAT,2010,Kharif     ,Jowar,13317,16431
+Uttar Pradesh,KANPUR DEHAT,2011,Kharif     ,Jowar,12756,18497
+Uttar Pradesh,KANPUR DEHAT,2012,Kharif     ,Jowar,13371,19876
+Uttar Pradesh,KANPUR DEHAT,2013,Kharif     ,Jowar,11678,17337
+Uttar Pradesh,KANPUR DEHAT,2014,Kharif     ,Jowar,11802,13451
+Uttar Pradesh,KANPUR NAGAR,1997,Kharif     ,Jowar,17045,22645
+Uttar Pradesh,KANPUR NAGAR,1998,Kharif     ,Jowar,16017,12685
+Uttar Pradesh,KANPUR NAGAR,1999,Kharif     ,Jowar,31633,45639
+Uttar Pradesh,KANPUR NAGAR,2000,Kharif     ,Jowar,31821,39932
+Uttar Pradesh,KANPUR NAGAR,2001,Kharif     ,Jowar,31987,31693
+Uttar Pradesh,KANPUR NAGAR,2002,Kharif     ,Jowar,28302,34487
+Uttar Pradesh,KANPUR NAGAR,2003,Kharif     ,Jowar,14268,15199
+Uttar Pradesh,KANPUR NAGAR,2004,Kharif     ,Jowar,13446,14115
+Uttar Pradesh,KANPUR NAGAR,2005,Kharif     ,Jowar,14741,17173
+Uttar Pradesh,KANPUR NAGAR,2006,Kharif     ,Jowar,9587,10598
+Uttar Pradesh,KANPUR NAGAR,2007,Kharif     ,Jowar,14071,15292
+Uttar Pradesh,KANPUR NAGAR,2008,Kharif     ,Jowar,12020,17890
+Uttar Pradesh,KANPUR NAGAR,2009,Kharif     ,Jowar,11048,12568
+Uttar Pradesh,KANPUR NAGAR,2010,Kharif     ,Jowar,12258,16761
+Uttar Pradesh,KANPUR NAGAR,2011,Kharif     ,Jowar,11564,15532
+Uttar Pradesh,KANPUR NAGAR,2012,Kharif     ,Jowar,12693,18996
+Uttar Pradesh,KANPUR NAGAR,2013,Kharif     ,Jowar,11585,15418
+Uttar Pradesh,KANPUR NAGAR,2014,Kharif     ,Jowar,12252,9359
+Uttar Pradesh,KASGANJ,2009,Kharif     ,Jowar,9,8
+Uttar Pradesh,KASGANJ,2010,Kharif     ,Jowar,7,7
+Uttar Pradesh,KASGANJ,2011,Kharif     ,Jowar,11,8
+Uttar Pradesh,KASGANJ,2012,Kharif     ,Jowar,15,17
+Uttar Pradesh,KASGANJ,2013,Kharif     ,Jowar,22,20
+Uttar Pradesh,KASGANJ,2014,Kharif     ,Jowar,31,30
+Uttar Pradesh,KAUSHAMBI,1997,Kharif     ,Jowar,12851,14544
+Uttar Pradesh,KAUSHAMBI,1998,Kharif     ,Jowar,12810,6359
+Uttar Pradesh,KAUSHAMBI,1999,Kharif     ,Jowar,12010,7229
+Uttar Pradesh,KAUSHAMBI,2000,Kharif     ,Jowar,12452,7369
+Uttar Pradesh,KAUSHAMBI,2001,Kharif     ,Jowar,13050,16101
+Uttar Pradesh,KAUSHAMBI,2002,Kharif     ,Jowar,11164,12101
+Uttar Pradesh,KAUSHAMBI,2003,Kharif     ,Jowar,12542,15972
+Uttar Pradesh,KAUSHAMBI,2004,Kharif     ,Jowar,7219,11968
+Uttar Pradesh,KAUSHAMBI,2005,Kharif     ,Jowar,5801,10934
+Uttar Pradesh,KAUSHAMBI,2006,Kharif     ,Jowar,7102,11485
+Uttar Pradesh,KAUSHAMBI,2007,Kharif     ,Jowar,7835,13575
+Uttar Pradesh,KAUSHAMBI,2008,Kharif     ,Jowar,4782,8355
+Uttar Pradesh,KAUSHAMBI,2009,Kharif     ,Jowar,1951,2629
+Uttar Pradesh,KAUSHAMBI,2010,Kharif     ,Jowar,6862,8245
+Uttar Pradesh,KAUSHAMBI,2011,Kharif     ,Jowar,6701,10404
+Uttar Pradesh,KAUSHAMBI,2012,Kharif     ,Jowar,6176,8501
+Uttar Pradesh,KAUSHAMBI,2013,Kharif     ,Jowar,3670,3095
+Uttar Pradesh,KAUSHAMBI,2014,Kharif     ,Jowar,6199,6338
+Uttar Pradesh,KHERI,1997,Kharif     ,Jowar,779,868
+Uttar Pradesh,KHERI,1998,Kharif     ,Jowar,639,437
+Uttar Pradesh,KHERI,1999,Kharif     ,Jowar,566,598
+Uttar Pradesh,KHERI,2000,Kharif     ,Jowar,526,473
+Uttar Pradesh,KHERI,2001,Kharif     ,Jowar,317,313
+Uttar Pradesh,KHERI,2002,Kharif     ,Jowar,272,256
+Uttar Pradesh,KHERI,2003,Kharif     ,Jowar,323,309
+Uttar Pradesh,KHERI,2004,Kharif     ,Jowar,185,207
+Uttar Pradesh,KHERI,2005,Kharif     ,Jowar,540,526
+Uttar Pradesh,KHERI,2006,Kharif     ,Jowar,187,136
+Uttar Pradesh,KHERI,2007,Kharif     ,Jowar,217,216
+Uttar Pradesh,KHERI,2008,Kharif     ,Jowar,200,185
+Uttar Pradesh,KHERI,2009,Kharif     ,Jowar,115,101
+Uttar Pradesh,KHERI,2010,Kharif     ,Jowar,185,144
+Uttar Pradesh,KHERI,2011,Kharif     ,Jowar,116,81
+Uttar Pradesh,KHERI,2012,Kharif     ,Jowar,165,200
+Uttar Pradesh,KHERI,2013,Kharif     ,Jowar,272,294
+Uttar Pradesh,KHERI,2014,Kharif     ,Jowar,159,115
+Uttar Pradesh,KUSHI NAGAR,1997,Kharif     ,Jowar,51,50
+Uttar Pradesh,KUSHI NAGAR,1998,Kharif     ,Jowar,83,60
+Uttar Pradesh,KUSHI NAGAR,1999,Kharif     ,Jowar,55,71
+Uttar Pradesh,KUSHI NAGAR,2000,Kharif     ,Jowar,44,56
+Uttar Pradesh,KUSHI NAGAR,2001,Kharif     ,Jowar,20,27
+Uttar Pradesh,KUSHI NAGAR,2002,Kharif     ,Jowar,18,24
+Uttar Pradesh,KUSHI NAGAR,2003,Kharif     ,Jowar,21,29
+Uttar Pradesh,KUSHI NAGAR,2004,Kharif     ,Jowar,16,19
+Uttar Pradesh,KUSHI NAGAR,2005,Kharif     ,Jowar,17,22
+Uttar Pradesh,KUSHI NAGAR,2006,Kharif     ,Jowar,16,20
+Uttar Pradesh,KUSHI NAGAR,2007,Kharif     ,Jowar,48,38
+Uttar Pradesh,KUSHI NAGAR,2008,Kharif     ,Jowar,19,23
+Uttar Pradesh,KUSHI NAGAR,2009,Kharif     ,Jowar,16,16
+Uttar Pradesh,KUSHI NAGAR,2010,Kharif     ,Jowar,13,14
+Uttar Pradesh,KUSHI NAGAR,2012,Kharif     ,Jowar,9,13
+Uttar Pradesh,KUSHI NAGAR,2013,Kharif     ,Jowar,12,16
+Uttar Pradesh,LALITPUR,1997,Kharif     ,Jowar,13376,7892
+Uttar Pradesh,LALITPUR,1998,Kharif     ,Jowar,7675,4688
+Uttar Pradesh,LALITPUR,1999,Kharif     ,Jowar,7515,3791
+Uttar Pradesh,LALITPUR,2000,Kharif     ,Jowar,5914,3792
+Uttar Pradesh,LALITPUR,2001,Kharif     ,Jowar,4955,4668
+Uttar Pradesh,LALITPUR,2002,Kharif     ,Jowar,3827,2414
+Uttar Pradesh,LALITPUR,2003,Kharif     ,Jowar,7541,9962
+Uttar Pradesh,LALITPUR,2004,Kharif     ,Jowar,5342,4737
+Uttar Pradesh,LALITPUR,2005,Kharif     ,Jowar,2383,1235
+Uttar Pradesh,LALITPUR,2006,Kharif     ,Jowar,4176,6552
+Uttar Pradesh,LALITPUR,2007,Kharif     ,Jowar,1090,514
+Uttar Pradesh,LALITPUR,2008,Kharif     ,Jowar,4897,5694
+Uttar Pradesh,LALITPUR,2009,Kharif     ,Jowar,2543,3670
+Uttar Pradesh,LALITPUR,2010,Kharif     ,Jowar,931,1148
+Uttar Pradesh,LALITPUR,2011,Kharif     ,Jowar,566,591
+Uttar Pradesh,LALITPUR,2012,Kharif     ,Jowar,75,83
+Uttar Pradesh,LALITPUR,2013,Kharif     ,Jowar,86,111
+Uttar Pradesh,LALITPUR,2014,Kharif     ,Jowar,14,12
+Uttar Pradesh,LUCKNOW,1997,Kharif     ,Jowar,6566,7317
+Uttar Pradesh,LUCKNOW,1998,Kharif     ,Jowar,5935,2953
+Uttar Pradesh,LUCKNOW,1999,Kharif     ,Jowar,6026,3749
+Uttar Pradesh,LUCKNOW,2000,Kharif     ,Jowar,5557,3271
+Uttar Pradesh,LUCKNOW,2001,Kharif     ,Jowar,5432,4292
+Uttar Pradesh,LUCKNOW,2002,Kharif     ,Jowar,4099,4440
+Uttar Pradesh,LUCKNOW,2003,Kharif     ,Jowar,4636,3639
+Uttar Pradesh,LUCKNOW,2004,Kharif     ,Jowar,4542,4026
+Uttar Pradesh,LUCKNOW,2005,Kharif     ,Jowar,3354,3270
+Uttar Pradesh,LUCKNOW,2006,Kharif     ,Jowar,1451,1424
+Uttar Pradesh,LUCKNOW,2007,Kharif     ,Jowar,4310,3075
+Uttar Pradesh,LUCKNOW,2008,Kharif     ,Jowar,2833,2402
+Uttar Pradesh,LUCKNOW,2009,Kharif     ,Jowar,2493,2191
+Uttar Pradesh,LUCKNOW,2010,Kharif     ,Jowar,2449,1901
+Uttar Pradesh,LUCKNOW,2011,Kharif     ,Jowar,2577,1806
+Uttar Pradesh,LUCKNOW,2012,Kharif     ,Jowar,2271,2759
+Uttar Pradesh,LUCKNOW,2013,Kharif     ,Jowar,2095,2263
+Uttar Pradesh,LUCKNOW,2014,Kharif     ,Jowar,1743,1595
+Uttar Pradesh,MAHARAJGANJ,1997,Kharif     ,Jowar,5,5
+Uttar Pradesh,MAHARAJGANJ,2000,Kharif     ,Jowar,1,1
+Uttar Pradesh,MAHARAJGANJ,2003,Kharif     ,Jowar,1,1
+Uttar Pradesh,MAHARAJGANJ,2011,Kharif     ,Jowar,1,1
+Uttar Pradesh,MAHOBA,1997,Kharif     ,Jowar,12750,8614
+Uttar Pradesh,MAHOBA,1998,Kharif     ,Jowar,9026,4925
+Uttar Pradesh,MAHOBA,1999,Kharif     ,Jowar,8729,7751
+Uttar Pradesh,MAHOBA,2000,Kharif     ,Jowar,7916,6283
+Uttar Pradesh,MAHOBA,2001,Kharif     ,Jowar,6854,4844
+Uttar Pradesh,MAHOBA,2002,Kharif     ,Jowar,5854,4122
+Uttar Pradesh,MAHOBA,2003,Kharif     ,Jowar,8662,5686
+Uttar Pradesh,MAHOBA,2004,Kharif     ,Jowar,5769,5027
+Uttar Pradesh,MAHOBA,2005,Kharif     ,Jowar,5667,3705
+Uttar Pradesh,MAHOBA,2006,Kharif     ,Jowar,5207,4532
+Uttar Pradesh,MAHOBA,2007,Kharif     ,Jowar,4085,1259
+Uttar Pradesh,MAHOBA,2008,Kharif     ,Jowar,5907,4723
+Uttar Pradesh,MAHOBA,2009,Kharif     ,Jowar,6150,2552
+Uttar Pradesh,MAHOBA,2010,Kharif     ,Jowar,4716,4176
+Uttar Pradesh,MAHOBA,2011,Kharif     ,Jowar,4051,3127
+Uttar Pradesh,MAHOBA,2012,Kharif     ,Jowar,3676,3584
+Uttar Pradesh,MAHOBA,2013,Kharif     ,Jowar,3571,2905
+Uttar Pradesh,MAHOBA,2014,Kharif     ,Jowar,1704,936
+Uttar Pradesh,MAINPURI,1997,Kharif     ,Jowar,1156,647
+Uttar Pradesh,MAINPURI,1998,Kharif     ,Jowar,1015,371
+Uttar Pradesh,MAINPURI,1999,Kharif     ,Jowar,1581,1246
+Uttar Pradesh,MAINPURI,2000,Kharif     ,Jowar,913,748
+Uttar Pradesh,MAINPURI,2001,Kharif     ,Jowar,773,599
+Uttar Pradesh,MAINPURI,2002,Kharif     ,Jowar,1206,1196
+Uttar Pradesh,MAINPURI,2003,Kharif     ,Jowar,946,841
+Uttar Pradesh,MAINPURI,2004,Kharif     ,Jowar,751,567
+Uttar Pradesh,MAINPURI,2005,Kharif     ,Jowar,1002,945
+Uttar Pradesh,MAINPURI,2007,Kharif     ,Jowar,831,519
+Uttar Pradesh,MAINPURI,2008,Kharif     ,Jowar,730,724
+Uttar Pradesh,MAINPURI,2009,Kharif     ,Jowar,703,670
+Uttar Pradesh,MAINPURI,2010,Kharif     ,Jowar,759,752
+Uttar Pradesh,MAINPURI,2011,Kharif     ,Jowar,665,513
+Uttar Pradesh,MAINPURI,2012,Kharif     ,Jowar,495,542
+Uttar Pradesh,MAINPURI,2013,Kharif     ,Jowar,497,444
+Uttar Pradesh,MAINPURI,2014,Kharif     ,Jowar,1770,4300
+Uttar Pradesh,MATHURA,1997,Kharif     ,Jowar,3078,1723
+Uttar Pradesh,MATHURA,1998,Kharif     ,Jowar,31,11
+Uttar Pradesh,MATHURA,1999,Kharif     ,Jowar,66,52
+Uttar Pradesh,MATHURA,2000,Kharif     ,Jowar,2126,1741
+Uttar Pradesh,MATHURA,2001,Kharif     ,Jowar,916,710
+Uttar Pradesh,MATHURA,2002,Kharif     ,Jowar,614,609
+Uttar Pradesh,MATHURA,2003,Kharif     ,Jowar,115,102
+Uttar Pradesh,MATHURA,2004,Kharif     ,Jowar,204,154
+Uttar Pradesh,MATHURA,2005,Kharif     ,Jowar,86,81
+Uttar Pradesh,MATHURA,2006,Kharif     ,Jowar,204,232
+Uttar Pradesh,MATHURA,2007,Kharif     ,Jowar,50,31
+Uttar Pradesh,MATHURA,2008,Kharif     ,Jowar,95,94
+Uttar Pradesh,MATHURA,2009,Kharif     ,Jowar,10,9
+Uttar Pradesh,MATHURA,2010,Kharif     ,Jowar,134,133
+Uttar Pradesh,MATHURA,2011,Kharif     ,Jowar,25,19
+Uttar Pradesh,MATHURA,2012,Kharif     ,Jowar,38,42
+Uttar Pradesh,MATHURA,2013,Kharif     ,Jowar,39,35
+Uttar Pradesh,MATHURA,2014,Kharif     ,Jowar,28,68
+Uttar Pradesh,MAU,1997,Kharif     ,Jowar,49,33
+Uttar Pradesh,MAU,1998,Kharif     ,Jowar,103,64
+Uttar Pradesh,MAU,1999,Kharif     ,Jowar,134,160
+Uttar Pradesh,MAU,2000,Kharif     ,Jowar,99,121
+Uttar Pradesh,MAU,2001,Kharif     ,Jowar,51,54
+Uttar Pradesh,MAU,2002,Kharif     ,Jowar,59,66
+Uttar Pradesh,MAU,2003,Kharif     ,Jowar,70,79
+Uttar Pradesh,MAU,2004,Kharif     ,Jowar,32,34
+Uttar Pradesh,MAU,2005,Kharif     ,Jowar,92,117
+Uttar Pradesh,MAU,2006,Kharif     ,Jowar,22,27
+Uttar Pradesh,MAU,2007,Kharif     ,Jowar,5,4
+Uttar Pradesh,MAU,2009,Kharif     ,Jowar,47,51
+Uttar Pradesh,MAU,2010,Kharif     ,Jowar,4,5
+Uttar Pradesh,MAU,2011,Kharif     ,Jowar,11,12
+Uttar Pradesh,MAU,2012,Kharif     ,Jowar,88,126
+Uttar Pradesh,MAU,2013,Kharif     ,Jowar,13,15
+Uttar Pradesh,MAU,2014,Kharif     ,Jowar,7,8
+Uttar Pradesh,MEERUT,1997,Kharif     ,Jowar,50,4
+Uttar Pradesh,MEERUT,1998,Kharif     ,Jowar,122,72
+Uttar Pradesh,MEERUT,1999,Kharif     ,Jowar,40,31
+Uttar Pradesh,MEERUT,2000,Kharif     ,Jowar,40,32
+Uttar Pradesh,MEERUT,2001,Kharif     ,Jowar,62,54
+Uttar Pradesh,MEERUT,2002,Kharif     ,Jowar,47,42
+Uttar Pradesh,MEERUT,2003,Kharif     ,Jowar,36,31
+Uttar Pradesh,MEERUT,2005,Kharif     ,Jowar,29,23
+Uttar Pradesh,MEERUT,2012,Kharif     ,Jowar,948,1046
+Uttar Pradesh,MIRZAPUR,1997,Kharif     ,Jowar,4622,3284
+Uttar Pradesh,MIRZAPUR,1998,Kharif     ,Jowar,4556,9181
+Uttar Pradesh,MIRZAPUR,1999,Kharif     ,Jowar,4426,4240
+Uttar Pradesh,MIRZAPUR,2000,Kharif     ,Jowar,4357,7616
+Uttar Pradesh,MIRZAPUR,2001,Kharif     ,Jowar,4136,5471
+Uttar Pradesh,MIRZAPUR,2002,Kharif     ,Jowar,3492,3074
+Uttar Pradesh,MIRZAPUR,2003,Kharif     ,Jowar,3640,4431
+Uttar Pradesh,MIRZAPUR,2004,Kharif     ,Jowar,3579,2306
+Uttar Pradesh,MIRZAPUR,2005,Kharif     ,Jowar,3939,5198
+Uttar Pradesh,MIRZAPUR,2006,Kharif     ,Jowar,2694,2629
+Uttar Pradesh,MIRZAPUR,2007,Kharif     ,Jowar,4087,4481
+Uttar Pradesh,MIRZAPUR,2008,Kharif     ,Jowar,3260,4690
+Uttar Pradesh,MIRZAPUR,2009,Kharif     ,Jowar,3949,4075
+Uttar Pradesh,MIRZAPUR,2010,Kharif     ,Jowar,3139,2517
+Uttar Pradesh,MIRZAPUR,2011,Kharif     ,Jowar,2681,2662
+Uttar Pradesh,MIRZAPUR,2012,Kharif     ,Jowar,3457,3267
+Uttar Pradesh,MIRZAPUR,2013,Kharif     ,Jowar,2608,2451
+Uttar Pradesh,MIRZAPUR,2014,Kharif     ,Jowar,3947,4465
+Uttar Pradesh,MORADABAD,1997,Kharif     ,Jowar,2248,2431
+Uttar Pradesh,MORADABAD,1998,Kharif     ,Jowar,2458,1956
+Uttar Pradesh,MORADABAD,1999,Kharif     ,Jowar,2230,1866
+Uttar Pradesh,MORADABAD,2000,Kharif     ,Jowar,1449,1019
+Uttar Pradesh,MORADABAD,2001,Kharif     ,Jowar,1183,1231
+Uttar Pradesh,MORADABAD,2002,Kharif     ,Jowar,929,811
+Uttar Pradesh,MORADABAD,2003,Kharif     ,Jowar,505,627
+Uttar Pradesh,MORADABAD,2004,Kharif     ,Jowar,541,541
+Uttar Pradesh,MORADABAD,2005,Kharif     ,Jowar,443,428
+Uttar Pradesh,MORADABAD,2006,Kharif     ,Jowar,322,371
+Uttar Pradesh,MORADABAD,2007,Kharif     ,Jowar,174,109
+Uttar Pradesh,MORADABAD,2008,Kharif     ,Jowar,36,64
+Uttar Pradesh,MORADABAD,2009,Kharif     ,Jowar,107,102
+Uttar Pradesh,MORADABAD,2010,Kharif     ,Jowar,172,54
+Uttar Pradesh,MORADABAD,2011,Kharif     ,Jowar,105,32
+Uttar Pradesh,MORADABAD,2012,Kharif     ,Jowar,44,22
+Uttar Pradesh,MORADABAD,2013,Kharif     ,Jowar,36,19
+Uttar Pradesh,MORADABAD,2014,Kharif     ,Jowar,651,715
+Uttar Pradesh,MUZAFFARNAGAR,1997,Kharif     ,Jowar,1,1
+Uttar Pradesh,MUZAFFARNAGAR,1998,Kharif     ,Jowar,1,1
+Uttar Pradesh,MUZAFFARNAGAR,1999,Kharif     ,Jowar,5,4
+Uttar Pradesh,MUZAFFARNAGAR,2001,Kharif     ,Jowar,6,5
+Uttar Pradesh,MUZAFFARNAGAR,2002,Kharif     ,Jowar,3,2
+Uttar Pradesh,MUZAFFARNAGAR,2004,Kharif     ,Jowar,5,4
+Uttar Pradesh,PILIBHIT,1997,Kharif     ,Jowar,178,188
+Uttar Pradesh,PILIBHIT,1998,Kharif     ,Jowar,103,49
+Uttar Pradesh,PILIBHIT,1999,Kharif     ,Jowar,44,28
+Uttar Pradesh,PILIBHIT,2000,Kharif     ,Jowar,30,25
+Uttar Pradesh,PILIBHIT,2001,Kharif     ,Jowar,29,22
+Uttar Pradesh,PILIBHIT,2002,Kharif     ,Jowar,2,2
+Uttar Pradesh,PILIBHIT,2003,Kharif     ,Jowar,7,6
+Uttar Pradesh,PILIBHIT,2004,Kharif     ,Jowar,4,3
+Uttar Pradesh,PILIBHIT,2005,Kharif     ,Jowar,9,8
+Uttar Pradesh,PILIBHIT,2006,Kharif     ,Jowar,2,2
+Uttar Pradesh,PILIBHIT,2007,Kharif     ,Jowar,2,1
+Uttar Pradesh,PILIBHIT,2010,Kharif     ,Jowar,5,5
+Uttar Pradesh,PILIBHIT,2011,Kharif     ,Jowar,32,24
+Uttar Pradesh,PRATAPGARH,1997,Kharif     ,Jowar,6363,7222
+Uttar Pradesh,PRATAPGARH,1998,Kharif     ,Jowar,7220,5583
+Uttar Pradesh,PRATAPGARH,1999,Kharif     ,Jowar,6028,4017
+Uttar Pradesh,PRATAPGARH,2000,Kharif     ,Jowar,6070,7786
+Uttar Pradesh,PRATAPGARH,2001,Kharif     ,Jowar,6086,6600
+Uttar Pradesh,PRATAPGARH,2002,Kharif     ,Jowar,4271,4254
+Uttar Pradesh,PRATAPGARH,2003,Kharif     ,Jowar,4878,5139
+Uttar Pradesh,PRATAPGARH,2004,Kharif     ,Jowar,3909,4600
+Uttar Pradesh,PRATAPGARH,2005,Kharif     ,Jowar,4400,6369
+Uttar Pradesh,PRATAPGARH,2006,Kharif     ,Jowar,3475,5152
+Uttar Pradesh,PRATAPGARH,2007,Kharif     ,Jowar,3814,4092
+Uttar Pradesh,PRATAPGARH,2008,Kharif     ,Jowar,3919,5540
+Uttar Pradesh,PRATAPGARH,2009,Kharif     ,Jowar,2986,3446
+Uttar Pradesh,PRATAPGARH,2010,Kharif     ,Jowar,3292,4281
+Uttar Pradesh,PRATAPGARH,2011,Kharif     ,Jowar,3439,3893
+Uttar Pradesh,PRATAPGARH,2012,Kharif     ,Jowar,3353,4612
+Uttar Pradesh,PRATAPGARH,2013,Kharif     ,Jowar,3515,3652
+Uttar Pradesh,PRATAPGARH,2014,Kharif     ,Jowar,3219,5510
+Uttar Pradesh,RAE BARELI,1997,Kharif     ,Jowar,15289,14621
+Uttar Pradesh,RAE BARELI,1998,Kharif     ,Jowar,15675,11208
+Uttar Pradesh,RAE BARELI,1999,Kharif     ,Jowar,15264,14824
+Uttar Pradesh,RAE BARELI,2000,Kharif     ,Jowar,15181,11338
+Uttar Pradesh,RAE BARELI,2001,Kharif     ,Jowar,13742,14408
+Uttar Pradesh,RAE BARELI,2002,Kharif     ,Jowar,11421,11024
+Uttar Pradesh,RAE BARELI,2003,Kharif     ,Jowar,11668,9956
+Uttar Pradesh,RAE BARELI,2004,Kharif     ,Jowar,11621,9287
+Uttar Pradesh,RAE BARELI,2005,Kharif     ,Jowar,10393,9092
+Uttar Pradesh,RAE BARELI,2006,Kharif     ,Jowar,11172,9548
+Uttar Pradesh,RAE BARELI,2007,Kharif     ,Jowar,7665,5871
+Uttar Pradesh,RAE BARELI,2008,Kharif     ,Jowar,7922,6304
+Uttar Pradesh,RAE BARELI,2009,Kharif     ,Jowar,5625,4594
+Uttar Pradesh,RAE BARELI,2010,Kharif     ,Jowar,6869,6003
+Uttar Pradesh,RAE BARELI,2011,Kharif     ,Jowar,6843,4827
+Uttar Pradesh,RAE BARELI,2012,Kharif     ,Jowar,6010,5866
+Uttar Pradesh,RAE BARELI,2013,Kharif     ,Jowar,6268,5289
+Uttar Pradesh,RAE BARELI,2014,Kharif     ,Jowar,5553,3693
+Uttar Pradesh,RAMPUR,1997,Kharif     ,Jowar,3112,3366
+Uttar Pradesh,RAMPUR,1998,Kharif     ,Jowar,2524,2008
+Uttar Pradesh,RAMPUR,1999,Kharif     ,Jowar,2231,1867
+Uttar Pradesh,RAMPUR,2000,Kharif     ,Jowar,2029,1426
+Uttar Pradesh,RAMPUR,2001,Kharif     ,Jowar,2146,2232
+Uttar Pradesh,RAMPUR,2002,Kharif     ,Jowar,2046,1818
+Uttar Pradesh,RAMPUR,2003,Kharif     ,Jowar,1076,1286
+Uttar Pradesh,RAMPUR,2004,Kharif     ,Jowar,1059,1055
+Uttar Pradesh,RAMPUR,2005,Kharif     ,Jowar,1266,1225
+Uttar Pradesh,RAMPUR,2006,Kharif     ,Jowar,1059,1222
+Uttar Pradesh,RAMPUR,2007,Kharif     ,Jowar,1393,869
+Uttar Pradesh,RAMPUR,2008,Kharif     ,Jowar,1189,2039
+Uttar Pradesh,RAMPUR,2009,Kharif     ,Jowar,602,574
+Uttar Pradesh,RAMPUR,2010,Kharif     ,Jowar,293,91
+Uttar Pradesh,RAMPUR,2011,Kharif     ,Jowar,943,290
+Uttar Pradesh,RAMPUR,2012,Kharif     ,Jowar,1298,649
+Uttar Pradesh,RAMPUR,2013,Kharif     ,Jowar,1498,798
+Uttar Pradesh,RAMPUR,2014,Kharif     ,Jowar,298,318
+Uttar Pradesh,SAMBHAL,2012,Kharif     ,Jowar,170,85
+Uttar Pradesh,SAMBHAL,2013,Kharif     ,Jowar,136,73
+Uttar Pradesh,SAMBHAL,2014,Kharif     ,Jowar,159,175
+Uttar Pradesh,SANT KABEER NAGAR,1997,Kharif     ,Jowar,1,1
+Uttar Pradesh,SANT KABEER NAGAR,1998,Kharif     ,Jowar,1,1
+Uttar Pradesh,SANT KABEER NAGAR,1999,Kharif     ,Jowar,1,1
+Uttar Pradesh,SANT KABEER NAGAR,2000,Kharif     ,Jowar,21,29
+Uttar Pradesh,SANT KABEER NAGAR,2001,Kharif     ,Jowar,3,3
+Uttar Pradesh,SANT KABEER NAGAR,2003,Kharif     ,Jowar,11,14
+Uttar Pradesh,SANT RAVIDAS NAGAR,1997,Kharif     ,Jowar,1717,1220
+Uttar Pradesh,SANT RAVIDAS NAGAR,1998,Kharif     ,Jowar,1738,3502
+Uttar Pradesh,SANT RAVIDAS NAGAR,1999,Kharif     ,Jowar,1395,1336
+Uttar Pradesh,SANT RAVIDAS NAGAR,2000,Kharif     ,Jowar,1629,2591
+Uttar Pradesh,SANT RAVIDAS NAGAR,2001,Kharif     ,Jowar,1624,1821
+Uttar Pradesh,SANT RAVIDAS NAGAR,2002,Kharif     ,Jowar,1424,1192
+Uttar Pradesh,SANT RAVIDAS NAGAR,2003,Kharif     ,Jowar,1276,1332
+Uttar Pradesh,SANT RAVIDAS NAGAR,2004,Kharif     ,Jowar,1393,669
+Uttar Pradesh,SANT RAVIDAS NAGAR,2005,Kharif     ,Jowar,1329,1607
+Uttar Pradesh,SANT RAVIDAS NAGAR,2006,Kharif     ,Jowar,505,566
+Uttar Pradesh,SANT RAVIDAS NAGAR,2007,Kharif     ,Jowar,1467,1270
+Uttar Pradesh,SANT RAVIDAS NAGAR,2008,Kharif     ,Jowar,1133,1259
+Uttar Pradesh,SANT RAVIDAS NAGAR,2009,Kharif     ,Jowar,1348,1356
+Uttar Pradesh,SANT RAVIDAS NAGAR,2010,Kharif     ,Jowar,794,456
+Uttar Pradesh,SANT RAVIDAS NAGAR,2011,Kharif     ,Jowar,1221,1994
+Uttar Pradesh,SANT RAVIDAS NAGAR,2012,Kharif     ,Jowar,1320,1345
+Uttar Pradesh,SANT RAVIDAS NAGAR,2013,Kharif     ,Jowar,1734,1788
+Uttar Pradesh,SANT RAVIDAS NAGAR,2014,Kharif     ,Jowar,2530,2893
+Uttar Pradesh,SHAHJAHANPUR,1997,Kharif     ,Jowar,1702,1791
+Uttar Pradesh,SHAHJAHANPUR,1998,Kharif     ,Jowar,3723,1767
+Uttar Pradesh,SHAHJAHANPUR,1999,Kharif     ,Jowar,2501,1561
+Uttar Pradesh,SHAHJAHANPUR,2000,Kharif     ,Jowar,1660,1397
+Uttar Pradesh,SHAHJAHANPUR,2001,Kharif     ,Jowar,1367,1035
+Uttar Pradesh,SHAHJAHANPUR,2002,Kharif     ,Jowar,945,929
+Uttar Pradesh,SHAHJAHANPUR,2003,Kharif     ,Jowar,1635,1451
+Uttar Pradesh,SHAHJAHANPUR,2004,Kharif     ,Jowar,1390,1061
+Uttar Pradesh,SHAHJAHANPUR,2005,Kharif     ,Jowar,1966,1827
+Uttar Pradesh,SHAHJAHANPUR,2006,Kharif     ,Jowar,1553,1592
+Uttar Pradesh,SHAHJAHANPUR,2007,Kharif     ,Jowar,1068,666
+Uttar Pradesh,SHAHJAHANPUR,2008,Kharif     ,Jowar,1574,1486
+Uttar Pradesh,SHAHJAHANPUR,2009,Kharif     ,Jowar,2691,2228
+Uttar Pradesh,SHAHJAHANPUR,2010,Kharif     ,Jowar,1078,1086
+Uttar Pradesh,SHAHJAHANPUR,2011,Kharif     ,Jowar,1478,1121
+Uttar Pradesh,SHAHJAHANPUR,2012,Kharif     ,Jowar,185,199
+Uttar Pradesh,SHAHJAHANPUR,2013,Kharif     ,Jowar,866,780
+Uttar Pradesh,SHAHJAHANPUR,2014,Kharif     ,Jowar,1146,1091
+Uttar Pradesh,SHRAVASTI,1997,Kharif     ,Jowar,286,325
+Uttar Pradesh,SHRAVASTI,1998,Kharif     ,Jowar,256,230
+Uttar Pradesh,SHRAVASTI,1999,Kharif     ,Jowar,264,178
+Uttar Pradesh,SHRAVASTI,2000,Kharif     ,Jowar,241,298
+Uttar Pradesh,SHRAVASTI,2001,Kharif     ,Jowar,228,272
+Uttar Pradesh,SHRAVASTI,2002,Kharif     ,Jowar,51,58
+Uttar Pradesh,SHRAVASTI,2003,Kharif     ,Jowar,105,134
+Uttar Pradesh,SHRAVASTI,2004,Kharif     ,Jowar,201,206
+Uttar Pradesh,SHRAVASTI,2005,Kharif     ,Jowar,1,1
+Uttar Pradesh,SHRAVASTI,2006,Kharif     ,Jowar,252,283
+Uttar Pradesh,SHRAVASTI,2007,Kharif     ,Jowar,67,63
+Uttar Pradesh,SHRAVASTI,2008,Kharif     ,Jowar,111,123
+Uttar Pradesh,SHRAVASTI,2009,Kharif     ,Jowar,10,10
+Uttar Pradesh,SHRAVASTI,2010,Kharif     ,Jowar,90,99
+Uttar Pradesh,SHRAVASTI,2011,Kharif     ,Jowar,164,151
+Uttar Pradesh,SHRAVASTI,2012,Kharif     ,Jowar,100,131
+Uttar Pradesh,SHRAVASTI,2013,Kharif     ,Jowar,162,158
+Uttar Pradesh,SHRAVASTI,2014,Kharif     ,Jowar,26,27
+Uttar Pradesh,SIDDHARTH NAGAR,1997,Kharif     ,Jowar,3,4
+Uttar Pradesh,SIDDHARTH NAGAR,1998,Kharif     ,Jowar,15,8
+Uttar Pradesh,SIDDHARTH NAGAR,1999,Kharif     ,Jowar,11,11
+Uttar Pradesh,SIDDHARTH NAGAR,2000,Kharif     ,Jowar,11,15
+Uttar Pradesh,SIDDHARTH NAGAR,2001,Kharif     ,Jowar,11,10
+Uttar Pradesh,SIDDHARTH NAGAR,2002,Kharif     ,Jowar,37,44
+Uttar Pradesh,SIDDHARTH NAGAR,2003,Kharif     ,Jowar,86,112
+Uttar Pradesh,SIDDHARTH NAGAR,2004,Kharif     ,Jowar,22,17
+Uttar Pradesh,SIDDHARTH NAGAR,2005,Kharif     ,Jowar,86,113
+Uttar Pradesh,SIDDHARTH NAGAR,2006,Kharif     ,Jowar,22,26
+Uttar Pradesh,SITAPUR,1997,Kharif     ,Jowar,12842,8898
+Uttar Pradesh,SITAPUR,1998,Kharif     ,Jowar,12343,4921
+Uttar Pradesh,SITAPUR,1999,Kharif     ,Jowar,11201,12646
+Uttar Pradesh,SITAPUR,2000,Kharif     ,Jowar,10656,13149
+Uttar Pradesh,SITAPUR,2001,Kharif     ,Jowar,8714,8053
+Uttar Pradesh,SITAPUR,2002,Kharif     ,Jowar,6951,5738
+Uttar Pradesh,SITAPUR,2003,Kharif     ,Jowar,6776,6736
+Uttar Pradesh,SITAPUR,2004,Kharif     ,Jowar,7051,8197
+Uttar Pradesh,SITAPUR,2005,Kharif     ,Jowar,6165,6014
+Uttar Pradesh,SITAPUR,2006,Kharif     ,Jowar,7530,7424
+Uttar Pradesh,SITAPUR,2007,Kharif     ,Jowar,5826,4922
+Uttar Pradesh,SITAPUR,2008,Kharif     ,Jowar,3877,3891
+Uttar Pradesh,SITAPUR,2009,Kharif     ,Jowar,4470,3820
+Uttar Pradesh,SITAPUR,2010,Kharif     ,Jowar,3975,4568
+Uttar Pradesh,SITAPUR,2011,Kharif     ,Jowar,3724,3014
+Uttar Pradesh,SITAPUR,2012,Kharif     ,Jowar,3502,4915
+Uttar Pradesh,SITAPUR,2013,Kharif     ,Jowar,4212,3859
+Uttar Pradesh,SITAPUR,2014,Kharif     ,Jowar,3215,3531
+Uttar Pradesh,SONBHADRA,1997,Kharif     ,Jowar,2950,2096
+Uttar Pradesh,SONBHADRA,1998,Kharif     ,Jowar,2879,5801
+Uttar Pradesh,SONBHADRA,1999,Kharif     ,Jowar,3250,3113
+Uttar Pradesh,SONBHADRA,2000,Kharif     ,Jowar,2989,2040
+Uttar Pradesh,SONBHADRA,2001,Kharif     ,Jowar,2215,1398
+Uttar Pradesh,SONBHADRA,2002,Kharif     ,Jowar,3151,2637
+Uttar Pradesh,SONBHADRA,2003,Kharif     ,Jowar,3205,2962
+Uttar Pradesh,SONBHADRA,2004,Kharif     ,Jowar,2805,1624
+Uttar Pradesh,SONBHADRA,2005,Kharif     ,Jowar,3754,3436
+Uttar Pradesh,SONBHADRA,2006,Kharif     ,Jowar,2276,2704
+Uttar Pradesh,SONBHADRA,2007,Kharif     ,Jowar,2952,3265
+Uttar Pradesh,SONBHADRA,2008,Kharif     ,Jowar,1982,1690
+Uttar Pradesh,SONBHADRA,2009,Kharif     ,Jowar,2015,2020
+Uttar Pradesh,SONBHADRA,2010,Kharif     ,Jowar,2182,2087
+Uttar Pradesh,SONBHADRA,2011,Kharif     ,Jowar,2536,4118
+Uttar Pradesh,SONBHADRA,2012,Kharif     ,Jowar,2775,4010
+Uttar Pradesh,SONBHADRA,2013,Kharif     ,Jowar,2788,4463
+Uttar Pradesh,SONBHADRA,2014,Kharif     ,Jowar,2557,2657
+Uttar Pradesh,SULTANPUR,1997,Kharif     ,Jowar,9790,12929
+Uttar Pradesh,SULTANPUR,1998,Kharif     ,Jowar,9436,3651
+Uttar Pradesh,SULTANPUR,1999,Kharif     ,Jowar,9429,8848
+Uttar Pradesh,SULTANPUR,2000,Kharif     ,Jowar,9293,7083
+Uttar Pradesh,SULTANPUR,2001,Kharif     ,Jowar,9091,8531
+Uttar Pradesh,SULTANPUR,2002,Kharif     ,Jowar,7536,6415
+Uttar Pradesh,SULTANPUR,2003,Kharif     ,Jowar,8328,8044
+Uttar Pradesh,SULTANPUR,2004,Kharif     ,Jowar,7758,5366
+Uttar Pradesh,SULTANPUR,2005,Kharif     ,Jowar,5763,4984
+Uttar Pradesh,SULTANPUR,2006,Kharif     ,Jowar,7603,5779
+Uttar Pradesh,SULTANPUR,2007,Kharif     ,Jowar,8423,7165
+Uttar Pradesh,SULTANPUR,2008,Kharif     ,Jowar,6274,4489
+Uttar Pradesh,SULTANPUR,2009,Kharif     ,Jowar,5607,4712
+Uttar Pradesh,SULTANPUR,2010,Kharif     ,Jowar,4813,3241
+Uttar Pradesh,SULTANPUR,2011,Kharif     ,Jowar,4918,4120
+Uttar Pradesh,SULTANPUR,2012,Kharif     ,Jowar,4842,4019
+Uttar Pradesh,SULTANPUR,2013,Kharif     ,Jowar,4951,2049
+Uttar Pradesh,SULTANPUR,2014,Kharif     ,Jowar,4857,5246
+Uttar Pradesh,UNNAO,1997,Kharif     ,Jowar,11032,9146
+Uttar Pradesh,UNNAO,1998,Kharif     ,Jowar,10148,8006
+Uttar Pradesh,UNNAO,1999,Kharif     ,Jowar,10117,9346
+Uttar Pradesh,UNNAO,2000,Kharif     ,Jowar,7947,9102
+Uttar Pradesh,UNNAO,2001,Kharif     ,Jowar,7967,9248
+Uttar Pradesh,UNNAO,2002,Kharif     ,Jowar,6592,6963
+Uttar Pradesh,UNNAO,2003,Kharif     ,Jowar,7658,7488
+Uttar Pradesh,UNNAO,2004,Kharif     ,Jowar,6666,7158
+Uttar Pradesh,UNNAO,2005,Kharif     ,Jowar,5071,5822
+Uttar Pradesh,UNNAO,2006,Kharif     ,Jowar,5940,6611
+Uttar Pradesh,UNNAO,2007,Kharif     ,Jowar,5841,6842
+Uttar Pradesh,UNNAO,2008,Kharif     ,Jowar,4715,5658
+Uttar Pradesh,UNNAO,2009,Kharif     ,Jowar,3551,3435
+Uttar Pradesh,UNNAO,2010,Kharif     ,Jowar,4538,4088
+Uttar Pradesh,UNNAO,2011,Kharif     ,Jowar,4954,4061
+Uttar Pradesh,UNNAO,2012,Kharif     ,Jowar,3625,5050
+Uttar Pradesh,UNNAO,2013,Kharif     ,Jowar,3801,2674
+Uttar Pradesh,UNNAO,2014,Kharif     ,Jowar,3041,1514
+Uttar Pradesh,VARANASI,1997,Kharif     ,Jowar,3118,3024
+Uttar Pradesh,VARANASI,1998,Kharif     ,Jowar,2874,1974
+Uttar Pradesh,VARANASI,1999,Kharif     ,Jowar,2899,2527
+Uttar Pradesh,VARANASI,2000,Kharif     ,Jowar,2984,2689
+Uttar Pradesh,VARANASI,2001,Kharif     ,Jowar,2286,2105
+Uttar Pradesh,VARANASI,2002,Kharif     ,Jowar,2509,2197
+Uttar Pradesh,VARANASI,2003,Kharif     ,Jowar,2077,1948
+Uttar Pradesh,VARANASI,2004,Kharif     ,Jowar,2138,2721
+Uttar Pradesh,VARANASI,2005,Kharif     ,Jowar,2250,3259
+Uttar Pradesh,VARANASI,2006,Kharif     ,Jowar,1661,2221
+Uttar Pradesh,VARANASI,2007,Kharif     ,Jowar,2377,2903
+Uttar Pradesh,VARANASI,2008,Kharif     ,Jowar,2182,2666
+Uttar Pradesh,VARANASI,2009,Kharif     ,Jowar,2777,3067
+Uttar Pradesh,VARANASI,2010,Kharif     ,Jowar,2525,3061
+Uttar Pradesh,VARANASI,2011,Kharif     ,Jowar,1688,1787
+Uttar Pradesh,VARANASI,2012,Kharif     ,Jowar,2398,3264
+Uttar Pradesh,VARANASI,2013,Kharif     ,Jowar,2555,2065
+Uttar Pradesh,VARANASI,2014,Kharif     ,Jowar,2243,2195

@@ -1,0 +1,984 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Uttar Pradesh,AGRA,1997,Rabi       ,Peas & beans (Pulses),1210,1936
+Uttar Pradesh,AGRA,1998,Rabi       ,Peas & beans (Pulses),2083,2850
+Uttar Pradesh,AGRA,1999,Whole Year ,Peas & beans (Pulses),824,1683
+Uttar Pradesh,AGRA,2000,Rabi       ,Peas & beans (Pulses),937,1787
+Uttar Pradesh,AGRA,2001,Rabi       ,Peas & beans (Pulses),513,912
+Uttar Pradesh,AGRA,2002,Rabi       ,Peas & beans (Pulses),383,638
+Uttar Pradesh,AGRA,2003,Rabi       ,Peas & beans (Pulses),361,733
+Uttar Pradesh,AGRA,2008,Rabi       ,Peas & beans (Pulses),78,94
+Uttar Pradesh,AGRA,2009,Rabi       ,Peas & beans (Pulses),149,191
+Uttar Pradesh,AGRA,2010,Rabi       ,Peas & beans (Pulses),115,274
+Uttar Pradesh,AGRA,2011,Rabi       ,Peas & beans (Pulses),184,305
+Uttar Pradesh,AGRA,2012,Rabi       ,Peas & beans (Pulses),99,205
+Uttar Pradesh,AGRA,2013,Rabi       ,Peas & beans (Pulses),94,206
+Uttar Pradesh,AGRA,2014,Rabi       ,Peas & beans (Pulses),58,26
+Uttar Pradesh,ALIGARH,1997,Rabi       ,Peas & beans (Pulses),3115,4984
+Uttar Pradesh,ALIGARH,1998,Rabi       ,Peas & beans (Pulses),3627,4962
+Uttar Pradesh,ALIGARH,1999,Whole Year ,Peas & beans (Pulses),2817,5752
+Uttar Pradesh,ALIGARH,2000,Rabi       ,Peas & beans (Pulses),2226,4245
+Uttar Pradesh,ALIGARH,2001,Rabi       ,Peas & beans (Pulses),1595,2835
+Uttar Pradesh,ALIGARH,2002,Rabi       ,Peas & beans (Pulses),804,1340
+Uttar Pradesh,ALIGARH,2003,Rabi       ,Peas & beans (Pulses),618,1255
+Uttar Pradesh,ALIGARH,2008,Rabi       ,Peas & beans (Pulses),143,173
+Uttar Pradesh,ALIGARH,2009,Rabi       ,Peas & beans (Pulses),277,355
+Uttar Pradesh,ALIGARH,2010,Rabi       ,Peas & beans (Pulses),187,218
+Uttar Pradesh,ALIGARH,2011,Rabi       ,Peas & beans (Pulses),95,136
+Uttar Pradesh,ALIGARH,2012,Rabi       ,Peas & beans (Pulses),131,196
+Uttar Pradesh,ALIGARH,2013,Rabi       ,Peas & beans (Pulses),147,146
+Uttar Pradesh,ALIGARH,2014,Rabi       ,Peas & beans (Pulses),127,165
+Uttar Pradesh,ALLAHABAD,1997,Rabi       ,Peas & beans (Pulses),6092,6054
+Uttar Pradesh,ALLAHABAD,1998,Rabi       ,Peas & beans (Pulses),6109,6683
+Uttar Pradesh,ALLAHABAD,1999,Whole Year ,Peas & beans (Pulses),6572,11258
+Uttar Pradesh,ALLAHABAD,2000,Rabi       ,Peas & beans (Pulses),6509,7147
+Uttar Pradesh,ALLAHABAD,2001,Rabi       ,Peas & beans (Pulses),5318,5535
+Uttar Pradesh,ALLAHABAD,2003,Rabi       ,Peas & beans (Pulses),5084,4377
+Uttar Pradesh,ALLAHABAD,2008,Rabi       ,Peas & beans (Pulses),4364,3592
+Uttar Pradesh,ALLAHABAD,2009,Rabi       ,Peas & beans (Pulses),4543,3721
+Uttar Pradesh,ALLAHABAD,2010,Rabi       ,Peas & beans (Pulses),4262,3844
+Uttar Pradesh,ALLAHABAD,2011,Rabi       ,Peas & beans (Pulses),4000,4500
+Uttar Pradesh,ALLAHABAD,2012,Rabi       ,Peas & beans (Pulses),4173,4832
+Uttar Pradesh,ALLAHABAD,2013,Rabi       ,Peas & beans (Pulses),4270,4526
+Uttar Pradesh,ALLAHABAD,2014,Rabi       ,Peas & beans (Pulses),4439,2934
+Uttar Pradesh,AMBEDKAR NAGAR,1997,Rabi       ,Peas & beans (Pulses),5232,6102
+Uttar Pradesh,AMBEDKAR NAGAR,1998,Rabi       ,Peas & beans (Pulses),5591,5038
+Uttar Pradesh,AMBEDKAR NAGAR,1999,Whole Year ,Peas & beans (Pulses),5579,5204
+Uttar Pradesh,AMBEDKAR NAGAR,2000,Rabi       ,Peas & beans (Pulses),5568,5627
+Uttar Pradesh,AMBEDKAR NAGAR,2001,Rabi       ,Peas & beans (Pulses),5483,3986
+Uttar Pradesh,AMBEDKAR NAGAR,2002,Rabi       ,Peas & beans (Pulses),5316,3413
+Uttar Pradesh,AMBEDKAR NAGAR,2003,Rabi       ,Peas & beans (Pulses),5182,5804
+Uttar Pradesh,AMBEDKAR NAGAR,2008,Rabi       ,Peas & beans (Pulses),4068,4910
+Uttar Pradesh,AMBEDKAR NAGAR,2009,Rabi       ,Peas & beans (Pulses),3838,4925
+Uttar Pradesh,AMBEDKAR NAGAR,2010,Rabi       ,Peas & beans (Pulses),4781,5699
+Uttar Pradesh,AMBEDKAR NAGAR,2011,Rabi       ,Peas & beans (Pulses),3642,3941
+Uttar Pradesh,AMBEDKAR NAGAR,2012,Rabi       ,Peas & beans (Pulses),3716,3218
+Uttar Pradesh,AMBEDKAR NAGAR,2013,Rabi       ,Peas & beans (Pulses),4002,1016
+Uttar Pradesh,AMBEDKAR NAGAR,2014,Rabi       ,Peas & beans (Pulses),3866,2505
+Uttar Pradesh,AMETHI,2010,Rabi       ,Peas & beans (Pulses),4474,5333
+Uttar Pradesh,AMETHI,2011,Rabi       ,Peas & beans (Pulses),4460,4826
+Uttar Pradesh,AMETHI,2012,Rabi       ,Peas & beans (Pulses),5133,4445
+Uttar Pradesh,AMETHI,2013,Rabi       ,Peas & beans (Pulses),4874,1238
+Uttar Pradesh,AMETHI,2014,Rabi       ,Peas & beans (Pulses),4598,2979
+Uttar Pradesh,AMROHA,1997,Rabi       ,Peas & beans (Pulses),235,305
+Uttar Pradesh,AMROHA,1998,Rabi       ,Peas & beans (Pulses),299,306
+Uttar Pradesh,AMROHA,1999,Whole Year ,Peas & beans (Pulses),206,372
+Uttar Pradesh,AMROHA,2000,Rabi       ,Peas & beans (Pulses),214,221
+Uttar Pradesh,AMROHA,2001,Rabi       ,Peas & beans (Pulses),218,264
+Uttar Pradesh,AMROHA,2002,Rabi       ,Peas & beans (Pulses),165,203
+Uttar Pradesh,AMROHA,2003,Rabi       ,Peas & beans (Pulses),159,218
+Uttar Pradesh,AMROHA,2008,Rabi       ,Peas & beans (Pulses),147,178
+Uttar Pradesh,AMROHA,2009,Rabi       ,Peas & beans (Pulses),157,201
+Uttar Pradesh,AMROHA,2010,Rabi       ,Peas & beans (Pulses),87,101
+Uttar Pradesh,AMROHA,2011,Rabi       ,Peas & beans (Pulses),49,81
+Uttar Pradesh,AMROHA,2012,Rabi       ,Peas & beans (Pulses),38,49
+Uttar Pradesh,AMROHA,2013,Rabi       ,Peas & beans (Pulses),182,182
+Uttar Pradesh,AMROHA,2014,Rabi       ,Peas & beans (Pulses),153,147
+Uttar Pradesh,AURAIYA,1997,Rabi       ,Peas & beans (Pulses),3197,4954
+Uttar Pradesh,AURAIYA,1998,Rabi       ,Peas & beans (Pulses),3810,6450
+Uttar Pradesh,AURAIYA,1999,Whole Year ,Peas & beans (Pulses),3017,5971
+Uttar Pradesh,AURAIYA,2000,Rabi       ,Peas & beans (Pulses),2331,4126
+Uttar Pradesh,AURAIYA,2001,Rabi       ,Peas & beans (Pulses),1175,2130
+Uttar Pradesh,AURAIYA,2002,Rabi       ,Peas & beans (Pulses),761,1178
+Uttar Pradesh,AURAIYA,2003,Rabi       ,Peas & beans (Pulses),871,1609
+Uttar Pradesh,AURAIYA,2008,Rabi       ,Peas & beans (Pulses),215,364
+Uttar Pradesh,AURAIYA,2009,Rabi       ,Peas & beans (Pulses),191,266
+Uttar Pradesh,AURAIYA,2010,Rabi       ,Peas & beans (Pulses),153,224
+Uttar Pradesh,AURAIYA,2011,Rabi       ,Peas & beans (Pulses),117,180
+Uttar Pradesh,AURAIYA,2012,Rabi       ,Peas & beans (Pulses),110,177
+Uttar Pradesh,AURAIYA,2013,Rabi       ,Peas & beans (Pulses),138,241
+Uttar Pradesh,AURAIYA,2014,Rabi       ,Peas & beans (Pulses),72,40
+Uttar Pradesh,AZAMGARH,1997,Rabi       ,Peas & beans (Pulses),9450,11293
+Uttar Pradesh,AZAMGARH,1998,Rabi       ,Peas & beans (Pulses),10196,12661
+Uttar Pradesh,AZAMGARH,1999,Whole Year ,Peas & beans (Pulses),9700,10773
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Peas & beans (Pulses),9839,13637
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Peas & beans (Pulses),9395,10090
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Peas & beans (Pulses),8501,8399
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Peas & beans (Pulses),8602,10288
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Peas & beans (Pulses),7397,9291
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Peas & beans (Pulses),7259,8777
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Peas & beans (Pulses),7033,8925
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Peas & beans (Pulses),6654,9070
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Peas & beans (Pulses),6641,9835
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Peas & beans (Pulses),5859,3334
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Peas & beans (Pulses),6140,8756
+Uttar Pradesh,BAGHPAT,1997,Rabi       ,Peas & beans (Pulses),147,191
+Uttar Pradesh,BAGHPAT,1998,Rabi       ,Peas & beans (Pulses),167,171
+Uttar Pradesh,BAGHPAT,1999,Whole Year ,Peas & beans (Pulses),82,148
+Uttar Pradesh,BAGHPAT,2000,Rabi       ,Peas & beans (Pulses),102,105
+Uttar Pradesh,BAGHPAT,2001,Rabi       ,Peas & beans (Pulses),97,117
+Uttar Pradesh,BAGHPAT,2002,Rabi       ,Peas & beans (Pulses),51,63
+Uttar Pradesh,BAGHPAT,2003,Rabi       ,Peas & beans (Pulses),64,88
+Uttar Pradesh,BAGHPAT,2010,Rabi       ,Peas & beans (Pulses),24,28
+Uttar Pradesh,BAGHPAT,2011,Rabi       ,Peas & beans (Pulses),7,10
+Uttar Pradesh,BAGHPAT,2012,Rabi       ,Peas & beans (Pulses),8,12
+Uttar Pradesh,BAGHPAT,2013,Rabi       ,Peas & beans (Pulses),13,13
+Uttar Pradesh,BAGHPAT,2014,Rabi       ,Peas & beans (Pulses),14,11
+Uttar Pradesh,BAHRAICH,1997,Rabi       ,Peas & beans (Pulses),849,1103
+Uttar Pradesh,BAHRAICH,1998,Rabi       ,Peas & beans (Pulses),945,998
+Uttar Pradesh,BAHRAICH,1999,Whole Year ,Peas & beans (Pulses),1304,1243
+Uttar Pradesh,BAHRAICH,2000,Rabi       ,Peas & beans (Pulses),1389,1371
+Uttar Pradesh,BAHRAICH,2001,Rabi       ,Peas & beans (Pulses),1523,1631
+Uttar Pradesh,BAHRAICH,2002,Rabi       ,Peas & beans (Pulses),2598,1922
+Uttar Pradesh,BAHRAICH,2003,Rabi       ,Peas & beans (Pulses),1633,2241
+Uttar Pradesh,BAHRAICH,2008,Rabi       ,Peas & beans (Pulses),1682,2030
+Uttar Pradesh,BAHRAICH,2009,Rabi       ,Peas & beans (Pulses),1090,1399
+Uttar Pradesh,BAHRAICH,2010,Rabi       ,Peas & beans (Pulses),1404,1635
+Uttar Pradesh,BAHRAICH,2011,Rabi       ,Peas & beans (Pulses),1988,2847
+Uttar Pradesh,BAHRAICH,2012,Rabi       ,Peas & beans (Pulses),1243,1857
+Uttar Pradesh,BAHRAICH,2013,Rabi       ,Peas & beans (Pulses),1276,1266
+Uttar Pradesh,BAHRAICH,2014,Rabi       ,Peas & beans (Pulses),1364,1030
+Uttar Pradesh,BALLIA,1997,Rabi       ,Peas & beans (Pulses),2154,2574
+Uttar Pradesh,BALLIA,1998,Rabi       ,Peas & beans (Pulses),2659,3302
+Uttar Pradesh,BALLIA,1999,Whole Year ,Peas & beans (Pulses),2681,2978
+Uttar Pradesh,BALLIA,2000,Rabi       ,Peas & beans (Pulses),2138,2963
+Uttar Pradesh,BALLIA,2001,Rabi       ,Peas & beans (Pulses),2289,2248
+Uttar Pradesh,BALLIA,2002,Rabi       ,Peas & beans (Pulses),2228,2201
+Uttar Pradesh,BALLIA,2003,Rabi       ,Peas & beans (Pulses),2487,2975
+Uttar Pradesh,BALLIA,2008,Rabi       ,Peas & beans (Pulses),2161,2714
+Uttar Pradesh,BALLIA,2009,Rabi       ,Peas & beans (Pulses),3294,3982
+Uttar Pradesh,BALLIA,2010,Rabi       ,Peas & beans (Pulses),2922,3708
+Uttar Pradesh,BALLIA,2011,Rabi       ,Peas & beans (Pulses),5116,6973
+Uttar Pradesh,BALLIA,2012,Rabi       ,Peas & beans (Pulses),3041,4504
+Uttar Pradesh,BALLIA,2013,Rabi       ,Peas & beans (Pulses),2888,1643
+Uttar Pradesh,BALLIA,2014,Rabi       ,Peas & beans (Pulses),756,544
+Uttar Pradesh,BALRAMPUR,1997,Rabi       ,Peas & beans (Pulses),1631,2119
+Uttar Pradesh,BALRAMPUR,1998,Rabi       ,Peas & beans (Pulses),1902,2008
+Uttar Pradesh,BALRAMPUR,1999,Whole Year ,Peas & beans (Pulses),1864,1777
+Uttar Pradesh,BALRAMPUR,2000,Rabi       ,Peas & beans (Pulses),2366,2335
+Uttar Pradesh,BALRAMPUR,2001,Rabi       ,Peas & beans (Pulses),2307,2471
+Uttar Pradesh,BALRAMPUR,2002,Rabi       ,Peas & beans (Pulses),2270,1680
+Uttar Pradesh,BALRAMPUR,2003,Rabi       ,Peas & beans (Pulses),1833,2515
+Uttar Pradesh,BALRAMPUR,2008,Rabi       ,Peas & beans (Pulses),2208,2665
+Uttar Pradesh,BALRAMPUR,2009,Rabi       ,Peas & beans (Pulses),1526,1958
+Uttar Pradesh,BALRAMPUR,2010,Rabi       ,Peas & beans (Pulses),1180,1375
+Uttar Pradesh,BALRAMPUR,2011,Rabi       ,Peas & beans (Pulses),1565,2241
+Uttar Pradesh,BALRAMPUR,2012,Rabi       ,Peas & beans (Pulses),1776,2653
+Uttar Pradesh,BALRAMPUR,2013,Rabi       ,Peas & beans (Pulses),1897,1882
+Uttar Pradesh,BALRAMPUR,2014,Rabi       ,Peas & beans (Pulses),1756,1325
+Uttar Pradesh,BANDA,1997,Rabi       ,Peas & beans (Pulses),722,859
+Uttar Pradesh,BANDA,1998,Rabi       ,Peas & beans (Pulses),1389,1455
+Uttar Pradesh,BANDA,1999,Whole Year ,Peas & beans (Pulses),1848,2262
+Uttar Pradesh,BANDA,2000,Rabi       ,Peas & beans (Pulses),965,583
+Uttar Pradesh,BANDA,2001,Rabi       ,Peas & beans (Pulses),960,1022
+Uttar Pradesh,BANDA,2002,Rabi       ,Peas & beans (Pulses),1179,1053
+Uttar Pradesh,BANDA,2003,Rabi       ,Peas & beans (Pulses),1825,1916
+Uttar Pradesh,BANDA,2008,Rabi       ,Peas & beans (Pulses),2303,3234
+Uttar Pradesh,BANDA,2009,Rabi       ,Peas & beans (Pulses),1314,1188
+Uttar Pradesh,BANDA,2010,Rabi       ,Peas & beans (Pulses),1727,1045
+Uttar Pradesh,BANDA,2011,Rabi       ,Peas & beans (Pulses),1432,1400
+Uttar Pradesh,BANDA,2012,Rabi       ,Peas & beans (Pulses),2199,2214
+Uttar Pradesh,BANDA,2013,Rabi       ,Peas & beans (Pulses),3351,1850
+Uttar Pradesh,BANDA,2014,Rabi       ,Peas & beans (Pulses),7530,5007
+Uttar Pradesh,BARABANKI,1997,Rabi       ,Peas & beans (Pulses),2772,3233
+Uttar Pradesh,BARABANKI,1998,Rabi       ,Peas & beans (Pulses),3287,2962
+Uttar Pradesh,BARABANKI,1999,Whole Year ,Peas & beans (Pulses),3575,3334
+Uttar Pradesh,BARABANKI,2000,Rabi       ,Peas & beans (Pulses),3893,3935
+Uttar Pradesh,BARABANKI,2001,Rabi       ,Peas & beans (Pulses),3645,3103
+Uttar Pradesh,BARABANKI,2002,Rabi       ,Peas & beans (Pulses),3409,2704
+Uttar Pradesh,BARABANKI,2003,Rabi       ,Peas & beans (Pulses),3800,3681
+Uttar Pradesh,BARABANKI,2008,Rabi       ,Peas & beans (Pulses),2579,3113
+Uttar Pradesh,BARABANKI,2009,Rabi       ,Peas & beans (Pulses),2942,3776
+Uttar Pradesh,BARABANKI,2010,Rabi       ,Peas & beans (Pulses),2750,3278
+Uttar Pradesh,BARABANKI,2011,Rabi       ,Peas & beans (Pulses),2772,2999
+Uttar Pradesh,BARABANKI,2012,Rabi       ,Peas & beans (Pulses),2684,2324
+Uttar Pradesh,BARABANKI,2013,Rabi       ,Peas & beans (Pulses),2697,685
+Uttar Pradesh,BARABANKI,2014,Rabi       ,Peas & beans (Pulses),2665,1727
+Uttar Pradesh,BAREILLY,1997,Rabi       ,Peas & beans (Pulses),1899,2467
+Uttar Pradesh,BAREILLY,1998,Rabi       ,Peas & beans (Pulses),2391,2525
+Uttar Pradesh,BAREILLY,1999,Whole Year ,Peas & beans (Pulses),1737,3141
+Uttar Pradesh,BAREILLY,2000,Rabi       ,Peas & beans (Pulses),1173,2168
+Uttar Pradesh,BAREILLY,2001,Rabi       ,Peas & beans (Pulses),1833,2944
+Uttar Pradesh,BAREILLY,2002,Rabi       ,Peas & beans (Pulses),1460,1794
+Uttar Pradesh,BAREILLY,2003,Rabi       ,Peas & beans (Pulses),1171,1606
+Uttar Pradesh,BAREILLY,2008,Rabi       ,Peas & beans (Pulses),699,844
+Uttar Pradesh,BAREILLY,2009,Rabi       ,Peas & beans (Pulses),1248,1602
+Uttar Pradesh,BAREILLY,2010,Rabi       ,Peas & beans (Pulses),1130,2446
+Uttar Pradesh,BAREILLY,2011,Rabi       ,Peas & beans (Pulses),1732,3010
+Uttar Pradesh,BAREILLY,2012,Rabi       ,Peas & beans (Pulses),1206,2559
+Uttar Pradesh,BAREILLY,2013,Rabi       ,Peas & beans (Pulses),822,1774
+Uttar Pradesh,BAREILLY,2014,Rabi       ,Peas & beans (Pulses),2882,2824
+Uttar Pradesh,BASTI,1997,Rabi       ,Peas & beans (Pulses),7946,10564
+Uttar Pradesh,BASTI,1998,Rabi       ,Peas & beans (Pulses),7568,7591
+Uttar Pradesh,BASTI,1999,Whole Year ,Peas & beans (Pulses),7589,10845
+Uttar Pradesh,BASTI,2000,Rabi       ,Peas & beans (Pulses),7617,8537
+Uttar Pradesh,BASTI,2001,Rabi       ,Peas & beans (Pulses),6954,5584
+Uttar Pradesh,BASTI,2002,Rabi       ,Peas & beans (Pulses),6762,5917
+Uttar Pradesh,BASTI,2003,Rabi       ,Peas & beans (Pulses),6697,4768
+Uttar Pradesh,BASTI,2008,Rabi       ,Peas & beans (Pulses),5084,6136
+Uttar Pradesh,BASTI,2009,Rabi       ,Peas & beans (Pulses),5385,6911
+Uttar Pradesh,BASTI,2010,Rabi       ,Peas & beans (Pulses),5476,6380
+Uttar Pradesh,BASTI,2011,Rabi       ,Peas & beans (Pulses),4783,6849
+Uttar Pradesh,BASTI,2012,Rabi       ,Peas & beans (Pulses),4326,6463
+Uttar Pradesh,BASTI,2013,Rabi       ,Peas & beans (Pulses),3368,3341
+Uttar Pradesh,BASTI,2014,Rabi       ,Peas & beans (Pulses),4669,3525
+Uttar Pradesh,BIJNOR,1997,Rabi       ,Peas & beans (Pulses),504,655
+Uttar Pradesh,BIJNOR,1998,Rabi       ,Peas & beans (Pulses),423,434
+Uttar Pradesh,BIJNOR,1999,Whole Year ,Peas & beans (Pulses),424,767
+Uttar Pradesh,BIJNOR,2000,Rabi       ,Peas & beans (Pulses),357,368
+Uttar Pradesh,BIJNOR,2001,Rabi       ,Peas & beans (Pulses),294,355
+Uttar Pradesh,BIJNOR,2002,Rabi       ,Peas & beans (Pulses),209,257
+Uttar Pradesh,BIJNOR,2003,Rabi       ,Peas & beans (Pulses),155,213
+Uttar Pradesh,BIJNOR,2008,Rabi       ,Peas & beans (Pulses),148,179
+Uttar Pradesh,BIJNOR,2009,Rabi       ,Peas & beans (Pulses),113,145
+Uttar Pradesh,BIJNOR,2010,Rabi       ,Peas & beans (Pulses),91,106
+Uttar Pradesh,BIJNOR,2011,Rabi       ,Peas & beans (Pulses),92,152
+Uttar Pradesh,BIJNOR,2012,Rabi       ,Peas & beans (Pulses),89,114
+Uttar Pradesh,BIJNOR,2013,Rabi       ,Peas & beans (Pulses),209,209
+Uttar Pradesh,BIJNOR,2014,Rabi       ,Peas & beans (Pulses),51,49
+Uttar Pradesh,BUDAUN,1997,Rabi       ,Peas & beans (Pulses),3104,4032
+Uttar Pradesh,BUDAUN,1998,Rabi       ,Peas & beans (Pulses),4271,4510
+Uttar Pradesh,BUDAUN,1999,Whole Year ,Peas & beans (Pulses),3320,6003
+Uttar Pradesh,BUDAUN,2000,Rabi       ,Peas & beans (Pulses),2272,4199
+Uttar Pradesh,BUDAUN,2001,Rabi       ,Peas & beans (Pulses),2274,3652
+Uttar Pradesh,BUDAUN,2002,Rabi       ,Peas & beans (Pulses),1904,2340
+Uttar Pradesh,BUDAUN,2003,Rabi       ,Peas & beans (Pulses),1164,1597
+Uttar Pradesh,BUDAUN,2008,Rabi       ,Peas & beans (Pulses),579,699
+Uttar Pradesh,BUDAUN,2009,Rabi       ,Peas & beans (Pulses),836,1073
+Uttar Pradesh,BUDAUN,2010,Rabi       ,Peas & beans (Pulses),1272,2754
+Uttar Pradesh,BUDAUN,2011,Rabi       ,Peas & beans (Pulses),890,1547
+Uttar Pradesh,BUDAUN,2012,Rabi       ,Peas & beans (Pulses),879,1865
+Uttar Pradesh,BUDAUN,2013,Rabi       ,Peas & beans (Pulses),903,1948
+Uttar Pradesh,BUDAUN,2014,Rabi       ,Peas & beans (Pulses),1078,1057
+Uttar Pradesh,BULANDSHAHR,1997,Rabi       ,Peas & beans (Pulses),1733,2251
+Uttar Pradesh,BULANDSHAHR,1998,Rabi       ,Peas & beans (Pulses),1632,1673
+Uttar Pradesh,BULANDSHAHR,1999,Whole Year ,Peas & beans (Pulses),1567,2833
+Uttar Pradesh,BULANDSHAHR,2000,Rabi       ,Peas & beans (Pulses),841,868
+Uttar Pradesh,BULANDSHAHR,2001,Rabi       ,Peas & beans (Pulses),873,1055
+Uttar Pradesh,BULANDSHAHR,2002,Rabi       ,Peas & beans (Pulses),871,1070
+Uttar Pradesh,BULANDSHAHR,2003,Rabi       ,Peas & beans (Pulses),870,1193
+Uttar Pradesh,BULANDSHAHR,2008,Rabi       ,Peas & beans (Pulses),430,519
+Uttar Pradesh,BULANDSHAHR,2009,Rabi       ,Peas & beans (Pulses),682,875
+Uttar Pradesh,BULANDSHAHR,2010,Rabi       ,Peas & beans (Pulses),666,776
+Uttar Pradesh,BULANDSHAHR,2011,Rabi       ,Peas & beans (Pulses),457,654
+Uttar Pradesh,BULANDSHAHR,2012,Rabi       ,Peas & beans (Pulses),381,569
+Uttar Pradesh,BULANDSHAHR,2013,Rabi       ,Peas & beans (Pulses),434,431
+Uttar Pradesh,BULANDSHAHR,2014,Rabi       ,Peas & beans (Pulses),390,294
+Uttar Pradesh,CHANDAULI,1997,Rabi       ,Peas & beans (Pulses),1693,1969
+Uttar Pradesh,CHANDAULI,1998,Rabi       ,Peas & beans (Pulses),1486,1556
+Uttar Pradesh,CHANDAULI,1999,Whole Year ,Peas & beans (Pulses),1240,1286
+Uttar Pradesh,CHANDAULI,2000,Rabi       ,Peas & beans (Pulses),1192,1414
+Uttar Pradesh,CHANDAULI,2001,Rabi       ,Peas & beans (Pulses),2550,2068
+Uttar Pradesh,CHANDAULI,2002,Rabi       ,Peas & beans (Pulses),2360,2905
+Uttar Pradesh,CHANDAULI,2003,Rabi       ,Peas & beans (Pulses),2387,2995
+Uttar Pradesh,CHANDAULI,2008,Rabi       ,Peas & beans (Pulses),2348,2688
+Uttar Pradesh,CHANDAULI,2009,Rabi       ,Peas & beans (Pulses),1889,1770
+Uttar Pradesh,CHANDAULI,2010,Rabi       ,Peas & beans (Pulses),1508,2491
+Uttar Pradesh,CHANDAULI,2011,Rabi       ,Peas & beans (Pulses),1674,2378
+Uttar Pradesh,CHANDAULI,2012,Rabi       ,Peas & beans (Pulses),1491,1743
+Uttar Pradesh,CHANDAULI,2013,Rabi       ,Peas & beans (Pulses),1610,1365
+Uttar Pradesh,CHANDAULI,2014,Rabi       ,Peas & beans (Pulses),1472,1415
+Uttar Pradesh,CHITRAKOOT,1997,Rabi       ,Peas & beans (Pulses),104,124
+Uttar Pradesh,CHITRAKOOT,1998,Rabi       ,Peas & beans (Pulses),291,305
+Uttar Pradesh,CHITRAKOOT,1999,Whole Year ,Peas & beans (Pulses),260,318
+Uttar Pradesh,CHITRAKOOT,2000,Rabi       ,Peas & beans (Pulses),261,158
+Uttar Pradesh,CHITRAKOOT,2001,Rabi       ,Peas & beans (Pulses),209,222
+Uttar Pradesh,CHITRAKOOT,2002,Rabi       ,Peas & beans (Pulses),324,290
+Uttar Pradesh,CHITRAKOOT,2003,Rabi       ,Peas & beans (Pulses),365,383
+Uttar Pradesh,CHITRAKOOT,2008,Rabi       ,Peas & beans (Pulses),341,479
+Uttar Pradesh,CHITRAKOOT,2009,Rabi       ,Peas & beans (Pulses),508,459
+Uttar Pradesh,CHITRAKOOT,2010,Rabi       ,Peas & beans (Pulses),419,62
+Uttar Pradesh,CHITRAKOOT,2011,Rabi       ,Peas & beans (Pulses),524,569
+Uttar Pradesh,CHITRAKOOT,2012,Rabi       ,Peas & beans (Pulses),247,273
+Uttar Pradesh,CHITRAKOOT,2013,Rabi       ,Peas & beans (Pulses),490,345
+Uttar Pradesh,CHITRAKOOT,2014,Rabi       ,Peas & beans (Pulses),442,78
+Uttar Pradesh,DEORIA,1997,Rabi       ,Peas & beans (Pulses),2619,3402
+Uttar Pradesh,DEORIA,1998,Rabi       ,Peas & beans (Pulses),2767,2922
+Uttar Pradesh,DEORIA,1999,Whole Year ,Peas & beans (Pulses),2790,3834
+Uttar Pradesh,DEORIA,2000,Rabi       ,Peas & beans (Pulses),2685,3722
+Uttar Pradesh,DEORIA,2001,Rabi       ,Peas & beans (Pulses),2788,3371
+Uttar Pradesh,DEORIA,2002,Rabi       ,Peas & beans (Pulses),2332,2866
+Uttar Pradesh,DEORIA,2003,Rabi       ,Peas & beans (Pulses),2453,3366
+Uttar Pradesh,DEORIA,2008,Rabi       ,Peas & beans (Pulses),1910,2305
+Uttar Pradesh,DEORIA,2009,Rabi       ,Peas & beans (Pulses),2078,2667
+Uttar Pradesh,DEORIA,2010,Rabi       ,Peas & beans (Pulses),1977,2303
+Uttar Pradesh,DEORIA,2011,Rabi       ,Peas & beans (Pulses),1712,1852
+Uttar Pradesh,DEORIA,2012,Rabi       ,Peas & beans (Pulses),1565,1626
+Uttar Pradesh,DEORIA,2013,Rabi       ,Peas & beans (Pulses),1506,877
+Uttar Pradesh,DEORIA,2014,Rabi       ,Peas & beans (Pulses),1499,727
+Uttar Pradesh,ETAH,1997,Rabi       ,Peas & beans (Pulses),9430,18709
+Uttar Pradesh,ETAH,1998,Rabi       ,Peas & beans (Pulses),10870,14870
+Uttar Pradesh,ETAH,1999,Whole Year ,Peas & beans (Pulses),8884,18141
+Uttar Pradesh,ETAH,2000,Rabi       ,Peas & beans (Pulses),49,94
+Uttar Pradesh,ETAH,2001,Rabi       ,Peas & beans (Pulses),35,62
+Uttar Pradesh,ETAH,2002,Rabi       ,Peas & beans (Pulses),960,1599
+Uttar Pradesh,ETAH,2003,Rabi       ,Peas & beans (Pulses),874,1774
+Uttar Pradesh,ETAH,2008,Rabi       ,Peas & beans (Pulses),257,310
+Uttar Pradesh,ETAH,2013,Rabi       ,Peas & beans (Pulses),579,574
+Uttar Pradesh,ETAH,2014,Rabi       ,Peas & beans (Pulses),634,822
+Uttar Pradesh,ETAWAH,1997,Rabi       ,Peas & beans (Pulses),6397,9914
+Uttar Pradesh,ETAWAH,1998,Rabi       ,Peas & beans (Pulses),6068,10273
+Uttar Pradesh,ETAWAH,1999,Whole Year ,Peas & beans (Pulses),4353,8614
+Uttar Pradesh,ETAWAH,2000,Rabi       ,Peas & beans (Pulses),3260,5770
+Uttar Pradesh,ETAWAH,2001,Rabi       ,Peas & beans (Pulses),3055,5566
+Uttar Pradesh,ETAWAH,2002,Rabi       ,Peas & beans (Pulses),3290,5840
+Uttar Pradesh,ETAWAH,2003,Rabi       ,Peas & beans (Pulses),2270,4125
+Uttar Pradesh,ETAWAH,2008,Rabi       ,Peas & beans (Pulses),683,1156
+Uttar Pradesh,ETAWAH,2009,Rabi       ,Peas & beans (Pulses),431,599
+Uttar Pradesh,ETAWAH,2010,Rabi       ,Peas & beans (Pulses),136,199
+Uttar Pradesh,ETAWAH,2011,Rabi       ,Peas & beans (Pulses),197,302
+Uttar Pradesh,ETAWAH,2012,Rabi       ,Peas & beans (Pulses),146,235
+Uttar Pradesh,ETAWAH,2013,Rabi       ,Peas & beans (Pulses),177,310
+Uttar Pradesh,ETAWAH,2014,Rabi       ,Peas & beans (Pulses),170,93
+Uttar Pradesh,FAIZABAD,1997,Rabi       ,Peas & beans (Pulses),3342,3898
+Uttar Pradesh,FAIZABAD,1998,Rabi       ,Peas & beans (Pulses),3671,3308
+Uttar Pradesh,FAIZABAD,1999,Whole Year ,Peas & beans (Pulses),3562,3322
+Uttar Pradesh,FAIZABAD,2000,Rabi       ,Peas & beans (Pulses),3595,3633
+Uttar Pradesh,FAIZABAD,2001,Rabi       ,Peas & beans (Pulses),3753,3195
+Uttar Pradesh,FAIZABAD,2002,Rabi       ,Peas & beans (Pulses),3673,2913
+Uttar Pradesh,FAIZABAD,2003,Rabi       ,Peas & beans (Pulses),2236,2457
+Uttar Pradesh,FAIZABAD,2008,Rabi       ,Peas & beans (Pulses),2513,3033
+Uttar Pradesh,FAIZABAD,2009,Rabi       ,Peas & beans (Pulses),2376,3049
+Uttar Pradesh,FAIZABAD,2010,Rabi       ,Peas & beans (Pulses),2379,2836
+Uttar Pradesh,FAIZABAD,2011,Rabi       ,Peas & beans (Pulses),2815,3046
+Uttar Pradesh,FAIZABAD,2012,Rabi       ,Peas & beans (Pulses),2334,2021
+Uttar Pradesh,FAIZABAD,2013,Rabi       ,Peas & beans (Pulses),3684,936
+Uttar Pradesh,FAIZABAD,2014,Rabi       ,Peas & beans (Pulses),2236,1449
+Uttar Pradesh,FARRUKHABAD,1997,Rabi       ,Peas & beans (Pulses),1382,2142
+Uttar Pradesh,FARRUKHABAD,1998,Rabi       ,Peas & beans (Pulses),1286,2177
+Uttar Pradesh,FARRUKHABAD,1999,Whole Year ,Peas & beans (Pulses),1345,2662
+Uttar Pradesh,FARRUKHABAD,2000,Rabi       ,Peas & beans (Pulses),1227,2172
+Uttar Pradesh,FARRUKHABAD,2001,Rabi       ,Peas & beans (Pulses),1304,2168
+Uttar Pradesh,FARRUKHABAD,2002,Rabi       ,Peas & beans (Pulses),1237,2069
+Uttar Pradesh,FARRUKHABAD,2003,Rabi       ,Peas & beans (Pulses),987,1824
+Uttar Pradesh,FARRUKHABAD,2008,Rabi       ,Peas & beans (Pulses),624,1057
+Uttar Pradesh,FARRUKHABAD,2009,Rabi       ,Peas & beans (Pulses),742,1031
+Uttar Pradesh,FARRUKHABAD,2010,Rabi       ,Peas & beans (Pulses),581,850
+Uttar Pradesh,FARRUKHABAD,2011,Rabi       ,Peas & beans (Pulses),786,1206
+Uttar Pradesh,FARRUKHABAD,2012,Rabi       ,Peas & beans (Pulses),998,1606
+Uttar Pradesh,FARRUKHABAD,2013,Rabi       ,Peas & beans (Pulses),1015,1776
+Uttar Pradesh,FARRUKHABAD,2014,Rabi       ,Peas & beans (Pulses),852,469
+Uttar Pradesh,FATEHPUR,1997,Rabi       ,Peas & beans (Pulses),1780,1769
+Uttar Pradesh,FATEHPUR,1998,Rabi       ,Peas & beans (Pulses),2029,2220
+Uttar Pradesh,FATEHPUR,1999,Whole Year ,Peas & beans (Pulses),2054,3518
+Uttar Pradesh,FATEHPUR,2000,Rabi       ,Peas & beans (Pulses),2062,2264
+Uttar Pradesh,FATEHPUR,2001,Rabi       ,Peas & beans (Pulses),1853,1929
+Uttar Pradesh,FATEHPUR,2002,Rabi       ,Peas & beans (Pulses),1757,1712
+Uttar Pradesh,FATEHPUR,2003,Rabi       ,Peas & beans (Pulses),1778,1923
+Uttar Pradesh,FATEHPUR,2008,Rabi       ,Peas & beans (Pulses),1561,1284
+Uttar Pradesh,FATEHPUR,2009,Rabi       ,Peas & beans (Pulses),1499,1228
+Uttar Pradesh,FATEHPUR,2010,Rabi       ,Peas & beans (Pulses),1576,1424
+Uttar Pradesh,FATEHPUR,2011,Rabi       ,Peas & beans (Pulses),1673,1970
+Uttar Pradesh,FATEHPUR,2012,Rabi       ,Peas & beans (Pulses),1463,1565
+Uttar Pradesh,FATEHPUR,2013,Rabi       ,Peas & beans (Pulses),1396,1480
+Uttar Pradesh,FATEHPUR,2014,Rabi       ,Peas & beans (Pulses),2481,1813
+Uttar Pradesh,FIROZABAD,1997,Rabi       ,Peas & beans (Pulses),2339,3742
+Uttar Pradesh,FIROZABAD,1998,Rabi       ,Peas & beans (Pulses),3622,4955
+Uttar Pradesh,FIROZABAD,1999,Whole Year ,Peas & beans (Pulses),2224,4541
+Uttar Pradesh,FIROZABAD,2000,Rabi       ,Peas & beans (Pulses),1569,2992
+Uttar Pradesh,FIROZABAD,2001,Rabi       ,Peas & beans (Pulses),1780,2531
+Uttar Pradesh,FIROZABAD,2002,Rabi       ,Peas & beans (Pulses),1610,2682
+Uttar Pradesh,FIROZABAD,2003,Rabi       ,Peas & beans (Pulses),1463,3052
+Uttar Pradesh,FIROZABAD,2008,Rabi       ,Peas & beans (Pulses),572,691
+Uttar Pradesh,FIROZABAD,2009,Rabi       ,Peas & beans (Pulses),719,923
+Uttar Pradesh,FIROZABAD,2010,Rabi       ,Peas & beans (Pulses),587,1401
+Uttar Pradesh,FIROZABAD,2011,Rabi       ,Peas & beans (Pulses),254,420
+Uttar Pradesh,FIROZABAD,2012,Rabi       ,Peas & beans (Pulses),335,692
+Uttar Pradesh,FIROZABAD,2013,Rabi       ,Peas & beans (Pulses),335,733
+Uttar Pradesh,FIROZABAD,2014,Rabi       ,Peas & beans (Pulses),336,150
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1997,Rabi       ,Peas & beans (Pulses),408,530
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1998,Rabi       ,Peas & beans (Pulses),445,456
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1999,Whole Year ,Peas & beans (Pulses),433,783
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2000,Rabi       ,Peas & beans (Pulses),197,204
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2001,Rabi       ,Peas & beans (Pulses),189,229
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2002,Rabi       ,Peas & beans (Pulses),203,249
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2003,Rabi       ,Peas & beans (Pulses),99,136
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2008,Rabi       ,Peas & beans (Pulses),74,90
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2009,Rabi       ,Peas & beans (Pulses),62,79
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2010,Rabi       ,Peas & beans (Pulses),19,22
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2011,Rabi       ,Peas & beans (Pulses),61,87
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2012,Rabi       ,Peas & beans (Pulses),84,125
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2013,Rabi       ,Peas & beans (Pulses),59,59
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2014,Rabi       ,Peas & beans (Pulses),41,31
+Uttar Pradesh,GHAZIABAD,1997,Rabi       ,Peas & beans (Pulses),579,752
+Uttar Pradesh,GHAZIABAD,1998,Rabi       ,Peas & beans (Pulses),851,872
+Uttar Pradesh,GHAZIABAD,1999,Whole Year ,Peas & beans (Pulses),720,1302
+Uttar Pradesh,GHAZIABAD,2000,Rabi       ,Peas & beans (Pulses),351,362
+Uttar Pradesh,GHAZIABAD,2001,Rabi       ,Peas & beans (Pulses),736,890
+Uttar Pradesh,GHAZIABAD,2002,Rabi       ,Peas & beans (Pulses),540,664
+Uttar Pradesh,GHAZIABAD,2003,Rabi       ,Peas & beans (Pulses),769,1055
+Uttar Pradesh,GHAZIABAD,2008,Rabi       ,Peas & beans (Pulses),127,153
+Uttar Pradesh,GHAZIABAD,2009,Rabi       ,Peas & beans (Pulses),10,13
+Uttar Pradesh,GHAZIABAD,2011,Rabi       ,Peas & beans (Pulses),2,3
+Uttar Pradesh,GHAZIABAD,2013,Rabi       ,Peas & beans (Pulses),2,2
+Uttar Pradesh,GHAZIABAD,2014,Rabi       ,Peas & beans (Pulses),7,5
+Uttar Pradesh,GHAZIPUR,1997,Rabi       ,Peas & beans (Pulses),5381,6259
+Uttar Pradesh,GHAZIPUR,1998,Rabi       ,Peas & beans (Pulses),4671,4891
+Uttar Pradesh,GHAZIPUR,1999,Whole Year ,Peas & beans (Pulses),5597,5804
+Uttar Pradesh,GHAZIPUR,2000,Rabi       ,Peas & beans (Pulses),5675,6730
+Uttar Pradesh,GHAZIPUR,2001,Rabi       ,Peas & beans (Pulses),5503,4463
+Uttar Pradesh,GHAZIPUR,2002,Rabi       ,Peas & beans (Pulses),5021,6226
+Uttar Pradesh,GHAZIPUR,2003,Rabi       ,Peas & beans (Pulses),4034,4470
+Uttar Pradesh,GHAZIPUR,2008,Rabi       ,Peas & beans (Pulses),4726,5411
+Uttar Pradesh,GHAZIPUR,2009,Rabi       ,Peas & beans (Pulses),4953,5592
+Uttar Pradesh,GHAZIPUR,2010,Rabi       ,Peas & beans (Pulses),3581,5916
+Uttar Pradesh,GHAZIPUR,2011,Rabi       ,Peas & beans (Pulses),3687,6460
+Uttar Pradesh,GHAZIPUR,2012,Rabi       ,Peas & beans (Pulses),3573,4548
+Uttar Pradesh,GHAZIPUR,2013,Rabi       ,Peas & beans (Pulses),3591,3350
+Uttar Pradesh,GHAZIPUR,2014,Rabi       ,Peas & beans (Pulses),3611,4257
+Uttar Pradesh,GONDA,1997,Rabi       ,Peas & beans (Pulses),6551,8509
+Uttar Pradesh,GONDA,1998,Rabi       ,Peas & beans (Pulses),6095,6437
+Uttar Pradesh,GONDA,1999,Whole Year ,Peas & beans (Pulses),5722,5453
+Uttar Pradesh,GONDA,2000,Rabi       ,Peas & beans (Pulses),6292,6210
+Uttar Pradesh,GONDA,2001,Rabi       ,Peas & beans (Pulses),3723,3987
+Uttar Pradesh,GONDA,2002,Rabi       ,Peas & beans (Pulses),3763,2785
+Uttar Pradesh,GONDA,2003,Rabi       ,Peas & beans (Pulses),3868,5307
+Uttar Pradesh,GONDA,2008,Rabi       ,Peas & beans (Pulses),3672,4432
+Uttar Pradesh,GONDA,2009,Rabi       ,Peas & beans (Pulses),3834,4920
+Uttar Pradesh,GONDA,2010,Rabi       ,Peas & beans (Pulses),2916,3397
+Uttar Pradesh,GONDA,2011,Rabi       ,Peas & beans (Pulses),3159,4523
+Uttar Pradesh,GONDA,2012,Rabi       ,Peas & beans (Pulses),3155,4714
+Uttar Pradesh,GONDA,2013,Rabi       ,Peas & beans (Pulses),2637,2616
+Uttar Pradesh,GONDA,2014,Rabi       ,Peas & beans (Pulses),3278,2475
+Uttar Pradesh,GORAKHPUR,1997,Rabi       ,Peas & beans (Pulses),3573,4641
+Uttar Pradesh,GORAKHPUR,1998,Rabi       ,Peas & beans (Pulses),3805,4018
+Uttar Pradesh,GORAKHPUR,1999,Whole Year ,Peas & beans (Pulses),3541,4865
+Uttar Pradesh,GORAKHPUR,2000,Rabi       ,Peas & beans (Pulses),3283,4550
+Uttar Pradesh,GORAKHPUR,2001,Rabi       ,Peas & beans (Pulses),3358,4060
+Uttar Pradesh,GORAKHPUR,2002,Rabi       ,Peas & beans (Pulses),2996,3682
+Uttar Pradesh,GORAKHPUR,2003,Rabi       ,Peas & beans (Pulses),3095,4246
+Uttar Pradesh,GORAKHPUR,2008,Rabi       ,Peas & beans (Pulses),2494,3010
+Uttar Pradesh,GORAKHPUR,2009,Rabi       ,Peas & beans (Pulses),2416,3100
+Uttar Pradesh,GORAKHPUR,2010,Rabi       ,Peas & beans (Pulses),2152,2507
+Uttar Pradesh,GORAKHPUR,2011,Rabi       ,Peas & beans (Pulses),2142,2318
+Uttar Pradesh,GORAKHPUR,2012,Rabi       ,Peas & beans (Pulses),2339,2431
+Uttar Pradesh,GORAKHPUR,2013,Rabi       ,Peas & beans (Pulses),1480,861
+Uttar Pradesh,GORAKHPUR,2014,Rabi       ,Peas & beans (Pulses),2123,1030
+Uttar Pradesh,HAMIRPUR,1997,Rabi       ,Peas & beans (Pulses),29522,33212
+Uttar Pradesh,HAMIRPUR,1998,Rabi       ,Peas & beans (Pulses),38911,43152
+Uttar Pradesh,HAMIRPUR,1999,Whole Year ,Peas & beans (Pulses),29164,34297
+Uttar Pradesh,HAMIRPUR,2000,Rabi       ,Peas & beans (Pulses),19558,11441
+Uttar Pradesh,HAMIRPUR,2001,Rabi       ,Peas & beans (Pulses),19136,21145
+Uttar Pradesh,HAMIRPUR,2002,Rabi       ,Peas & beans (Pulses),21092,22147
+Uttar Pradesh,HAMIRPUR,2003,Rabi       ,Peas & beans (Pulses),25063,31429
+Uttar Pradesh,HAMIRPUR,2008,Rabi       ,Peas & beans (Pulses),17407,18643
+Uttar Pradesh,HAMIRPUR,2009,Rabi       ,Peas & beans (Pulses),14539,14655
+Uttar Pradesh,HAMIRPUR,2010,Rabi       ,Peas & beans (Pulses),12418,11511
+Uttar Pradesh,HAMIRPUR,2011,Rabi       ,Peas & beans (Pulses),9234,9788
+Uttar Pradesh,HAMIRPUR,2012,Rabi       ,Peas & beans (Pulses),10985,13237
+Uttar Pradesh,HAMIRPUR,2013,Rabi       ,Peas & beans (Pulses),11525,11525
+Uttar Pradesh,HAMIRPUR,2014,Rabi       ,Peas & beans (Pulses),20721,10153
+Uttar Pradesh,HAPUR,2013,Rabi       ,Peas & beans (Pulses),101,100
+Uttar Pradesh,HAPUR,2014,Rabi       ,Peas & beans (Pulses),16,12
+Uttar Pradesh,HARDOI,1997,Rabi       ,Peas & beans (Pulses),1665,1857
+Uttar Pradesh,HARDOI,1998,Rabi       ,Peas & beans (Pulses),1656,1749
+Uttar Pradesh,HARDOI,1999,Whole Year ,Peas & beans (Pulses),1373,1702
+Uttar Pradesh,HARDOI,2000,Rabi       ,Peas & beans (Pulses),1316,1615
+Uttar Pradesh,HARDOI,2001,Rabi       ,Peas & beans (Pulses),1484,1742
+Uttar Pradesh,HARDOI,2002,Rabi       ,Peas & beans (Pulses),1376,1448
+Uttar Pradesh,HARDOI,2003,Rabi       ,Peas & beans (Pulses),1061,1039
+Uttar Pradesh,HARDOI,2008,Rabi       ,Peas & beans (Pulses),737,890
+Uttar Pradesh,HARDOI,2009,Rabi       ,Peas & beans (Pulses),676,868
+Uttar Pradesh,HARDOI,2010,Rabi       ,Peas & beans (Pulses),1200,1430
+Uttar Pradesh,HARDOI,2011,Rabi       ,Peas & beans (Pulses),1222,1322
+Uttar Pradesh,HARDOI,2012,Rabi       ,Peas & beans (Pulses),1159,911
+Uttar Pradesh,HARDOI,2013,Rabi       ,Peas & beans (Pulses),1057,1000
+Uttar Pradesh,HARDOI,2014,Rabi       ,Peas & beans (Pulses),1338,1555
+Uttar Pradesh,HATHRAS,1997,Rabi       ,Peas & beans (Pulses),1104,1766
+Uttar Pradesh,HATHRAS,1998,Rabi       ,Peas & beans (Pulses),1528,2090
+Uttar Pradesh,HATHRAS,1999,Whole Year ,Peas & beans (Pulses),1561,3188
+Uttar Pradesh,HATHRAS,2000,Rabi       ,Peas & beans (Pulses),932,1777
+Uttar Pradesh,HATHRAS,2001,Rabi       ,Peas & beans (Pulses),1097,1949
+Uttar Pradesh,HATHRAS,2002,Rabi       ,Peas & beans (Pulses),171,285
+Uttar Pradesh,HATHRAS,2003,Rabi       ,Peas & beans (Pulses),368,747
+Uttar Pradesh,HATHRAS,2008,Rabi       ,Peas & beans (Pulses),207,250
+Uttar Pradesh,HATHRAS,2009,Rabi       ,Peas & beans (Pulses),50,64
+Uttar Pradesh,HATHRAS,2010,Rabi       ,Peas & beans (Pulses),12,14
+Uttar Pradesh,HATHRAS,2011,Rabi       ,Peas & beans (Pulses),72,103
+Uttar Pradesh,HATHRAS,2012,Rabi       ,Peas & beans (Pulses),157,234
+Uttar Pradesh,HATHRAS,2013,Rabi       ,Peas & beans (Pulses),39,39
+Uttar Pradesh,HATHRAS,2014,Rabi       ,Peas & beans (Pulses),66,85
+Uttar Pradesh,JALAUN,1997,Rabi       ,Peas & beans (Pulses),79603,66946
+Uttar Pradesh,JALAUN,1998,Rabi       ,Peas & beans (Pulses),87465,73383
+Uttar Pradesh,JALAUN,1999,Whole Year ,Peas & beans (Pulses),47108,74054
+Uttar Pradesh,JALAUN,2000,Rabi       ,Peas & beans (Pulses),29277,28867
+Uttar Pradesh,JALAUN,2001,Rabi       ,Peas & beans (Pulses),33537,60702
+Uttar Pradesh,JALAUN,2002,Rabi       ,Peas & beans (Pulses),49803,94128
+Uttar Pradesh,JALAUN,2003,Rabi       ,Peas & beans (Pulses),60315,121535
+Uttar Pradesh,JALAUN,2008,Rabi       ,Peas & beans (Pulses),57936,72768
+Uttar Pradesh,JALAUN,2009,Rabi       ,Peas & beans (Pulses),48905,73504
+Uttar Pradesh,JALAUN,2010,Rabi       ,Peas & beans (Pulses),54379,67919
+Uttar Pradesh,JALAUN,2011,Rabi       ,Peas & beans (Pulses),69134,127690
+Uttar Pradesh,JALAUN,2012,Rabi       ,Peas & beans (Pulses),62909,115375
+Uttar Pradesh,JALAUN,2013,Rabi       ,Peas & beans (Pulses),79474,123503
+Uttar Pradesh,JALAUN,2014,Rabi       ,Peas & beans (Pulses),76325,70295
+Uttar Pradesh,JAUNPUR,1997,Rabi       ,Peas & beans (Pulses),6508,7569
+Uttar Pradesh,JAUNPUR,1998,Rabi       ,Peas & beans (Pulses),6845,7167
+Uttar Pradesh,JAUNPUR,1999,Whole Year ,Peas & beans (Pulses),6975,7233
+Uttar Pradesh,JAUNPUR,2000,Rabi       ,Peas & beans (Pulses),6952,8245
+Uttar Pradesh,JAUNPUR,2001,Rabi       ,Peas & beans (Pulses),6933,5623
+Uttar Pradesh,JAUNPUR,2002,Rabi       ,Peas & beans (Pulses),6757,8257
+Uttar Pradesh,JAUNPUR,2003,Rabi       ,Peas & beans (Pulses),6530,7810
+Uttar Pradesh,JAUNPUR,2008,Rabi       ,Peas & beans (Pulses),5737,6569
+Uttar Pradesh,JAUNPUR,2009,Rabi       ,Peas & beans (Pulses),5065,5450
+Uttar Pradesh,JAUNPUR,2010,Rabi       ,Peas & beans (Pulses),5970,9863
+Uttar Pradesh,JAUNPUR,2011,Rabi       ,Peas & beans (Pulses),5331,7572
+Uttar Pradesh,JAUNPUR,2012,Rabi       ,Peas & beans (Pulses),5207,6086
+Uttar Pradesh,JAUNPUR,2013,Rabi       ,Peas & beans (Pulses),5274,4473
+Uttar Pradesh,JAUNPUR,2014,Rabi       ,Peas & beans (Pulses),5839,5612
+Uttar Pradesh,JHANSI,1997,Rabi       ,Peas & beans (Pulses),69042,75256
+Uttar Pradesh,JHANSI,1998,Rabi       ,Peas & beans (Pulses),80261,75205
+Uttar Pradesh,JHANSI,1999,Whole Year ,Peas & beans (Pulses),61787,90394
+Uttar Pradesh,JHANSI,2000,Rabi       ,Peas & beans (Pulses),43272,40632
+Uttar Pradesh,JHANSI,2001,Rabi       ,Peas & beans (Pulses),42348,66656
+Uttar Pradesh,JHANSI,2002,Rabi       ,Peas & beans (Pulses),55967,95032
+Uttar Pradesh,JHANSI,2003,Rabi       ,Peas & beans (Pulses),81950,124482
+Uttar Pradesh,JHANSI,2008,Rabi       ,Peas & beans (Pulses),59329,89527
+Uttar Pradesh,JHANSI,2009,Rabi       ,Peas & beans (Pulses),42125,59818
+Uttar Pradesh,JHANSI,2010,Rabi       ,Peas & beans (Pulses),37066,40476
+Uttar Pradesh,JHANSI,2011,Rabi       ,Peas & beans (Pulses),40963,63083
+Uttar Pradesh,JHANSI,2012,Rabi       ,Peas & beans (Pulses),44782,78503
+Uttar Pradesh,JHANSI,2013,Rabi       ,Peas & beans (Pulses),56429,37243
+Uttar Pradesh,JHANSI,2014,Rabi       ,Peas & beans (Pulses),94681,62395
+Uttar Pradesh,KANNAUJ,1997,Rabi       ,Peas & beans (Pulses),2459,3811
+Uttar Pradesh,KANNAUJ,1998,Rabi       ,Peas & beans (Pulses),3212,5438
+Uttar Pradesh,KANNAUJ,1999,Whole Year ,Peas & beans (Pulses),2427,4803
+Uttar Pradesh,KANNAUJ,2000,Rabi       ,Peas & beans (Pulses),2196,3887
+Uttar Pradesh,KANNAUJ,2001,Rabi       ,Peas & beans (Pulses),2489,4138
+Uttar Pradesh,KANNAUJ,2002,Rabi       ,Peas & beans (Pulses),1852,3098
+Uttar Pradesh,KANNAUJ,2003,Rabi       ,Peas & beans (Pulses),1709,3220
+Uttar Pradesh,KANNAUJ,2008,Rabi       ,Peas & beans (Pulses),1045,1769
+Uttar Pradesh,KANNAUJ,2009,Rabi       ,Peas & beans (Pulses),832,1156
+Uttar Pradesh,KANNAUJ,2010,Rabi       ,Peas & beans (Pulses),994,1453
+Uttar Pradesh,KANNAUJ,2011,Rabi       ,Peas & beans (Pulses),948,1455
+Uttar Pradesh,KANNAUJ,2012,Rabi       ,Peas & beans (Pulses),913,1469
+Uttar Pradesh,KANNAUJ,2013,Rabi       ,Peas & beans (Pulses),793,1387
+Uttar Pradesh,KANNAUJ,2014,Rabi       ,Peas & beans (Pulses),641,352
+Uttar Pradesh,KANPUR DEHAT,1997,Rabi       ,Peas & beans (Pulses),8515,13888
+Uttar Pradesh,KANPUR DEHAT,1998,Rabi       ,Peas & beans (Pulses),8361,14155
+Uttar Pradesh,KANPUR DEHAT,2003,Rabi       ,Peas & beans (Pulses),3165,6406
+Uttar Pradesh,KANPUR DEHAT,2008,Rabi       ,Peas & beans (Pulses),2738,4737
+Uttar Pradesh,KANPUR DEHAT,2009,Rabi       ,Peas & beans (Pulses),2369,2608
+Uttar Pradesh,KANPUR DEHAT,2010,Rabi       ,Peas & beans (Pulses),2733,3709
+Uttar Pradesh,KANPUR DEHAT,2011,Rabi       ,Peas & beans (Pulses),2514,5292
+Uttar Pradesh,KANPUR DEHAT,2012,Rabi       ,Peas & beans (Pulses),2282,4062
+Uttar Pradesh,KANPUR DEHAT,2013,Rabi       ,Peas & beans (Pulses),2427,3684
+Uttar Pradesh,KANPUR DEHAT,2014,Rabi       ,Peas & beans (Pulses),2338,1286
+Uttar Pradesh,KANPUR NAGAR,1997,Rabi       ,Peas & beans (Pulses),4293,6653
+Uttar Pradesh,KANPUR NAGAR,1998,Rabi       ,Peas & beans (Pulses),4305,7289
+Uttar Pradesh,KANPUR NAGAR,1999,Whole Year ,Peas & beans (Pulses),12600,24935
+Uttar Pradesh,KANPUR NAGAR,2000,Rabi       ,Peas & beans (Pulses),11018,19502
+Uttar Pradesh,KANPUR NAGAR,2001,Rabi       ,Peas & beans (Pulses),6831,10685
+Uttar Pradesh,KANPUR NAGAR,2002,Rabi       ,Peas & beans (Pulses),6050,9882
+Uttar Pradesh,KANPUR NAGAR,2003,Rabi       ,Peas & beans (Pulses),2195,3519
+Uttar Pradesh,KANPUR NAGAR,2008,Rabi       ,Peas & beans (Pulses),1854,3037
+Uttar Pradesh,KANPUR NAGAR,2009,Rabi       ,Peas & beans (Pulses),2424,4048
+Uttar Pradesh,KANPUR NAGAR,2010,Rabi       ,Peas & beans (Pulses),2361,3745
+Uttar Pradesh,KANPUR NAGAR,2011,Rabi       ,Peas & beans (Pulses),1607,2466
+Uttar Pradesh,KANPUR NAGAR,2012,Rabi       ,Peas & beans (Pulses),1638,2635
+Uttar Pradesh,KANPUR NAGAR,2013,Rabi       ,Peas & beans (Pulses),2569,5053
+Uttar Pradesh,KANPUR NAGAR,2014,Rabi       ,Peas & beans (Pulses),2269,1248
+Uttar Pradesh,KASGANJ,2009,Rabi       ,Peas & beans (Pulses),2,3
+Uttar Pradesh,KASGANJ,2010,Rabi       ,Peas & beans (Pulses),110,128
+Uttar Pradesh,KASGANJ,2011,Rabi       ,Peas & beans (Pulses),26,37
+Uttar Pradesh,KASGANJ,2013,Rabi       ,Peas & beans (Pulses),1726,1712
+Uttar Pradesh,KAUSHAMBI,1997,Rabi       ,Peas & beans (Pulses),2656,2639
+Uttar Pradesh,KAUSHAMBI,1998,Rabi       ,Peas & beans (Pulses),2171,2375
+Uttar Pradesh,KAUSHAMBI,1999,Whole Year ,Peas & beans (Pulses),1667,2856
+Uttar Pradesh,KAUSHAMBI,2000,Rabi       ,Peas & beans (Pulses),1922,2110
+Uttar Pradesh,KAUSHAMBI,2001,Rabi       ,Peas & beans (Pulses),1606,1672
+Uttar Pradesh,KAUSHAMBI,2002,Rabi       ,Peas & beans (Pulses),1604,1562
+Uttar Pradesh,KAUSHAMBI,2003,Rabi       ,Peas & beans (Pulses),1506,1629
+Uttar Pradesh,KAUSHAMBI,2008,Rabi       ,Peas & beans (Pulses),1903,1566
+Uttar Pradesh,KAUSHAMBI,2009,Rabi       ,Peas & beans (Pulses),1383,1132
+Uttar Pradesh,KAUSHAMBI,2010,Rabi       ,Peas & beans (Pulses),1479,1336
+Uttar Pradesh,KAUSHAMBI,2011,Rabi       ,Peas & beans (Pulses),1373,1617
+Uttar Pradesh,KAUSHAMBI,2012,Rabi       ,Peas & beans (Pulses),1335,1429
+Uttar Pradesh,KAUSHAMBI,2013,Rabi       ,Peas & beans (Pulses),1020,1081
+Uttar Pradesh,KAUSHAMBI,2014,Rabi       ,Peas & beans (Pulses),1793,1311
+Uttar Pradesh,KHERI,1997,Rabi       ,Peas & beans (Pulses),870,970
+Uttar Pradesh,KHERI,1998,Rabi       ,Peas & beans (Pulses),926,978
+Uttar Pradesh,KHERI,1999,Whole Year ,Peas & beans (Pulses),755,936
+Uttar Pradesh,KHERI,2000,Rabi       ,Peas & beans (Pulses),815,814
+Uttar Pradesh,KHERI,2001,Rabi       ,Peas & beans (Pulses),1064,1249
+Uttar Pradesh,KHERI,2002,Rabi       ,Peas & beans (Pulses),816,858
+Uttar Pradesh,KHERI,2003,Rabi       ,Peas & beans (Pulses),742,726
+Uttar Pradesh,KHERI,2008,Rabi       ,Peas & beans (Pulses),503,607
+Uttar Pradesh,KHERI,2009,Rabi       ,Peas & beans (Pulses),665,853
+Uttar Pradesh,KHERI,2010,Rabi       ,Peas & beans (Pulses),591,705
+Uttar Pradesh,KHERI,2011,Rabi       ,Peas & beans (Pulses),595,644
+Uttar Pradesh,KHERI,2012,Rabi       ,Peas & beans (Pulses),505,397
+Uttar Pradesh,KHERI,2013,Rabi       ,Peas & beans (Pulses),586,554
+Uttar Pradesh,KHERI,2014,Rabi       ,Peas & beans (Pulses),429,499
+Uttar Pradesh,KUSHI NAGAR,1997,Rabi       ,Peas & beans (Pulses),925,1202
+Uttar Pradesh,KUSHI NAGAR,1998,Rabi       ,Peas & beans (Pulses),942,995
+Uttar Pradesh,KUSHI NAGAR,1999,Whole Year ,Peas & beans (Pulses),960,1319
+Uttar Pradesh,KUSHI NAGAR,2000,Rabi       ,Peas & beans (Pulses),792,1098
+Uttar Pradesh,KUSHI NAGAR,2001,Rabi       ,Peas & beans (Pulses),683,826
+Uttar Pradesh,KUSHI NAGAR,2002,Rabi       ,Peas & beans (Pulses),603,741
+Uttar Pradesh,KUSHI NAGAR,2003,Rabi       ,Peas & beans (Pulses),675,926
+Uttar Pradesh,KUSHI NAGAR,2008,Rabi       ,Peas & beans (Pulses),922,1113
+Uttar Pradesh,KUSHI NAGAR,2009,Rabi       ,Peas & beans (Pulses),345,443
+Uttar Pradesh,KUSHI NAGAR,2010,Rabi       ,Peas & beans (Pulses),401,467
+Uttar Pradesh,KUSHI NAGAR,2011,Rabi       ,Peas & beans (Pulses),619,670
+Uttar Pradesh,KUSHI NAGAR,2012,Rabi       ,Peas & beans (Pulses),534,555
+Uttar Pradesh,KUSHI NAGAR,2013,Rabi       ,Peas & beans (Pulses),552,321
+Uttar Pradesh,KUSHI NAGAR,2014,Rabi       ,Peas & beans (Pulses),485,235
+Uttar Pradesh,LALITPUR,1997,Rabi       ,Peas & beans (Pulses),21475,25899
+Uttar Pradesh,LALITPUR,1998,Rabi       ,Peas & beans (Pulses),35488,27113
+Uttar Pradesh,LALITPUR,1999,Whole Year ,Peas & beans (Pulses),32971,34554
+Uttar Pradesh,LALITPUR,2000,Rabi       ,Peas & beans (Pulses),29299,26486
+Uttar Pradesh,LALITPUR,2001,Rabi       ,Peas & beans (Pulses),33387,28145
+Uttar Pradesh,LALITPUR,2002,Rabi       ,Peas & beans (Pulses),35460,27730
+Uttar Pradesh,LALITPUR,2003,Rabi       ,Peas & beans (Pulses),45721,56374
+Uttar Pradesh,LALITPUR,2008,Rabi       ,Peas & beans (Pulses),70733,75260
+Uttar Pradesh,LALITPUR,2009,Rabi       ,Peas & beans (Pulses),65849,92254
+Uttar Pradesh,LALITPUR,2010,Rabi       ,Peas & beans (Pulses),60377,72151
+Uttar Pradesh,LALITPUR,2011,Rabi       ,Peas & beans (Pulses),64074,86372
+Uttar Pradesh,LALITPUR,2012,Rabi       ,Peas & beans (Pulses),54718,94662
+Uttar Pradesh,LALITPUR,2013,Rabi       ,Peas & beans (Pulses),63268,61750
+Uttar Pradesh,LALITPUR,2014,Rabi       ,Peas & beans (Pulses),68573,57190
+Uttar Pradesh,LUCKNOW,1997,Rabi       ,Peas & beans (Pulses),2592,2890
+Uttar Pradesh,LUCKNOW,1998,Rabi       ,Peas & beans (Pulses),2885,3047
+Uttar Pradesh,LUCKNOW,1999,Whole Year ,Peas & beans (Pulses),2986,3703
+Uttar Pradesh,LUCKNOW,2000,Rabi       ,Peas & beans (Pulses),3144,3141
+Uttar Pradesh,LUCKNOW,2001,Rabi       ,Peas & beans (Pulses),2855,3352
+Uttar Pradesh,LUCKNOW,2002,Rabi       ,Peas & beans (Pulses),2786,2931
+Uttar Pradesh,LUCKNOW,2003,Rabi       ,Peas & beans (Pulses),2491,2573
+Uttar Pradesh,LUCKNOW,2008,Rabi       ,Peas & beans (Pulses),1105,1334
+Uttar Pradesh,LUCKNOW,2009,Rabi       ,Peas & beans (Pulses),947,1215
+Uttar Pradesh,LUCKNOW,2010,Rabi       ,Peas & beans (Pulses),709,845
+Uttar Pradesh,LUCKNOW,2011,Rabi       ,Peas & beans (Pulses),820,887
+Uttar Pradesh,LUCKNOW,2012,Rabi       ,Peas & beans (Pulses),821,645
+Uttar Pradesh,LUCKNOW,2013,Rabi       ,Peas & beans (Pulses),783,741
+Uttar Pradesh,LUCKNOW,2014,Rabi       ,Peas & beans (Pulses),815,947
+Uttar Pradesh,MAHARAJGANJ,1997,Rabi       ,Peas & beans (Pulses),1679,2181
+Uttar Pradesh,MAHARAJGANJ,1998,Rabi       ,Peas & beans (Pulses),1710,1806
+Uttar Pradesh,MAHARAJGANJ,1999,Whole Year ,Peas & beans (Pulses),1839,2527
+Uttar Pradesh,MAHARAJGANJ,2000,Rabi       ,Peas & beans (Pulses),1620,2245
+Uttar Pradesh,MAHARAJGANJ,2001,Rabi       ,Peas & beans (Pulses),1519,1836
+Uttar Pradesh,MAHARAJGANJ,2002,Rabi       ,Peas & beans (Pulses),1442,1772
+Uttar Pradesh,MAHARAJGANJ,2003,Rabi       ,Peas & beans (Pulses),1347,1848
+Uttar Pradesh,MAHARAJGANJ,2008,Rabi       ,Peas & beans (Pulses),1003,1211
+Uttar Pradesh,MAHARAJGANJ,2009,Rabi       ,Peas & beans (Pulses),1295,1662
+Uttar Pradesh,MAHARAJGANJ,2010,Rabi       ,Peas & beans (Pulses),1039,1211
+Uttar Pradesh,MAHARAJGANJ,2011,Rabi       ,Peas & beans (Pulses),1218,1318
+Uttar Pradesh,MAHARAJGANJ,2012,Rabi       ,Peas & beans (Pulses),1192,1238
+Uttar Pradesh,MAHARAJGANJ,2013,Rabi       ,Peas & beans (Pulses),1180,687
+Uttar Pradesh,MAHARAJGANJ,2014,Rabi       ,Peas & beans (Pulses),1042,505
+Uttar Pradesh,MAHOBA,1997,Rabi       ,Peas & beans (Pulses),43662,53137
+Uttar Pradesh,MAHOBA,1998,Rabi       ,Peas & beans (Pulses),52088,52401
+Uttar Pradesh,MAHOBA,1999,Whole Year ,Peas & beans (Pulses),47993,61095
+Uttar Pradesh,MAHOBA,2000,Rabi       ,Peas & beans (Pulses),44322,25840
+Uttar Pradesh,MAHOBA,2001,Rabi       ,Peas & beans (Pulses),39445,40707
+Uttar Pradesh,MAHOBA,2002,Rabi       ,Peas & beans (Pulses),33286,25797
+Uttar Pradesh,MAHOBA,2003,Rabi       ,Peas & beans (Pulses),43602,40811
+Uttar Pradesh,MAHOBA,2008,Rabi       ,Peas & beans (Pulses),26623,25718
+Uttar Pradesh,MAHOBA,2009,Rabi       ,Peas & beans (Pulses),24086,20545
+Uttar Pradesh,MAHOBA,2010,Rabi       ,Peas & beans (Pulses),25007,15279
+Uttar Pradesh,MAHOBA,2011,Rabi       ,Peas & beans (Pulses),25646,27031
+Uttar Pradesh,MAHOBA,2012,Rabi       ,Peas & beans (Pulses),24629,23668
+Uttar Pradesh,MAHOBA,2013,Rabi       ,Peas & beans (Pulses),29727,18431
+Uttar Pradesh,MAHOBA,2014,Rabi       ,Peas & beans (Pulses),37842,16688
+Uttar Pradesh,MAINPURI,1997,Rabi       ,Peas & beans (Pulses),2786,4457
+Uttar Pradesh,MAINPURI,1998,Rabi       ,Peas & beans (Pulses),2598,3554
+Uttar Pradesh,MAINPURI,1999,Whole Year ,Peas & beans (Pulses),3057,6242
+Uttar Pradesh,MAINPURI,2000,Rabi       ,Peas & beans (Pulses),1614,3078
+Uttar Pradesh,MAINPURI,2001,Rabi       ,Peas & beans (Pulses),1615,2834
+Uttar Pradesh,MAINPURI,2002,Rabi       ,Peas & beans (Pulses),1568,2612
+Uttar Pradesh,MAINPURI,2003,Rabi       ,Peas & beans (Pulses),1807,3669
+Uttar Pradesh,MAINPURI,2008,Rabi       ,Peas & beans (Pulses),1475,1780
+Uttar Pradesh,MAINPURI,2009,Rabi       ,Peas & beans (Pulses),1095,1405
+Uttar Pradesh,MAINPURI,2010,Rabi       ,Peas & beans (Pulses),1441,3440
+Uttar Pradesh,MAINPURI,2011,Rabi       ,Peas & beans (Pulses),1445,2390
+Uttar Pradesh,MAINPURI,2012,Rabi       ,Peas & beans (Pulses),910,1880
+Uttar Pradesh,MAINPURI,2013,Rabi       ,Peas & beans (Pulses),1218,2666
+Uttar Pradesh,MAINPURI,2014,Rabi       ,Peas & beans (Pulses),1120,500
+Uttar Pradesh,MATHURA,1997,Rabi       ,Peas & beans (Pulses),124,198
+Uttar Pradesh,MATHURA,1998,Rabi       ,Peas & beans (Pulses),126,172
+Uttar Pradesh,MATHURA,1999,Whole Year ,Peas & beans (Pulses),138,282
+Uttar Pradesh,MATHURA,2000,Rabi       ,Peas & beans (Pulses),71,135
+Uttar Pradesh,MATHURA,2001,Rabi       ,Peas & beans (Pulses),174,309
+Uttar Pradesh,MATHURA,2002,Rabi       ,Peas & beans (Pulses),16,27
+Uttar Pradesh,MATHURA,2003,Rabi       ,Peas & beans (Pulses),34,69
+Uttar Pradesh,MATHURA,2008,Rabi       ,Peas & beans (Pulses),10,12
+Uttar Pradesh,MATHURA,2009,Rabi       ,Peas & beans (Pulses),2,3
+Uttar Pradesh,MATHURA,2011,Rabi       ,Peas & beans (Pulses),5,8
+Uttar Pradesh,MATHURA,2012,Rabi       ,Peas & beans (Pulses),1,2
+Uttar Pradesh,MATHURA,2013,Rabi       ,Peas & beans (Pulses),1,2
+Uttar Pradesh,MATHURA,2014,Rabi       ,Peas & beans (Pulses),6,2
+Uttar Pradesh,MAU,1997,Rabi       ,Peas & beans (Pulses),2499,2986
+Uttar Pradesh,MAU,1998,Rabi       ,Peas & beans (Pulses),2825,3508
+Uttar Pradesh,MAU,1999,Whole Year ,Peas & beans (Pulses),2715,3015
+Uttar Pradesh,MAU,2000,Rabi       ,Peas & beans (Pulses),2505,3472
+Uttar Pradesh,MAU,2001,Rabi       ,Peas & beans (Pulses),2245,2204
+Uttar Pradesh,MAU,2002,Rabi       ,Peas & beans (Pulses),1973,1950
+Uttar Pradesh,MAU,2003,Rabi       ,Peas & beans (Pulses),2037,2436
+Uttar Pradesh,MAU,2008,Rabi       ,Peas & beans (Pulses),1709,2146
+Uttar Pradesh,MAU,2009,Rabi       ,Peas & beans (Pulses),1814,2193
+Uttar Pradesh,MAU,2010,Rabi       ,Peas & beans (Pulses),1560,1980
+Uttar Pradesh,MAU,2011,Rabi       ,Peas & beans (Pulses),1711,2332
+Uttar Pradesh,MAU,2012,Rabi       ,Peas & beans (Pulses),1503,2226
+Uttar Pradesh,MAU,2013,Rabi       ,Peas & beans (Pulses),1205,686
+Uttar Pradesh,MAU,2014,Rabi       ,Peas & beans (Pulses),1562,2228
+Uttar Pradesh,MEERUT,1997,Rabi       ,Peas & beans (Pulses),875,1137
+Uttar Pradesh,MEERUT,1998,Rabi       ,Peas & beans (Pulses),751,770
+Uttar Pradesh,MEERUT,1999,Whole Year ,Peas & beans (Pulses),780,1410
+Uttar Pradesh,MEERUT,2000,Rabi       ,Peas & beans (Pulses),908,937
+Uttar Pradesh,MEERUT,2001,Rabi       ,Peas & beans (Pulses),829,1002
+Uttar Pradesh,MEERUT,2002,Rabi       ,Peas & beans (Pulses),624,767
+Uttar Pradesh,MEERUT,2003,Rabi       ,Peas & beans (Pulses),650,892
+Uttar Pradesh,MEERUT,2008,Rabi       ,Peas & beans (Pulses),68,82
+Uttar Pradesh,MEERUT,2009,Rabi       ,Peas & beans (Pulses),45,58
+Uttar Pradesh,MEERUT,2010,Rabi       ,Peas & beans (Pulses),92,107
+Uttar Pradesh,MEERUT,2011,Rabi       ,Peas & beans (Pulses),147,211
+Uttar Pradesh,MEERUT,2012,Rabi       ,Peas & beans (Pulses),218,326
+Uttar Pradesh,MEERUT,2013,Rabi       ,Peas & beans (Pulses),795,790
+Uttar Pradesh,MEERUT,2014,Rabi       ,Peas & beans (Pulses),275,208
+Uttar Pradesh,MIRZAPUR,1997,Rabi       ,Peas & beans (Pulses),3818,4960
+Uttar Pradesh,MIRZAPUR,1998,Rabi       ,Peas & beans (Pulses),4247,4485
+Uttar Pradesh,MIRZAPUR,1999,Whole Year ,Peas & beans (Pulses),4627,4798
+Uttar Pradesh,MIRZAPUR,2000,Rabi       ,Peas & beans (Pulses),4841,5756
+Uttar Pradesh,MIRZAPUR,2001,Rabi       ,Peas & beans (Pulses),5137,6529
+Uttar Pradesh,MIRZAPUR,2002,Rabi       ,Peas & beans (Pulses),5102,4852
+Uttar Pradesh,MIRZAPUR,2003,Rabi       ,Peas & beans (Pulses),5432,7838
+Uttar Pradesh,MIRZAPUR,2008,Rabi       ,Peas & beans (Pulses),3830,5328
+Uttar Pradesh,MIRZAPUR,2009,Rabi       ,Peas & beans (Pulses),3978,5963
+Uttar Pradesh,MIRZAPUR,2010,Rabi       ,Peas & beans (Pulses),3644,6045
+Uttar Pradesh,MIRZAPUR,2011,Rabi       ,Peas & beans (Pulses),3144,3697
+Uttar Pradesh,MIRZAPUR,2012,Rabi       ,Peas & beans (Pulses),3447,4819
+Uttar Pradesh,MIRZAPUR,2013,Rabi       ,Peas & beans (Pulses),4354,4916
+Uttar Pradesh,MIRZAPUR,2014,Rabi       ,Peas & beans (Pulses),3158,3935
+Uttar Pradesh,MORADABAD,1997,Rabi       ,Peas & beans (Pulses),551,716
+Uttar Pradesh,MORADABAD,1998,Rabi       ,Peas & beans (Pulses),528,541
+Uttar Pradesh,MORADABAD,1999,Whole Year ,Peas & beans (Pulses),481,870
+Uttar Pradesh,MORADABAD,2000,Rabi       ,Peas & beans (Pulses),461,476
+Uttar Pradesh,MORADABAD,2001,Rabi       ,Peas & beans (Pulses),561,678
+Uttar Pradesh,MORADABAD,2002,Rabi       ,Peas & beans (Pulses),345,424
+Uttar Pradesh,MORADABAD,2003,Rabi       ,Peas & beans (Pulses),306,420
+Uttar Pradesh,MORADABAD,2008,Rabi       ,Peas & beans (Pulses),350,422
+Uttar Pradesh,MORADABAD,2009,Rabi       ,Peas & beans (Pulses),222,285
+Uttar Pradesh,MORADABAD,2010,Rabi       ,Peas & beans (Pulses),68,79
+Uttar Pradesh,MORADABAD,2011,Rabi       ,Peas & beans (Pulses),245,405
+Uttar Pradesh,MORADABAD,2012,Rabi       ,Peas & beans (Pulses),193,247
+Uttar Pradesh,MORADABAD,2013,Rabi       ,Peas & beans (Pulses),321,321
+Uttar Pradesh,MORADABAD,2014,Rabi       ,Peas & beans (Pulses),175,168
+Uttar Pradesh,MUZAFFARNAGAR,1997,Rabi       ,Peas & beans (Pulses),358,417
+Uttar Pradesh,MUZAFFARNAGAR,1998,Rabi       ,Peas & beans (Pulses),352,361
+Uttar Pradesh,MUZAFFARNAGAR,1999,Whole Year ,Peas & beans (Pulses),282,390
+Uttar Pradesh,MUZAFFARNAGAR,2000,Rabi       ,Peas & beans (Pulses),358,369
+Uttar Pradesh,MUZAFFARNAGAR,2001,Rabi       ,Peas & beans (Pulses),443,536
+Uttar Pradesh,MUZAFFARNAGAR,2002,Rabi       ,Peas & beans (Pulses),282,347
+Uttar Pradesh,MUZAFFARNAGAR,2003,Rabi       ,Peas & beans (Pulses),232,318
+Uttar Pradesh,MUZAFFARNAGAR,2008,Rabi       ,Peas & beans (Pulses),116,140
+Uttar Pradesh,MUZAFFARNAGAR,2009,Rabi       ,Peas & beans (Pulses),127,163
+Uttar Pradesh,MUZAFFARNAGAR,2010,Rabi       ,Peas & beans (Pulses),81,94
+Uttar Pradesh,MUZAFFARNAGAR,2011,Rabi       ,Peas & beans (Pulses),56,80
+Uttar Pradesh,MUZAFFARNAGAR,2012,Rabi       ,Peas & beans (Pulses),46,69
+Uttar Pradesh,MUZAFFARNAGAR,2013,Rabi       ,Peas & beans (Pulses),32,32
+Uttar Pradesh,MUZAFFARNAGAR,2014,Rabi       ,Peas & beans (Pulses),37,28
+Uttar Pradesh,PILIBHIT,1997,Rabi       ,Peas & beans (Pulses),145,188
+Uttar Pradesh,PILIBHIT,1998,Rabi       ,Peas & beans (Pulses),136,144
+Uttar Pradesh,PILIBHIT,1999,Whole Year ,Peas & beans (Pulses),149,269
+Uttar Pradesh,PILIBHIT,2000,Rabi       ,Peas & beans (Pulses),135,249
+Uttar Pradesh,PILIBHIT,2001,Rabi       ,Peas & beans (Pulses),189,304
+Uttar Pradesh,PILIBHIT,2002,Rabi       ,Peas & beans (Pulses),156,192
+Uttar Pradesh,PILIBHIT,2003,Rabi       ,Peas & beans (Pulses),161,221
+Uttar Pradesh,PILIBHIT,2008,Rabi       ,Peas & beans (Pulses),240,290
+Uttar Pradesh,PILIBHIT,2009,Rabi       ,Peas & beans (Pulses),541,694
+Uttar Pradesh,PILIBHIT,2010,Rabi       ,Peas & beans (Pulses),415,899
+Uttar Pradesh,PILIBHIT,2011,Rabi       ,Peas & beans (Pulses),458,796
+Uttar Pradesh,PILIBHIT,2012,Rabi       ,Peas & beans (Pulses),412,875
+Uttar Pradesh,PILIBHIT,2013,Rabi       ,Peas & beans (Pulses),557,1202
+Uttar Pradesh,PILIBHIT,2014,Rabi       ,Peas & beans (Pulses),295,289
+Uttar Pradesh,PRATAPGARH,1997,Rabi       ,Peas & beans (Pulses),4793,4763
+Uttar Pradesh,PRATAPGARH,1998,Rabi       ,Peas & beans (Pulses),4952,5418
+Uttar Pradesh,PRATAPGARH,1999,Whole Year ,Peas & beans (Pulses),4892,8380
+Uttar Pradesh,PRATAPGARH,2000,Rabi       ,Peas & beans (Pulses),4919,5401
+Uttar Pradesh,PRATAPGARH,2001,Rabi       ,Peas & beans (Pulses),4966,5170
+Uttar Pradesh,PRATAPGARH,2002,Rabi       ,Peas & beans (Pulses),4755,4123
+Uttar Pradesh,PRATAPGARH,2003,Rabi       ,Peas & beans (Pulses),4379,5863
+Uttar Pradesh,PRATAPGARH,2008,Rabi       ,Peas & beans (Pulses),3701,3046
+Uttar Pradesh,PRATAPGARH,2009,Rabi       ,Peas & beans (Pulses),3850,3153
+Uttar Pradesh,PRATAPGARH,2010,Rabi       ,Peas & beans (Pulses),3977,3594
+Uttar Pradesh,PRATAPGARH,2011,Rabi       ,Peas & beans (Pulses),4240,4993
+Uttar Pradesh,PRATAPGARH,2012,Rabi       ,Peas & beans (Pulses),4151,4442
+Uttar Pradesh,PRATAPGARH,2013,Rabi       ,Peas & beans (Pulses),4251,4506
+Uttar Pradesh,PRATAPGARH,2014,Rabi       ,Peas & beans (Pulses),4228,3091
+Uttar Pradesh,RAE BARELI,1997,Rabi       ,Peas & beans (Pulses),4549,5072
+Uttar Pradesh,RAE BARELI,1998,Rabi       ,Peas & beans (Pulses),4822,5092
+Uttar Pradesh,RAE BARELI,1999,Whole Year ,Peas & beans (Pulses),4961,6152
+Uttar Pradesh,RAE BARELI,2000,Rabi       ,Peas & beans (Pulses),4836,4831
+Uttar Pradesh,RAE BARELI,2001,Rabi       ,Peas & beans (Pulses),4516,5302
+Uttar Pradesh,RAE BARELI,2002,Rabi       ,Peas & beans (Pulses),4277,4499
+Uttar Pradesh,RAE BARELI,2003,Rabi       ,Peas & beans (Pulses),4356,4265
+Uttar Pradesh,RAE BARELI,2008,Rabi       ,Peas & beans (Pulses),3700,4466
+Uttar Pradesh,RAE BARELI,2009,Rabi       ,Peas & beans (Pulses),3193,4098
+Uttar Pradesh,RAE BARELI,2010,Rabi       ,Peas & beans (Pulses),2634,3140
+Uttar Pradesh,RAE BARELI,2011,Rabi       ,Peas & beans (Pulses),1856,2008
+Uttar Pradesh,RAE BARELI,2012,Rabi       ,Peas & beans (Pulses),2224,1748
+Uttar Pradesh,RAE BARELI,2013,Rabi       ,Peas & beans (Pulses),1931,1827
+Uttar Pradesh,RAE BARELI,2014,Rabi       ,Peas & beans (Pulses),2867,3331
+Uttar Pradesh,RAMPUR,1997,Rabi       ,Peas & beans (Pulses),546,709
+Uttar Pradesh,RAMPUR,1998,Rabi       ,Peas & beans (Pulses),2537,2601
+Uttar Pradesh,RAMPUR,1999,Whole Year ,Peas & beans (Pulses),901,1629
+Uttar Pradesh,RAMPUR,2000,Rabi       ,Peas & beans (Pulses),971,1002
+Uttar Pradesh,RAMPUR,2001,Rabi       ,Peas & beans (Pulses),766,926
+Uttar Pradesh,RAMPUR,2002,Rabi       ,Peas & beans (Pulses),867,1065
+Uttar Pradesh,RAMPUR,2003,Rabi       ,Peas & beans (Pulses),1293,1774
+Uttar Pradesh,RAMPUR,2008,Rabi       ,Peas & beans (Pulses),677,817
+Uttar Pradesh,RAMPUR,2009,Rabi       ,Peas & beans (Pulses),1242,1594
+Uttar Pradesh,RAMPUR,2010,Rabi       ,Peas & beans (Pulses),699,815
+Uttar Pradesh,RAMPUR,2011,Rabi       ,Peas & beans (Pulses),1249,2066
+Uttar Pradesh,RAMPUR,2012,Rabi       ,Peas & beans (Pulses),410,525
+Uttar Pradesh,RAMPUR,2013,Rabi       ,Peas & beans (Pulses),2333,2333
+Uttar Pradesh,RAMPUR,2014,Rabi       ,Peas & beans (Pulses),1466,1409
+Uttar Pradesh,SAHARANPUR,1997,Rabi       ,Peas & beans (Pulses),298,347
+Uttar Pradesh,SAHARANPUR,1998,Rabi       ,Peas & beans (Pulses),317,325
+Uttar Pradesh,SAHARANPUR,1999,Whole Year ,Peas & beans (Pulses),302,418
+Uttar Pradesh,SAHARANPUR,2000,Rabi       ,Peas & beans (Pulses),270,279
+Uttar Pradesh,SAHARANPUR,2001,Rabi       ,Peas & beans (Pulses),220,266
+Uttar Pradesh,SAHARANPUR,2002,Rabi       ,Peas & beans (Pulses),168,206
+Uttar Pradesh,SAHARANPUR,2003,Rabi       ,Peas & beans (Pulses),215,295
+Uttar Pradesh,SAHARANPUR,2008,Rabi       ,Peas & beans (Pulses),43,52
+Uttar Pradesh,SAHARANPUR,2009,Rabi       ,Peas & beans (Pulses),33,42
+Uttar Pradesh,SAHARANPUR,2010,Rabi       ,Peas & beans (Pulses),25,29
+Uttar Pradesh,SAHARANPUR,2011,Rabi       ,Peas & beans (Pulses),44,63
+Uttar Pradesh,SAHARANPUR,2012,Rabi       ,Peas & beans (Pulses),11,17
+Uttar Pradesh,SAHARANPUR,2013,Rabi       ,Peas & beans (Pulses),14,14
+Uttar Pradesh,SAHARANPUR,2014,Rabi       ,Peas & beans (Pulses),43,33
+Uttar Pradesh,SAMBHAL,2012,Rabi       ,Peas & beans (Pulses),61,78
+Uttar Pradesh,SAMBHAL,2013,Rabi       ,Peas & beans (Pulses),318,318
+Uttar Pradesh,SAMBHAL,2014,Rabi       ,Peas & beans (Pulses),268,258
+Uttar Pradesh,SANT KABEER NAGAR,1997,Rabi       ,Peas & beans (Pulses),4305,5724
+Uttar Pradesh,SANT KABEER NAGAR,1998,Rabi       ,Peas & beans (Pulses),4529,4542
+Uttar Pradesh,SANT KABEER NAGAR,1999,Whole Year ,Peas & beans (Pulses),4551,6504
+Uttar Pradesh,SANT KABEER NAGAR,2000,Rabi       ,Peas & beans (Pulses),4282,4799
+Uttar Pradesh,SANT KABEER NAGAR,2001,Rabi       ,Peas & beans (Pulses),4428,4043
+Uttar Pradesh,SANT KABEER NAGAR,2002,Rabi       ,Peas & beans (Pulses),4046,2917
+Uttar Pradesh,SANT KABEER NAGAR,2003,Rabi       ,Peas & beans (Pulses),4040,4161
+Uttar Pradesh,SANT KABEER NAGAR,2008,Rabi       ,Peas & beans (Pulses),3697,4462
+Uttar Pradesh,SANT KABEER NAGAR,2009,Rabi       ,Peas & beans (Pulses),3256,4178
+Uttar Pradesh,SANT KABEER NAGAR,2010,Rabi       ,Peas & beans (Pulses),3576,4166
+Uttar Pradesh,SANT KABEER NAGAR,2011,Rabi       ,Peas & beans (Pulses),3931,5629
+Uttar Pradesh,SANT KABEER NAGAR,2012,Rabi       ,Peas & beans (Pulses),3535,5281
+Uttar Pradesh,SANT KABEER NAGAR,2013,Rabi       ,Peas & beans (Pulses),3905,3874
+Uttar Pradesh,SANT KABEER NAGAR,2014,Rabi       ,Peas & beans (Pulses),3386,2556
+Uttar Pradesh,SANT RAVIDAS NAGAR,1997,Rabi       ,Peas & beans (Pulses),1429,1856
+Uttar Pradesh,SANT RAVIDAS NAGAR,1998,Rabi       ,Peas & beans (Pulses),1510,1594
+Uttar Pradesh,SANT RAVIDAS NAGAR,1999,Whole Year ,Peas & beans (Pulses),1427,1480
+Uttar Pradesh,SANT RAVIDAS NAGAR,2000,Rabi       ,Peas & beans (Pulses),1430,1700
+Uttar Pradesh,SANT RAVIDAS NAGAR,2001,Rabi       ,Peas & beans (Pulses),1090,1188
+Uttar Pradesh,SANT RAVIDAS NAGAR,2002,Rabi       ,Peas & beans (Pulses),1140,1057
+Uttar Pradesh,SANT RAVIDAS NAGAR,2003,Rabi       ,Peas & beans (Pulses),1029,1225
+Uttar Pradesh,SANT RAVIDAS NAGAR,2008,Rabi       ,Peas & beans (Pulses),1031,1113
+Uttar Pradesh,SANT RAVIDAS NAGAR,2009,Rabi       ,Peas & beans (Pulses),1083,1300
+Uttar Pradesh,SANT RAVIDAS NAGAR,2010,Rabi       ,Peas & beans (Pulses),1127,1375
+Uttar Pradesh,SANT RAVIDAS NAGAR,2011,Rabi       ,Peas & beans (Pulses),924,935
+Uttar Pradesh,SANT RAVIDAS NAGAR,2012,Rabi       ,Peas & beans (Pulses),1132,1322
+Uttar Pradesh,SANT RAVIDAS NAGAR,2013,Rabi       ,Peas & beans (Pulses),1076,1050
+Uttar Pradesh,SANT RAVIDAS NAGAR,2014,Rabi       ,Peas & beans (Pulses),1131,1146
+Uttar Pradesh,SHAHJAHANPUR,1997,Rabi       ,Peas & beans (Pulses),712,925
+Uttar Pradesh,SHAHJAHANPUR,1998,Rabi       ,Peas & beans (Pulses),946,999
+Uttar Pradesh,SHAHJAHANPUR,1999,Whole Year ,Peas & beans (Pulses),1213,2193
+Uttar Pradesh,SHAHJAHANPUR,2000,Rabi       ,Peas & beans (Pulses),1212,2240
+Uttar Pradesh,SHAHJAHANPUR,2001,Rabi       ,Peas & beans (Pulses),1151,1848
+Uttar Pradesh,SHAHJAHANPUR,2002,Rabi       ,Peas & beans (Pulses),664,816
+Uttar Pradesh,SHAHJAHANPUR,2003,Rabi       ,Peas & beans (Pulses),948,1301
+Uttar Pradesh,SHAHJAHANPUR,2008,Rabi       ,Peas & beans (Pulses),925,1116
+Uttar Pradesh,SHAHJAHANPUR,2009,Rabi       ,Peas & beans (Pulses),895,1148
+Uttar Pradesh,SHAHJAHANPUR,2010,Rabi       ,Peas & beans (Pulses),617,1336
+Uttar Pradesh,SHAHJAHANPUR,2011,Rabi       ,Peas & beans (Pulses),553,961
+Uttar Pradesh,SHAHJAHANPUR,2012,Rabi       ,Peas & beans (Pulses),516,1095
+Uttar Pradesh,SHAHJAHANPUR,2013,Rabi       ,Peas & beans (Pulses),803,1733
+Uttar Pradesh,SHAHJAHANPUR,2014,Rabi       ,Peas & beans (Pulses),505,495
+Uttar Pradesh,SHAMLI,2012,Rabi       ,Peas & beans (Pulses),15,22
+Uttar Pradesh,SHAMLI,2013,Rabi       ,Peas & beans (Pulses),12,12
+Uttar Pradesh,SHAMLI,2014,Rabi       ,Peas & beans (Pulses),7,5
+Uttar Pradesh,SHRAVASTI,1997,Rabi       ,Peas & beans (Pulses),335,435
+Uttar Pradesh,SHRAVASTI,1998,Rabi       ,Peas & beans (Pulses),335,354
+Uttar Pradesh,SHRAVASTI,1999,Whole Year ,Peas & beans (Pulses),331,315
+Uttar Pradesh,SHRAVASTI,2000,Rabi       ,Peas & beans (Pulses),302,298
+Uttar Pradesh,SHRAVASTI,2001,Rabi       ,Peas & beans (Pulses),199,213
+Uttar Pradesh,SHRAVASTI,2002,Rabi       ,Peas & beans (Pulses),126,93
+Uttar Pradesh,SHRAVASTI,2003,Rabi       ,Peas & beans (Pulses),114,156
+Uttar Pradesh,SHRAVASTI,2008,Rabi       ,Peas & beans (Pulses),216,261
+Uttar Pradesh,SHRAVASTI,2009,Rabi       ,Peas & beans (Pulses),258,331
+Uttar Pradesh,SHRAVASTI,2010,Rabi       ,Peas & beans (Pulses),145,169
+Uttar Pradesh,SHRAVASTI,2011,Rabi       ,Peas & beans (Pulses),738,1057
+Uttar Pradesh,SHRAVASTI,2012,Rabi       ,Peas & beans (Pulses),271,405
+Uttar Pradesh,SHRAVASTI,2013,Rabi       ,Peas & beans (Pulses),666,660
+Uttar Pradesh,SHRAVASTI,2014,Rabi       ,Peas & beans (Pulses),592,447
+Uttar Pradesh,SIDDHARTH NAGAR,1997,Rabi       ,Peas & beans (Pulses),5483,7290
+Uttar Pradesh,SIDDHARTH NAGAR,1998,Rabi       ,Peas & beans (Pulses),5566,5583
+Uttar Pradesh,SIDDHARTH NAGAR,1999,Whole Year ,Peas & beans (Pulses),5808,8300
+Uttar Pradesh,SIDDHARTH NAGAR,2000,Rabi       ,Peas & beans (Pulses),5643,6325
+Uttar Pradesh,SIDDHARTH NAGAR,2001,Rabi       ,Peas & beans (Pulses),6200,7893
+Uttar Pradesh,SIDDHARTH NAGAR,2002,Rabi       ,Peas & beans (Pulses),4465,3456
+Uttar Pradesh,SIDDHARTH NAGAR,2003,Rabi       ,Peas & beans (Pulses),3432,2715
+Uttar Pradesh,SIDDHARTH NAGAR,2008,Rabi       ,Peas & beans (Pulses),3737,4511
+Uttar Pradesh,SIDDHARTH NAGAR,2009,Rabi       ,Peas & beans (Pulses),3190,4094
+Uttar Pradesh,SIDDHARTH NAGAR,2010,Rabi       ,Peas & beans (Pulses),3255,3792
+Uttar Pradesh,SIDDHARTH NAGAR,2011,Rabi       ,Peas & beans (Pulses),3178,4551
+Uttar Pradesh,SIDDHARTH NAGAR,2012,Rabi       ,Peas & beans (Pulses),2795,4176
+Uttar Pradesh,SIDDHARTH NAGAR,2013,Rabi       ,Peas & beans (Pulses),3305,3278
+Uttar Pradesh,SIDDHARTH NAGAR,2014,Rabi       ,Peas & beans (Pulses),3108,2347
+Uttar Pradesh,SITAPUR,1997,Rabi       ,Peas & beans (Pulses),1204,1342
+Uttar Pradesh,SITAPUR,1998,Rabi       ,Peas & beans (Pulses),2006,2118
+Uttar Pradesh,SITAPUR,1999,Whole Year ,Peas & beans (Pulses),2449,3037
+Uttar Pradesh,SITAPUR,2000,Rabi       ,Peas & beans (Pulses),2446,2444
+Uttar Pradesh,SITAPUR,2001,Rabi       ,Peas & beans (Pulses),2339,2746
+Uttar Pradesh,SITAPUR,2002,Rabi       ,Peas & beans (Pulses),2154,2266
+Uttar Pradesh,SITAPUR,2003,Rabi       ,Peas & beans (Pulses),2007,1965
+Uttar Pradesh,SITAPUR,2008,Rabi       ,Peas & beans (Pulses),2939,3547
+Uttar Pradesh,SITAPUR,2009,Rabi       ,Peas & beans (Pulses),2842,3647
+Uttar Pradesh,SITAPUR,2010,Rabi       ,Peas & beans (Pulses),2619,3122
+Uttar Pradesh,SITAPUR,2011,Rabi       ,Peas & beans (Pulses),2621,2836
+Uttar Pradesh,SITAPUR,2012,Rabi       ,Peas & beans (Pulses),2161,1699
+Uttar Pradesh,SITAPUR,2013,Rabi       ,Peas & beans (Pulses),1762,1667
+Uttar Pradesh,SITAPUR,2014,Rabi       ,Peas & beans (Pulses),1710,1987
+Uttar Pradesh,SONBHADRA,1997,Rabi       ,Peas & beans (Pulses),2328,3024
+Uttar Pradesh,SONBHADRA,1998,Rabi       ,Peas & beans (Pulses),2370,2503
+Uttar Pradesh,SONBHADRA,1999,Whole Year ,Peas & beans (Pulses),2498,2590
+Uttar Pradesh,SONBHADRA,2000,Rabi       ,Peas & beans (Pulses),3038,3612
+Uttar Pradesh,SONBHADRA,2001,Rabi       ,Peas & beans (Pulses),3606,3011
+Uttar Pradesh,SONBHADRA,2002,Rabi       ,Peas & beans (Pulses),3805,3425
+Uttar Pradesh,SONBHADRA,2003,Rabi       ,Peas & beans (Pulses),4186,3596
+Uttar Pradesh,SONBHADRA,2008,Rabi       ,Peas & beans (Pulses),2866,1912
+Uttar Pradesh,SONBHADRA,2009,Rabi       ,Peas & beans (Pulses),3698,3239
+Uttar Pradesh,SONBHADRA,2010,Rabi       ,Peas & beans (Pulses),3190,2300
+Uttar Pradesh,SONBHADRA,2011,Rabi       ,Peas & beans (Pulses),3428,2976
+Uttar Pradesh,SONBHADRA,2012,Rabi       ,Peas & beans (Pulses),3312,3060
+Uttar Pradesh,SONBHADRA,2013,Rabi       ,Peas & beans (Pulses),4069,3296
+Uttar Pradesh,SONBHADRA,2014,Rabi       ,Peas & beans (Pulses),3624,2935
+Uttar Pradesh,SULTANPUR,1997,Rabi       ,Peas & beans (Pulses),9358,10914
+Uttar Pradesh,SULTANPUR,1998,Rabi       ,Peas & beans (Pulses),9589,9436
+Uttar Pradesh,SULTANPUR,1999,Whole Year ,Peas & beans (Pulses),9797,9137
+Uttar Pradesh,SULTANPUR,2000,Rabi       ,Peas & beans (Pulses),10101,10209
+Uttar Pradesh,SULTANPUR,2001,Rabi       ,Peas & beans (Pulses),10113,9284
+Uttar Pradesh,SULTANPUR,2002,Rabi       ,Peas & beans (Pulses),10285,8958
+Uttar Pradesh,SULTANPUR,2003,Rabi       ,Peas & beans (Pulses),10290,8942
+Uttar Pradesh,SULTANPUR,2008,Rabi       ,Peas & beans (Pulses),10257,12380
+Uttar Pradesh,SULTANPUR,2009,Rabi       ,Peas & beans (Pulses),8972,11514
+Uttar Pradesh,SULTANPUR,2010,Rabi       ,Peas & beans (Pulses),6003,7155
+Uttar Pradesh,SULTANPUR,2011,Rabi       ,Peas & beans (Pulses),5787,6261
+Uttar Pradesh,SULTANPUR,2012,Rabi       ,Peas & beans (Pulses),6989,6053
+Uttar Pradesh,SULTANPUR,2013,Rabi       ,Peas & beans (Pulses),6115,1553
+Uttar Pradesh,SULTANPUR,2014,Rabi       ,Peas & beans (Pulses),5972,3870
+Uttar Pradesh,UNNAO,1997,Rabi       ,Peas & beans (Pulses),1624,1811
+Uttar Pradesh,UNNAO,1998,Rabi       ,Peas & beans (Pulses),1652,1744
+Uttar Pradesh,UNNAO,1999,Whole Year ,Peas & beans (Pulses),1912,2371
+Uttar Pradesh,UNNAO,2000,Rabi       ,Peas & beans (Pulses),1847,1845
+Uttar Pradesh,UNNAO,2001,Rabi       ,Peas & beans (Pulses),1738,2040
+Uttar Pradesh,UNNAO,2002,Rabi       ,Peas & beans (Pulses),1694,1782
+Uttar Pradesh,UNNAO,2003,Rabi       ,Peas & beans (Pulses),1578,1545
+Uttar Pradesh,UNNAO,2008,Rabi       ,Peas & beans (Pulses),952,1149
+Uttar Pradesh,UNNAO,2009,Rabi       ,Peas & beans (Pulses),991,1272
+Uttar Pradesh,UNNAO,2010,Rabi       ,Peas & beans (Pulses),714,851
+Uttar Pradesh,UNNAO,2011,Rabi       ,Peas & beans (Pulses),664,719
+Uttar Pradesh,UNNAO,2012,Rabi       ,Peas & beans (Pulses),683,537
+Uttar Pradesh,UNNAO,2013,Rabi       ,Peas & beans (Pulses),660,624
+Uttar Pradesh,UNNAO,2014,Rabi       ,Peas & beans (Pulses),606,704
+Uttar Pradesh,VARANASI,1997,Rabi       ,Peas & beans (Pulses),2747,3195
+Uttar Pradesh,VARANASI,1998,Rabi       ,Peas & beans (Pulses),1989,2082
+Uttar Pradesh,VARANASI,1999,Whole Year ,Peas & beans (Pulses),2198,2279
+Uttar Pradesh,VARANASI,2000,Rabi       ,Peas & beans (Pulses),2420,2870
+Uttar Pradesh,VARANASI,2001,Rabi       ,Peas & beans (Pulses),3035,2461
+Uttar Pradesh,VARANASI,2002,Rabi       ,Peas & beans (Pulses),3092,3805
+Uttar Pradesh,VARANASI,2003,Rabi       ,Peas & beans (Pulses),2988,4760
+Uttar Pradesh,VARANASI,2008,Rabi       ,Peas & beans (Pulses),2522,2888
+Uttar Pradesh,VARANASI,2009,Rabi       ,Peas & beans (Pulses),2764,2974
+Uttar Pradesh,VARANASI,2010,Rabi       ,Peas & beans (Pulses),3048,5035
+Uttar Pradesh,VARANASI,2011,Rabi       ,Peas & beans (Pulses),2956,4198
+Uttar Pradesh,VARANASI,2012,Rabi       ,Peas & beans (Pulses),2907,3397
+Uttar Pradesh,VARANASI,2013,Rabi       ,Peas & beans (Pulses),2915,2408
+Uttar Pradesh,VARANASI,2014,Rabi       ,Peas & beans (Pulses),2912,2097

@@ -1,0 +1,1277 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Uttar Pradesh,AGRA,1997,Whole Year ,Sugarcane,587,22381
+Uttar Pradesh,AGRA,1998,Whole Year ,Sugarcane,544,29053
+Uttar Pradesh,AGRA,1999,Whole Year ,Sugarcane,444,24385
+Uttar Pradesh,AGRA,2000,Whole Year ,Sugarcane,623,27856
+Uttar Pradesh,AGRA,2001,Whole Year ,Sugarcane,327,17142
+Uttar Pradesh,AGRA,2002,Whole Year ,Sugarcane,263,14309
+Uttar Pradesh,AGRA,2003,Whole Year ,Sugarcane,194,10034
+Uttar Pradesh,AGRA,2004,Kharif     ,Sugarcane,230,11424
+Uttar Pradesh,AGRA,2005,Kharif     ,Sugarcane,231,11638
+Uttar Pradesh,AGRA,2006,Kharif     ,Sugarcane,178,9585
+Uttar Pradesh,AGRA,2007,Kharif     ,Sugarcane,247,12975
+Uttar Pradesh,AGRA,2008,Kharif     ,Sugarcane,172,8797
+Uttar Pradesh,AGRA,2009,Kharif     ,Sugarcane,388,16763
+Uttar Pradesh,AGRA,2010,Kharif     ,Sugarcane,163,8297
+Uttar Pradesh,AGRA,2011,Kharif     ,Sugarcane,206,9780
+Uttar Pradesh,AGRA,2012,Kharif     ,Sugarcane,297,13470
+Uttar Pradesh,AGRA,2013,Kharif     ,Sugarcane,255,12238
+Uttar Pradesh,AGRA,2014,Kharif     ,Sugarcane,145,6106
+Uttar Pradesh,ALIGARH,1997,Whole Year ,Sugarcane,10099,598346
+Uttar Pradesh,ALIGARH,1998,Whole Year ,Sugarcane,9503,528025
+Uttar Pradesh,ALIGARH,1999,Whole Year ,Sugarcane,8614,574967
+Uttar Pradesh,ALIGARH,2000,Whole Year ,Sugarcane,9246,531201
+Uttar Pradesh,ALIGARH,2001,Whole Year ,Sugarcane,9109,577729
+Uttar Pradesh,ALIGARH,2002,Whole Year ,Sugarcane,10135,629505
+Uttar Pradesh,ALIGARH,2003,Whole Year ,Sugarcane,10735,614300
+Uttar Pradesh,ALIGARH,2004,Kharif     ,Sugarcane,9156,466077
+Uttar Pradesh,ALIGARH,2005,Kharif     ,Sugarcane,11251,605259
+Uttar Pradesh,ALIGARH,2006,Kharif     ,Sugarcane,12617,753184
+Uttar Pradesh,ALIGARH,2007,Kharif     ,Sugarcane,8371,465461
+Uttar Pradesh,ALIGARH,2008,Kharif     ,Sugarcane,11462,655718
+Uttar Pradesh,ALIGARH,2009,Kharif     ,Sugarcane,6441,359356
+Uttar Pradesh,ALIGARH,2010,Kharif     ,Sugarcane,9195,543351
+Uttar Pradesh,ALIGARH,2011,Kharif     ,Sugarcane,8967,542539
+Uttar Pradesh,ALIGARH,2012,Kharif     ,Sugarcane,10593,652190
+Uttar Pradesh,ALIGARH,2013,Kharif     ,Sugarcane,7301,444835
+Uttar Pradesh,ALIGARH,2014,Kharif     ,Sugarcane,6478,387877
+Uttar Pradesh,ALLAHABAD,1997,Whole Year ,Sugarcane,1455,79230
+Uttar Pradesh,ALLAHABAD,1998,Whole Year ,Sugarcane,1437,64568
+Uttar Pradesh,ALLAHABAD,1999,Whole Year ,Sugarcane,1456,88454
+Uttar Pradesh,ALLAHABAD,2000,Whole Year ,Sugarcane,1164,53760
+Uttar Pradesh,ALLAHABAD,2001,Whole Year ,Sugarcane,932,39158
+Uttar Pradesh,ALLAHABAD,2002,Whole Year ,Sugarcane,862,37422
+Uttar Pradesh,ALLAHABAD,2003,Whole Year ,Sugarcane,868,38124
+Uttar Pradesh,ALLAHABAD,2004,Kharif     ,Sugarcane,745,40668
+Uttar Pradesh,ALLAHABAD,2005,Kharif     ,Sugarcane,937,31833
+Uttar Pradesh,ALLAHABAD,2006,Kharif     ,Sugarcane,788,35589
+Uttar Pradesh,ALLAHABAD,2007,Kharif     ,Sugarcane,689,30729
+Uttar Pradesh,ALLAHABAD,2008,Kharif     ,Sugarcane,741,40959
+Uttar Pradesh,ALLAHABAD,2009,Kharif     ,Sugarcane,757,32964
+Uttar Pradesh,ALLAHABAD,2010,Kharif     ,Sugarcane,608,35471
+Uttar Pradesh,ALLAHABAD,2011,Kharif     ,Sugarcane,762,42577
+Uttar Pradesh,ALLAHABAD,2012,Kharif     ,Sugarcane,1019,62298
+Uttar Pradesh,ALLAHABAD,2013,Kharif     ,Sugarcane,763,52058
+Uttar Pradesh,ALLAHABAD,2014,Kharif     ,Sugarcane,700,46046
+Uttar Pradesh,AMBEDKAR NAGAR,1997,Whole Year ,Sugarcane,10257,522584
+Uttar Pradesh,AMBEDKAR NAGAR,1998,Whole Year ,Sugarcane,10644,482312
+Uttar Pradesh,AMBEDKAR NAGAR,1999,Whole Year ,Sugarcane,10672,526308
+Uttar Pradesh,AMBEDKAR NAGAR,2000,Whole Year ,Sugarcane,9556,513093
+Uttar Pradesh,AMBEDKAR NAGAR,2001,Whole Year ,Sugarcane,9072,514981
+Uttar Pradesh,AMBEDKAR NAGAR,2002,Whole Year ,Sugarcane,9662,494076
+Uttar Pradesh,AMBEDKAR NAGAR,2003,Whole Year ,Sugarcane,9080,410198
+Uttar Pradesh,AMBEDKAR NAGAR,2004,Kharif     ,Sugarcane,7589,416059
+Uttar Pradesh,AMBEDKAR NAGAR,2005,Kharif     ,Sugarcane,9165,501216
+Uttar Pradesh,AMBEDKAR NAGAR,2006,Kharif     ,Sugarcane,9033,375773
+Uttar Pradesh,AMBEDKAR NAGAR,2007,Kharif     ,Sugarcane,10701,569559
+Uttar Pradesh,AMBEDKAR NAGAR,2008,Kharif     ,Sugarcane,11361,532974
+Uttar Pradesh,AMBEDKAR NAGAR,2009,Kharif     ,Sugarcane,10762,569465
+Uttar Pradesh,AMBEDKAR NAGAR,2010,Kharif     ,Sugarcane,11122,571437
+Uttar Pradesh,AMBEDKAR NAGAR,2011,Kharif     ,Sugarcane,11315,660797
+Uttar Pradesh,AMBEDKAR NAGAR,2012,Kharif     ,Sugarcane,12563,782590
+Uttar Pradesh,AMBEDKAR NAGAR,2013,Kharif     ,Sugarcane,11972,740204
+Uttar Pradesh,AMBEDKAR NAGAR,2014,Kharif     ,Sugarcane,11458,715575
+Uttar Pradesh,AMETHI,2011,Kharif     ,Sugarcane,1740,101616
+Uttar Pradesh,AMETHI,2012,Kharif     ,Sugarcane,1506,93814
+Uttar Pradesh,AMETHI,2013,Kharif     ,Sugarcane,1605,99234
+Uttar Pradesh,AMETHI,2014,Kharif     ,Sugarcane,1602,100048
+Uttar Pradesh,AMROHA,1997,Whole Year ,Sugarcane,80142,5080877
+Uttar Pradesh,AMROHA,1998,Whole Year ,Sugarcane,81750,5182296
+Uttar Pradesh,AMROHA,1999,Whole Year ,Sugarcane,66208,3724862
+Uttar Pradesh,AMROHA,2000,Whole Year ,Sugarcane,68473,3950892
+Uttar Pradesh,AMROHA,2001,Whole Year ,Sugarcane,68202,4062930
+Uttar Pradesh,AMROHA,2002,Whole Year ,Sugarcane,69583,4208380
+Uttar Pradesh,AMROHA,2003,Whole Year ,Sugarcane,73751,4431550
+Uttar Pradesh,AMROHA,2004,Kharif     ,Sugarcane,73271,4545733
+Uttar Pradesh,AMROHA,2005,Kharif     ,Sugarcane,76851,4797039
+Uttar Pradesh,AMROHA,2006,Kharif     ,Sugarcane,73271,4632779
+Uttar Pradesh,AMROHA,2007,Kharif     ,Sugarcane,76488,4198579
+Uttar Pradesh,AMROHA,2008,Kharif     ,Sugarcane,69445,3861420
+Uttar Pradesh,AMROHA,2009,Kharif     ,Sugarcane,71482,4340959
+Uttar Pradesh,AMROHA,2010,Kharif     ,Sugarcane,73251,4614813
+Uttar Pradesh,AMROHA,2011,Kharif     ,Sugarcane,74955,4567458
+Uttar Pradesh,AMROHA,2012,Kharif     ,Sugarcane,80944,5200490
+Uttar Pradesh,AMROHA,2013,Kharif     ,Sugarcane,75729,5276494
+Uttar Pradesh,AMROHA,2014,Kharif     ,Sugarcane,75824,5348322
+Uttar Pradesh,AURAIYA,1997,Whole Year ,Sugarcane,1592,80647
+Uttar Pradesh,AURAIYA,1998,Whole Year ,Sugarcane,1822,104771
+Uttar Pradesh,AURAIYA,1999,Whole Year ,Sugarcane,1492,99065
+Uttar Pradesh,AURAIYA,2000,Whole Year ,Sugarcane,1296,56248
+Uttar Pradesh,AURAIYA,2001,Whole Year ,Sugarcane,1306,77985
+Uttar Pradesh,AURAIYA,2002,Whole Year ,Sugarcane,1154,66091
+Uttar Pradesh,AURAIYA,2003,Whole Year ,Sugarcane,1009,70799
+Uttar Pradesh,AURAIYA,2004,Kharif     ,Sugarcane,910,48648
+Uttar Pradesh,AURAIYA,2005,Kharif     ,Sugarcane,1009,46916
+Uttar Pradesh,AURAIYA,2006,Kharif     ,Sugarcane,1000,56765
+Uttar Pradesh,AURAIYA,2007,Kharif     ,Sugarcane,921,46641
+Uttar Pradesh,AURAIYA,2008,Kharif     ,Sugarcane,656,29335
+Uttar Pradesh,AURAIYA,2009,Kharif     ,Sugarcane,765,39292
+Uttar Pradesh,AURAIYA,2010,Kharif     ,Sugarcane,529,28275
+Uttar Pradesh,AURAIYA,2011,Kharif     ,Sugarcane,885,51302
+Uttar Pradesh,AURAIYA,2012,Kharif     ,Sugarcane,684,41522
+Uttar Pradesh,AURAIYA,2013,Kharif     ,Sugarcane,1047,62394
+Uttar Pradesh,AURAIYA,2014,Kharif     ,Sugarcane,920,53004
+Uttar Pradesh,AZAMGARH,1997,Whole Year ,Sugarcane,27664,1296003
+Uttar Pradesh,AZAMGARH,1998,Whole Year ,Sugarcane,24802,1087915
+Uttar Pradesh,AZAMGARH,1999,Whole Year ,Sugarcane,23194,1008753
+Uttar Pradesh,AZAMGARH,2000,Whole Year ,Sugarcane,22517,955171
+Uttar Pradesh,AZAMGARH,2001,Whole Year ,Sugarcane,22612,960920
+Uttar Pradesh,AZAMGARH,2002,Whole Year ,Sugarcane,22119,933333
+Uttar Pradesh,AZAMGARH,2003,Whole Year ,Sugarcane,21335,929182
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Sugarcane,19272,753998
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Sugarcane,26219,1013522
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Sugarcane,20697,842037
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Sugarcane,21399,886090
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Sugarcane,21399,912282
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Sugarcane,18820,812121
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Sugarcane,19204,854808
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Sugarcane,20972,1026118
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Sugarcane,19099,1109652
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Sugarcane,19641,1129986
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Sugarcane,20282,1249533
+Uttar Pradesh,BAGHPAT,1997,Whole Year ,Sugarcane,64142,4335871
+Uttar Pradesh,BAGHPAT,1998,Whole Year ,Sugarcane,64314,4308523
+Uttar Pradesh,BAGHPAT,1999,Whole Year ,Sugarcane,63061,4081056
+Uttar Pradesh,BAGHPAT,2000,Whole Year ,Sugarcane,63723,3904945
+Uttar Pradesh,BAGHPAT,2001,Whole Year ,Sugarcane,63610,4106153
+Uttar Pradesh,BAGHPAT,2002,Whole Year ,Sugarcane,69410,4252057
+Uttar Pradesh,BAGHPAT,2003,Whole Year ,Sugarcane,70774,4453666
+Uttar Pradesh,BAGHPAT,2004,Kharif     ,Sugarcane,70317,4931191
+Uttar Pradesh,BAGHPAT,2005,Kharif     ,Sugarcane,56758,3723325
+Uttar Pradesh,BAGHPAT,2006,Kharif     ,Sugarcane,67999,4904088
+Uttar Pradesh,BAGHPAT,2007,Kharif     ,Sugarcane,75521,5386460
+Uttar Pradesh,BAGHPAT,2008,Kharif     ,Sugarcane,67501,4395395
+Uttar Pradesh,BAGHPAT,2009,Kharif     ,Sugarcane,72690,5213036
+Uttar Pradesh,BAGHPAT,2010,Kharif     ,Sugarcane,72926,4829160
+Uttar Pradesh,BAGHPAT,2011,Kharif     ,Sugarcane,73363,4968436
+Uttar Pradesh,BAGHPAT,2012,Kharif     ,Sugarcane,73561,5404085
+Uttar Pradesh,BAGHPAT,2013,Kharif     ,Sugarcane,71950,5562023
+Uttar Pradesh,BAGHPAT,2014,Kharif     ,Sugarcane,77107,5671682
+Uttar Pradesh,BAHRAICH,1997,Whole Year ,Sugarcane,12907,630275
+Uttar Pradesh,BAHRAICH,1998,Whole Year ,Sugarcane,15344,640152
+Uttar Pradesh,BAHRAICH,1999,Whole Year ,Sugarcane,17474,880829
+Uttar Pradesh,BAHRAICH,2000,Whole Year ,Sugarcane,18268,887898
+Uttar Pradesh,BAHRAICH,2001,Whole Year ,Sugarcane,21637,1182765
+Uttar Pradesh,BAHRAICH,2002,Whole Year ,Sugarcane,24247,1222825
+Uttar Pradesh,BAHRAICH,2003,Whole Year ,Sugarcane,18989,848732
+Uttar Pradesh,BAHRAICH,2004,Kharif     ,Sugarcane,19616,1015167
+Uttar Pradesh,BAHRAICH,2005,Kharif     ,Sugarcane,21303,1066684
+Uttar Pradesh,BAHRAICH,2006,Kharif     ,Sugarcane,34304,2028190
+Uttar Pradesh,BAHRAICH,2007,Kharif     ,Sugarcane,22162,1207031
+Uttar Pradesh,BAHRAICH,2008,Kharif     ,Sugarcane,22221,1001545
+Uttar Pradesh,BAHRAICH,2009,Kharif     ,Sugarcane,22208,1047596
+Uttar Pradesh,BAHRAICH,2010,Kharif     ,Sugarcane,20802,1082203
+Uttar Pradesh,BAHRAICH,2011,Kharif     ,Sugarcane,24371,1525235
+Uttar Pradesh,BAHRAICH,2012,Kharif     ,Sugarcane,24326,1312047
+Uttar Pradesh,BAHRAICH,2013,Kharif     ,Sugarcane,22923,1282954
+Uttar Pradesh,BAHRAICH,2014,Kharif     ,Sugarcane,38237,2205969
+Uttar Pradesh,BALLIA,1997,Whole Year ,Sugarcane,11215,468697
+Uttar Pradesh,BALLIA,1998,Whole Year ,Sugarcane,10771,399259
+Uttar Pradesh,BALLIA,1999,Whole Year ,Sugarcane,11062,460091
+Uttar Pradesh,BALLIA,2000,Whole Year ,Sugarcane,10369,380833
+Uttar Pradesh,BALLIA,2001,Whole Year ,Sugarcane,8502,397758
+Uttar Pradesh,BALLIA,2002,Whole Year ,Sugarcane,8605,341722
+Uttar Pradesh,BALLIA,2003,Whole Year ,Sugarcane,8339,303106
+Uttar Pradesh,BALLIA,2004,Kharif     ,Sugarcane,7227,265086
+Uttar Pradesh,BALLIA,2005,Kharif     ,Sugarcane,7655,373656
+Uttar Pradesh,BALLIA,2006,Kharif     ,Sugarcane,7497,237625
+Uttar Pradesh,BALLIA,2007,Kharif     ,Sugarcane,6992,239238
+Uttar Pradesh,BALLIA,2008,Kharif     ,Sugarcane,7216,240697
+Uttar Pradesh,BALLIA,2009,Kharif     ,Sugarcane,7286,286981
+Uttar Pradesh,BALLIA,2010,Kharif     ,Sugarcane,5856,224800
+Uttar Pradesh,BALLIA,2011,Kharif     ,Sugarcane,6107,243645
+Uttar Pradesh,BALLIA,2012,Kharif     ,Sugarcane,5870,281924
+Uttar Pradesh,BALLIA,2013,Kharif     ,Sugarcane,6151,319901
+Uttar Pradesh,BALLIA,2014,Kharif     ,Sugarcane,4096,213254
+Uttar Pradesh,BALRAMPUR,1997,Whole Year ,Sugarcane,12024,601705
+Uttar Pradesh,BALRAMPUR,1998,Whole Year ,Sugarcane,12066,645338
+Uttar Pradesh,BALRAMPUR,1999,Whole Year ,Sugarcane,12972,763376
+Uttar Pradesh,BALRAMPUR,2000,Whole Year ,Sugarcane,36645,1880182
+Uttar Pradesh,BALRAMPUR,2001,Whole Year ,Sugarcane,38368,2030895
+Uttar Pradesh,BALRAMPUR,2002,Whole Year ,Sugarcane,40681,2067734
+Uttar Pradesh,BALRAMPUR,2003,Whole Year ,Sugarcane,49746,2416064
+Uttar Pradesh,BALRAMPUR,2004,Kharif     ,Sugarcane,54333,2785327
+Uttar Pradesh,BALRAMPUR,2005,Kharif     ,Sugarcane,49746,2667182
+Uttar Pradesh,BALRAMPUR,2006,Kharif     ,Sugarcane,86605,4738679
+Uttar Pradesh,BALRAMPUR,2007,Kharif     ,Sugarcane,52908,2593550
+Uttar Pradesh,BALRAMPUR,2008,Kharif     ,Sugarcane,57342,2309506
+Uttar Pradesh,BALRAMPUR,2009,Kharif     ,Sugarcane,43791,2062556
+Uttar Pradesh,BALRAMPUR,2010,Kharif     ,Sugarcane,52272,2575128
+Uttar Pradesh,BALRAMPUR,2011,Kharif     ,Sugarcane,52623,2669460
+Uttar Pradesh,BALRAMPUR,2012,Kharif     ,Sugarcane,52493,2647747
+Uttar Pradesh,BALRAMPUR,2013,Kharif     ,Sugarcane,44097,2129180
+Uttar Pradesh,BALRAMPUR,2014,Kharif     ,Sugarcane,43539,2227978
+Uttar Pradesh,BANDA,1997,Whole Year ,Sugarcane,744,15600
+Uttar Pradesh,BANDA,1998,Whole Year ,Sugarcane,691,28917
+Uttar Pradesh,BANDA,1999,Whole Year ,Sugarcane,688,22524
+Uttar Pradesh,BANDA,2000,Whole Year ,Sugarcane,694,25300
+Uttar Pradesh,BANDA,2001,Whole Year ,Sugarcane,608,31417
+Uttar Pradesh,BANDA,2002,Whole Year ,Sugarcane,590,29827
+Uttar Pradesh,BANDA,2003,Whole Year ,Sugarcane,681,28726
+Uttar Pradesh,BANDA,2004,Kharif     ,Sugarcane,722,27931
+Uttar Pradesh,BANDA,2005,Kharif     ,Sugarcane,624,19638
+Uttar Pradesh,BANDA,2006,Kharif     ,Sugarcane,844,36008
+Uttar Pradesh,BANDA,2007,Kharif     ,Sugarcane,935,24706
+Uttar Pradesh,BANDA,2008,Kharif     ,Sugarcane,715,29126
+Uttar Pradesh,BANDA,2009,Kharif     ,Sugarcane,783,31391
+Uttar Pradesh,BANDA,2010,Kharif     ,Sugarcane,257,12663
+Uttar Pradesh,BANDA,2011,Kharif     ,Sugarcane,394,18953
+Uttar Pradesh,BANDA,2012,Kharif     ,Sugarcane,481,17871
+Uttar Pradesh,BANDA,2013,Kharif     ,Sugarcane,558,24925
+Uttar Pradesh,BANDA,2014,Kharif     ,Sugarcane,398,16097
+Uttar Pradesh,BARABANKI,1997,Whole Year ,Sugarcane,13816,710585
+Uttar Pradesh,BARABANKI,1998,Whole Year ,Sugarcane,15089,740870
+Uttar Pradesh,BARABANKI,1999,Whole Year ,Sugarcane,14878,759373
+Uttar Pradesh,BARABANKI,2000,Whole Year ,Sugarcane,15243,856535
+Uttar Pradesh,BARABANKI,2001,Whole Year ,Sugarcane,14165,747969
+Uttar Pradesh,BARABANKI,2002,Whole Year ,Sugarcane,14014,664936
+Uttar Pradesh,BARABANKI,2003,Whole Year ,Sugarcane,18289,878384
+Uttar Pradesh,BARABANKI,2004,Kharif     ,Sugarcane,15795,854889
+Uttar Pradesh,BARABANKI,2005,Kharif     ,Sugarcane,14958,739583
+Uttar Pradesh,BARABANKI,2006,Kharif     ,Sugarcane,18861,1067382
+Uttar Pradesh,BARABANKI,2007,Kharif     ,Sugarcane,17519,947217
+Uttar Pradesh,BARABANKI,2008,Kharif     ,Sugarcane,12912,654897
+Uttar Pradesh,BARABANKI,2009,Kharif     ,Sugarcane,10218,544170
+Uttar Pradesh,BARABANKI,2010,Kharif     ,Sugarcane,8866,490893
+Uttar Pradesh,BARABANKI,2011,Kharif     ,Sugarcane,9686,541525
+Uttar Pradesh,BARABANKI,2012,Kharif     ,Sugarcane,9746,587801
+Uttar Pradesh,BARABANKI,2013,Kharif     ,Sugarcane,9881,605073
+Uttar Pradesh,BARABANKI,2014,Kharif     ,Sugarcane,9736,564143
+Uttar Pradesh,BAREILLY,1997,Whole Year ,Sugarcane,69858,4398819
+Uttar Pradesh,BAREILLY,1998,Whole Year ,Sugarcane,62797,3653781
+Uttar Pradesh,BAREILLY,1999,Whole Year ,Sugarcane,65645,3784828
+Uttar Pradesh,BAREILLY,2000,Whole Year ,Sugarcane,70552,3921351
+Uttar Pradesh,BAREILLY,2001,Whole Year ,Sugarcane,78257,4725158
+Uttar Pradesh,BAREILLY,2002,Whole Year ,Sugarcane,90381,4968063
+Uttar Pradesh,BAREILLY,2003,Whole Year ,Sugarcane,83380,4403798
+Uttar Pradesh,BAREILLY,2004,Kharif     ,Sugarcane,64088,4010627
+Uttar Pradesh,BAREILLY,2005,Kharif     ,Sugarcane,97484,5514085
+Uttar Pradesh,BAREILLY,2006,Kharif     ,Sugarcane,71317,3929567
+Uttar Pradesh,BAREILLY,2007,Kharif     ,Sugarcane,84507,4732054
+Uttar Pradesh,BAREILLY,2008,Kharif     ,Sugarcane,83043,4194004
+Uttar Pradesh,BAREILLY,2009,Kharif     ,Sugarcane,66657,3980489
+Uttar Pradesh,BAREILLY,2010,Kharif     ,Sugarcane,75026,4268979
+Uttar Pradesh,BAREILLY,2011,Kharif     ,Sugarcane,82466,4753010
+Uttar Pradesh,BAREILLY,2012,Kharif     ,Sugarcane,96523,6046973
+Uttar Pradesh,BAREILLY,2013,Kharif     ,Sugarcane,94008,5787132
+Uttar Pradesh,BAREILLY,2014,Kharif     ,Sugarcane,99211,6120128
+Uttar Pradesh,BASTI,1997,Whole Year ,Sugarcane,23834,1455304
+Uttar Pradesh,BASTI,1998,Whole Year ,Sugarcane,24055,1254516
+Uttar Pradesh,BASTI,1999,Whole Year ,Sugarcane,24227,1335102
+Uttar Pradesh,BASTI,2000,Whole Year ,Sugarcane,24053,1171574
+Uttar Pradesh,BASTI,2001,Whole Year ,Sugarcane,34029,1739290
+Uttar Pradesh,BASTI,2002,Whole Year ,Sugarcane,35743,1895380
+Uttar Pradesh,BASTI,2003,Whole Year ,Sugarcane,34171,1609864
+Uttar Pradesh,BASTI,2004,Kharif     ,Sugarcane,36518,2027041
+Uttar Pradesh,BASTI,2005,Kharif     ,Sugarcane,30093,1739616
+Uttar Pradesh,BASTI,2006,Kharif     ,Sugarcane,39063,2074870
+Uttar Pradesh,BASTI,2007,Kharif     ,Sugarcane,38062,1967349
+Uttar Pradesh,BASTI,2008,Kharif     ,Sugarcane,43570,2018860
+Uttar Pradesh,BASTI,2009,Kharif     ,Sugarcane,35595,1814348
+Uttar Pradesh,BASTI,2010,Kharif     ,Sugarcane,33496,1758808
+Uttar Pradesh,BASTI,2011,Kharif     ,Sugarcane,37379,2096364
+Uttar Pradesh,BASTI,2012,Kharif     ,Sugarcane,38841,2343821
+Uttar Pradesh,BASTI,2013,Kharif     ,Sugarcane,39953,2459666
+Uttar Pradesh,BASTI,2014,Kharif     ,Sugarcane,36515,2290221
+Uttar Pradesh,BIJNOR,1997,Whole Year ,Sugarcane,201435,13297933
+Uttar Pradesh,BIJNOR,1998,Whole Year ,Sugarcane,201080,12820861
+Uttar Pradesh,BIJNOR,1999,Whole Year ,Sugarcane,204652,11787137
+Uttar Pradesh,BIJNOR,2000,Whole Year ,Sugarcane,213205,11751007
+Uttar Pradesh,BIJNOR,2001,Whole Year ,Sugarcane,213642,13671379
+Uttar Pradesh,BIJNOR,2002,Whole Year ,Sugarcane,218507,13730980
+Uttar Pradesh,BIJNOR,2003,Whole Year ,Sugarcane,216616,13409397
+Uttar Pradesh,BIJNOR,2004,Kharif     ,Sugarcane,214347,13767937
+Uttar Pradesh,BIJNOR,2005,Kharif     ,Sugarcane,215833,13039767
+Uttar Pradesh,BIJNOR,2006,Kharif     ,Sugarcane,222127,13814522
+Uttar Pradesh,BIJNOR,2007,Kharif     ,Sugarcane,220174,12737506
+Uttar Pradesh,BIJNOR,2008,Kharif     ,Sugarcane,204850,11029943
+Uttar Pradesh,BIJNOR,2009,Kharif     ,Sugarcane,193561,11464231
+Uttar Pradesh,BIJNOR,2010,Kharif     ,Sugarcane,224907,12494034
+Uttar Pradesh,BIJNOR,2011,Kharif     ,Sugarcane,233294,13458264
+Uttar Pradesh,BIJNOR,2012,Kharif     ,Sugarcane,215538,12602938
+Uttar Pradesh,BIJNOR,2013,Kharif     ,Sugarcane,201239,12060656
+Uttar Pradesh,BIJNOR,2014,Kharif     ,Sugarcane,212471,13968693
+Uttar Pradesh,BUDAUN,1997,Whole Year ,Sugarcane,24875,1709808
+Uttar Pradesh,BUDAUN,1998,Whole Year ,Sugarcane,23288,1504684
+Uttar Pradesh,BUDAUN,1999,Whole Year ,Sugarcane,22263,1548525
+Uttar Pradesh,BUDAUN,2000,Whole Year ,Sugarcane,20691,1344170
+Uttar Pradesh,BUDAUN,2001,Whole Year ,Sugarcane,22049,1446944
+Uttar Pradesh,BUDAUN,2002,Whole Year ,Sugarcane,25161,1283614
+Uttar Pradesh,BUDAUN,2003,Whole Year ,Sugarcane,24529,1530315
+Uttar Pradesh,BUDAUN,2004,Kharif     ,Sugarcane,18809,1189632
+Uttar Pradesh,BUDAUN,2005,Kharif     ,Sugarcane,27076,1714344
+Uttar Pradesh,BUDAUN,2006,Kharif     ,Sugarcane,22430,1420088
+Uttar Pradesh,BUDAUN,2007,Kharif     ,Sugarcane,27902,1622111
+Uttar Pradesh,BUDAUN,2008,Kharif     ,Sugarcane,26622,1592954
+Uttar Pradesh,BUDAUN,2009,Kharif     ,Sugarcane,22133,1396327
+Uttar Pradesh,BUDAUN,2010,Kharif     ,Sugarcane,28716,1582596
+Uttar Pradesh,BUDAUN,2011,Kharif     ,Sugarcane,34337,2157737
+Uttar Pradesh,BUDAUN,2012,Kharif     ,Sugarcane,32069,1860515
+Uttar Pradesh,BUDAUN,2013,Kharif     ,Sugarcane,24998,1532377
+Uttar Pradesh,BUDAUN,2014,Kharif     ,Sugarcane,29629,1748230
+Uttar Pradesh,BULANDSHAHR,1997,Whole Year ,Sugarcane,41748,2617266
+Uttar Pradesh,BULANDSHAHR,1998,Whole Year ,Sugarcane,42493,2629807
+Uttar Pradesh,BULANDSHAHR,1999,Whole Year ,Sugarcane,39594,2439624
+Uttar Pradesh,BULANDSHAHR,2000,Whole Year ,Sugarcane,44832,2510951
+Uttar Pradesh,BULANDSHAHR,2001,Whole Year ,Sugarcane,45116,2759655
+Uttar Pradesh,BULANDSHAHR,2002,Whole Year ,Sugarcane,53364,3132040
+Uttar Pradesh,BULANDSHAHR,2003,Whole Year ,Sugarcane,56578,3361638
+Uttar Pradesh,BULANDSHAHR,2004,Kharif     ,Sugarcane,53523,3222727
+Uttar Pradesh,BULANDSHAHR,2005,Kharif     ,Sugarcane,56891,3233684
+Uttar Pradesh,BULANDSHAHR,2006,Kharif     ,Sugarcane,60208,3581894
+Uttar Pradesh,BULANDSHAHR,2007,Kharif     ,Sugarcane,57107,3462740
+Uttar Pradesh,BULANDSHAHR,2008,Kharif     ,Sugarcane,53228,2988007
+Uttar Pradesh,BULANDSHAHR,2009,Kharif     ,Sugarcane,45841,2575531
+Uttar Pradesh,BULANDSHAHR,2010,Kharif     ,Sugarcane,52578,3026390
+Uttar Pradesh,BULANDSHAHR,2011,Kharif     ,Sugarcane,54477,3231794
+Uttar Pradesh,BULANDSHAHR,2012,Kharif     ,Sugarcane,54231,3306139
+Uttar Pradesh,BULANDSHAHR,2013,Kharif     ,Sugarcane,51056,3337633
+Uttar Pradesh,BULANDSHAHR,2014,Kharif     ,Sugarcane,48031,3028451
+Uttar Pradesh,CHANDAULI,1997,Whole Year ,Sugarcane,1806,74162
+Uttar Pradesh,CHANDAULI,1998,Whole Year ,Sugarcane,1742,74556
+Uttar Pradesh,CHANDAULI,1999,Whole Year ,Sugarcane,1658,68306
+Uttar Pradesh,CHANDAULI,2000,Whole Year ,Sugarcane,1734,70768
+Uttar Pradesh,CHANDAULI,2001,Whole Year ,Sugarcane,1053,36038
+Uttar Pradesh,CHANDAULI,2002,Whole Year ,Sugarcane,943,36407
+Uttar Pradesh,CHANDAULI,2003,Whole Year ,Sugarcane,807,25278
+Uttar Pradesh,CHANDAULI,2004,Kharif     ,Sugarcane,857,31068
+Uttar Pradesh,CHANDAULI,2005,Kharif     ,Sugarcane,784,34549
+Uttar Pradesh,CHANDAULI,2006,Kharif     ,Sugarcane,821,34049
+Uttar Pradesh,CHANDAULI,2007,Kharif     ,Sugarcane,726,36591
+Uttar Pradesh,CHANDAULI,2008,Kharif     ,Sugarcane,684,32072
+Uttar Pradesh,CHANDAULI,2009,Kharif     ,Sugarcane,556,26252
+Uttar Pradesh,CHANDAULI,2010,Kharif     ,Sugarcane,738,32404
+Uttar Pradesh,CHANDAULI,2011,Kharif     ,Sugarcane,547,27225
+Uttar Pradesh,CHANDAULI,2012,Kharif     ,Sugarcane,655,33761
+Uttar Pradesh,CHANDAULI,2013,Kharif     ,Sugarcane,628,34592
+Uttar Pradesh,CHANDAULI,2014,Kharif     ,Sugarcane,618,35548
+Uttar Pradesh,CHITRAKOOT,1997,Whole Year ,Sugarcane,284,10919
+Uttar Pradesh,CHITRAKOOT,1998,Whole Year ,Sugarcane,301,13419
+Uttar Pradesh,CHITRAKOOT,1999,Whole Year ,Sugarcane,323,16113
+Uttar Pradesh,CHITRAKOOT,2000,Whole Year ,Sugarcane,398,17175
+Uttar Pradesh,CHITRAKOOT,2001,Whole Year ,Sugarcane,421,21755
+Uttar Pradesh,CHITRAKOOT,2002,Whole Year ,Sugarcane,522,26389
+Uttar Pradesh,CHITRAKOOT,2003,Whole Year ,Sugarcane,494,20838
+Uttar Pradesh,CHITRAKOOT,2004,Kharif     ,Sugarcane,424,16402
+Uttar Pradesh,CHITRAKOOT,2005,Kharif     ,Sugarcane,474,14917
+Uttar Pradesh,CHITRAKOOT,2006,Kharif     ,Sugarcane,421,17962
+Uttar Pradesh,CHITRAKOOT,2007,Kharif     ,Sugarcane,251,6632
+Uttar Pradesh,CHITRAKOOT,2008,Kharif     ,Sugarcane,215,8758
+Uttar Pradesh,CHITRAKOOT,2009,Kharif     ,Sugarcane,134,5372
+Uttar Pradesh,CHITRAKOOT,2010,Kharif     ,Sugarcane,253,12465
+Uttar Pradesh,CHITRAKOOT,2011,Kharif     ,Sugarcane,381,18328
+Uttar Pradesh,CHITRAKOOT,2012,Kharif     ,Sugarcane,217,8062
+Uttar Pradesh,CHITRAKOOT,2013,Kharif     ,Sugarcane,313,13981
+Uttar Pradesh,CHITRAKOOT,2014,Kharif     ,Sugarcane,340,13751
+Uttar Pradesh,DEORIA,1997,Whole Year ,Sugarcane,19218,1010021
+Uttar Pradesh,DEORIA,1998,Whole Year ,Sugarcane,18227,859512
+Uttar Pradesh,DEORIA,1999,Whole Year ,Sugarcane,17436,831767
+Uttar Pradesh,DEORIA,2000,Whole Year ,Sugarcane,14726,663907
+Uttar Pradesh,DEORIA,2001,Whole Year ,Sugarcane,12708,684148
+Uttar Pradesh,DEORIA,2002,Whole Year ,Sugarcane,13696,674446
+Uttar Pradesh,DEORIA,2003,Whole Year ,Sugarcane,12992,575961
+Uttar Pradesh,DEORIA,2004,Kharif     ,Sugarcane,11072,545540
+Uttar Pradesh,DEORIA,2005,Kharif     ,Sugarcane,11454,627496
+Uttar Pradesh,DEORIA,2006,Kharif     ,Sugarcane,18002,871225
+Uttar Pradesh,DEORIA,2007,Kharif     ,Sugarcane,10875,546012
+Uttar Pradesh,DEORIA,2008,Kharif     ,Sugarcane,9405,417883
+Uttar Pradesh,DEORIA,2009,Kharif     ,Sugarcane,9257,414084
+Uttar Pradesh,DEORIA,2010,Kharif     ,Sugarcane,10156,472132
+Uttar Pradesh,DEORIA,2011,Kharif     ,Sugarcane,8926,451370
+Uttar Pradesh,DEORIA,2012,Kharif     ,Sugarcane,9315,552193
+Uttar Pradesh,DEORIA,2013,Kharif     ,Sugarcane,9768,552673
+Uttar Pradesh,DEORIA,2014,Kharif     ,Sugarcane,8996,567792
+Uttar Pradesh,ETAH,1997,Whole Year ,Sugarcane,8729,505409
+Uttar Pradesh,ETAH,1998,Whole Year ,Sugarcane,10011,545880
+Uttar Pradesh,ETAH,1999,Whole Year ,Sugarcane,10445,540550
+Uttar Pradesh,ETAH,2000,Whole Year ,Sugarcane,10345,527719
+Uttar Pradesh,ETAH,2001,Whole Year ,Sugarcane,8480,448694
+Uttar Pradesh,ETAH,2002,Whole Year ,Sugarcane,9973,468133
+Uttar Pradesh,ETAH,2003,Whole Year ,Sugarcane,9049,428850
+Uttar Pradesh,ETAH,2004,Kharif     ,Sugarcane,8197,408342
+Uttar Pradesh,ETAH,2005,Kharif     ,Sugarcane,8228,414724
+Uttar Pradesh,ETAH,2006,Kharif     ,Sugarcane,8197,427621
+Uttar Pradesh,ETAH,2007,Kharif     ,Sugarcane,9359,490150
+Uttar Pradesh,ETAH,2008,Kharif     ,Sugarcane,7083,333241
+Uttar Pradesh,ETAH,2009,Kharif     ,Sugarcane,160,8772
+Uttar Pradesh,ETAH,2010,Kharif     ,Sugarcane,101,5568
+Uttar Pradesh,ETAH,2011,Kharif     ,Sugarcane,525,30700
+Uttar Pradesh,ETAH,2012,Kharif     ,Sugarcane,289,17455
+Uttar Pradesh,ETAH,2013,Kharif     ,Sugarcane,212,13031
+Uttar Pradesh,ETAH,2014,Kharif     ,Sugarcane,353,20262
+Uttar Pradesh,ETAWAH,1997,Whole Year ,Sugarcane,1549,80097
+Uttar Pradesh,ETAWAH,1998,Whole Year ,Sugarcane,1278,66550
+Uttar Pradesh,ETAWAH,1999,Whole Year ,Sugarcane,1192,53583
+Uttar Pradesh,ETAWAH,2000,Whole Year ,Sugarcane,1103,56665
+Uttar Pradesh,ETAWAH,2001,Whole Year ,Sugarcane,973,51954
+Uttar Pradesh,ETAWAH,2002,Whole Year ,Sugarcane,963,47527
+Uttar Pradesh,ETAWAH,2003,Whole Year ,Sugarcane,818,38673
+Uttar Pradesh,ETAWAH,2004,Kharif     ,Sugarcane,697,37262
+Uttar Pradesh,ETAWAH,2005,Kharif     ,Sugarcane,1061,49334
+Uttar Pradesh,ETAWAH,2006,Kharif     ,Sugarcane,749,42517
+Uttar Pradesh,ETAWAH,2007,Kharif     ,Sugarcane,652,33019
+Uttar Pradesh,ETAWAH,2008,Kharif     ,Sugarcane,373,16680
+Uttar Pradesh,ETAWAH,2009,Kharif     ,Sugarcane,402,20648
+Uttar Pradesh,ETAWAH,2010,Kharif     ,Sugarcane,317,16944
+Uttar Pradesh,ETAWAH,2011,Kharif     ,Sugarcane,428,24810
+Uttar Pradesh,ETAWAH,2012,Kharif     ,Sugarcane,374,22703
+Uttar Pradesh,ETAWAH,2013,Kharif     ,Sugarcane,348,20738
+Uttar Pradesh,ETAWAH,2014,Kharif     ,Sugarcane,408,23506
+Uttar Pradesh,FAIZABAD,1997,Whole Year ,Sugarcane,13894,730491
+Uttar Pradesh,FAIZABAD,1998,Whole Year ,Sugarcane,14261,650815
+Uttar Pradesh,FAIZABAD,1999,Whole Year ,Sugarcane,13547,739666
+Uttar Pradesh,FAIZABAD,2000,Whole Year ,Sugarcane,17284,960299
+Uttar Pradesh,FAIZABAD,2001,Whole Year ,Sugarcane,20790,1196257
+Uttar Pradesh,FAIZABAD,2002,Whole Year ,Sugarcane,21596,1082996
+Uttar Pradesh,FAIZABAD,2003,Whole Year ,Sugarcane,16665,863314
+Uttar Pradesh,FAIZABAD,2004,Kharif     ,Sugarcane,16316,894508
+Uttar Pradesh,FAIZABAD,2005,Kharif     ,Sugarcane,19794,1082494
+Uttar Pradesh,FAIZABAD,2006,Kharif     ,Sugarcane,18529,770806
+Uttar Pradesh,FAIZABAD,2007,Kharif     ,Sugarcane,16256,879515
+Uttar Pradesh,FAIZABAD,2008,Kharif     ,Sugarcane,19820,887222
+Uttar Pradesh,FAIZABAD,2009,Kharif     ,Sugarcane,19933,1075585
+Uttar Pradesh,FAIZABAD,2010,Kharif     ,Sugarcane,19549,1043995
+Uttar Pradesh,FAIZABAD,2011,Kharif     ,Sugarcane,20811,1226434
+Uttar Pradesh,FAIZABAD,2012,Kharif     ,Sugarcane,21013,1342899
+Uttar Pradesh,FAIZABAD,2013,Kharif     ,Sugarcane,19239,1269312
+Uttar Pradesh,FAIZABAD,2014,Kharif     ,Sugarcane,20004,1328266
+Uttar Pradesh,FARRUKHABAD,1997,Whole Year ,Sugarcane,9381,538657
+Uttar Pradesh,FARRUKHABAD,1998,Whole Year ,Sugarcane,7944,420047
+Uttar Pradesh,FARRUKHABAD,1999,Whole Year ,Sugarcane,7407,326530
+Uttar Pradesh,FARRUKHABAD,2000,Whole Year ,Sugarcane,7391,419543
+Uttar Pradesh,FARRUKHABAD,2001,Whole Year ,Sugarcane,7483,429764
+Uttar Pradesh,FARRUKHABAD,2002,Whole Year ,Sugarcane,7091,379255
+Uttar Pradesh,FARRUKHABAD,2003,Whole Year ,Sugarcane,7867,384885
+Uttar Pradesh,FARRUKHABAD,2004,Kharif     ,Sugarcane,7439,425213
+Uttar Pradesh,FARRUKHABAD,2005,Kharif     ,Sugarcane,10155,551701
+Uttar Pradesh,FARRUKHABAD,2006,Kharif     ,Sugarcane,12774,791222
+Uttar Pradesh,FARRUKHABAD,2007,Kharif     ,Sugarcane,8112,463714
+Uttar Pradesh,FARRUKHABAD,2008,Kharif     ,Sugarcane,8112,397456
+Uttar Pradesh,FARRUKHABAD,2009,Kharif     ,Sugarcane,7720,420894
+Uttar Pradesh,FARRUKHABAD,2010,Kharif     ,Sugarcane,7715,441298
+Uttar Pradesh,FARRUKHABAD,2011,Kharif     ,Sugarcane,7000,437416
+Uttar Pradesh,FARRUKHABAD,2012,Kharif     ,Sugarcane,8086,507219
+Uttar Pradesh,FARRUKHABAD,2013,Kharif     ,Sugarcane,8172,504343
+Uttar Pradesh,FARRUKHABAD,2014,Kharif     ,Sugarcane,7198,436861
+Uttar Pradesh,FATEHPUR,1997,Whole Year ,Sugarcane,9113,585755
+Uttar Pradesh,FATEHPUR,1998,Whole Year ,Sugarcane,9161,445666
+Uttar Pradesh,FATEHPUR,1999,Whole Year ,Sugarcane,9203,675638
+Uttar Pradesh,FATEHPUR,2000,Whole Year ,Sugarcane,9598,453487
+Uttar Pradesh,FATEHPUR,2001,Whole Year ,Sugarcane,9755,421471
+Uttar Pradesh,FATEHPUR,2002,Whole Year ,Sugarcane,9193,401957
+Uttar Pradesh,FATEHPUR,2003,Whole Year ,Sugarcane,8895,390687
+Uttar Pradesh,FATEHPUR,2004,Kharif     ,Sugarcane,8040,416158
+Uttar Pradesh,FATEHPUR,2005,Kharif     ,Sugarcane,7073,231265
+Uttar Pradesh,FATEHPUR,2006,Kharif     ,Sugarcane,9440,448866
+Uttar Pradesh,FATEHPUR,2007,Kharif     ,Sugarcane,8514,379713
+Uttar Pradesh,FATEHPUR,2008,Kharif     ,Sugarcane,6450,356515
+Uttar Pradesh,FATEHPUR,2009,Kharif     ,Sugarcane,5968,259883
+Uttar Pradesh,FATEHPUR,2010,Kharif     ,Sugarcane,5940,346546
+Uttar Pradesh,FATEHPUR,2011,Kharif     ,Sugarcane,6428,359165
+Uttar Pradesh,FATEHPUR,2012,Kharif     ,Sugarcane,6676,408151
+Uttar Pradesh,FATEHPUR,2013,Kharif     ,Sugarcane,7357,501961
+Uttar Pradesh,FATEHPUR,2014,Kharif     ,Sugarcane,7882,518486
+Uttar Pradesh,FIROZABAD,1997,Whole Year ,Sugarcane,192,5529
+Uttar Pradesh,FIROZABAD,1998,Whole Year ,Sugarcane,198,5780
+Uttar Pradesh,FIROZABAD,1999,Whole Year ,Sugarcane,205,10772
+Uttar Pradesh,FIROZABAD,2000,Whole Year ,Sugarcane,187,8728
+Uttar Pradesh,FIROZABAD,2001,Whole Year ,Sugarcane,174,9121
+Uttar Pradesh,FIROZABAD,2002,Whole Year ,Sugarcane,140,7617
+Uttar Pradesh,FIROZABAD,2003,Whole Year ,Sugarcane,88,4552
+Uttar Pradesh,FIROZABAD,2004,Kharif     ,Sugarcane,94,4669
+Uttar Pradesh,FIROZABAD,2005,Kharif     ,Sugarcane,147,7406
+Uttar Pradesh,FIROZABAD,2006,Kharif     ,Sugarcane,95,5115
+Uttar Pradesh,FIROZABAD,2007,Kharif     ,Sugarcane,165,8667
+Uttar Pradesh,FIROZABAD,2008,Kharif     ,Sugarcane,129,6598
+Uttar Pradesh,FIROZABAD,2009,Kharif     ,Sugarcane,91,3932
+Uttar Pradesh,FIROZABAD,2010,Kharif     ,Sugarcane,98,4988
+Uttar Pradesh,FIROZABAD,2011,Kharif     ,Sugarcane,92,4368
+Uttar Pradesh,FIROZABAD,2012,Kharif     ,Sugarcane,141,6395
+Uttar Pradesh,FIROZABAD,2013,Kharif     ,Sugarcane,154,7391
+Uttar Pradesh,FIROZABAD,2014,Kharif     ,Sugarcane,117,4927
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1997,Whole Year ,Sugarcane,1206,81617
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1998,Whole Year ,Sugarcane,4265,275207
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1999,Whole Year ,Sugarcane,4509,270528
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2000,Whole Year ,Sugarcane,4385,253015
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2001,Whole Year ,Sugarcane,4394,283376
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2002,Whole Year ,Sugarcane,3385,210647
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2003,Whole Year ,Sugarcane,3166,199034
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2004,Kharif     ,Sugarcane,2759,174347
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2005,Kharif     ,Sugarcane,2591,161143
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2006,Kharif     ,Sugarcane,2406,158956
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2007,Kharif     ,Sugarcane,2819,187879
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2008,Kharif     ,Sugarcane,2781,168536
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2009,Kharif     ,Sugarcane,2139,137525
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2010,Kharif     ,Sugarcane,2028,126681
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2011,Kharif     ,Sugarcane,2033,128312
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2012,Kharif     ,Sugarcane,1940,130355
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2013,Kharif     ,Sugarcane,1888,133442
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2014,Kharif     ,Sugarcane,1798,131612
+Uttar Pradesh,GHAZIABAD,1997,Whole Year ,Sugarcane,58679,3971160
+Uttar Pradesh,GHAZIABAD,1998,Whole Year ,Sugarcane,54811,3459890
+Uttar Pradesh,GHAZIABAD,1999,Whole Year ,Sugarcane,58646,3526970
+Uttar Pradesh,GHAZIABAD,2000,Whole Year ,Sugarcane,59152,3453530
+Uttar Pradesh,GHAZIABAD,2001,Whole Year ,Sugarcane,61232,4072418
+Uttar Pradesh,GHAZIABAD,2002,Whole Year ,Sugarcane,64885,4265799
+Uttar Pradesh,GHAZIABAD,2003,Whole Year ,Sugarcane,65950,4121611
+Uttar Pradesh,GHAZIABAD,2004,Kharif     ,Sugarcane,64548,4078917
+Uttar Pradesh,GHAZIABAD,2005,Kharif     ,Sugarcane,63260,3324440
+Uttar Pradesh,GHAZIABAD,2006,Kharif     ,Sugarcane,65587,3885112
+Uttar Pradesh,GHAZIABAD,2007,Kharif     ,Sugarcane,66459,4022099
+Uttar Pradesh,GHAZIABAD,2008,Kharif     ,Sugarcane,60776,3257107
+Uttar Pradesh,GHAZIABAD,2009,Kharif     ,Sugarcane,56992,3320126
+Uttar Pradesh,GHAZIABAD,2010,Kharif     ,Sugarcane,56546,3043758
+Uttar Pradesh,GHAZIABAD,2011,Kharif     ,Sugarcane,61150,3747761
+Uttar Pradesh,GHAZIABAD,2012,Kharif     ,Sugarcane,21381,1373430
+Uttar Pradesh,GHAZIABAD,2013,Kharif     ,Sugarcane,21384,1478490
+Uttar Pradesh,GHAZIABAD,2014,Kharif     ,Sugarcane,11136,750076
+Uttar Pradesh,GHAZIPUR,1997,Whole Year ,Sugarcane,11808,445776
+Uttar Pradesh,GHAZIPUR,1998,Whole Year ,Sugarcane,12229,529418
+Uttar Pradesh,GHAZIPUR,1999,Whole Year ,Sugarcane,11972,496407
+Uttar Pradesh,GHAZIPUR,2000,Whole Year ,Sugarcane,11950,504230
+Uttar Pradesh,GHAZIPUR,2001,Whole Year ,Sugarcane,9747,430544
+Uttar Pradesh,GHAZIPUR,2002,Whole Year ,Sugarcane,8743,354651
+Uttar Pradesh,GHAZIPUR,2003,Whole Year ,Sugarcane,8203,293471
+Uttar Pradesh,GHAZIPUR,2004,Kharif     ,Sugarcane,7372,299017
+Uttar Pradesh,GHAZIPUR,2005,Kharif     ,Sugarcane,8601,401285
+Uttar Pradesh,GHAZIPUR,2006,Kharif     ,Sugarcane,7448,393277
+Uttar Pradesh,GHAZIPUR,2007,Kharif     ,Sugarcane,7422,374073
+Uttar Pradesh,GHAZIPUR,2008,Kharif     ,Sugarcane,5485,201563
+Uttar Pradesh,GHAZIPUR,2009,Kharif     ,Sugarcane,4553,162342
+Uttar Pradesh,GHAZIPUR,2010,Kharif     ,Sugarcane,7250,214861
+Uttar Pradesh,GHAZIPUR,2011,Kharif     ,Sugarcane,7530,345808
+Uttar Pradesh,GHAZIPUR,2012,Kharif     ,Sugarcane,7631,351972
+Uttar Pradesh,GHAZIPUR,2013,Kharif     ,Sugarcane,7382,358588
+Uttar Pradesh,GHAZIPUR,2014,Kharif     ,Sugarcane,7239,396118
+Uttar Pradesh,GONDA,1997,Whole Year ,Sugarcane,13334,667260
+Uttar Pradesh,GONDA,1998,Whole Year ,Sugarcane,14362,750960
+Uttar Pradesh,GONDA,1999,Whole Year ,Sugarcane,27462,1381119
+Uttar Pradesh,GONDA,2000,Whole Year ,Sugarcane,32185,1466864
+Uttar Pradesh,GONDA,2001,Whole Year ,Sugarcane,45117,2219937
+Uttar Pradesh,GONDA,2002,Whole Year ,Sugarcane,50221,2241263
+Uttar Pradesh,GONDA,2003,Whole Year ,Sugarcane,52101,2470421
+Uttar Pradesh,GONDA,2004,Kharif     ,Sugarcane,53374,2528006
+Uttar Pradesh,GONDA,2005,Kharif     ,Sugarcane,55171,2892623
+Uttar Pradesh,GONDA,2006,Kharif     ,Sugarcane,66268,3040641
+Uttar Pradesh,GONDA,2007,Kharif     ,Sugarcane,61549,2877293
+Uttar Pradesh,GONDA,2008,Kharif     ,Sugarcane,66034,2634757
+Uttar Pradesh,GONDA,2009,Kharif     ,Sugarcane,65823,3386725
+Uttar Pradesh,GONDA,2010,Kharif     ,Sugarcane,70037,3878929
+Uttar Pradesh,GONDA,2011,Kharif     ,Sugarcane,71422,4346457
+Uttar Pradesh,GONDA,2012,Kharif     ,Sugarcane,73651,4370745
+Uttar Pradesh,GONDA,2013,Kharif     ,Sugarcane,81115,4680984
+Uttar Pradesh,GONDA,2014,Kharif     ,Sugarcane,79442,4088721
+Uttar Pradesh,GORAKHPUR,1997,Kharif     ,Sugarcane,6719,379133
+Uttar Pradesh,GORAKHPUR,1997,Whole Year ,Sugarcane,6719,379193
+Uttar Pradesh,GORAKHPUR,1998,Whole Year ,Sugarcane,5701,288425
+Uttar Pradesh,GORAKHPUR,1999,Whole Year ,Sugarcane,5217,295324
+Uttar Pradesh,GORAKHPUR,2000,Whole Year ,Sugarcane,4213,230367
+Uttar Pradesh,GORAKHPUR,2001,Whole Year ,Sugarcane,4216,236012
+Uttar Pradesh,GORAKHPUR,2002,Whole Year ,Sugarcane,3909,221374
+Uttar Pradesh,GORAKHPUR,2003,Whole Year ,Sugarcane,3830,202117
+Uttar Pradesh,GORAKHPUR,2004,Kharif     ,Sugarcane,3114,173026
+Uttar Pradesh,GORAKHPUR,2005,Kharif     ,Sugarcane,3337,187953
+Uttar Pradesh,GORAKHPUR,2006,Kharif     ,Sugarcane,4225,231327
+Uttar Pradesh,GORAKHPUR,2007,Kharif     ,Sugarcane,2046,107390
+Uttar Pradesh,GORAKHPUR,2008,Kharif     ,Sugarcane,3312,160632
+Uttar Pradesh,GORAKHPUR,2009,Kharif     ,Sugarcane,2812,140263
+Uttar Pradesh,GORAKHPUR,2010,Kharif     ,Sugarcane,3097,162555
+Uttar Pradesh,GORAKHPUR,2011,Kharif     ,Sugarcane,2839,164310
+Uttar Pradesh,GORAKHPUR,2012,Kharif     ,Sugarcane,2714,175737
+Uttar Pradesh,GORAKHPUR,2013,Kharif     ,Sugarcane,2722,170277
+Uttar Pradesh,GORAKHPUR,2014,Kharif     ,Sugarcane,2948,181208
+Uttar Pradesh,HAMIRPUR,1997,Whole Year ,Sugarcane,2687,116307
+Uttar Pradesh,HAMIRPUR,1998,Whole Year ,Sugarcane,2781,125876
+Uttar Pradesh,HAMIRPUR,1999,Whole Year ,Sugarcane,3063,164590
+Uttar Pradesh,HAMIRPUR,2000,Whole Year ,Sugarcane,3340,148784
+Uttar Pradesh,HAMIRPUR,2001,Whole Year ,Sugarcane,3220,166386
+Uttar Pradesh,HAMIRPUR,2002,Whole Year ,Sugarcane,3405,172138
+Uttar Pradesh,HAMIRPUR,2003,Whole Year ,Sugarcane,2964,125026
+Uttar Pradesh,HAMIRPUR,2004,Kharif     ,Sugarcane,2996,115900
+Uttar Pradesh,HAMIRPUR,2005,Kharif     ,Sugarcane,4065,127931
+Uttar Pradesh,HAMIRPUR,2006,Kharif     ,Sugarcane,4430,189001
+Uttar Pradesh,HAMIRPUR,2007,Kharif     ,Sugarcane,3452,91216
+Uttar Pradesh,HAMIRPUR,2008,Kharif     ,Sugarcane,1005,40940
+Uttar Pradesh,HAMIRPUR,2009,Kharif     ,Sugarcane,902,36161
+Uttar Pradesh,HAMIRPUR,2010,Kharif     ,Sugarcane,2009,98981
+Uttar Pradesh,HAMIRPUR,2011,Kharif     ,Sugarcane,2925,140707
+Uttar Pradesh,HAMIRPUR,2012,Kharif     ,Sugarcane,3426,127290
+Uttar Pradesh,HAMIRPUR,2013,Kharif     ,Sugarcane,4828,215662
+Uttar Pradesh,HAMIRPUR,2014,Kharif     ,Sugarcane,5381,217635
+Uttar Pradesh,HAPUR,2012,Kharif     ,Sugarcane,37894,2368375
+Uttar Pradesh,HAPUR,2013,Kharif     ,Sugarcane,38509,2510171
+Uttar Pradesh,HAPUR,2014,Kharif     ,Sugarcane,35923,2526393
+Uttar Pradesh,HARDOI,1997,Whole Year ,Sugarcane,23549,1198362
+Uttar Pradesh,HARDOI,1998,Whole Year ,Sugarcane,23489,1175671
+Uttar Pradesh,HARDOI,1999,Whole Year ,Sugarcane,23480,1257683
+Uttar Pradesh,HARDOI,2000,Whole Year ,Sugarcane,24127,1329205
+Uttar Pradesh,HARDOI,2001,Whole Year ,Sugarcane,25536,1326851
+Uttar Pradesh,HARDOI,2002,Whole Year ,Sugarcane,27383,1328185
+Uttar Pradesh,HARDOI,2003,Whole Year ,Sugarcane,27449,1292409
+Uttar Pradesh,HARDOI,2004,Kharif     ,Sugarcane,25856,1305107
+Uttar Pradesh,HARDOI,2005,Kharif     ,Sugarcane,32683,1560417
+Uttar Pradesh,HARDOI,2006,Kharif     ,Sugarcane,25856,1367472
+Uttar Pradesh,HARDOI,2007,Kharif     ,Sugarcane,43216,2081110
+Uttar Pradesh,HARDOI,2008,Kharif     ,Sugarcane,39157,1878596
+Uttar Pradesh,HARDOI,2009,Kharif     ,Sugarcane,31654,1610682
+Uttar Pradesh,HARDOI,2010,Kharif     ,Sugarcane,30600,1629389
+Uttar Pradesh,HARDOI,2011,Kharif     ,Sugarcane,31481,1775906
+Uttar Pradesh,HARDOI,2012,Kharif     ,Sugarcane,35834,2210098
+Uttar Pradesh,HARDOI,2013,Kharif     ,Sugarcane,39111,2272036
+Uttar Pradesh,HARDOI,2014,Kharif     ,Sugarcane,37032,2226216
+Uttar Pradesh,HATHRAS,1997,Whole Year ,Sugarcane,516,30572
+Uttar Pradesh,HATHRAS,1998,Whole Year ,Sugarcane,486,27200
+Uttar Pradesh,HATHRAS,1999,Whole Year ,Sugarcane,504,30436
+Uttar Pradesh,HATHRAS,2000,Whole Year ,Sugarcane,468,24163
+Uttar Pradesh,HATHRAS,2001,Whole Year ,Sugarcane,479,25110
+Uttar Pradesh,HATHRAS,2002,Whole Year ,Sugarcane,481,26170
+Uttar Pradesh,HATHRAS,2003,Whole Year ,Sugarcane,543,28086
+Uttar Pradesh,HATHRAS,2004,Kharif     ,Sugarcane,490,24338
+Uttar Pradesh,HATHRAS,2005,Kharif     ,Sugarcane,1337,67357
+Uttar Pradesh,HATHRAS,2006,Kharif     ,Sugarcane,516,27785
+Uttar Pradesh,HATHRAS,2007,Kharif     ,Sugarcane,362,19015
+Uttar Pradesh,HATHRAS,2008,Kharif     ,Sugarcane,212,10843
+Uttar Pradesh,HATHRAS,2009,Kharif     ,Sugarcane,365,20012
+Uttar Pradesh,HATHRAS,2010,Kharif     ,Sugarcane,387,21334
+Uttar Pradesh,HATHRAS,2011,Kharif     ,Sugarcane,223,13040
+Uttar Pradesh,HATHRAS,2012,Kharif     ,Sugarcane,530,32012
+Uttar Pradesh,HATHRAS,2013,Kharif     ,Sugarcane,326,20039
+Uttar Pradesh,HATHRAS,2014,Kharif     ,Sugarcane,262,15038
+Uttar Pradesh,JALAUN,1997,Whole Year ,Sugarcane,1509,79372
+Uttar Pradesh,JALAUN,1998,Whole Year ,Sugarcane,1488,78787
+Uttar Pradesh,JALAUN,1999,Whole Year ,Sugarcane,1737,74597
+Uttar Pradesh,JALAUN,2000,Whole Year ,Sugarcane,1947,81226
+Uttar Pradesh,JALAUN,2001,Whole Year ,Sugarcane,1777,82836
+Uttar Pradesh,JALAUN,2002,Whole Year ,Sugarcane,1856,83802
+Uttar Pradesh,JALAUN,2003,Whole Year ,Sugarcane,1851,91766
+Uttar Pradesh,JALAUN,2004,Kharif     ,Sugarcane,1579,95199
+Uttar Pradesh,JALAUN,2005,Kharif     ,Sugarcane,2447,54986
+Uttar Pradesh,JALAUN,2006,Kharif     ,Sugarcane,3644,140416
+Uttar Pradesh,JALAUN,2007,Kharif     ,Sugarcane,1153,23005
+Uttar Pradesh,JALAUN,2008,Kharif     ,Sugarcane,1998,46056
+Uttar Pradesh,JALAUN,2009,Kharif     ,Sugarcane,493,15803
+Uttar Pradesh,JALAUN,2010,Kharif     ,Sugarcane,1769,66657
+Uttar Pradesh,JALAUN,2011,Kharif     ,Sugarcane,1709,69346
+Uttar Pradesh,JALAUN,2012,Kharif     ,Sugarcane,1752,65094
+Uttar Pradesh,JALAUN,2013,Kharif     ,Sugarcane,1609,64614
+Uttar Pradesh,JALAUN,2014,Kharif     ,Sugarcane,1344,54341
+Uttar Pradesh,JAUNPUR,1997,Whole Year ,Sugarcane,14939,834313
+Uttar Pradesh,JAUNPUR,1998,Whole Year ,Sugarcane,14713,609883
+Uttar Pradesh,JAUNPUR,1999,Whole Year ,Sugarcane,14731,611985
+Uttar Pradesh,JAUNPUR,2000,Whole Year ,Sugarcane,14775,736741
+Uttar Pradesh,JAUNPUR,2001,Whole Year ,Sugarcane,14409,726156
+Uttar Pradesh,JAUNPUR,2002,Whole Year ,Sugarcane,13119,618692
+Uttar Pradesh,JAUNPUR,2003,Whole Year ,Sugarcane,12763,492141
+Uttar Pradesh,JAUNPUR,2004,Kharif     ,Sugarcane,10237,436547
+Uttar Pradesh,JAUNPUR,2005,Kharif     ,Sugarcane,12667,606901
+Uttar Pradesh,JAUNPUR,2006,Kharif     ,Sugarcane,10545,620679
+Uttar Pradesh,JAUNPUR,2007,Kharif     ,Sugarcane,7699,413991
+Uttar Pradesh,JAUNPUR,2008,Kharif     ,Sugarcane,10010,535935
+Uttar Pradesh,JAUNPUR,2009,Kharif     ,Sugarcane,7451,404410
+Uttar Pradesh,JAUNPUR,2010,Kharif     ,Sugarcane,8640,482838
+Uttar Pradesh,JAUNPUR,2011,Kharif     ,Sugarcane,10082,530716
+Uttar Pradesh,JAUNPUR,2012,Kharif     ,Sugarcane,9578,535027
+Uttar Pradesh,JAUNPUR,2013,Kharif     ,Sugarcane,11306,648557
+Uttar Pradesh,JAUNPUR,2014,Kharif     ,Sugarcane,9870,565156
+Uttar Pradesh,JHANSI,1997,Whole Year ,Sugarcane,106,5575
+Uttar Pradesh,JHANSI,1998,Whole Year ,Sugarcane,111,5877
+Uttar Pradesh,JHANSI,1999,Whole Year ,Sugarcane,101,4338
+Uttar Pradesh,JHANSI,2000,Whole Year ,Sugarcane,95,3963
+Uttar Pradesh,JHANSI,2001,Whole Year ,Sugarcane,80,3730
+Uttar Pradesh,JHANSI,2002,Whole Year ,Sugarcane,37,1671
+Uttar Pradesh,JHANSI,2003,Whole Year ,Sugarcane,67,3321
+Uttar Pradesh,JHANSI,2004,Kharif     ,Sugarcane,67,4040
+Uttar Pradesh,JHANSI,2005,Kharif     ,Sugarcane,67,1506
+Uttar Pradesh,JHANSI,2006,Kharif     ,Sugarcane,139,5356
+Uttar Pradesh,JHANSI,2007,Kharif     ,Sugarcane,22,439
+Uttar Pradesh,JHANSI,2008,Kharif     ,Sugarcane,41,946
+Uttar Pradesh,JHANSI,2009,Kharif     ,Sugarcane,39,1250
+Uttar Pradesh,JHANSI,2010,Kharif     ,Sugarcane,80,3015
+Uttar Pradesh,JHANSI,2011,Kharif     ,Sugarcane,333,13512
+Uttar Pradesh,JHANSI,2012,Kharif     ,Sugarcane,228,8471
+Uttar Pradesh,JHANSI,2013,Kharif     ,Sugarcane,208,8353
+Uttar Pradesh,JHANSI,2014,Kharif     ,Sugarcane,165,6671
+Uttar Pradesh,KANNAUJ,1997,Whole Year ,Sugarcane,570,32729
+Uttar Pradesh,KANNAUJ,1998,Whole Year ,Sugarcane,663,34525
+Uttar Pradesh,KANNAUJ,1999,Whole Year ,Sugarcane,592,26611
+Uttar Pradesh,KANNAUJ,2000,Whole Year ,Sugarcane,474,24351
+Uttar Pradesh,KANNAUJ,2001,Whole Year ,Sugarcane,539,28780
+Uttar Pradesh,KANNAUJ,2002,Whole Year ,Sugarcane,404,19939
+Uttar Pradesh,KANNAUJ,2003,Whole Year ,Sugarcane,348,16452
+Uttar Pradesh,KANNAUJ,2004,Kharif     ,Sugarcane,358,19139
+Uttar Pradesh,KANNAUJ,2005,Kharif     ,Sugarcane,355,16506
+Uttar Pradesh,KANNAUJ,2006,Kharif     ,Sugarcane,358,20322
+Uttar Pradesh,KANNAUJ,2007,Kharif     ,Sugarcane,399,20206
+Uttar Pradesh,KANNAUJ,2008,Kharif     ,Sugarcane,94,4203
+Uttar Pradesh,KANNAUJ,2009,Kharif     ,Sugarcane,163,8372
+Uttar Pradesh,KANNAUJ,2010,Kharif     ,Sugarcane,197,10530
+Uttar Pradesh,KANNAUJ,2011,Kharif     ,Sugarcane,226,13101
+Uttar Pradesh,KANNAUJ,2012,Kharif     ,Sugarcane,215,13051
+Uttar Pradesh,KANNAUJ,2013,Kharif     ,Sugarcane,204,12157
+Uttar Pradesh,KANNAUJ,2014,Kharif     ,Sugarcane,130,7490
+Uttar Pradesh,KANPUR DEHAT,1997,Whole Year ,Sugarcane,3899,149372
+Uttar Pradesh,KANPUR DEHAT,1998,Whole Year ,Sugarcane,3951,189843
+Uttar Pradesh,KANPUR DEHAT,2003,Whole Year ,Sugarcane,2785,116090
+Uttar Pradesh,KANPUR DEHAT,2004,Kharif     ,Sugarcane,2501,113826
+Uttar Pradesh,KANPUR DEHAT,2005,Kharif     ,Sugarcane,2772,117566
+Uttar Pradesh,KANPUR DEHAT,2006,Kharif     ,Sugarcane,2408,108620
+Uttar Pradesh,KANPUR DEHAT,2007,Kharif     ,Sugarcane,2592,131265
+Uttar Pradesh,KANPUR DEHAT,2008,Kharif     ,Sugarcane,2595,116044
+Uttar Pradesh,KANPUR DEHAT,2009,Kharif     ,Sugarcane,1663,85415
+Uttar Pradesh,KANPUR DEHAT,2010,Kharif     ,Sugarcane,2695,144048
+Uttar Pradesh,KANPUR DEHAT,2011,Kharif     ,Sugarcane,2461,142659
+Uttar Pradesh,KANPUR DEHAT,2012,Kharif     ,Sugarcane,2575,156314
+Uttar Pradesh,KANPUR DEHAT,2013,Kharif     ,Sugarcane,2313,137838
+Uttar Pradesh,KANPUR DEHAT,2014,Kharif     ,Sugarcane,2304,132740
+Uttar Pradesh,KANPUR NAGAR,1997,Whole Year ,Sugarcane,4125,200013
+Uttar Pradesh,KANPUR NAGAR,1998,Whole Year ,Sugarcane,3932,204354
+Uttar Pradesh,KANPUR NAGAR,1999,Whole Year ,Sugarcane,7645,318165
+Uttar Pradesh,KANPUR NAGAR,2000,Whole Year ,Sugarcane,7609,361383
+Uttar Pradesh,KANPUR NAGAR,2001,Whole Year ,Sugarcane,7085,339860
+Uttar Pradesh,KANPUR NAGAR,2002,Whole Year ,Sugarcane,6595,287101
+Uttar Pradesh,KANPUR NAGAR,2003,Whole Year ,Sugarcane,4099,173413
+Uttar Pradesh,KANPUR NAGAR,2004,Kharif     ,Sugarcane,4090,210973
+Uttar Pradesh,KANPUR NAGAR,2005,Kharif     ,Sugarcane,4652,148063
+Uttar Pradesh,KANPUR NAGAR,2006,Kharif     ,Sugarcane,4492,216974
+Uttar Pradesh,KANPUR NAGAR,2007,Kharif     ,Sugarcane,5413,221218
+Uttar Pradesh,KANPUR NAGAR,2008,Kharif     ,Sugarcane,5891,228712
+Uttar Pradesh,KANPUR NAGAR,2009,Kharif     ,Sugarcane,2391,98414
+Uttar Pradesh,KANPUR NAGAR,2010,Kharif     ,Sugarcane,2972,129936
+Uttar Pradesh,KANPUR NAGAR,2011,Kharif     ,Sugarcane,2932,138308
+Uttar Pradesh,KANPUR NAGAR,2012,Kharif     ,Sugarcane,3031,167626
+Uttar Pradesh,KANPUR NAGAR,2013,Kharif     ,Sugarcane,3109,167911
+Uttar Pradesh,KANPUR NAGAR,2014,Kharif     ,Sugarcane,2819,140262
+Uttar Pradesh,KASGANJ,2009,Kharif     ,Sugarcane,5236,280859
+Uttar Pradesh,KASGANJ,2010,Kharif     ,Sugarcane,5778,282174
+Uttar Pradesh,KASGANJ,2011,Kharif     ,Sugarcane,8721,491969
+Uttar Pradesh,KASGANJ,2012,Kharif     ,Sugarcane,7013,411102
+Uttar Pradesh,KASGANJ,2013,Kharif     ,Sugarcane,7531,467012
+Uttar Pradesh,KASGANJ,2014,Kharif     ,Sugarcane,7331,404876
+Uttar Pradesh,KAUSHAMBI,1997,Whole Year ,Sugarcane,3183,88641
+Uttar Pradesh,KAUSHAMBI,1998,Whole Year ,Sugarcane,2703,107098
+Uttar Pradesh,KAUSHAMBI,1999,Whole Year ,Sugarcane,3333,95402
+Uttar Pradesh,KAUSHAMBI,2000,Whole Year ,Sugarcane,2753,113948
+Uttar Pradesh,KAUSHAMBI,2001,Whole Year ,Sugarcane,2827,113545
+Uttar Pradesh,KAUSHAMBI,2002,Whole Year ,Sugarcane,2407,102148
+Uttar Pradesh,KAUSHAMBI,2003,Whole Year ,Sugarcane,2352,106511
+Uttar Pradesh,KAUSHAMBI,2004,Kharif     ,Sugarcane,1659,113267
+Uttar Pradesh,KAUSHAMBI,2005,Kharif     ,Sugarcane,2927,108441
+Uttar Pradesh,KAUSHAMBI,2006,Kharif     ,Sugarcane,1832,60239
+Uttar Pradesh,KAUSHAMBI,2007,Kharif     ,Sugarcane,1548,69041
+Uttar Pradesh,KAUSHAMBI,2008,Kharif     ,Sugarcane,1480,81806
+Uttar Pradesh,KAUSHAMBI,2009,Kharif     ,Sugarcane,484,21076
+Uttar Pradesh,KAUSHAMBI,2010,Kharif     ,Sugarcane,1572,91712
+Uttar Pradesh,KAUSHAMBI,2011,Kharif     ,Sugarcane,1846,103145
+Uttar Pradesh,KAUSHAMBI,2012,Kharif     ,Sugarcane,1787,109252
+Uttar Pradesh,KAUSHAMBI,2013,Kharif     ,Sugarcane,1401,95589
+Uttar Pradesh,KAUSHAMBI,2014,Kharif     ,Sugarcane,1439,94659
+Uttar Pradesh,KHERI,1997,Whole Year ,Sugarcane,182084,10287746
+Uttar Pradesh,KHERI,1998,Whole Year ,Sugarcane,189213,9810316
+Uttar Pradesh,KHERI,1999,Whole Year ,Sugarcane,189363,10924730
+Uttar Pradesh,KHERI,2000,Whole Year ,Sugarcane,191836,9630935
+Uttar Pradesh,KHERI,2001,Whole Year ,Sugarcane,215963,11500462
+Uttar Pradesh,KHERI,2002,Whole Year ,Sugarcane,224036,12005641
+Uttar Pradesh,KHERI,2003,Whole Year ,Sugarcane,219325,10975023
+Uttar Pradesh,KHERI,2004,Kharif     ,Sugarcane,211097,12790789
+Uttar Pradesh,KHERI,2005,Kharif     ,Sugarcane,231170,13119360
+Uttar Pradesh,KHERI,2006,Kharif     ,Sugarcane,227118,13423582
+Uttar Pradesh,KHERI,2007,Kharif     ,Sugarcane,224650,11942394
+Uttar Pradesh,KHERI,2008,Kharif     ,Sugarcane,215109,10663383
+Uttar Pradesh,KHERI,2009,Kharif     ,Sugarcane,213876,12863358
+Uttar Pradesh,KHERI,2010,Kharif     ,Sugarcane,232123,12982175
+Uttar Pradesh,KHERI,2011,Kharif     ,Sugarcane,231031,14305440
+Uttar Pradesh,KHERI,2012,Kharif     ,Sugarcane,238233,14359732
+Uttar Pradesh,KHERI,2013,Kharif     ,Sugarcane,240036,15040656
+Uttar Pradesh,KHERI,2014,Kharif     ,Sugarcane,268653,17757963
+Uttar Pradesh,KUSHI NAGAR,1997,Whole Year ,Sugarcane,74539,4130951
+Uttar Pradesh,KUSHI NAGAR,1998,Whole Year ,Sugarcane,73192,3529025
+Uttar Pradesh,KUSHI NAGAR,1999,Whole Year ,Sugarcane,73096,3920577
+Uttar Pradesh,KUSHI NAGAR,2000,Whole Year ,Sugarcane,69640,3321828
+Uttar Pradesh,KUSHI NAGAR,2001,Whole Year ,Sugarcane,74161,3911251
+Uttar Pradesh,KUSHI NAGAR,2002,Whole Year ,Sugarcane,74974,3908545
+Uttar Pradesh,KUSHI NAGAR,2003,Whole Year ,Sugarcane,71161,3570574
+Uttar Pradesh,KUSHI NAGAR,2004,Kharif     ,Sugarcane,68437,3642491
+Uttar Pradesh,KUSHI NAGAR,2005,Kharif     ,Sugarcane,70771,3729349
+Uttar Pradesh,KUSHI NAGAR,2006,Kharif     ,Sugarcane,74959,4041190
+Uttar Pradesh,KUSHI NAGAR,2007,Kharif     ,Sugarcane,72109,3733804
+Uttar Pradesh,KUSHI NAGAR,2008,Kharif     ,Sugarcane,66418,3221273
+Uttar Pradesh,KUSHI NAGAR,2009,Kharif     ,Sugarcane,67018,3534261
+Uttar Pradesh,KUSHI NAGAR,2010,Kharif     ,Sugarcane,73143,3763646
+Uttar Pradesh,KUSHI NAGAR,2011,Kharif     ,Sugarcane,72231,3758612
+Uttar Pradesh,KUSHI NAGAR,2012,Kharif     ,Sugarcane,70220,3989900
+Uttar Pradesh,KUSHI NAGAR,2013,Kharif     ,Sugarcane,99104,5923248
+Uttar Pradesh,KUSHI NAGAR,2014,Kharif     ,Sugarcane,70102,4217897
+Uttar Pradesh,LALITPUR,1997,Whole Year ,Sugarcane,252,13255
+Uttar Pradesh,LALITPUR,1998,Whole Year ,Sugarcane,243,12866
+Uttar Pradesh,LALITPUR,1999,Whole Year ,Sugarcane,195,8374
+Uttar Pradesh,LALITPUR,2000,Whole Year ,Sugarcane,191,7968
+Uttar Pradesh,LALITPUR,2001,Whole Year ,Sugarcane,170,7925
+Uttar Pradesh,LALITPUR,2002,Whole Year ,Sugarcane,126,5689
+Uttar Pradesh,LALITPUR,2003,Whole Year ,Sugarcane,93,4610
+Uttar Pradesh,LALITPUR,2004,Kharif     ,Sugarcane,104,6270
+Uttar Pradesh,LALITPUR,2005,Kharif     ,Sugarcane,95,2135
+Uttar Pradesh,LALITPUR,2006,Kharif     ,Sugarcane,398,15334
+Uttar Pradesh,LALITPUR,2007,Kharif     ,Sugarcane,148,2953
+Uttar Pradesh,LALITPUR,2008,Kharif     ,Sugarcane,73,1684
+Uttar Pradesh,LALITPUR,2009,Kharif     ,Sugarcane,129,4135
+Uttar Pradesh,LALITPUR,2010,Kharif     ,Sugarcane,284,10702
+Uttar Pradesh,LALITPUR,2011,Kharif     ,Sugarcane,199,8075
+Uttar Pradesh,LALITPUR,2012,Kharif     ,Sugarcane,37,1375
+Uttar Pradesh,LALITPUR,2013,Kharif     ,Sugarcane,56,2249
+Uttar Pradesh,LALITPUR,2014,Kharif     ,Sugarcane,52,2102
+Uttar Pradesh,LUCKNOW,1997,Whole Year ,Sugarcane,518,26642
+Uttar Pradesh,LUCKNOW,1998,Whole Year ,Sugarcane,516,25336
+Uttar Pradesh,LUCKNOW,1999,Whole Year ,Sugarcane,391,19957
+Uttar Pradesh,LUCKNOW,2000,Whole Year ,Sugarcane,488,27422
+Uttar Pradesh,LUCKNOW,2001,Whole Year ,Sugarcane,540,28514
+Uttar Pradesh,LUCKNOW,2002,Whole Year ,Sugarcane,427,20260
+Uttar Pradesh,LUCKNOW,2003,Whole Year ,Sugarcane,425,20412
+Uttar Pradesh,LUCKNOW,2004,Kharif     ,Sugarcane,428,23165
+Uttar Pradesh,LUCKNOW,2005,Kharif     ,Sugarcane,398,19679
+Uttar Pradesh,LUCKNOW,2006,Kharif     ,Sugarcane,428,24221
+Uttar Pradesh,LUCKNOW,2007,Kharif     ,Sugarcane,472,25520
+Uttar Pradesh,LUCKNOW,2008,Kharif     ,Sugarcane,398,20187
+Uttar Pradesh,LUCKNOW,2009,Kharif     ,Sugarcane,277,14752
+Uttar Pradesh,LUCKNOW,2010,Kharif     ,Sugarcane,184,10188
+Uttar Pradesh,LUCKNOW,2011,Kharif     ,Sugarcane,174,9728
+Uttar Pradesh,LUCKNOW,2012,Kharif     ,Sugarcane,264,16191
+Uttar Pradesh,LUCKNOW,2013,Kharif     ,Sugarcane,202,12667
+Uttar Pradesh,LUCKNOW,2014,Kharif     ,Sugarcane,195,12853
+Uttar Pradesh,MAHARAJGANJ,1997,Whole Year ,Sugarcane,19706,1106689
+Uttar Pradesh,MAHARAJGANJ,1998,Whole Year ,Sugarcane,18602,1038884
+Uttar Pradesh,MAHARAJGANJ,1999,Whole Year ,Sugarcane,18041,1007987
+Uttar Pradesh,MAHARAJGANJ,2000,Whole Year ,Sugarcane,17444,829637
+Uttar Pradesh,MAHARAJGANJ,2001,Whole Year ,Sugarcane,18186,1057407
+Uttar Pradesh,MAHARAJGANJ,2002,Whole Year ,Sugarcane,22684,1267945
+Uttar Pradesh,MAHARAJGANJ,2003,Whole Year ,Sugarcane,20595,999928
+Uttar Pradesh,MAHARAJGANJ,2004,Kharif     ,Sugarcane,17972,1022535
+Uttar Pradesh,MAHARAJGANJ,2005,Kharif     ,Sugarcane,22815,1369356
+Uttar Pradesh,MAHARAJGANJ,2006,Kharif     ,Sugarcane,22711,1143453
+Uttar Pradesh,MAHARAJGANJ,2007,Kharif     ,Sugarcane,19911,1117087
+Uttar Pradesh,MAHARAJGANJ,2008,Kharif     ,Sugarcane,19090,996651
+Uttar Pradesh,MAHARAJGANJ,2009,Kharif     ,Sugarcane,13746,703410
+Uttar Pradesh,MAHARAJGANJ,2010,Kharif     ,Sugarcane,18632,1059788
+Uttar Pradesh,MAHARAJGANJ,2011,Kharif     ,Sugarcane,18812,1121872
+Uttar Pradesh,MAHARAJGANJ,2012,Kharif     ,Sugarcane,18611,1130283
+Uttar Pradesh,MAHARAJGANJ,2013,Kharif     ,Sugarcane,18510,1129480
+Uttar Pradesh,MAHARAJGANJ,2014,Kharif     ,Sugarcane,15932,952033
+Uttar Pradesh,MAHOBA,1997,Whole Year ,Sugarcane,1027,39485
+Uttar Pradesh,MAHOBA,1998,Whole Year ,Sugarcane,893,39812
+Uttar Pradesh,MAHOBA,1999,Whole Year ,Sugarcane,991,49435
+Uttar Pradesh,MAHOBA,2000,Whole Year ,Sugarcane,1015,43801
+Uttar Pradesh,MAHOBA,2001,Whole Year ,Sugarcane,1014,52397
+Uttar Pradesh,MAHOBA,2002,Whole Year ,Sugarcane,1224,61877
+Uttar Pradesh,MAHOBA,2003,Whole Year ,Sugarcane,1315,55471
+Uttar Pradesh,MAHOBA,2004,Kharif     ,Sugarcane,1547,59846
+Uttar Pradesh,MAHOBA,2005,Kharif     ,Sugarcane,1876,59038
+Uttar Pradesh,MAHOBA,2006,Kharif     ,Sugarcane,1869,79739
+Uttar Pradesh,MAHOBA,2007,Kharif     ,Sugarcane,2603,68782
+Uttar Pradesh,MAHOBA,2008,Kharif     ,Sugarcane,1617,65870
+Uttar Pradesh,MAHOBA,2009,Kharif     ,Sugarcane,1477,59213
+Uttar Pradesh,MAHOBA,2010,Kharif     ,Sugarcane,1570,77352
+Uttar Pradesh,MAHOBA,2011,Kharif     ,Sugarcane,2577,123967
+Uttar Pradesh,MAHOBA,2012,Kharif     ,Sugarcane,2487,92402
+Uttar Pradesh,MAHOBA,2013,Kharif     ,Sugarcane,3617,161568
+Uttar Pradesh,MAHOBA,2014,Kharif     ,Sugarcane,2545,102932
+Uttar Pradesh,MAINPURI,1997,Whole Year ,Sugarcane,499,27565
+Uttar Pradesh,MAINPURI,1998,Whole Year ,Sugarcane,486,27200
+Uttar Pradesh,MAINPURI,1999,Whole Year ,Sugarcane,457,27597
+Uttar Pradesh,MAINPURI,2000,Whole Year ,Sugarcane,436,22510
+Uttar Pradesh,MAINPURI,2001,Whole Year ,Sugarcane,524,27469
+Uttar Pradesh,MAINPURI,2002,Whole Year ,Sugarcane,420,22851
+Uttar Pradesh,MAINPURI,2003,Whole Year ,Sugarcane,527,27258
+Uttar Pradesh,MAINPURI,2004,Kharif     ,Sugarcane,361,17930
+Uttar Pradesh,MAINPURI,2005,Kharif     ,Sugarcane,527,26550
+Uttar Pradesh,MAINPURI,2006,Kharif     ,Sugarcane,361,19438
+Uttar Pradesh,MAINPURI,2007,Kharif     ,Sugarcane,453,23795
+Uttar Pradesh,MAINPURI,2008,Kharif     ,Sugarcane,423,21636
+Uttar Pradesh,MAINPURI,2009,Kharif     ,Sugarcane,369,15942
+Uttar Pradesh,MAINPURI,2010,Kharif     ,Sugarcane,430,21889
+Uttar Pradesh,MAINPURI,2011,Kharif     ,Sugarcane,529,25114
+Uttar Pradesh,MAINPURI,2012,Kharif     ,Sugarcane,555,25170
+Uttar Pradesh,MAINPURI,2013,Kharif     ,Sugarcane,547,26252
+Uttar Pradesh,MAINPURI,2014,Kharif     ,Sugarcane,338,14234
+Uttar Pradesh,MATHURA,1997,Whole Year ,Sugarcane,14488,748972
+Uttar Pradesh,MATHURA,1998,Whole Year ,Sugarcane,11769,683638
+Uttar Pradesh,MATHURA,1999,Whole Year ,Sugarcane,10269,659886
+Uttar Pradesh,MATHURA,2000,Whole Year ,Sugarcane,10454,497318
+Uttar Pradesh,MATHURA,2001,Whole Year ,Sugarcane,10576,449776
+Uttar Pradesh,MATHURA,2002,Whole Year ,Sugarcane,9275,500665
+Uttar Pradesh,MATHURA,2003,Whole Year ,Sugarcane,8048,396638
+Uttar Pradesh,MATHURA,2004,Kharif     ,Sugarcane,6292,300154
+Uttar Pradesh,MATHURA,2005,Kharif     ,Sugarcane,8048,366828
+Uttar Pradesh,MATHURA,2006,Kharif     ,Sugarcane,6292,278660
+Uttar Pradesh,MATHURA,2007,Kharif     ,Sugarcane,5910,286399
+Uttar Pradesh,MATHURA,2008,Kharif     ,Sugarcane,5602,246062
+Uttar Pradesh,MATHURA,2009,Kharif     ,Sugarcane,5487,237060
+Uttar Pradesh,MATHURA,2010,Kharif     ,Sugarcane,4983,253655
+Uttar Pradesh,MATHURA,2011,Kharif     ,Sugarcane,4375,207708
+Uttar Pradesh,MATHURA,2012,Kharif     ,Sugarcane,856,38821
+Uttar Pradesh,MATHURA,2013,Kharif     ,Sugarcane,585,28075
+Uttar Pradesh,MATHURA,2014,Kharif     ,Sugarcane,990,41691
+Uttar Pradesh,MAU,1997,Whole Year ,Sugarcane,11434,553177
+Uttar Pradesh,MAU,1998,Whole Year ,Sugarcane,10402,372017
+Uttar Pradesh,MAU,1999,Whole Year ,Sugarcane,10166,418880
+Uttar Pradesh,MAU,2000,Whole Year ,Sugarcane,9474,445297
+Uttar Pradesh,MAU,2001,Whole Year ,Sugarcane,9024,421565
+Uttar Pradesh,MAU,2002,Whole Year ,Sugarcane,9261,400779
+Uttar Pradesh,MAU,2003,Whole Year ,Sugarcane,8784,380699
+Uttar Pradesh,MAU,2004,Kharif     ,Sugarcane,7040,310858
+Uttar Pradesh,MAU,2005,Kharif     ,Sugarcane,9386,435886
+Uttar Pradesh,MAU,2006,Kharif     ,Sugarcane,7040,269491
+Uttar Pradesh,MAU,2007,Kharif     ,Sugarcane,6253,255773
+Uttar Pradesh,MAU,2008,Kharif     ,Sugarcane,7306,290574
+Uttar Pradesh,MAU,2009,Kharif     ,Sugarcane,6148,257650
+Uttar Pradesh,MAU,2010,Kharif     ,Sugarcane,6873,295951
+Uttar Pradesh,MAU,2011,Kharif     ,Sugarcane,6973,310912
+Uttar Pradesh,MAU,2012,Kharif     ,Sugarcane,7161,342783
+Uttar Pradesh,MAU,2013,Kharif     ,Sugarcane,6662,341254
+Uttar Pradesh,MAU,2014,Kharif     ,Sugarcane,6411,332115
+Uttar Pradesh,MEERUT,1997,Whole Year ,Sugarcane,119796,8097970
+Uttar Pradesh,MEERUT,1998,Whole Year ,Sugarcane,118335,7667161
+Uttar Pradesh,MEERUT,1999,Whole Year ,Sugarcane,119706,6809356
+Uttar Pradesh,MEERUT,2000,Whole Year ,Sugarcane,120582,7450038
+Uttar Pradesh,MEERUT,2001,Whole Year ,Sugarcane,122707,7932762
+Uttar Pradesh,MEERUT,2002,Whole Year ,Sugarcane,127563,7963503
+Uttar Pradesh,MEERUT,2003,Whole Year ,Sugarcane,128721,8302505
+Uttar Pradesh,MEERUT,2004,Kharif     ,Sugarcane,128829,8762949
+Uttar Pradesh,MEERUT,2005,Kharif     ,Sugarcane,129623,8792587
+Uttar Pradesh,MEERUT,2006,Kharif     ,Sugarcane,128829,8928365
+Uttar Pradesh,MEERUT,2007,Kharif     ,Sugarcane,136578,9501458
+Uttar Pradesh,MEERUT,2008,Kharif     ,Sugarcane,129457,8221037
+Uttar Pradesh,MEERUT,2009,Kharif     ,Sugarcane,128483,8430027
+Uttar Pradesh,MEERUT,2010,Kharif     ,Sugarcane,129711,8560407
+Uttar Pradesh,MEERUT,2011,Kharif     ,Sugarcane,130586,8236843
+Uttar Pradesh,MEERUT,2012,Kharif     ,Sugarcane,132541,9023391
+Uttar Pradesh,MEERUT,2013,Kharif     ,Sugarcane,135532,9643373
+Uttar Pradesh,MEERUT,2014,Kharif     ,Sugarcane,121109,9506088
+Uttar Pradesh,MIRZAPUR,1997,Whole Year ,Sugarcane,3011,130544
+Uttar Pradesh,MIRZAPUR,1998,Whole Year ,Sugarcane,2684,110871
+Uttar Pradesh,MIRZAPUR,1999,Whole Year ,Sugarcane,2475,77472
+Uttar Pradesh,MIRZAPUR,2000,Whole Year ,Sugarcane,2384,169960
+Uttar Pradesh,MIRZAPUR,2001,Whole Year ,Sugarcane,2456,127577
+Uttar Pradesh,MIRZAPUR,2002,Whole Year ,Sugarcane,1859,122371
+Uttar Pradesh,MIRZAPUR,2003,Whole Year ,Sugarcane,1933,96411
+Uttar Pradesh,MIRZAPUR,2004,Kharif     ,Sugarcane,1756,75573
+Uttar Pradesh,MIRZAPUR,2005,Kharif     ,Sugarcane,1885,66639
+Uttar Pradesh,MIRZAPUR,2006,Kharif     ,Sugarcane,1756,76035
+Uttar Pradesh,MIRZAPUR,2007,Kharif     ,Sugarcane,1604,91768
+Uttar Pradesh,MIRZAPUR,2008,Kharif     ,Sugarcane,678,35474
+Uttar Pradesh,MIRZAPUR,2009,Kharif     ,Sugarcane,1696,86564
+Uttar Pradesh,MIRZAPUR,2010,Kharif     ,Sugarcane,1817,97202
+Uttar Pradesh,MIRZAPUR,2011,Kharif     ,Sugarcane,1697,94442
+Uttar Pradesh,MIRZAPUR,2012,Kharif     ,Sugarcane,1444,78328
+Uttar Pradesh,MIRZAPUR,2013,Kharif     ,Sugarcane,1718,109528
+Uttar Pradesh,MIRZAPUR,2014,Kharif     ,Sugarcane,1596,104987
+Uttar Pradesh,MORADABAD,1997,Whole Year ,Sugarcane,58797,3874370
+Uttar Pradesh,MORADABAD,1998,Whole Year ,Sugarcane,57258,3797809
+Uttar Pradesh,MORADABAD,1999,Whole Year ,Sugarcane,72143,3910728
+Uttar Pradesh,MORADABAD,2000,Whole Year ,Sugarcane,66451,3476451
+Uttar Pradesh,MORADABAD,2001,Whole Year ,Sugarcane,66165,3564706
+Uttar Pradesh,MORADABAD,2002,Whole Year ,Sugarcane,74269,3888428
+Uttar Pradesh,MORADABAD,2003,Whole Year ,Sugarcane,68174,3594406
+Uttar Pradesh,MORADABAD,2004,Kharif     ,Sugarcane,59559,3760079
+Uttar Pradesh,MORADABAD,2005,Kharif     ,Sugarcane,68437,4085141
+Uttar Pradesh,MORADABAD,2006,Kharif     ,Sugarcane,77814,4935275
+Uttar Pradesh,MORADABAD,2007,Kharif     ,Sugarcane,72167,4072817
+Uttar Pradesh,MORADABAD,2008,Kharif     ,Sugarcane,58520,3175997
+Uttar Pradesh,MORADABAD,2009,Kharif     ,Sugarcane,62780,3526478
+Uttar Pradesh,MORADABAD,2010,Kharif     ,Sugarcane,71306,3689087
+Uttar Pradesh,MORADABAD,2011,Kharif     ,Sugarcane,69975,3925598
+Uttar Pradesh,MORADABAD,2012,Kharif     ,Sugarcane,53415,3390571
+Uttar Pradesh,MORADABAD,2013,Kharif     ,Sugarcane,47214,3024340
+Uttar Pradesh,MORADABAD,2014,Kharif     ,Sugarcane,44938,2900119
+Uttar Pradesh,MUZAFFARNAGAR,1997,Whole Year ,Sugarcane,207556,14079769
+Uttar Pradesh,MUZAFFARNAGAR,1998,Whole Year ,Sugarcane,209326,14387395
+Uttar Pradesh,MUZAFFARNAGAR,1999,Whole Year ,Sugarcane,212099,13469135
+Uttar Pradesh,MUZAFFARNAGAR,2000,Whole Year ,Sugarcane,214102,13445606
+Uttar Pradesh,MUZAFFARNAGAR,2001,Whole Year ,Sugarcane,218382,14090880
+Uttar Pradesh,MUZAFFARNAGAR,2002,Whole Year ,Sugarcane,227040,14590499
+Uttar Pradesh,MUZAFFARNAGAR,2003,Whole Year ,Sugarcane,228041,15503139
+Uttar Pradesh,MUZAFFARNAGAR,2004,Kharif     ,Sugarcane,225693,15962815
+Uttar Pradesh,MUZAFFARNAGAR,2005,Kharif     ,Sugarcane,224740,15205908
+Uttar Pradesh,MUZAFFARNAGAR,2006,Kharif     ,Sugarcane,232610,16087308
+Uttar Pradesh,MUZAFFARNAGAR,2007,Kharif     ,Sugarcane,230067,15119083
+Uttar Pradesh,MUZAFFARNAGAR,2008,Kharif     ,Sugarcane,230648,13733705
+Uttar Pradesh,MUZAFFARNAGAR,2009,Kharif     ,Sugarcane,233825,16421997
+Uttar Pradesh,MUZAFFARNAGAR,2010,Kharif     ,Sugarcane,231873,14395603
+Uttar Pradesh,MUZAFFARNAGAR,2011,Kharif     ,Sugarcane,232053,15464940
+Uttar Pradesh,MUZAFFARNAGAR,2012,Kharif     ,Sugarcane,172512,12320117
+Uttar Pradesh,MUZAFFARNAGAR,2013,Kharif     ,Sugarcane,172978,12617707
+Uttar Pradesh,MUZAFFARNAGAR,2014,Kharif     ,Sugarcane,164216,11803189
+Uttar Pradesh,PILIBHIT,1997,Whole Year ,Sugarcane,48198,3038980
+Uttar Pradesh,PILIBHIT,1998,Whole Year ,Sugarcane,45485,2832806
+Uttar Pradesh,PILIBHIT,1999,Whole Year ,Sugarcane,43328,2676630
+Uttar Pradesh,PILIBHIT,2000,Whole Year ,Sugarcane,43675,2433746
+Uttar Pradesh,PILIBHIT,2001,Whole Year ,Sugarcane,49713,3036868
+Uttar Pradesh,PILIBHIT,2002,Whole Year ,Sugarcane,57731,3322073
+Uttar Pradesh,PILIBHIT,2003,Whole Year ,Sugarcane,48994,2396982
+Uttar Pradesh,PILIBHIT,2004,Kharif     ,Sugarcane,44817,2782777
+Uttar Pradesh,PILIBHIT,2005,Kharif     ,Sugarcane,52083,3010397
+Uttar Pradesh,PILIBHIT,2006,Kharif     ,Sugarcane,61177,3857087
+Uttar Pradesh,PILIBHIT,2007,Kharif     ,Sugarcane,73023,4096298
+Uttar Pradesh,PILIBHIT,2008,Kharif     ,Sugarcane,61556,3204852
+Uttar Pradesh,PILIBHIT,2009,Kharif     ,Sugarcane,50456,3308703
+Uttar Pradesh,PILIBHIT,2010,Kharif     ,Sugarcane,56183,3376823
+Uttar Pradesh,PILIBHIT,2011,Kharif     ,Sugarcane,55543,3575414
+Uttar Pradesh,PILIBHIT,2012,Kharif     ,Sugarcane,55380,3636251
+Uttar Pradesh,PILIBHIT,2013,Kharif     ,Sugarcane,74784,4430802
+Uttar Pradesh,PILIBHIT,2014,Kharif     ,Sugarcane,93620,6500973
+Uttar Pradesh,PRATAPGARH,1997,Whole Year ,Sugarcane,2051,106919
+Uttar Pradesh,PRATAPGARH,1998,Whole Year ,Sugarcane,2280,82800
+Uttar Pradesh,PRATAPGARH,1999,Whole Year ,Sugarcane,2108,118604
+Uttar Pradesh,PRATAPGARH,2000,Whole Year ,Sugarcane,2094,99722
+Uttar Pradesh,PRATAPGARH,2001,Whole Year ,Sugarcane,2115,82510
+Uttar Pradesh,PRATAPGARH,2002,Whole Year ,Sugarcane,1272,54721
+Uttar Pradesh,PRATAPGARH,2003,Whole Year ,Sugarcane,1571,65794
+Uttar Pradesh,PRATAPGARH,2004,Kharif     ,Sugarcane,1221,66653
+Uttar Pradesh,PRATAPGARH,2005,Kharif     ,Sugarcane,827,28096
+Uttar Pradesh,PRATAPGARH,2006,Kharif     ,Sugarcane,1221,55142
+Uttar Pradesh,PRATAPGARH,2007,Kharif     ,Sugarcane,1136,50665
+Uttar Pradesh,PRATAPGARH,2008,Kharif     ,Sugarcane,1158,64008
+Uttar Pradesh,PRATAPGARH,2009,Kharif     ,Sugarcane,1081,47073
+Uttar Pradesh,PRATAPGARH,2010,Kharif     ,Sugarcane,946,55191
+Uttar Pradesh,PRATAPGARH,2011,Kharif     ,Sugarcane,1084,60568
+Uttar Pradesh,PRATAPGARH,2012,Kharif     ,Sugarcane,1039,63521
+Uttar Pradesh,PRATAPGARH,2013,Kharif     ,Sugarcane,1000,68229
+Uttar Pradesh,PRATAPGARH,2014,Kharif     ,Sugarcane,846,55651
+Uttar Pradesh,RAE BARELI,1997,Whole Year ,Sugarcane,4404,196454
+Uttar Pradesh,RAE BARELI,1998,Whole Year ,Sugarcane,4632,252463
+Uttar Pradesh,RAE BARELI,1999,Whole Year ,Sugarcane,4483,226983
+Uttar Pradesh,RAE BARELI,2000,Whole Year ,Sugarcane,4487,214856
+Uttar Pradesh,RAE BARELI,2001,Whole Year ,Sugarcane,5078,247095
+Uttar Pradesh,RAE BARELI,2002,Whole Year ,Sugarcane,5177,200764
+Uttar Pradesh,RAE BARELI,2003,Whole Year ,Sugarcane,4873,183439
+Uttar Pradesh,RAE BARELI,2004,Kharif     ,Sugarcane,4883,236200
+Uttar Pradesh,RAE BARELI,2005,Kharif     ,Sugarcane,4241,199853
+Uttar Pradesh,RAE BARELI,2006,Kharif     ,Sugarcane,6532,237739
+Uttar Pradesh,RAE BARELI,2007,Kharif     ,Sugarcane,4971,193789
+Uttar Pradesh,RAE BARELI,2008,Kharif     ,Sugarcane,3398,117313
+Uttar Pradesh,RAE BARELI,2009,Kharif     ,Sugarcane,2977,88869
+Uttar Pradesh,RAE BARELI,2010,Kharif     ,Sugarcane,2246,99345
+Uttar Pradesh,RAE BARELI,2011,Kharif     ,Sugarcane,2169,111478
+Uttar Pradesh,RAE BARELI,2012,Kharif     ,Sugarcane,2295,118266
+Uttar Pradesh,RAE BARELI,2013,Kharif     ,Sugarcane,2146,114193
+Uttar Pradesh,RAE BARELI,2014,Kharif     ,Sugarcane,2306,125317
+Uttar Pradesh,RAMPUR,1997,Whole Year ,Sugarcane,25408,1534846
+Uttar Pradesh,RAMPUR,1998,Whole Year ,Sugarcane,24675,1523829
+Uttar Pradesh,RAMPUR,1999,Whole Year ,Sugarcane,24380,1509805
+Uttar Pradesh,RAMPUR,2000,Whole Year ,Sugarcane,21210,1233998
+Uttar Pradesh,RAMPUR,2001,Whole Year ,Sugarcane,23820,1434345
+Uttar Pradesh,RAMPUR,2002,Whole Year ,Sugarcane,22714,1381011
+Uttar Pradesh,RAMPUR,2003,Whole Year ,Sugarcane,21101,1204023
+Uttar Pradesh,RAMPUR,2004,Kharif     ,Sugarcane,17457,1141129
+Uttar Pradesh,RAMPUR,2005,Kharif     ,Sugarcane,22385,1291525
+Uttar Pradesh,RAMPUR,2006,Kharif     ,Sugarcane,17457,1065715
+Uttar Pradesh,RAMPUR,2007,Kharif     ,Sugarcane,18562,1097385
+Uttar Pradesh,RAMPUR,2008,Kharif     ,Sugarcane,24001,1218675
+Uttar Pradesh,RAMPUR,2009,Kharif     ,Sugarcane,19403,1079117
+Uttar Pradesh,RAMPUR,2010,Kharif     ,Sugarcane,24643,1301939
+Uttar Pradesh,RAMPUR,2011,Kharif     ,Sugarcane,23487,1366474
+Uttar Pradesh,RAMPUR,2012,Kharif     ,Sugarcane,24650,1449420
+Uttar Pradesh,RAMPUR,2013,Kharif     ,Sugarcane,22271,1389354
+Uttar Pradesh,RAMPUR,2014,Kharif     ,Sugarcane,28625,1784483
+Uttar Pradesh,SAHARANPUR,1997,Whole Year ,Sugarcane,113902,7548513
+Uttar Pradesh,SAHARANPUR,1998,Whole Year ,Sugarcane,114027,7446875
+Uttar Pradesh,SAHARANPUR,1999,Whole Year ,Sugarcane,117551,7308381
+Uttar Pradesh,SAHARANPUR,2000,Whole Year ,Sugarcane,123149,7052990
+Uttar Pradesh,SAHARANPUR,2001,Whole Year ,Sugarcane,131558,7348830
+Uttar Pradesh,SAHARANPUR,2002,Whole Year ,Sugarcane,135765,7839614
+Uttar Pradesh,SAHARANPUR,2003,Whole Year ,Sugarcane,133770,8199566
+Uttar Pradesh,SAHARANPUR,2004,Kharif     ,Sugarcane,127284,8094753
+Uttar Pradesh,SAHARANPUR,2005,Kharif     ,Sugarcane,140825,8715378
+Uttar Pradesh,SAHARANPUR,2006,Kharif     ,Sugarcane,137615,8692314
+Uttar Pradesh,SAHARANPUR,2007,Kharif     ,Sugarcane,132262,8368481
+Uttar Pradesh,SAHARANPUR,2008,Kharif     ,Sugarcane,125345,6855870
+Uttar Pradesh,SAHARANPUR,2009,Kharif     ,Sugarcane,128136,8028489
+Uttar Pradesh,SAHARANPUR,2010,Kharif     ,Sugarcane,142703,8686617
+Uttar Pradesh,SAHARANPUR,2011,Kharif     ,Sugarcane,139043,7927676
+Uttar Pradesh,SAHARANPUR,2012,Kharif     ,Sugarcane,137383,8557312
+Uttar Pradesh,SAHARANPUR,2013,Kharif     ,Sugarcane,136450,8432610
+Uttar Pradesh,SAHARANPUR,2014,Kharif     ,Sugarcane,124052,8169569
+Uttar Pradesh,SAMBHAL,2012,Kharif     ,Sugarcane,29444,1753685
+Uttar Pradesh,SAMBHAL,2013,Kharif     ,Sugarcane,28638,1762153
+Uttar Pradesh,SAMBHAL,2014,Kharif     ,Sugarcane,28914,1833148
+Uttar Pradesh,SANT KABEER NAGAR,1997,Whole Year ,Sugarcane,4645,283624
+Uttar Pradesh,SANT KABEER NAGAR,1998,Whole Year ,Sugarcane,4656,242820
+Uttar Pradesh,SANT KABEER NAGAR,1999,Whole Year ,Sugarcane,4959,273281
+Uttar Pradesh,SANT KABEER NAGAR,2000,Whole Year ,Sugarcane,3665,192852
+Uttar Pradesh,SANT KABEER NAGAR,2001,Whole Year ,Sugarcane,3933,238623
+Uttar Pradesh,SANT KABEER NAGAR,2002,Whole Year ,Sugarcane,4022,232102
+Uttar Pradesh,SANT KABEER NAGAR,2003,Whole Year ,Sugarcane,3881,190728
+Uttar Pradesh,SANT KABEER NAGAR,2004,Kharif     ,Sugarcane,3937,218535
+Uttar Pradesh,SANT KABEER NAGAR,2005,Kharif     ,Sugarcane,4031,233024
+Uttar Pradesh,SANT KABEER NAGAR,2006,Kharif     ,Sugarcane,4475,237694
+Uttar Pradesh,SANT KABEER NAGAR,2007,Kharif     ,Sugarcane,3994,206442
+Uttar Pradesh,SANT KABEER NAGAR,2008,Kharif     ,Sugarcane,3355,155457
+Uttar Pradesh,SANT KABEER NAGAR,2009,Kharif     ,Sugarcane,3790,193184
+Uttar Pradesh,SANT KABEER NAGAR,2010,Kharif     ,Sugarcane,3877,203574
+Uttar Pradesh,SANT KABEER NAGAR,2011,Kharif     ,Sugarcane,3737,209586
+Uttar Pradesh,SANT KABEER NAGAR,2012,Kharif     ,Sugarcane,3981,240229
+Uttar Pradesh,SANT KABEER NAGAR,2013,Kharif     ,Sugarcane,3031,186601
+Uttar Pradesh,SANT KABEER NAGAR,2014,Kharif     ,Sugarcane,3606,226168
+Uttar Pradesh,SANT RAVIDAS NAGAR,1997,Whole Year ,Sugarcane,2079,90138
+Uttar Pradesh,SANT RAVIDAS NAGAR,1998,Whole Year ,Sugarcane,2078,85838
+Uttar Pradesh,SANT RAVIDAS NAGAR,1999,Whole Year ,Sugarcane,1993,62385
+Uttar Pradesh,SANT RAVIDAS NAGAR,2000,Whole Year ,Sugarcane,1544,55627
+Uttar Pradesh,SANT RAVIDAS NAGAR,2001,Whole Year ,Sugarcane,1549,48490
+Uttar Pradesh,SANT RAVIDAS NAGAR,2002,Whole Year ,Sugarcane,1213,42261
+Uttar Pradesh,SANT RAVIDAS NAGAR,2003,Whole Year ,Sugarcane,1080,38597
+Uttar Pradesh,SANT RAVIDAS NAGAR,2004,Kharif     ,Sugarcane,1079,46437
+Uttar Pradesh,SANT RAVIDAS NAGAR,2005,Kharif     ,Sugarcane,1197,42316
+Uttar Pradesh,SANT RAVIDAS NAGAR,2006,Kharif     ,Sugarcane,1223,52956
+Uttar Pradesh,SANT RAVIDAS NAGAR,2007,Kharif     ,Sugarcane,977,55896
+Uttar Pradesh,SANT RAVIDAS NAGAR,2008,Kharif     ,Sugarcane,785,41073
+Uttar Pradesh,SANT RAVIDAS NAGAR,2009,Kharif     ,Sugarcane,938,47875
+Uttar Pradesh,SANT RAVIDAS NAGAR,2010,Kharif     ,Sugarcane,1084,57990
+Uttar Pradesh,SANT RAVIDAS NAGAR,2011,Kharif     ,Sugarcane,1043,58045
+Uttar Pradesh,SANT RAVIDAS NAGAR,2012,Kharif     ,Sugarcane,1003,54407
+Uttar Pradesh,SANT RAVIDAS NAGAR,2013,Kharif     ,Sugarcane,946,60310
+Uttar Pradesh,SANT RAVIDAS NAGAR,2014,Kharif     ,Sugarcane,1100,72359
+Uttar Pradesh,SHAHJAHANPUR,1997,Whole Year ,Sugarcane,46691,2832836
+Uttar Pradesh,SHAHJAHANPUR,1998,Whole Year ,Sugarcane,49925,2876079
+Uttar Pradesh,SHAHJAHANPUR,1999,Whole Year ,Sugarcane,52941,2966390
+Uttar Pradesh,SHAHJAHANPUR,2000,Whole Year ,Sugarcane,51148,2648239
+Uttar Pradesh,SHAHJAHANPUR,2001,Whole Year ,Sugarcane,48261,2482932
+Uttar Pradesh,SHAHJAHANPUR,2002,Whole Year ,Sugarcane,51226,2656580
+Uttar Pradesh,SHAHJAHANPUR,2003,Whole Year ,Sugarcane,45657,2358093
+Uttar Pradesh,SHAHJAHANPUR,2004,Kharif     ,Sugarcane,38905,2328853
+Uttar Pradesh,SHAHJAHANPUR,2005,Kharif     ,Sugarcane,49860,2960487
+Uttar Pradesh,SHAHJAHANPUR,2006,Kharif     ,Sugarcane,50232,2858804
+Uttar Pradesh,SHAHJAHANPUR,2007,Kharif     ,Sugarcane,41285,2183151
+Uttar Pradesh,SHAHJAHANPUR,2008,Kharif     ,Sugarcane,37629,1985156
+Uttar Pradesh,SHAHJAHANPUR,2009,Kharif     ,Sugarcane,38892,2218089
+Uttar Pradesh,SHAHJAHANPUR,2010,Kharif     ,Sugarcane,45579,2567192
+Uttar Pradesh,SHAHJAHANPUR,2011,Kharif     ,Sugarcane,41556,2458952
+Uttar Pradesh,SHAHJAHANPUR,2012,Kharif     ,Sugarcane,46086,2829680
+Uttar Pradesh,SHAHJAHANPUR,2013,Kharif     ,Sugarcane,40137,2444664
+Uttar Pradesh,SHAHJAHANPUR,2014,Kharif     ,Sugarcane,42195,2850863
+Uttar Pradesh,SHAMLI,2012,Kharif     ,Sugarcane,65987,4689300
+Uttar Pradesh,SHAMLI,2013,Kharif     ,Sugarcane,65837,5045221
+Uttar Pradesh,SHAMLI,2014,Kharif     ,Sugarcane,62990,4966384
+Uttar Pradesh,SHRAVASTI,1997,Whole Year ,Sugarcane,1561,76227
+Uttar Pradesh,SHRAVASTI,1998,Whole Year ,Sugarcane,1686,82214
+Uttar Pradesh,SHRAVASTI,1999,Whole Year ,Sugarcane,2322,121332
+Uttar Pradesh,SHRAVASTI,2000,Whole Year ,Sugarcane,3041,162256
+Uttar Pradesh,SHRAVASTI,2001,Whole Year ,Sugarcane,3055,159703
+Uttar Pradesh,SHRAVASTI,2002,Whole Year ,Sugarcane,3063,161873
+Uttar Pradesh,SHRAVASTI,2003,Whole Year ,Sugarcane,2799,141999
+Uttar Pradesh,SHRAVASTI,2004,Kharif     ,Sugarcane,2452,126896
+Uttar Pradesh,SHRAVASTI,2005,Kharif     ,Sugarcane,3721,186318
+Uttar Pradesh,SHRAVASTI,2006,Kharif     ,Sugarcane,3459,204510
+Uttar Pradesh,SHRAVASTI,2007,Kharif     ,Sugarcane,2731,133554
+Uttar Pradesh,SHRAVASTI,2008,Kharif     ,Sugarcane,2809,114648
+Uttar Pradesh,SHRAVASTI,2009,Kharif     ,Sugarcane,8233,405734
+Uttar Pradesh,SHRAVASTI,2010,Kharif     ,Sugarcane,6436,338885
+Uttar Pradesh,SHRAVASTI,2011,Kharif     ,Sugarcane,6838,393560
+Uttar Pradesh,SHRAVASTI,2012,Kharif     ,Sugarcane,7126,394448
+Uttar Pradesh,SHRAVASTI,2013,Kharif     ,Sugarcane,8308,453832
+Uttar Pradesh,SHRAVASTI,2014,Kharif     ,Sugarcane,7179,379471
+Uttar Pradesh,SIDDHARTH NAGAR,1997,Whole Year ,Sugarcane,3968,242286
+Uttar Pradesh,SIDDHARTH NAGAR,1998,Whole Year ,Sugarcane,3068,160002
+Uttar Pradesh,SIDDHARTH NAGAR,1999,Whole Year ,Sugarcane,3227,177834
+Uttar Pradesh,SIDDHARTH NAGAR,2000,Whole Year ,Sugarcane,3327,156535
+Uttar Pradesh,SIDDHARTH NAGAR,2001,Whole Year ,Sugarcane,3117,155700
+Uttar Pradesh,SIDDHARTH NAGAR,2002,Whole Year ,Sugarcane,3074,136043
+Uttar Pradesh,SIDDHARTH NAGAR,2003,Whole Year ,Sugarcane,4749,264519
+Uttar Pradesh,SIDDHARTH NAGAR,2004,Kharif     ,Sugarcane,5069,281370
+Uttar Pradesh,SIDDHARTH NAGAR,2005,Kharif     ,Sugarcane,4749,274530
+Uttar Pradesh,SIDDHARTH NAGAR,2006,Kharif     ,Sugarcane,5069,269245
+Uttar Pradesh,SIDDHARTH NAGAR,2007,Kharif     ,Sugarcane,4024,207992
+Uttar Pradesh,SIDDHARTH NAGAR,2008,Kharif     ,Sugarcane,2249,104209
+Uttar Pradesh,SIDDHARTH NAGAR,2009,Kharif     ,Sugarcane,2577,131355
+Uttar Pradesh,SIDDHARTH NAGAR,2010,Kharif     ,Sugarcane,2343,123026
+Uttar Pradesh,SIDDHARTH NAGAR,2011,Kharif     ,Sugarcane,2217,124338
+Uttar Pradesh,SIDDHARTH NAGAR,2012,Kharif     ,Sugarcane,2231,134628
+Uttar Pradesh,SIDDHARTH NAGAR,2013,Kharif     ,Sugarcane,2114,130146
+Uttar Pradesh,SIDDHARTH NAGAR,2014,Kharif     ,Sugarcane,2377,149086
+Uttar Pradesh,SITAPUR,1997,Whole Year ,Sugarcane,84364,4205039
+Uttar Pradesh,SITAPUR,1998,Whole Year ,Sugarcane,84044,4482571
+Uttar Pradesh,SITAPUR,1999,Whole Year ,Sugarcane,95830,5249951
+Uttar Pradesh,SITAPUR,2000,Whole Year ,Sugarcane,94889,5006723
+Uttar Pradesh,SITAPUR,2001,Whole Year ,Sugarcane,112345,6347493
+Uttar Pradesh,SITAPUR,2002,Whole Year ,Sugarcane,128516,6397526
+Uttar Pradesh,SITAPUR,2003,Whole Year ,Sugarcane,122227,5691378
+Uttar Pradesh,SITAPUR,2004,Kharif     ,Sugarcane,110205,6100067
+Uttar Pradesh,SITAPUR,2005,Kharif     ,Sugarcane,125376,6743724
+Uttar Pradesh,SITAPUR,2006,Kharif     ,Sugarcane,137821,7645758
+Uttar Pradesh,SITAPUR,2007,Kharif     ,Sugarcane,122295,6372059
+Uttar Pradesh,SITAPUR,2008,Kharif     ,Sugarcane,125569,5561702
+Uttar Pradesh,SITAPUR,2009,Kharif     ,Sugarcane,112607,6114560
+Uttar Pradesh,SITAPUR,2010,Kharif     ,Sugarcane,120267,6065305
+Uttar Pradesh,SITAPUR,2011,Kharif     ,Sugarcane,118735,6708528
+Uttar Pradesh,SITAPUR,2012,Kharif     ,Sugarcane,133669,8443069
+Uttar Pradesh,SITAPUR,2013,Kharif     ,Sugarcane,144143,9322593
+Uttar Pradesh,SITAPUR,2014,Kharif     ,Sugarcane,148655,9903396
+Uttar Pradesh,SONBHADRA,1997,Whole Year ,Sugarcane,322,13961
+Uttar Pradesh,SONBHADRA,1998,Whole Year ,Sugarcane,346,14293
+Uttar Pradesh,SONBHADRA,1999,Whole Year ,Sugarcane,357,11175
+Uttar Pradesh,SONBHADRA,2000,Whole Year ,Sugarcane,352,20213
+Uttar Pradesh,SONBHADRA,2001,Whole Year ,Sugarcane,350,15388
+Uttar Pradesh,SONBHADRA,2002,Whole Year ,Sugarcane,271,14523
+Uttar Pradesh,SONBHADRA,2003,Whole Year ,Sugarcane,384,13723
+Uttar Pradesh,SONBHADRA,2004,Kharif     ,Sugarcane,235,10114
+Uttar Pradesh,SONBHADRA,2005,Kharif     ,Sugarcane,414,14636
+Uttar Pradesh,SONBHADRA,2006,Kharif     ,Sugarcane,186,8054
+Uttar Pradesh,SONBHADRA,2007,Kharif     ,Sugarcane,174,9955
+Uttar Pradesh,SONBHADRA,2008,Kharif     ,Sugarcane,88,4604
+Uttar Pradesh,SONBHADRA,2009,Kharif     ,Sugarcane,199,10157
+Uttar Pradesh,SONBHADRA,2010,Kharif     ,Sugarcane,174,9308
+Uttar Pradesh,SONBHADRA,2011,Kharif     ,Sugarcane,206,11464
+Uttar Pradesh,SONBHADRA,2012,Kharif     ,Sugarcane,185,10035
+Uttar Pradesh,SONBHADRA,2013,Kharif     ,Sugarcane,230,14663
+Uttar Pradesh,SONBHADRA,2014,Kharif     ,Sugarcane,219,14406
+Uttar Pradesh,SULTANPUR,1997,Whole Year ,Sugarcane,10323,496619
+Uttar Pradesh,SULTANPUR,1998,Whole Year ,Sugarcane,10230,401753
+Uttar Pradesh,SULTANPUR,1999,Whole Year ,Sugarcane,10266,409039
+Uttar Pradesh,SULTANPUR,2000,Whole Year ,Sugarcane,9650,447721
+Uttar Pradesh,SULTANPUR,2001,Whole Year ,Sugarcane,9637,481657
+Uttar Pradesh,SULTANPUR,2002,Whole Year ,Sugarcane,9999,427037
+Uttar Pradesh,SULTANPUR,2003,Whole Year ,Sugarcane,10419,425554
+Uttar Pradesh,SULTANPUR,2004,Kharif     ,Sugarcane,9823,520933
+Uttar Pradesh,SULTANPUR,2005,Kharif     ,Sugarcane,9984,582027
+Uttar Pradesh,SULTANPUR,2006,Kharif     ,Sugarcane,10423,565510
+Uttar Pradesh,SULTANPUR,2007,Kharif     ,Sugarcane,11431,579415
+Uttar Pradesh,SULTANPUR,2008,Kharif     ,Sugarcane,7724,355798
+Uttar Pradesh,SULTANPUR,2009,Kharif     ,Sugarcane,10689,541248
+Uttar Pradesh,SULTANPUR,2010,Kharif     ,Sugarcane,10140,446079
+Uttar Pradesh,SULTANPUR,2011,Kharif     ,Sugarcane,8973,537088
+Uttar Pradesh,SULTANPUR,2012,Kharif     ,Sugarcane,9482,575975
+Uttar Pradesh,SULTANPUR,2013,Kharif     ,Sugarcane,10192,556198
+Uttar Pradesh,SULTANPUR,2014,Kharif     ,Sugarcane,10951,648825
+Uttar Pradesh,UNNAO,1997,Whole Year ,Sugarcane,2361,94477
+Uttar Pradesh,UNNAO,1998,Whole Year ,Sugarcane,2205,68140
+Uttar Pradesh,UNNAO,1999,Whole Year ,Sugarcane,2104,84011
+Uttar Pradesh,UNNAO,2000,Whole Year ,Sugarcane,1532,57342
+Uttar Pradesh,UNNAO,2001,Whole Year ,Sugarcane,1402,67607
+Uttar Pradesh,UNNAO,2002,Whole Year ,Sugarcane,1346,81767
+Uttar Pradesh,UNNAO,2003,Whole Year ,Sugarcane,1254,49545
+Uttar Pradesh,UNNAO,2004,Kharif     ,Sugarcane,1142,66133
+Uttar Pradesh,UNNAO,2005,Kharif     ,Sugarcane,779,42820
+Uttar Pradesh,UNNAO,2006,Kharif     ,Sugarcane,4606,262763
+Uttar Pradesh,UNNAO,2007,Kharif     ,Sugarcane,1436,74882
+Uttar Pradesh,UNNAO,2008,Kharif     ,Sugarcane,1434,68275
+Uttar Pradesh,UNNAO,2009,Kharif     ,Sugarcane,688,39336
+Uttar Pradesh,UNNAO,2010,Kharif     ,Sugarcane,1030,55619
+Uttar Pradesh,UNNAO,2011,Kharif     ,Sugarcane,1155,68969
+Uttar Pradesh,UNNAO,2012,Kharif     ,Sugarcane,942,57771
+Uttar Pradesh,UNNAO,2013,Kharif     ,Sugarcane,927,58129
+Uttar Pradesh,UNNAO,2014,Kharif     ,Sugarcane,695,45809
+Uttar Pradesh,VARANASI,1997,Whole Year ,Sugarcane,7943,326171
+Uttar Pradesh,VARANASI,1998,Whole Year ,Sugarcane,8629,383438
+Uttar Pradesh,VARANASI,1999,Whole Year ,Sugarcane,8720,350928
+Uttar Pradesh,VARANASI,2000,Whole Year ,Sugarcane,8717,282884
+Uttar Pradesh,VARANASI,2001,Whole Year ,Sugarcane,5044,216670
+Uttar Pradesh,VARANASI,2002,Whole Year ,Sugarcane,5006,210492
+Uttar Pradesh,VARANASI,2003,Whole Year ,Sugarcane,5015,202927
+Uttar Pradesh,VARANASI,2004,Kharif     ,Sugarcane,4092,148343
+Uttar Pradesh,VARANASI,2005,Kharif     ,Sugarcane,5362,236293
+Uttar Pradesh,VARANASI,2006,Kharif     ,Sugarcane,4818,199812
+Uttar Pradesh,VARANASI,2007,Kharif     ,Sugarcane,4095,180442
+Uttar Pradesh,VARANASI,2008,Kharif     ,Sugarcane,4142,182977
+Uttar Pradesh,VARANASI,2009,Kharif     ,Sugarcane,3788,178850
+Uttar Pradesh,VARANASI,2010,Kharif     ,Sugarcane,3972,174402
+Uttar Pradesh,VARANASI,2011,Kharif     ,Sugarcane,4056,201869
+Uttar Pradesh,VARANASI,2012,Kharif     ,Sugarcane,4163,214578
+Uttar Pradesh,VARANASI,2013,Kharif     ,Sugarcane,3901,236962
+Uttar Pradesh,VARANASI,2014,Kharif     ,Sugarcane,3996,252707

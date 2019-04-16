@@ -1,0 +1,959 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Uttar Pradesh,AGRA,1997,Kharif     ,Groundnut,27,22
+Uttar Pradesh,AGRA,1998,Kharif     ,Groundnut,20,16
+Uttar Pradesh,AGRA,1999,Kharif     ,Groundnut,9,7
+Uttar Pradesh,AGRA,2000,Kharif     ,Groundnut,7,6
+Uttar Pradesh,AGRA,2001,Kharif     ,Groundnut,6,5
+Uttar Pradesh,AGRA,2003,Kharif     ,Groundnut,1,1
+Uttar Pradesh,AGRA,2004,Kharif     ,Groundnut,3,2
+Uttar Pradesh,AGRA,2008,Kharif     ,Groundnut,4,3
+Uttar Pradesh,AGRA,2009,Kharif     ,Groundnut,8,5
+Uttar Pradesh,AGRA,2010,Kharif     ,Groundnut,3,3
+Uttar Pradesh,AGRA,2011,Kharif     ,Groundnut,3,3
+Uttar Pradesh,AGRA,2012,Kharif     ,Groundnut,10,10
+Uttar Pradesh,ALIGARH,1998,Kharif     ,Groundnut,2,2
+Uttar Pradesh,ALIGARH,1999,Kharif     ,Groundnut,3,3
+Uttar Pradesh,ALIGARH,2000,Kharif     ,Groundnut,1,1
+Uttar Pradesh,ALIGARH,2002,Kharif     ,Groundnut,3,2
+Uttar Pradesh,ALIGARH,2004,Kharif     ,Groundnut,2,2
+Uttar Pradesh,ALIGARH,2007,Kharif     ,Groundnut,2,1
+Uttar Pradesh,ALIGARH,2008,Kharif     ,Groundnut,9,7
+Uttar Pradesh,ALIGARH,2009,Kharif     ,Groundnut,8,5
+Uttar Pradesh,ALIGARH,2010,Kharif     ,Groundnut,6,6
+Uttar Pradesh,ALIGARH,2011,Kharif     ,Groundnut,14,14
+Uttar Pradesh,ALIGARH,2012,Kharif     ,Groundnut,33,33
+Uttar Pradesh,ALIGARH,2013,Kharif     ,Groundnut,70,63
+Uttar Pradesh,ALIGARH,2014,Kharif     ,Groundnut,11,10
+Uttar Pradesh,ALLAHABAD,2000,Kharif     ,Groundnut,5,4
+Uttar Pradesh,ALLAHABAD,2001,Kharif     ,Groundnut,2,2
+Uttar Pradesh,ALLAHABAD,2003,Kharif     ,Groundnut,2,1
+Uttar Pradesh,AMBEDKAR NAGAR,1997,Kharif     ,Groundnut,41,33
+Uttar Pradesh,AMBEDKAR NAGAR,1998,Kharif     ,Groundnut,32,27
+Uttar Pradesh,AMBEDKAR NAGAR,1999,Kharif     ,Groundnut,32,37
+Uttar Pradesh,AMBEDKAR NAGAR,2000,Kharif     ,Groundnut,29,24
+Uttar Pradesh,AMBEDKAR NAGAR,2001,Kharif     ,Groundnut,24,20
+Uttar Pradesh,AMBEDKAR NAGAR,2002,Kharif     ,Groundnut,28,18
+Uttar Pradesh,AMBEDKAR NAGAR,2003,Kharif     ,Groundnut,27,18
+Uttar Pradesh,AMBEDKAR NAGAR,2004,Kharif     ,Groundnut,16,13
+Uttar Pradesh,AMBEDKAR NAGAR,2006,Kharif     ,Groundnut,16,12
+Uttar Pradesh,AMBEDKAR NAGAR,2009,Kharif     ,Groundnut,5,3
+Uttar Pradesh,AMETHI,2011,Kharif     ,Groundnut,37,30
+Uttar Pradesh,AMETHI,2012,Kharif     ,Groundnut,5,5
+Uttar Pradesh,AMETHI,2013,Kharif     ,Groundnut,14,11
+Uttar Pradesh,AMROHA,1997,Kharif     ,Groundnut,4,3
+Uttar Pradesh,AMROHA,2001,Kharif     ,Groundnut,3,2
+Uttar Pradesh,AMROHA,2003,Kharif     ,Groundnut,14,9
+Uttar Pradesh,AMROHA,2004,Kharif     ,Groundnut,5,4
+Uttar Pradesh,AMROHA,2009,Kharif     ,Groundnut,34,23
+Uttar Pradesh,AMROHA,2010,Kharif     ,Groundnut,15,15
+Uttar Pradesh,AMROHA,2012,Kharif     ,Groundnut,4,4
+Uttar Pradesh,AMROHA,2014,Kharif     ,Groundnut,1,1
+Uttar Pradesh,AURAIYA,1997,Kharif     ,Groundnut,321,257
+Uttar Pradesh,AURAIYA,1998,Kharif     ,Groundnut,254,211
+Uttar Pradesh,AURAIYA,1999,Kharif     ,Groundnut,148,172
+Uttar Pradesh,AURAIYA,2000,Kharif     ,Groundnut,122,157
+Uttar Pradesh,AURAIYA,2001,Kharif     ,Groundnut,139,117
+Uttar Pradesh,AURAIYA,2002,Kharif     ,Groundnut,176,115
+Uttar Pradesh,AURAIYA,2003,Kharif     ,Groundnut,187,125
+Uttar Pradesh,AURAIYA,2004,Kharif     ,Groundnut,240,198
+Uttar Pradesh,AURAIYA,2006,Kharif     ,Groundnut,205,148
+Uttar Pradesh,AURAIYA,2007,Kharif     ,Groundnut,263,157
+Uttar Pradesh,AURAIYA,2008,Kharif     ,Groundnut,153,109
+Uttar Pradesh,AURAIYA,2009,Kharif     ,Groundnut,109,74
+Uttar Pradesh,AURAIYA,2010,Kharif     ,Groundnut,199,197
+Uttar Pradesh,AURAIYA,2011,Kharif     ,Groundnut,252,252
+Uttar Pradesh,AURAIYA,2012,Kharif     ,Groundnut,149,148
+Uttar Pradesh,AURAIYA,2013,Kharif     ,Groundnut,39,35
+Uttar Pradesh,AURAIYA,2014,Kharif     ,Groundnut,29,25
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Groundnut,73,65
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Groundnut,48,31
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Groundnut,74,62
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Groundnut,81,68
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Groundnut,50,42
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Groundnut,49,32
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Groundnut,82,55
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Groundnut,68,56
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Groundnut,63,45
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Groundnut,63,38
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Groundnut,32,23
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Groundnut,90,61
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Groundnut,41,40
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Groundnut,35,35
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Groundnut,90,89
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Groundnut,52,47
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Groundnut,62,54
+Uttar Pradesh,BAHRAICH,1997,Kharif     ,Groundnut,2075,1662
+Uttar Pradesh,BAHRAICH,1998,Kharif     ,Groundnut,1759,1458
+Uttar Pradesh,BAHRAICH,1999,Kharif     ,Groundnut,1853,2158
+Uttar Pradesh,BAHRAICH,2000,Kharif     ,Groundnut,1884,2431
+Uttar Pradesh,BAHRAICH,2001,Kharif     ,Groundnut,1924,2051
+Uttar Pradesh,BAHRAICH,2002,Kharif     ,Groundnut,2086,1448
+Uttar Pradesh,BAHRAICH,2003,Kharif     ,Groundnut,1729,1236
+Uttar Pradesh,BAHRAICH,2004,Kharif     ,Groundnut,1970,1334
+Uttar Pradesh,BAHRAICH,2006,Kharif     ,Groundnut,2196,1587
+Uttar Pradesh,BAHRAICH,2007,Kharif     ,Groundnut,1531,916
+Uttar Pradesh,BAHRAICH,2008,Kharif     ,Groundnut,871,621
+Uttar Pradesh,BAHRAICH,2009,Kharif     ,Groundnut,1534,1034
+Uttar Pradesh,BAHRAICH,2010,Kharif     ,Groundnut,1545,1526
+Uttar Pradesh,BAHRAICH,2011,Kharif     ,Groundnut,1736,1738
+Uttar Pradesh,BAHRAICH,2012,Kharif     ,Groundnut,1482,1472
+Uttar Pradesh,BAHRAICH,2013,Kharif     ,Groundnut,1607,1435
+Uttar Pradesh,BAHRAICH,2014,Kharif     ,Groundnut,1539,1330
+Uttar Pradesh,BALLIA,1997,Kharif     ,Groundnut,127,114
+Uttar Pradesh,BALLIA,1998,Kharif     ,Groundnut,55,36
+Uttar Pradesh,BALLIA,1999,Kharif     ,Groundnut,40,33
+Uttar Pradesh,BALLIA,2000,Kharif     ,Groundnut,63,52
+Uttar Pradesh,BALLIA,2001,Kharif     ,Groundnut,104,87
+Uttar Pradesh,BALLIA,2002,Kharif     ,Groundnut,234,153
+Uttar Pradesh,BALLIA,2003,Kharif     ,Groundnut,219,146
+Uttar Pradesh,BALLIA,2004,Kharif     ,Groundnut,192,158
+Uttar Pradesh,BALLIA,2006,Kharif     ,Groundnut,109,79
+Uttar Pradesh,BALLIA,2007,Kharif     ,Groundnut,295,177
+Uttar Pradesh,BALLIA,2008,Kharif     ,Groundnut,287,205
+Uttar Pradesh,BALLIA,2009,Kharif     ,Groundnut,120,81
+Uttar Pradesh,BALLIA,2010,Kharif     ,Groundnut,258,255
+Uttar Pradesh,BALLIA,2011,Kharif     ,Groundnut,321,321
+Uttar Pradesh,BALLIA,2012,Kharif     ,Groundnut,320,318
+Uttar Pradesh,BALLIA,2013,Kharif     ,Groundnut,242,216
+Uttar Pradesh,BALLIA,2014,Kharif     ,Groundnut,38,33
+Uttar Pradesh,BALRAMPUR,1997,Kharif     ,Groundnut,80,64
+Uttar Pradesh,BALRAMPUR,1998,Kharif     ,Groundnut,85,71
+Uttar Pradesh,BALRAMPUR,1999,Kharif     ,Groundnut,78,91
+Uttar Pradesh,BALRAMPUR,2000,Kharif     ,Groundnut,59,76
+Uttar Pradesh,BALRAMPUR,2001,Kharif     ,Groundnut,86,92
+Uttar Pradesh,BALRAMPUR,2002,Kharif     ,Groundnut,37,26
+Uttar Pradesh,BALRAMPUR,2003,Kharif     ,Groundnut,68,49
+Uttar Pradesh,BALRAMPUR,2004,Kharif     ,Groundnut,66,45
+Uttar Pradesh,BALRAMPUR,2006,Kharif     ,Groundnut,66,48
+Uttar Pradesh,BALRAMPUR,2007,Kharif     ,Groundnut,10,6
+Uttar Pradesh,BALRAMPUR,2008,Kharif     ,Groundnut,57,41
+Uttar Pradesh,BALRAMPUR,2009,Kharif     ,Groundnut,30,20
+Uttar Pradesh,BALRAMPUR,2010,Kharif     ,Groundnut,24,24
+Uttar Pradesh,BALRAMPUR,2011,Kharif     ,Groundnut,25,25
+Uttar Pradesh,BALRAMPUR,2012,Kharif     ,Groundnut,28,28
+Uttar Pradesh,BALRAMPUR,2014,Kharif     ,Groundnut,8,7
+Uttar Pradesh,BANDA,1997,Kharif     ,Groundnut,1244,858
+Uttar Pradesh,BANDA,1998,Kharif     ,Groundnut,1166,564
+Uttar Pradesh,BANDA,1999,Kharif     ,Groundnut,1026,638
+Uttar Pradesh,BANDA,2000,Kharif     ,Groundnut,1036,641
+Uttar Pradesh,BANDA,2001,Kharif     ,Groundnut,659,496
+Uttar Pradesh,BANDA,2002,Kharif     ,Groundnut,517,227
+Uttar Pradesh,BANDA,2003,Kharif     ,Groundnut,645,223
+Uttar Pradesh,BANDA,2004,Kharif     ,Groundnut,784,364
+Uttar Pradesh,BANDA,2006,Kharif     ,Groundnut,808,391
+Uttar Pradesh,BANDA,2007,Kharif     ,Groundnut,708,263
+Uttar Pradesh,BANDA,2008,Kharif     ,Groundnut,62,26
+Uttar Pradesh,BANDA,2009,Kharif     ,Groundnut,838,128
+Uttar Pradesh,BANDA,2010,Kharif     ,Groundnut,443,482
+Uttar Pradesh,BANDA,2011,Kharif     ,Groundnut,583,495
+Uttar Pradesh,BANDA,2012,Kharif     ,Groundnut,620,583
+Uttar Pradesh,BANDA,2013,Kharif     ,Groundnut,438,317
+Uttar Pradesh,BANDA,2014,Kharif     ,Groundnut,946,1119
+Uttar Pradesh,BARABANKI,1997,Kharif     ,Groundnut,1026,822
+Uttar Pradesh,BARABANKI,1998,Kharif     ,Groundnut,835,692
+Uttar Pradesh,BARABANKI,1999,Kharif     ,Groundnut,515,600
+Uttar Pradesh,BARABANKI,2000,Kharif     ,Groundnut,386,323
+Uttar Pradesh,BARABANKI,2001,Kharif     ,Groundnut,395,331
+Uttar Pradesh,BARABANKI,2002,Kharif     ,Groundnut,616,404
+Uttar Pradesh,BARABANKI,2003,Kharif     ,Groundnut,532,355
+Uttar Pradesh,BARABANKI,2004,Kharif     ,Groundnut,665,547
+Uttar Pradesh,BARABANKI,2006,Kharif     ,Groundnut,709,512
+Uttar Pradesh,BARABANKI,2007,Kharif     ,Groundnut,817,488
+Uttar Pradesh,BARABANKI,2008,Kharif     ,Groundnut,753,538
+Uttar Pradesh,BARABANKI,2009,Kharif     ,Groundnut,529,356
+Uttar Pradesh,BARABANKI,2010,Kharif     ,Groundnut,502,246
+Uttar Pradesh,BARABANKI,2011,Kharif     ,Groundnut,423,339
+Uttar Pradesh,BARABANKI,2012,Kharif     ,Groundnut,399,396
+Uttar Pradesh,BARABANKI,2013,Kharif     ,Groundnut,360,289
+Uttar Pradesh,BARABANKI,2014,Kharif     ,Groundnut,224,113
+Uttar Pradesh,BAREILLY,1997,Kharif     ,Groundnut,2668,2377
+Uttar Pradesh,BAREILLY,1998,Kharif     ,Groundnut,1235,515
+Uttar Pradesh,BAREILLY,1999,Kharif     ,Groundnut,354,124
+Uttar Pradesh,BAREILLY,2000,Kharif     ,Groundnut,367,225
+Uttar Pradesh,BAREILLY,2001,Kharif     ,Groundnut,437,347
+Uttar Pradesh,BAREILLY,2002,Kharif     ,Groundnut,377,316
+Uttar Pradesh,BAREILLY,2003,Kharif     ,Groundnut,239,159
+Uttar Pradesh,BAREILLY,2004,Kharif     ,Groundnut,242,199
+Uttar Pradesh,BAREILLY,2006,Kharif     ,Groundnut,226,209
+Uttar Pradesh,BAREILLY,2007,Kharif     ,Groundnut,451,345
+Uttar Pradesh,BAREILLY,2008,Kharif     ,Groundnut,170,78
+Uttar Pradesh,BAREILLY,2009,Kharif     ,Groundnut,295,277
+Uttar Pradesh,BAREILLY,2010,Kharif     ,Groundnut,302,289
+Uttar Pradesh,BAREILLY,2011,Kharif     ,Groundnut,554,838
+Uttar Pradesh,BAREILLY,2012,Kharif     ,Groundnut,550,801
+Uttar Pradesh,BAREILLY,2013,Kharif     ,Groundnut,296,335
+Uttar Pradesh,BAREILLY,2014,Kharif     ,Groundnut,359,482
+Uttar Pradesh,BASTI,1997,Kharif     ,Groundnut,9,8
+Uttar Pradesh,BASTI,1998,Kharif     ,Groundnut,8,5
+Uttar Pradesh,BASTI,1999,Kharif     ,Groundnut,7,6
+Uttar Pradesh,BASTI,2000,Kharif     ,Groundnut,8,7
+Uttar Pradesh,BASTI,2001,Kharif     ,Groundnut,7,6
+Uttar Pradesh,BASTI,2002,Kharif     ,Groundnut,1,1
+Uttar Pradesh,BASTI,2003,Kharif     ,Groundnut,3,2
+Uttar Pradesh,BASTI,2004,Kharif     ,Groundnut,1,1
+Uttar Pradesh,BASTI,2007,Kharif     ,Groundnut,2,1
+Uttar Pradesh,BASTI,2008,Kharif     ,Groundnut,1,1
+Uttar Pradesh,BASTI,2010,Kharif     ,Groundnut,169,167
+Uttar Pradesh,BASTI,2011,Kharif     ,Groundnut,1,1
+Uttar Pradesh,BASTI,2012,Kharif     ,Groundnut,1,1
+Uttar Pradesh,BASTI,2013,Kharif     ,Groundnut,1,1
+Uttar Pradesh,BASTI,2014,Kharif     ,Groundnut,2,2
+Uttar Pradesh,BIJNOR,1997,Kharif     ,Groundnut,3185,2551
+Uttar Pradesh,BIJNOR,1998,Kharif     ,Groundnut,3032,2514
+Uttar Pradesh,BIJNOR,1999,Kharif     ,Groundnut,2517,2932
+Uttar Pradesh,BIJNOR,2000,Kharif     ,Groundnut,2513,3242
+Uttar Pradesh,BIJNOR,2001,Kharif     ,Groundnut,2036,1708
+Uttar Pradesh,BIJNOR,2002,Kharif     ,Groundnut,1870,1225
+Uttar Pradesh,BIJNOR,2003,Kharif     ,Groundnut,1923,1284
+Uttar Pradesh,BIJNOR,2004,Kharif     ,Groundnut,2609,2147
+Uttar Pradesh,BIJNOR,2006,Kharif     ,Groundnut,1716,2332
+Uttar Pradesh,BIJNOR,2007,Kharif     ,Groundnut,2079,1705
+Uttar Pradesh,BIJNOR,2008,Kharif     ,Groundnut,1798,1886
+Uttar Pradesh,BIJNOR,2009,Kharif     ,Groundnut,1188,801
+Uttar Pradesh,BIJNOR,2010,Kharif     ,Groundnut,948,936
+Uttar Pradesh,BIJNOR,2011,Kharif     ,Groundnut,735,695
+Uttar Pradesh,BIJNOR,2012,Kharif     ,Groundnut,746,714
+Uttar Pradesh,BIJNOR,2013,Kharif     ,Groundnut,846,909
+Uttar Pradesh,BIJNOR,2014,Kharif     ,Groundnut,1073,1327
+Uttar Pradesh,BUDAUN,1997,Kharif     ,Groundnut,3393,3022
+Uttar Pradesh,BUDAUN,1998,Kharif     ,Groundnut,1030,429
+Uttar Pradesh,BUDAUN,1999,Kharif     ,Groundnut,234,82
+Uttar Pradesh,BUDAUN,2000,Kharif     ,Groundnut,145,89
+Uttar Pradesh,BUDAUN,2001,Kharif     ,Groundnut,454,361
+Uttar Pradesh,BUDAUN,2002,Kharif     ,Groundnut,985,824
+Uttar Pradesh,BUDAUN,2003,Kharif     ,Groundnut,910,605
+Uttar Pradesh,BUDAUN,2004,Kharif     ,Groundnut,790,650
+Uttar Pradesh,BUDAUN,2006,Kharif     ,Groundnut,637,589
+Uttar Pradesh,BUDAUN,2007,Kharif     ,Groundnut,728,556
+Uttar Pradesh,BUDAUN,2008,Kharif     ,Groundnut,176,81
+Uttar Pradesh,BUDAUN,2009,Kharif     ,Groundnut,286,269
+Uttar Pradesh,BUDAUN,2010,Kharif     ,Groundnut,147,141
+Uttar Pradesh,BUDAUN,2011,Kharif     ,Groundnut,1027,1553
+Uttar Pradesh,BUDAUN,2012,Kharif     ,Groundnut,676,985
+Uttar Pradesh,BUDAUN,2013,Kharif     ,Groundnut,383,452
+Uttar Pradesh,BUDAUN,2014,Kharif     ,Groundnut,375,347
+Uttar Pradesh,BULANDSHAHR,1997,Kharif     ,Groundnut,7,6
+Uttar Pradesh,BULANDSHAHR,1998,Kharif     ,Groundnut,8,5
+Uttar Pradesh,BULANDSHAHR,1999,Kharif     ,Groundnut,10,8
+Uttar Pradesh,BULANDSHAHR,2001,Kharif     ,Groundnut,13,11
+Uttar Pradesh,BULANDSHAHR,2003,Kharif     ,Groundnut,1,1
+Uttar Pradesh,BULANDSHAHR,2004,Kharif     ,Groundnut,1,1
+Uttar Pradesh,BULANDSHAHR,2009,Kharif     ,Groundnut,3,2
+Uttar Pradesh,BULANDSHAHR,2011,Kharif     ,Groundnut,17,17
+Uttar Pradesh,BULANDSHAHR,2012,Kharif     ,Groundnut,6,6
+Uttar Pradesh,BULANDSHAHR,2014,Kharif     ,Groundnut,1,1
+Uttar Pradesh,CHANDAULI,1997,Kharif     ,Groundnut,77,69
+Uttar Pradesh,CHANDAULI,1998,Kharif     ,Groundnut,83,54
+Uttar Pradesh,CHANDAULI,1999,Kharif     ,Groundnut,77,64
+Uttar Pradesh,CHANDAULI,2000,Kharif     ,Groundnut,91,76
+Uttar Pradesh,CHANDAULI,2001,Kharif     ,Groundnut,13,11
+Uttar Pradesh,CHANDAULI,2002,Kharif     ,Groundnut,10,7
+Uttar Pradesh,CHANDAULI,2003,Kharif     ,Groundnut,20,13
+Uttar Pradesh,CHANDAULI,2004,Kharif     ,Groundnut,5,4
+Uttar Pradesh,CHANDAULI,2011,Kharif     ,Groundnut,3,3
+Uttar Pradesh,CHANDAULI,2012,Kharif     ,Groundnut,3,3
+Uttar Pradesh,CHANDAULI,2013,Kharif     ,Groundnut,3,3
+Uttar Pradesh,CHITRAKOOT,1997,Kharif     ,Groundnut,3,2
+Uttar Pradesh,CHITRAKOOT,1998,Kharif     ,Groundnut,6,3
+Uttar Pradesh,CHITRAKOOT,1999,Kharif     ,Groundnut,8,5
+Uttar Pradesh,CHITRAKOOT,2000,Kharif     ,Groundnut,22,14
+Uttar Pradesh,CHITRAKOOT,2001,Kharif     ,Groundnut,20,15
+Uttar Pradesh,CHITRAKOOT,2002,Kharif     ,Groundnut,11,5
+Uttar Pradesh,CHITRAKOOT,2003,Kharif     ,Groundnut,53,18
+Uttar Pradesh,CHITRAKOOT,2004,Kharif     ,Groundnut,63,29
+Uttar Pradesh,CHITRAKOOT,2006,Kharif     ,Groundnut,53,29
+Uttar Pradesh,CHITRAKOOT,2007,Kharif     ,Groundnut,44,10
+Uttar Pradesh,CHITRAKOOT,2009,Kharif     ,Groundnut,65,10
+Uttar Pradesh,CHITRAKOOT,2010,Kharif     ,Groundnut,42,21
+Uttar Pradesh,CHITRAKOOT,2011,Kharif     ,Groundnut,40,34
+Uttar Pradesh,CHITRAKOOT,2012,Kharif     ,Groundnut,42,26
+Uttar Pradesh,CHITRAKOOT,2013,Kharif     ,Groundnut,3,2
+Uttar Pradesh,CHITRAKOOT,2014,Kharif     ,Groundnut,18,8
+Uttar Pradesh,DEORIA,1997,Kharif     ,Groundnut,1932,1547
+Uttar Pradesh,DEORIA,1998,Kharif     ,Groundnut,2005,1662
+Uttar Pradesh,DEORIA,1999,Kharif     ,Groundnut,1918,2234
+Uttar Pradesh,DEORIA,2000,Kharif     ,Groundnut,2025,2134
+Uttar Pradesh,DEORIA,2001,Kharif     ,Groundnut,1931,2059
+Uttar Pradesh,DEORIA,2002,Kharif     ,Groundnut,2157,1963
+Uttar Pradesh,DEORIA,2003,Kharif     ,Groundnut,2643,3079
+Uttar Pradesh,DEORIA,2004,Kharif     ,Groundnut,2895,1867
+Uttar Pradesh,DEORIA,2006,Kharif     ,Groundnut,3304,3073
+Uttar Pradesh,DEORIA,2007,Kharif     ,Groundnut,2669,2031
+Uttar Pradesh,DEORIA,2008,Kharif     ,Groundnut,1124,685
+Uttar Pradesh,DEORIA,2009,Kharif     ,Groundnut,2122,1430
+Uttar Pradesh,DEORIA,2010,Kharif     ,Groundnut,2071,2539
+Uttar Pradesh,DEORIA,2011,Kharif     ,Groundnut,1915,2059
+Uttar Pradesh,DEORIA,2012,Kharif     ,Groundnut,1758,2811
+Uttar Pradesh,DEORIA,2013,Kharif     ,Groundnut,1917,2916
+Uttar Pradesh,DEORIA,2014,Kharif     ,Groundnut,1914,2237
+Uttar Pradesh,ETAH,1997,Kharif     ,Groundnut,351,281
+Uttar Pradesh,ETAH,1998,Kharif     ,Groundnut,135,112
+Uttar Pradesh,ETAH,1999,Kharif     ,Groundnut,63,52
+Uttar Pradesh,ETAH,2000,Kharif     ,Groundnut,135,113
+Uttar Pradesh,ETAH,2001,Kharif     ,Groundnut,46,39
+Uttar Pradesh,ETAH,2002,Kharif     ,Groundnut,34,22
+Uttar Pradesh,ETAH,2003,Kharif     ,Groundnut,49,33
+Uttar Pradesh,ETAH,2004,Kharif     ,Groundnut,592,487
+Uttar Pradesh,ETAH,2006,Kharif     ,Groundnut,592,428
+Uttar Pradesh,ETAH,2007,Kharif     ,Groundnut,960,574
+Uttar Pradesh,ETAH,2008,Kharif     ,Groundnut,778,555
+Uttar Pradesh,ETAH,2009,Kharif     ,Groundnut,132,89
+Uttar Pradesh,ETAH,2010,Kharif     ,Groundnut,123,121
+Uttar Pradesh,ETAH,2011,Kharif     ,Groundnut,262,262
+Uttar Pradesh,ETAH,2012,Kharif     ,Groundnut,521,517
+Uttar Pradesh,ETAH,2013,Kharif     ,Groundnut,462,412
+Uttar Pradesh,ETAH,2014,Kharif     ,Groundnut,855,739
+Uttar Pradesh,ETAWAH,1997,Kharif     ,Groundnut,11,9
+Uttar Pradesh,ETAWAH,1998,Kharif     ,Groundnut,75,62
+Uttar Pradesh,ETAWAH,1999,Kharif     ,Groundnut,69,80
+Uttar Pradesh,ETAWAH,2000,Kharif     ,Groundnut,69,89
+Uttar Pradesh,ETAWAH,2001,Kharif     ,Groundnut,36,30
+Uttar Pradesh,ETAWAH,2002,Kharif     ,Groundnut,5,3
+Uttar Pradesh,ETAWAH,2003,Kharif     ,Groundnut,1,1
+Uttar Pradesh,ETAWAH,2004,Kharif     ,Groundnut,4,3
+Uttar Pradesh,ETAWAH,2007,Kharif     ,Groundnut,97,58
+Uttar Pradesh,ETAWAH,2008,Kharif     ,Groundnut,20,14
+Uttar Pradesh,ETAWAH,2009,Kharif     ,Groundnut,3,2
+Uttar Pradesh,ETAWAH,2010,Kharif     ,Groundnut,42,41
+Uttar Pradesh,ETAWAH,2011,Kharif     ,Groundnut,70,70
+Uttar Pradesh,ETAWAH,2012,Kharif     ,Groundnut,68,68
+Uttar Pradesh,ETAWAH,2013,Kharif     ,Groundnut,185,165
+Uttar Pradesh,ETAWAH,2014,Kharif     ,Groundnut,140,121
+Uttar Pradesh,FAIZABAD,1997,Kharif     ,Groundnut,115,92
+Uttar Pradesh,FAIZABAD,1998,Kharif     ,Groundnut,77,64
+Uttar Pradesh,FAIZABAD,1999,Kharif     ,Groundnut,24,28
+Uttar Pradesh,FARRUKHABAD,1997,Kharif     ,Groundnut,1608,1288
+Uttar Pradesh,FARRUKHABAD,1998,Kharif     ,Groundnut,820,680
+Uttar Pradesh,FARRUKHABAD,1999,Kharif     ,Groundnut,626,729
+Uttar Pradesh,FARRUKHABAD,2000,Kharif     ,Groundnut,624,805
+Uttar Pradesh,FARRUKHABAD,2001,Kharif     ,Groundnut,109,91
+Uttar Pradesh,FARRUKHABAD,2002,Kharif     ,Groundnut,55,36
+Uttar Pradesh,FARRUKHABAD,2003,Kharif     ,Groundnut,47,32
+Uttar Pradesh,FARRUKHABAD,2004,Kharif     ,Groundnut,117,96
+Uttar Pradesh,FARRUKHABAD,2006,Kharif     ,Groundnut,109,79
+Uttar Pradesh,FARRUKHABAD,2007,Kharif     ,Groundnut,474,284
+Uttar Pradesh,FARRUKHABAD,2008,Kharif     ,Groundnut,488,349
+Uttar Pradesh,FARRUKHABAD,2009,Kharif     ,Groundnut,695,468
+Uttar Pradesh,FARRUKHABAD,2010,Kharif     ,Groundnut,535,529
+Uttar Pradesh,FARRUKHABAD,2011,Kharif     ,Groundnut,788,789
+Uttar Pradesh,FARRUKHABAD,2012,Kharif     ,Groundnut,789,783
+Uttar Pradesh,FARRUKHABAD,2013,Kharif     ,Groundnut,825,736
+Uttar Pradesh,FARRUKHABAD,2014,Kharif     ,Groundnut,738,638
+Uttar Pradesh,FATEHPUR,1997,Kharif     ,Groundnut,372,333
+Uttar Pradesh,FATEHPUR,1998,Kharif     ,Groundnut,403,262
+Uttar Pradesh,FATEHPUR,1999,Kharif     ,Groundnut,347,288
+Uttar Pradesh,FATEHPUR,2000,Kharif     ,Groundnut,359,299
+Uttar Pradesh,FATEHPUR,2001,Kharif     ,Groundnut,429,360
+Uttar Pradesh,FATEHPUR,2002,Kharif     ,Groundnut,271,178
+Uttar Pradesh,FATEHPUR,2003,Kharif     ,Groundnut,306,205
+Uttar Pradesh,FATEHPUR,2004,Kharif     ,Groundnut,414,341
+Uttar Pradesh,FATEHPUR,2006,Kharif     ,Groundnut,584,422
+Uttar Pradesh,FATEHPUR,2007,Kharif     ,Groundnut,640,383
+Uttar Pradesh,FATEHPUR,2008,Kharif     ,Groundnut,313,223
+Uttar Pradesh,FATEHPUR,2009,Kharif     ,Groundnut,140,94
+Uttar Pradesh,FATEHPUR,2010,Kharif     ,Groundnut,333,329
+Uttar Pradesh,FATEHPUR,2011,Kharif     ,Groundnut,297,297
+Uttar Pradesh,FATEHPUR,2012,Kharif     ,Groundnut,276,296
+Uttar Pradesh,FATEHPUR,2013,Kharif     ,Groundnut,255,228
+Uttar Pradesh,FATEHPUR,2014,Kharif     ,Groundnut,209,181
+Uttar Pradesh,FIROZABAD,1997,Kharif     ,Groundnut,3,2
+Uttar Pradesh,FIROZABAD,1998,Kharif     ,Groundnut,2,2
+Uttar Pradesh,FIROZABAD,1999,Kharif     ,Groundnut,2,2
+Uttar Pradesh,FIROZABAD,2000,Kharif     ,Groundnut,1,1
+Uttar Pradesh,FIROZABAD,2001,Kharif     ,Groundnut,3,2
+Uttar Pradesh,FIROZABAD,2002,Kharif     ,Groundnut,1,1
+Uttar Pradesh,FIROZABAD,2003,Kharif     ,Groundnut,3,2
+Uttar Pradesh,FIROZABAD,2004,Kharif     ,Groundnut,41,34
+Uttar Pradesh,FIROZABAD,2006,Kharif     ,Groundnut,22,16
+Uttar Pradesh,FIROZABAD,2007,Kharif     ,Groundnut,49,29
+Uttar Pradesh,FIROZABAD,2008,Kharif     ,Groundnut,48,34
+Uttar Pradesh,FIROZABAD,2009,Kharif     ,Groundnut,47,32
+Uttar Pradesh,FIROZABAD,2010,Kharif     ,Groundnut,96,95
+Uttar Pradesh,FIROZABAD,2011,Kharif     ,Groundnut,32,32
+Uttar Pradesh,FIROZABAD,2012,Kharif     ,Groundnut,73,73
+Uttar Pradesh,FIROZABAD,2013,Kharif     ,Groundnut,226,391
+Uttar Pradesh,FIROZABAD,2014,Kharif     ,Groundnut,152,300
+Uttar Pradesh,GHAZIPUR,1997,Kharif     ,Groundnut,114,102
+Uttar Pradesh,GHAZIPUR,1998,Kharif     ,Groundnut,112,73
+Uttar Pradesh,GHAZIPUR,1999,Kharif     ,Groundnut,124,103
+Uttar Pradesh,GHAZIPUR,2000,Kharif     ,Groundnut,135,113
+Uttar Pradesh,GHAZIPUR,2001,Kharif     ,Groundnut,90,75
+Uttar Pradesh,GHAZIPUR,2002,Kharif     ,Groundnut,80,52
+Uttar Pradesh,GHAZIPUR,2003,Kharif     ,Groundnut,74,50
+Uttar Pradesh,GHAZIPUR,2004,Kharif     ,Groundnut,210,173
+Uttar Pradesh,GHAZIPUR,2006,Kharif     ,Groundnut,119,86
+Uttar Pradesh,GHAZIPUR,2007,Kharif     ,Groundnut,100,60
+Uttar Pradesh,GHAZIPUR,2008,Kharif     ,Groundnut,14,10
+Uttar Pradesh,GHAZIPUR,2009,Kharif     ,Groundnut,62,42
+Uttar Pradesh,GHAZIPUR,2010,Kharif     ,Groundnut,55,54
+Uttar Pradesh,GHAZIPUR,2011,Kharif     ,Groundnut,53,53
+Uttar Pradesh,GHAZIPUR,2013,Kharif     ,Groundnut,41,36
+Uttar Pradesh,GHAZIPUR,2014,Kharif     ,Groundnut,119,103
+Uttar Pradesh,GONDA,1997,Kharif     ,Groundnut,218,174
+Uttar Pradesh,GONDA,1998,Kharif     ,Groundnut,223,185
+Uttar Pradesh,GONDA,1999,Kharif     ,Groundnut,202,235
+Uttar Pradesh,GONDA,2000,Kharif     ,Groundnut,146,188
+Uttar Pradesh,GONDA,2001,Kharif     ,Groundnut,143,152
+Uttar Pradesh,GONDA,2002,Kharif     ,Groundnut,151,104
+Uttar Pradesh,GONDA,2003,Kharif     ,Groundnut,143,102
+Uttar Pradesh,GONDA,2004,Kharif     ,Groundnut,147,99
+Uttar Pradesh,GONDA,2006,Kharif     ,Groundnut,145,105
+Uttar Pradesh,GONDA,2007,Kharif     ,Groundnut,91,54
+Uttar Pradesh,GONDA,2008,Kharif     ,Groundnut,57,41
+Uttar Pradesh,GONDA,2009,Kharif     ,Groundnut,9,6
+Uttar Pradesh,GONDA,2010,Kharif     ,Groundnut,11,11
+Uttar Pradesh,GONDA,2011,Kharif     ,Groundnut,26,26
+Uttar Pradesh,GONDA,2012,Kharif     ,Groundnut,22,22
+Uttar Pradesh,GONDA,2013,Kharif     ,Groundnut,43,39
+Uttar Pradesh,GORAKHPUR,1997,Kharif     ,Groundnut,2682,2148
+Uttar Pradesh,GORAKHPUR,1998,Kharif     ,Groundnut,1860,1542
+Uttar Pradesh,GORAKHPUR,1999,Kharif     ,Groundnut,2201,2564
+Uttar Pradesh,GORAKHPUR,2000,Kharif     ,Groundnut,2011,2120
+Uttar Pradesh,GORAKHPUR,2001,Kharif     ,Groundnut,2169,2312
+Uttar Pradesh,GORAKHPUR,2002,Kharif     ,Groundnut,2285,2079
+Uttar Pradesh,GORAKHPUR,2003,Kharif     ,Groundnut,2694,3138
+Uttar Pradesh,GORAKHPUR,2004,Kharif     ,Groundnut,3584,2312
+Uttar Pradesh,GORAKHPUR,2006,Kharif     ,Groundnut,3648,3393
+Uttar Pradesh,GORAKHPUR,2007,Kharif     ,Groundnut,2851,2170
+Uttar Pradesh,GORAKHPUR,2008,Kharif     ,Groundnut,3082,3085
+Uttar Pradesh,GORAKHPUR,2009,Kharif     ,Groundnut,3065,2066
+Uttar Pradesh,GORAKHPUR,2010,Kharif     ,Groundnut,3291,4035
+Uttar Pradesh,GORAKHPUR,2011,Kharif     ,Groundnut,3540,5154
+Uttar Pradesh,GORAKHPUR,2012,Kharif     ,Groundnut,3196,4676
+Uttar Pradesh,GORAKHPUR,2013,Kharif     ,Groundnut,3042,3848
+Uttar Pradesh,GORAKHPUR,2014,Kharif     ,Groundnut,3042,3258
+Uttar Pradesh,HAMIRPUR,1997,Kharif     ,Groundnut,840,580
+Uttar Pradesh,HAMIRPUR,1998,Kharif     ,Groundnut,594,288
+Uttar Pradesh,HAMIRPUR,1999,Kharif     ,Groundnut,572,356
+Uttar Pradesh,HAMIRPUR,2000,Kharif     ,Groundnut,589,365
+Uttar Pradesh,HAMIRPUR,2001,Kharif     ,Groundnut,540,406
+Uttar Pradesh,HAMIRPUR,2002,Kharif     ,Groundnut,288,126
+Uttar Pradesh,HAMIRPUR,2003,Kharif     ,Groundnut,341,118
+Uttar Pradesh,HAMIRPUR,2004,Kharif     ,Groundnut,569,265
+Uttar Pradesh,HAMIRPUR,2006,Kharif     ,Groundnut,513,278
+Uttar Pradesh,HAMIRPUR,2007,Kharif     ,Groundnut,398,93
+Uttar Pradesh,HAMIRPUR,2008,Kharif     ,Groundnut,11098,4672
+Uttar Pradesh,HAMIRPUR,2009,Kharif     ,Groundnut,65,10
+Uttar Pradesh,HAMIRPUR,2010,Kharif     ,Groundnut,239,119
+Uttar Pradesh,HAMIRPUR,2011,Kharif     ,Groundnut,136,116
+Uttar Pradesh,HAMIRPUR,2012,Kharif     ,Groundnut,212,129
+Uttar Pradesh,HAMIRPUR,2013,Kharif     ,Groundnut,336,243
+Uttar Pradesh,HAMIRPUR,2014,Kharif     ,Groundnut,197,90
+Uttar Pradesh,HARDOI,1997,Kharif     ,Groundnut,18936,14069
+Uttar Pradesh,HARDOI,1998,Kharif     ,Groundnut,18675,4762
+Uttar Pradesh,HARDOI,1999,Kharif     ,Groundnut,18552,12615
+Uttar Pradesh,HARDOI,2000,Kharif     ,Groundnut,16080,6947
+Uttar Pradesh,HARDOI,2001,Kharif     ,Groundnut,11836,7125
+Uttar Pradesh,HARDOI,2002,Kharif     ,Groundnut,4802,3664
+Uttar Pradesh,HARDOI,2003,Kharif     ,Groundnut,5233,2303
+Uttar Pradesh,HARDOI,2004,Kharif     ,Groundnut,5244,6177
+Uttar Pradesh,HARDOI,2006,Kharif     ,Groundnut,5244,3860
+Uttar Pradesh,HARDOI,2007,Kharif     ,Groundnut,5957,5743
+Uttar Pradesh,HARDOI,2008,Kharif     ,Groundnut,8523,6350
+Uttar Pradesh,HARDOI,2009,Kharif     ,Groundnut,8287,9522
+Uttar Pradesh,HARDOI,2010,Kharif     ,Groundnut,7557,6491
+Uttar Pradesh,HARDOI,2011,Kharif     ,Groundnut,8034,7014
+Uttar Pradesh,HARDOI,2012,Kharif     ,Groundnut,10187,10625
+Uttar Pradesh,HARDOI,2013,Kharif     ,Groundnut,8905,10170
+Uttar Pradesh,HARDOI,2014,Kharif     ,Groundnut,7247,6892
+Uttar Pradesh,HATHRAS,1997,Kharif     ,Groundnut,2,1
+Uttar Pradesh,HATHRAS,2004,Kharif     ,Groundnut,1,1
+Uttar Pradesh,HATHRAS,2010,Kharif     ,Groundnut,16,16
+Uttar Pradesh,HATHRAS,2011,Kharif     ,Groundnut,12,12
+Uttar Pradesh,HATHRAS,2012,Kharif     ,Groundnut,2,2
+Uttar Pradesh,HATHRAS,2013,Kharif     ,Groundnut,4,4
+Uttar Pradesh,JALAUN,1997,Kharif     ,Groundnut,84,68
+Uttar Pradesh,JALAUN,1998,Kharif     ,Groundnut,85,51
+Uttar Pradesh,JALAUN,1999,Kharif     ,Groundnut,37,21
+Uttar Pradesh,JALAUN,2000,Kharif     ,Groundnut,88,69
+Uttar Pradesh,JALAUN,2001,Kharif     ,Groundnut,175,170
+Uttar Pradesh,JALAUN,2002,Kharif     ,Groundnut,84,34
+Uttar Pradesh,JALAUN,2003,Kharif     ,Groundnut,119,94
+Uttar Pradesh,JALAUN,2004,Kharif     ,Groundnut,153,150
+Uttar Pradesh,JALAUN,2006,Kharif     ,Groundnut,34,27
+Uttar Pradesh,JALAUN,2007,Kharif     ,Groundnut,14,6
+Uttar Pradesh,JALAUN,2008,Kharif     ,Groundnut,149,63
+Uttar Pradesh,JALAUN,2009,Kharif     ,Groundnut,3,2
+Uttar Pradesh,JALAUN,2010,Kharif     ,Groundnut,1,1
+Uttar Pradesh,JALAUN,2011,Kharif     ,Groundnut,2,2
+Uttar Pradesh,JALAUN,2012,Kharif     ,Groundnut,9,18
+Uttar Pradesh,JALAUN,2013,Kharif     ,Groundnut,55,39
+Uttar Pradesh,JALAUN,2014,Kharif     ,Groundnut,17,15
+Uttar Pradesh,JAUNPUR,2002,Kharif     ,Groundnut,4,3
+Uttar Pradesh,JAUNPUR,2003,Kharif     ,Groundnut,6,4
+Uttar Pradesh,JHANSI,1997,Kharif     ,Groundnut,34722,34965
+Uttar Pradesh,JHANSI,1998,Kharif     ,Groundnut,34091,37739
+Uttar Pradesh,JHANSI,1999,Kharif     ,Groundnut,30667,24411
+Uttar Pradesh,JHANSI,2000,Kharif     ,Groundnut,31239,32176
+Uttar Pradesh,JHANSI,2001,Kharif     ,Groundnut,31626,30234
+Uttar Pradesh,JHANSI,2002,Kharif     ,Groundnut,20045,7697
+Uttar Pradesh,JHANSI,2003,Kharif     ,Groundnut,21625,13235
+Uttar Pradesh,JHANSI,2004,Kharif     ,Groundnut,26480,24573
+Uttar Pradesh,JHANSI,2006,Kharif     ,Groundnut,31041,15676
+Uttar Pradesh,JHANSI,2007,Kharif     ,Groundnut,21063,8151
+Uttar Pradesh,JHANSI,2008,Kharif     ,Groundnut,10994,9378
+Uttar Pradesh,JHANSI,2009,Kharif     ,Groundnut,20993,8586
+Uttar Pradesh,JHANSI,2010,Kharif     ,Groundnut,17788,20598
+Uttar Pradesh,JHANSI,2011,Kharif     ,Groundnut,21481,22813
+Uttar Pradesh,JHANSI,2012,Kharif     ,Groundnut,22107,21687
+Uttar Pradesh,JHANSI,2013,Kharif     ,Groundnut,26546,19671
+Uttar Pradesh,JHANSI,2014,Kharif     ,Groundnut,30159,27234
+Uttar Pradesh,KANNAUJ,1997,Kharif     ,Groundnut,1475,1182
+Uttar Pradesh,KANNAUJ,1998,Kharif     ,Groundnut,1191,987
+Uttar Pradesh,KANNAUJ,1999,Kharif     ,Groundnut,689,803
+Uttar Pradesh,KANNAUJ,2000,Kharif     ,Groundnut,716,924
+Uttar Pradesh,KANNAUJ,2001,Kharif     ,Groundnut,928,779
+Uttar Pradesh,KANNAUJ,2002,Kharif     ,Groundnut,834,547
+Uttar Pradesh,KANNAUJ,2003,Kharif     ,Groundnut,801,535
+Uttar Pradesh,KANNAUJ,2004,Kharif     ,Groundnut,858,706
+Uttar Pradesh,KANNAUJ,2006,Kharif     ,Groundnut,1129,816
+Uttar Pradesh,KANNAUJ,2007,Kharif     ,Groundnut,1366,817
+Uttar Pradesh,KANNAUJ,2008,Kharif     ,Groundnut,1514,1081
+Uttar Pradesh,KANNAUJ,2009,Kharif     ,Groundnut,1597,1076
+Uttar Pradesh,KANNAUJ,2010,Kharif     ,Groundnut,1775,1753
+Uttar Pradesh,KANNAUJ,2011,Kharif     ,Groundnut,2167,2170
+Uttar Pradesh,KANNAUJ,2012,Kharif     ,Groundnut,2434,2417
+Uttar Pradesh,KANNAUJ,2013,Kharif     ,Groundnut,1478,1320
+Uttar Pradesh,KANNAUJ,2014,Kharif     ,Groundnut,1134,980
+Uttar Pradesh,KANPUR DEHAT,1997,Kharif     ,Groundnut,32,26
+Uttar Pradesh,KANPUR DEHAT,1998,Kharif     ,Groundnut,28,23
+Uttar Pradesh,KANPUR DEHAT,2003,Kharif     ,Groundnut,8,5
+Uttar Pradesh,KANPUR DEHAT,2004,Kharif     ,Groundnut,12,10
+Uttar Pradesh,KANPUR DEHAT,2006,Kharif     ,Groundnut,17,12
+Uttar Pradesh,KANPUR DEHAT,2007,Kharif     ,Groundnut,18,11
+Uttar Pradesh,KANPUR DEHAT,2010,Kharif     ,Groundnut,4,4
+Uttar Pradesh,KANPUR DEHAT,2011,Kharif     ,Groundnut,5,5
+Uttar Pradesh,KANPUR DEHAT,2012,Kharif     ,Groundnut,6,6
+Uttar Pradesh,KANPUR DEHAT,2013,Kharif     ,Groundnut,11,10
+Uttar Pradesh,KANPUR NAGAR,1997,Kharif     ,Groundnut,304,243
+Uttar Pradesh,KANPUR NAGAR,1998,Kharif     ,Groundnut,324,269
+Uttar Pradesh,KANPUR NAGAR,1999,Kharif     ,Groundnut,367,428
+Uttar Pradesh,KANPUR NAGAR,2000,Kharif     ,Groundnut,366,472
+Uttar Pradesh,KANPUR NAGAR,2001,Kharif     ,Groundnut,231,194
+Uttar Pradesh,KANPUR NAGAR,2002,Kharif     ,Groundnut,90,59
+Uttar Pradesh,KANPUR NAGAR,2003,Kharif     ,Groundnut,156,104
+Uttar Pradesh,KANPUR NAGAR,2004,Kharif     ,Groundnut,151,124
+Uttar Pradesh,KANPUR NAGAR,2006,Kharif     ,Groundnut,492,356
+Uttar Pradesh,KANPUR NAGAR,2007,Kharif     ,Groundnut,395,236
+Uttar Pradesh,KANPUR NAGAR,2008,Kharif     ,Groundnut,204,146
+Uttar Pradesh,KANPUR NAGAR,2009,Kharif     ,Groundnut,202,136
+Uttar Pradesh,KANPUR NAGAR,2010,Kharif     ,Groundnut,163,161
+Uttar Pradesh,KANPUR NAGAR,2011,Kharif     ,Groundnut,256,256
+Uttar Pradesh,KANPUR NAGAR,2012,Kharif     ,Groundnut,388,385
+Uttar Pradesh,KANPUR NAGAR,2013,Kharif     ,Groundnut,188,168
+Uttar Pradesh,KANPUR NAGAR,2014,Kharif     ,Groundnut,98,85
+Uttar Pradesh,KASGANJ,2009,Kharif     ,Groundnut,115,78
+Uttar Pradesh,KASGANJ,2010,Kharif     ,Groundnut,21,21
+Uttar Pradesh,KASGANJ,2011,Kharif     ,Groundnut,163,163
+Uttar Pradesh,KASGANJ,2012,Kharif     ,Groundnut,111,110
+Uttar Pradesh,KASGANJ,2013,Kharif     ,Groundnut,150,134
+Uttar Pradesh,KASGANJ,2014,Kharif     ,Groundnut,110,95
+Uttar Pradesh,KAUSHAMBI,1997,Kharif     ,Groundnut,82,73
+Uttar Pradesh,KAUSHAMBI,1998,Kharif     ,Groundnut,82,53
+Uttar Pradesh,KAUSHAMBI,1999,Kharif     ,Groundnut,91,76
+Uttar Pradesh,KAUSHAMBI,2000,Kharif     ,Groundnut,81,68
+Uttar Pradesh,KAUSHAMBI,2001,Kharif     ,Groundnut,403,338
+Uttar Pradesh,KAUSHAMBI,2002,Kharif     ,Groundnut,361,236
+Uttar Pradesh,KAUSHAMBI,2003,Kharif     ,Groundnut,533,356
+Uttar Pradesh,KAUSHAMBI,2004,Kharif     ,Groundnut,654,538
+Uttar Pradesh,KAUSHAMBI,2006,Kharif     ,Groundnut,643,465
+Uttar Pradesh,KAUSHAMBI,2007,Kharif     ,Groundnut,1063,635
+Uttar Pradesh,KAUSHAMBI,2008,Kharif     ,Groundnut,225,161
+Uttar Pradesh,KAUSHAMBI,2009,Kharif     ,Groundnut,655,442
+Uttar Pradesh,KAUSHAMBI,2010,Kharif     ,Groundnut,560,553
+Uttar Pradesh,KAUSHAMBI,2011,Kharif     ,Groundnut,739,740
+Uttar Pradesh,KAUSHAMBI,2012,Kharif     ,Groundnut,115,123
+Uttar Pradesh,KAUSHAMBI,2013,Kharif     ,Groundnut,24,21
+Uttar Pradesh,KAUSHAMBI,2014,Kharif     ,Groundnut,20,17
+Uttar Pradesh,KHERI,1997,Kharif     ,Groundnut,7266,6743
+Uttar Pradesh,KHERI,1998,Kharif     ,Groundnut,7020,3614
+Uttar Pradesh,KHERI,1999,Kharif     ,Groundnut,5949,7178
+Uttar Pradesh,KHERI,2000,Kharif     ,Groundnut,6561,5833
+Uttar Pradesh,KHERI,2001,Kharif     ,Groundnut,7694,6278
+Uttar Pradesh,KHERI,2002,Kharif     ,Groundnut,8948,6711
+Uttar Pradesh,KHERI,2003,Kharif     ,Groundnut,5200,3110
+Uttar Pradesh,KHERI,2004,Kharif     ,Groundnut,7323,6151
+Uttar Pradesh,KHERI,2006,Kharif     ,Groundnut,7670,5883
+Uttar Pradesh,KHERI,2007,Kharif     ,Groundnut,10657,5446
+Uttar Pradesh,KHERI,2008,Kharif     ,Groundnut,6738,3612
+Uttar Pradesh,KHERI,2009,Kharif     ,Groundnut,5859,4013
+Uttar Pradesh,KHERI,2010,Kharif     ,Groundnut,7826,6589
+Uttar Pradesh,KHERI,2011,Kharif     ,Groundnut,6225,4893
+Uttar Pradesh,KHERI,2012,Kharif     ,Groundnut,8256,6250
+Uttar Pradesh,KHERI,2013,Kharif     ,Groundnut,5770,4126
+Uttar Pradesh,KHERI,2014,Kharif     ,Groundnut,6959,5637
+Uttar Pradesh,KUSHI NAGAR,1997,Kharif     ,Groundnut,153,123
+Uttar Pradesh,KUSHI NAGAR,1998,Kharif     ,Groundnut,138,114
+Uttar Pradesh,KUSHI NAGAR,1999,Kharif     ,Groundnut,158,184
+Uttar Pradesh,KUSHI NAGAR,2000,Kharif     ,Groundnut,210,221
+Uttar Pradesh,KUSHI NAGAR,2001,Kharif     ,Groundnut,195,208
+Uttar Pradesh,KUSHI NAGAR,2002,Kharif     ,Groundnut,226,206
+Uttar Pradesh,KUSHI NAGAR,2003,Kharif     ,Groundnut,287,334
+Uttar Pradesh,KUSHI NAGAR,2004,Kharif     ,Groundnut,376,243
+Uttar Pradesh,KUSHI NAGAR,2006,Kharif     ,Groundnut,468,435
+Uttar Pradesh,KUSHI NAGAR,2007,Kharif     ,Groundnut,394,300
+Uttar Pradesh,KUSHI NAGAR,2008,Kharif     ,Groundnut,401,359
+Uttar Pradesh,KUSHI NAGAR,2009,Kharif     ,Groundnut,332,224
+Uttar Pradesh,KUSHI NAGAR,2010,Kharif     ,Groundnut,458,562
+Uttar Pradesh,KUSHI NAGAR,2011,Kharif     ,Groundnut,404,509
+Uttar Pradesh,KUSHI NAGAR,2012,Kharif     ,Groundnut,482,735
+Uttar Pradesh,KUSHI NAGAR,2013,Kharif     ,Groundnut,982,1276
+Uttar Pradesh,KUSHI NAGAR,2014,Kharif     ,Groundnut,429,512
+Uttar Pradesh,LALITPUR,1997,Kharif     ,Groundnut,4678,3780
+Uttar Pradesh,LALITPUR,1998,Kharif     ,Groundnut,5849,3516
+Uttar Pradesh,LALITPUR,1999,Kharif     ,Groundnut,7393,4217
+Uttar Pradesh,LALITPUR,2000,Kharif     ,Groundnut,7713,6209
+Uttar Pradesh,LALITPUR,2001,Kharif     ,Groundnut,8164,5005
+Uttar Pradesh,LALITPUR,2002,Kharif     ,Groundnut,6230,1047
+Uttar Pradesh,LALITPUR,2003,Kharif     ,Groundnut,6702,6555
+Uttar Pradesh,LALITPUR,2004,Kharif     ,Groundnut,6933,5117
+Uttar Pradesh,LALITPUR,2006,Kharif     ,Groundnut,7350,5277
+Uttar Pradesh,LALITPUR,2007,Kharif     ,Groundnut,7644,4250
+Uttar Pradesh,LALITPUR,2008,Kharif     ,Groundnut,26,33
+Uttar Pradesh,LALITPUR,2009,Kharif     ,Groundnut,9034,7607
+Uttar Pradesh,LALITPUR,2010,Kharif     ,Groundnut,11372,11508
+Uttar Pradesh,LALITPUR,2011,Kharif     ,Groundnut,12146,11271
+Uttar Pradesh,LALITPUR,2012,Kharif     ,Groundnut,6675,7950
+Uttar Pradesh,LALITPUR,2013,Kharif     ,Groundnut,12214,7487
+Uttar Pradesh,LALITPUR,2014,Kharif     ,Groundnut,10706,7815
+Uttar Pradesh,LUCKNOW,1997,Kharif     ,Groundnut,371,585
+Uttar Pradesh,LUCKNOW,1998,Kharif     ,Groundnut,327,168
+Uttar Pradesh,LUCKNOW,1999,Kharif     ,Groundnut,297,358
+Uttar Pradesh,LUCKNOW,2000,Kharif     ,Groundnut,296,194
+Uttar Pradesh,LUCKNOW,2001,Kharif     ,Groundnut,236,400
+Uttar Pradesh,LUCKNOW,2002,Kharif     ,Groundnut,131,112
+Uttar Pradesh,LUCKNOW,2003,Kharif     ,Groundnut,140,72
+Uttar Pradesh,LUCKNOW,2004,Kharif     ,Groundnut,142,130
+Uttar Pradesh,LUCKNOW,2006,Kharif     ,Groundnut,142,115
+Uttar Pradesh,LUCKNOW,2007,Kharif     ,Groundnut,111,81
+Uttar Pradesh,LUCKNOW,2008,Kharif     ,Groundnut,121,80
+Uttar Pradesh,LUCKNOW,2009,Kharif     ,Groundnut,90,85
+Uttar Pradesh,LUCKNOW,2010,Kharif     ,Groundnut,10,5
+Uttar Pradesh,LUCKNOW,2011,Kharif     ,Groundnut,124,100
+Uttar Pradesh,LUCKNOW,2012,Kharif     ,Groundnut,88,56
+Uttar Pradesh,LUCKNOW,2013,Kharif     ,Groundnut,55,48
+Uttar Pradesh,LUCKNOW,2014,Kharif     ,Groundnut,60,51
+Uttar Pradesh,MAHARAJGANJ,1997,Kharif     ,Groundnut,1313,1052
+Uttar Pradesh,MAHARAJGANJ,1998,Kharif     ,Groundnut,962,798
+Uttar Pradesh,MAHARAJGANJ,1999,Kharif     ,Groundnut,930,1084
+Uttar Pradesh,MAHARAJGANJ,2000,Kharif     ,Groundnut,873,920
+Uttar Pradesh,MAHARAJGANJ,2001,Kharif     ,Groundnut,976,1040
+Uttar Pradesh,MAHARAJGANJ,2002,Kharif     ,Groundnut,1044,950
+Uttar Pradesh,MAHARAJGANJ,2003,Kharif     ,Groundnut,1136,1324
+Uttar Pradesh,MAHARAJGANJ,2004,Kharif     ,Groundnut,1315,848
+Uttar Pradesh,MAHARAJGANJ,2006,Kharif     ,Groundnut,1267,1178
+Uttar Pradesh,MAHARAJGANJ,2007,Kharif     ,Groundnut,1945,1480
+Uttar Pradesh,MAHARAJGANJ,2008,Kharif     ,Groundnut,1205,1079
+Uttar Pradesh,MAHARAJGANJ,2009,Kharif     ,Groundnut,1352,911
+Uttar Pradesh,MAHARAJGANJ,2010,Kharif     ,Groundnut,1094,1341
+Uttar Pradesh,MAHARAJGANJ,2011,Kharif     ,Groundnut,1042,1008
+Uttar Pradesh,MAHARAJGANJ,2012,Kharif     ,Groundnut,1075,1714
+Uttar Pradesh,MAHARAJGANJ,2013,Kharif     ,Groundnut,1308,1377
+Uttar Pradesh,MAHARAJGANJ,2014,Kharif     ,Groundnut,1154,1800
+Uttar Pradesh,MAHOBA,1997,Kharif     ,Groundnut,11048,7623
+Uttar Pradesh,MAHOBA,1998,Kharif     ,Groundnut,11029,5338
+Uttar Pradesh,MAHOBA,1999,Kharif     ,Groundnut,10875,6764
+Uttar Pradesh,MAHOBA,2000,Kharif     ,Groundnut,11332,7014
+Uttar Pradesh,MAHOBA,2001,Kharif     ,Groundnut,10382,5243
+Uttar Pradesh,MAHOBA,2002,Kharif     ,Groundnut,6972,3061
+Uttar Pradesh,MAHOBA,2003,Kharif     ,Groundnut,7123,2465
+Uttar Pradesh,MAHOBA,2004,Kharif     ,Groundnut,7647,3556
+Uttar Pradesh,MAHOBA,2006,Kharif     ,Groundnut,8176,4440
+Uttar Pradesh,MAHOBA,2007,Kharif     ,Groundnut,7038,1591
+Uttar Pradesh,MAHOBA,2008,Kharif     ,Groundnut,504,212
+Uttar Pradesh,MAHOBA,2009,Kharif     ,Groundnut,9034,1382
+Uttar Pradesh,MAHOBA,2010,Kharif     ,Groundnut,5961,2694
+Uttar Pradesh,MAHOBA,2011,Kharif     ,Groundnut,6269,2602
+Uttar Pradesh,MAHOBA,2012,Kharif     ,Groundnut,8368,4853
+Uttar Pradesh,MAHOBA,2013,Kharif     ,Groundnut,6646,4805
+Uttar Pradesh,MAHOBA,2014,Kharif     ,Groundnut,11609,4609
+Uttar Pradesh,MAINPURI,1997,Kharif     ,Groundnut,207,166
+Uttar Pradesh,MAINPURI,1998,Kharif     ,Groundnut,138,114
+Uttar Pradesh,MAINPURI,1999,Kharif     ,Groundnut,95,79
+Uttar Pradesh,MAINPURI,2000,Kharif     ,Groundnut,96,80
+Uttar Pradesh,MAINPURI,2001,Kharif     ,Groundnut,94,79
+Uttar Pradesh,MAINPURI,2002,Kharif     ,Groundnut,21,14
+Uttar Pradesh,MAINPURI,2003,Kharif     ,Groundnut,75,50
+Uttar Pradesh,MAINPURI,2004,Kharif     ,Groundnut,214,176
+Uttar Pradesh,MAINPURI,2006,Kharif     ,Groundnut,214,155
+Uttar Pradesh,MAINPURI,2007,Kharif     ,Groundnut,611,366
+Uttar Pradesh,MAINPURI,2008,Kharif     ,Groundnut,562,401
+Uttar Pradesh,MAINPURI,2009,Kharif     ,Groundnut,183,123
+Uttar Pradesh,MAINPURI,2010,Kharif     ,Groundnut,711,702
+Uttar Pradesh,MAINPURI,2011,Kharif     ,Groundnut,895,896
+Uttar Pradesh,MAINPURI,2012,Kharif     ,Groundnut,1699,1687
+Uttar Pradesh,MAINPURI,2013,Kharif     ,Groundnut,1425,2467
+Uttar Pradesh,MAINPURI,2014,Kharif     ,Groundnut,804,1588
+Uttar Pradesh,MATHURA,1997,Kharif     ,Groundnut,2,2
+Uttar Pradesh,MATHURA,1998,Kharif     ,Groundnut,1,1
+Uttar Pradesh,MATHURA,1999,Kharif     ,Groundnut,1,1
+Uttar Pradesh,MATHURA,2000,Kharif     ,Groundnut,3,2
+Uttar Pradesh,MAU,1997,Kharif     ,Groundnut,451,404
+Uttar Pradesh,MAU,1998,Kharif     ,Groundnut,761,494
+Uttar Pradesh,MAU,1999,Kharif     ,Groundnut,735,611
+Uttar Pradesh,MAU,2000,Kharif     ,Groundnut,610,510
+Uttar Pradesh,MAU,2001,Kharif     ,Groundnut,526,442
+Uttar Pradesh,MAU,2002,Kharif     ,Groundnut,485,318
+Uttar Pradesh,MAU,2003,Kharif     ,Groundnut,552,369
+Uttar Pradesh,MAU,2004,Kharif     ,Groundnut,507,417
+Uttar Pradesh,MAU,2006,Kharif     ,Groundnut,499,361
+Uttar Pradesh,MAU,2007,Kharif     ,Groundnut,86,51
+Uttar Pradesh,MAU,2008,Kharif     ,Groundnut,370,264
+Uttar Pradesh,MAU,2009,Kharif     ,Groundnut,468,315
+Uttar Pradesh,MAU,2010,Kharif     ,Groundnut,586,579
+Uttar Pradesh,MAU,2011,Kharif     ,Groundnut,500,501
+Uttar Pradesh,MAU,2012,Kharif     ,Groundnut,535,531
+Uttar Pradesh,MAU,2013,Kharif     ,Groundnut,429,383
+Uttar Pradesh,MAU,2014,Kharif     ,Groundnut,542,468
+Uttar Pradesh,MEERUT,2000,Kharif     ,Groundnut,1,1
+Uttar Pradesh,MIRZAPUR,1997,Kharif     ,Groundnut,1692,1356
+Uttar Pradesh,MIRZAPUR,1998,Kharif     ,Groundnut,1732,1436
+Uttar Pradesh,MIRZAPUR,1999,Kharif     ,Groundnut,1934,2253
+Uttar Pradesh,MIRZAPUR,2000,Kharif     ,Groundnut,2101,2711
+Uttar Pradesh,MIRZAPUR,2001,Kharif     ,Groundnut,2185,1833
+Uttar Pradesh,MIRZAPUR,2002,Kharif     ,Groundnut,2658,4816
+Uttar Pradesh,MIRZAPUR,2003,Kharif     ,Groundnut,2664,2787
+Uttar Pradesh,MIRZAPUR,2004,Kharif     ,Groundnut,2927,3176
+Uttar Pradesh,MIRZAPUR,2006,Kharif     ,Groundnut,2927,4405
+Uttar Pradesh,MIRZAPUR,2007,Kharif     ,Groundnut,2985,3197
+Uttar Pradesh,MIRZAPUR,2008,Kharif     ,Groundnut,2589,3917
+Uttar Pradesh,MIRZAPUR,2009,Kharif     ,Groundnut,2334,2971
+Uttar Pradesh,MIRZAPUR,2010,Kharif     ,Groundnut,2480,4293
+Uttar Pradesh,MIRZAPUR,2011,Kharif     ,Groundnut,2222,4931
+Uttar Pradesh,MIRZAPUR,2012,Kharif     ,Groundnut,2719,4989
+Uttar Pradesh,MIRZAPUR,2013,Kharif     ,Groundnut,2172,2924
+Uttar Pradesh,MIRZAPUR,2014,Kharif     ,Groundnut,143,234
+Uttar Pradesh,MORADABAD,1997,Kharif     ,Groundnut,3,3
+Uttar Pradesh,MORADABAD,1998,Kharif     ,Groundnut,1,1
+Uttar Pradesh,MORADABAD,2001,Kharif     ,Groundnut,40,34
+Uttar Pradesh,MORADABAD,2002,Kharif     ,Groundnut,3,2
+Uttar Pradesh,MORADABAD,2003,Kharif     ,Groundnut,1,1
+Uttar Pradesh,MORADABAD,2004,Kharif     ,Groundnut,1,1
+Uttar Pradesh,MORADABAD,2007,Kharif     ,Groundnut,3,2
+Uttar Pradesh,MORADABAD,2008,Kharif     ,Groundnut,4,4
+Uttar Pradesh,MORADABAD,2009,Kharif     ,Groundnut,100,67
+Uttar Pradesh,MORADABAD,2011,Kharif     ,Groundnut,3,3
+Uttar Pradesh,MUZAFFARNAGAR,1997,Kharif     ,Groundnut,117,132
+Uttar Pradesh,MUZAFFARNAGAR,1999,Kharif     ,Groundnut,41,38
+Uttar Pradesh,MUZAFFARNAGAR,2000,Kharif     ,Groundnut,43,53
+Uttar Pradesh,MUZAFFARNAGAR,2001,Kharif     ,Groundnut,39,48
+Uttar Pradesh,MUZAFFARNAGAR,2002,Kharif     ,Groundnut,46,48
+Uttar Pradesh,MUZAFFARNAGAR,2003,Kharif     ,Groundnut,39,33
+Uttar Pradesh,MUZAFFARNAGAR,2004,Kharif     ,Groundnut,28,23
+Uttar Pradesh,MUZAFFARNAGAR,2006,Kharif     ,Groundnut,21,18
+Uttar Pradesh,MUZAFFARNAGAR,2007,Kharif     ,Groundnut,16,11
+Uttar Pradesh,MUZAFFARNAGAR,2010,Kharif     ,Groundnut,1,1
+Uttar Pradesh,PILIBHIT,1997,Kharif     ,Groundnut,348,310
+Uttar Pradesh,PILIBHIT,1998,Kharif     ,Groundnut,524,218
+Uttar Pradesh,PILIBHIT,1999,Kharif     ,Groundnut,498,175
+Uttar Pradesh,PILIBHIT,2000,Kharif     ,Groundnut,639,391
+Uttar Pradesh,PILIBHIT,2001,Kharif     ,Groundnut,697,554
+Uttar Pradesh,PILIBHIT,2002,Kharif     ,Groundnut,885,741
+Uttar Pradesh,PILIBHIT,2003,Kharif     ,Groundnut,655,436
+Uttar Pradesh,PILIBHIT,2004,Kharif     ,Groundnut,687,566
+Uttar Pradesh,PILIBHIT,2006,Kharif     ,Groundnut,776,718
+Uttar Pradesh,PILIBHIT,2007,Kharif     ,Groundnut,937,716
+Uttar Pradesh,PILIBHIT,2008,Kharif     ,Groundnut,622,287
+Uttar Pradesh,PILIBHIT,2009,Kharif     ,Groundnut,527,495
+Uttar Pradesh,PILIBHIT,2010,Kharif     ,Groundnut,325,312
+Uttar Pradesh,PILIBHIT,2011,Kharif     ,Groundnut,378,571
+Uttar Pradesh,PILIBHIT,2012,Kharif     ,Groundnut,242,353
+Uttar Pradesh,PILIBHIT,2013,Kharif     ,Groundnut,352,504
+Uttar Pradesh,PILIBHIT,2014,Kharif     ,Groundnut,342,383
+Uttar Pradesh,PRATAPGARH,1997,Kharif     ,Groundnut,3,3
+Uttar Pradesh,PRATAPGARH,1999,Kharif     ,Groundnut,1,1
+Uttar Pradesh,PRATAPGARH,2000,Kharif     ,Groundnut,1,1
+Uttar Pradesh,PRATAPGARH,2001,Kharif     ,Groundnut,3,2
+Uttar Pradesh,PRATAPGARH,2004,Kharif     ,Groundnut,4,3
+Uttar Pradesh,PRATAPGARH,2006,Kharif     ,Groundnut,7,5
+Uttar Pradesh,PRATAPGARH,2008,Kharif     ,Groundnut,20837,14482
+Uttar Pradesh,PRATAPGARH,2009,Kharif     ,Groundnut,1,1
+Uttar Pradesh,RAE BARELI,1997,Kharif     ,Groundnut,2853,4500
+Uttar Pradesh,RAE BARELI,1998,Kharif     ,Groundnut,2866,1476
+Uttar Pradesh,RAE BARELI,1999,Kharif     ,Groundnut,2818,3400
+Uttar Pradesh,RAE BARELI,2000,Kharif     ,Groundnut,2793,1833
+Uttar Pradesh,RAE BARELI,2001,Kharif     ,Groundnut,2162,3662
+Uttar Pradesh,RAE BARELI,2002,Kharif     ,Groundnut,2101,2433
+Uttar Pradesh,RAE BARELI,2003,Kharif     ,Groundnut,2148,1323
+Uttar Pradesh,RAE BARELI,2004,Kharif     ,Groundnut,2282,1830
+Uttar Pradesh,RAE BARELI,2006,Kharif     ,Groundnut,2648,1899
+Uttar Pradesh,RAE BARELI,2007,Kharif     ,Groundnut,2848,1808
+Uttar Pradesh,RAE BARELI,2008,Kharif     ,Groundnut,1780,1326
+Uttar Pradesh,RAE BARELI,2009,Kharif     ,Groundnut,1628,1066
+Uttar Pradesh,RAE BARELI,2010,Kharif     ,Groundnut,1114,1293
+Uttar Pradesh,RAE BARELI,2011,Kharif     ,Groundnut,1151,929
+Uttar Pradesh,RAE BARELI,2012,Kharif     ,Groundnut,1461,931
+Uttar Pradesh,RAE BARELI,2013,Kharif     ,Groundnut,1267,307
+Uttar Pradesh,RAE BARELI,2014,Kharif     ,Groundnut,1120,454
+Uttar Pradesh,RAMPUR,1997,Kharif     ,Groundnut,19,15
+Uttar Pradesh,RAMPUR,1998,Kharif     ,Groundnut,9,7
+Uttar Pradesh,RAMPUR,1999,Kharif     ,Groundnut,11,13
+Uttar Pradesh,RAMPUR,2000,Kharif     ,Groundnut,8,10
+Uttar Pradesh,RAMPUR,2001,Kharif     ,Groundnut,9,8
+Uttar Pradesh,RAMPUR,2002,Kharif     ,Groundnut,8,5
+Uttar Pradesh,RAMPUR,2003,Kharif     ,Groundnut,7,5
+Uttar Pradesh,RAMPUR,2004,Kharif     ,Groundnut,6,5
+Uttar Pradesh,RAMPUR,2007,Kharif     ,Groundnut,45,37
+Uttar Pradesh,RAMPUR,2010,Kharif     ,Groundnut,24,24
+Uttar Pradesh,RAMPUR,2011,Kharif     ,Groundnut,15,14
+Uttar Pradesh,RAMPUR,2012,Kharif     ,Groundnut,21,20
+Uttar Pradesh,RAMPUR,2013,Kharif     ,Groundnut,55,59
+Uttar Pradesh,RAMPUR,2014,Kharif     ,Groundnut,60,74
+Uttar Pradesh,SAHARANPUR,1997,Kharif     ,Groundnut,5582,7078
+Uttar Pradesh,SAHARANPUR,1998,Kharif     ,Groundnut,5033,4234
+Uttar Pradesh,SAHARANPUR,1999,Kharif     ,Groundnut,4373,4102
+Uttar Pradesh,SAHARANPUR,2000,Kharif     ,Groundnut,4062,4992
+Uttar Pradesh,SAHARANPUR,2001,Kharif     ,Groundnut,3517,4333
+Uttar Pradesh,SAHARANPUR,2002,Kharif     ,Groundnut,2638,2725
+Uttar Pradesh,SAHARANPUR,2003,Kharif     ,Groundnut,3648,3101
+Uttar Pradesh,SAHARANPUR,2004,Kharif     ,Groundnut,4158,3543
+Uttar Pradesh,SAHARANPUR,2006,Kharif     ,Groundnut,3008,2578
+Uttar Pradesh,SAHARANPUR,2007,Kharif     ,Groundnut,3823,2791
+Uttar Pradesh,SAHARANPUR,2008,Kharif     ,Groundnut,3880,3632
+Uttar Pradesh,SAHARANPUR,2009,Kharif     ,Groundnut,3911,4091
+Uttar Pradesh,SAHARANPUR,2010,Kharif     ,Groundnut,2996,3553
+Uttar Pradesh,SAHARANPUR,2011,Kharif     ,Groundnut,4064,5011
+Uttar Pradesh,SAHARANPUR,2012,Kharif     ,Groundnut,3237,3467
+Uttar Pradesh,SAHARANPUR,2013,Kharif     ,Groundnut,3860,3984
+Uttar Pradesh,SAHARANPUR,2014,Kharif     ,Groundnut,3840,3886
+Uttar Pradesh,SAMBHAL,2013,Kharif     ,Groundnut,10,11
+Uttar Pradesh,SAMBHAL,2014,Kharif     ,Groundnut,5,6
+Uttar Pradesh,SANT KABEER NAGAR,1997,Kharif     ,Groundnut,938,839
+Uttar Pradesh,SANT KABEER NAGAR,1998,Kharif     ,Groundnut,939,610
+Uttar Pradesh,SANT KABEER NAGAR,2000,Kharif     ,Groundnut,558,466
+Uttar Pradesh,SANT KABEER NAGAR,2001,Kharif     ,Groundnut,766,643
+Uttar Pradesh,SANT KABEER NAGAR,2002,Kharif     ,Groundnut,784,513
+Uttar Pradesh,SANT KABEER NAGAR,2003,Kharif     ,Groundnut,759,507
+Uttar Pradesh,SANT KABEER NAGAR,2004,Kharif     ,Groundnut,877,721
+Uttar Pradesh,SANT KABEER NAGAR,2006,Kharif     ,Groundnut,841,608
+Uttar Pradesh,SANT KABEER NAGAR,2007,Kharif     ,Groundnut,1299,777
+Uttar Pradesh,SANT KABEER NAGAR,2008,Kharif     ,Groundnut,745,532
+Uttar Pradesh,SANT KABEER NAGAR,2009,Kharif     ,Groundnut,394,266
+Uttar Pradesh,SANT KABEER NAGAR,2010,Kharif     ,Groundnut,806,796
+Uttar Pradesh,SANT KABEER NAGAR,2011,Kharif     ,Groundnut,1246,1247
+Uttar Pradesh,SANT KABEER NAGAR,2012,Kharif     ,Groundnut,1873,1860
+Uttar Pradesh,SANT KABEER NAGAR,2013,Kharif     ,Groundnut,700,625
+Uttar Pradesh,SANT KABEER NAGAR,2014,Kharif     ,Groundnut,818,707
+Uttar Pradesh,SHAHJAHANPUR,1997,Kharif     ,Groundnut,8030,7243
+Uttar Pradesh,SHAHJAHANPUR,1998,Kharif     ,Groundnut,8918,1320
+Uttar Pradesh,SHAHJAHANPUR,1999,Kharif     ,Groundnut,4799,1685
+Uttar Pradesh,SHAHJAHANPUR,2000,Kharif     ,Groundnut,5399,3310
+Uttar Pradesh,SHAHJAHANPUR,2001,Kharif     ,Groundnut,5050,4015
+Uttar Pradesh,SHAHJAHANPUR,2002,Kharif     ,Groundnut,4181,3499
+Uttar Pradesh,SHAHJAHANPUR,2003,Kharif     ,Groundnut,7408,4926
+Uttar Pradesh,SHAHJAHANPUR,2004,Kharif     ,Groundnut,5697,4688
+Uttar Pradesh,SHAHJAHANPUR,2006,Kharif     ,Groundnut,6101,6278
+Uttar Pradesh,SHAHJAHANPUR,2007,Kharif     ,Groundnut,5347,4085
+Uttar Pradesh,SHAHJAHANPUR,2008,Kharif     ,Groundnut,5854,2699
+Uttar Pradesh,SHAHJAHANPUR,2009,Kharif     ,Groundnut,6619,6222
+Uttar Pradesh,SHAHJAHANPUR,2010,Kharif     ,Groundnut,4997,4787
+Uttar Pradesh,SHAHJAHANPUR,2011,Kharif     ,Groundnut,4043,4637
+Uttar Pradesh,SHAHJAHANPUR,2012,Kharif     ,Groundnut,4279,3269
+Uttar Pradesh,SHAHJAHANPUR,2013,Kharif     ,Groundnut,4688,6905
+Uttar Pradesh,SHAHJAHANPUR,2014,Kharif     ,Groundnut,3661,4093
+Uttar Pradesh,SHRAVASTI,1997,Kharif     ,Groundnut,72,58
+Uttar Pradesh,SHRAVASTI,1998,Kharif     ,Groundnut,74,61
+Uttar Pradesh,SHRAVASTI,1999,Kharif     ,Groundnut,100,117
+Uttar Pradesh,SHRAVASTI,2000,Kharif     ,Groundnut,99,128
+Uttar Pradesh,SHRAVASTI,2001,Kharif     ,Groundnut,281,300
+Uttar Pradesh,SHRAVASTI,2002,Kharif     ,Groundnut,346,240
+Uttar Pradesh,SHRAVASTI,2003,Kharif     ,Groundnut,216,155
+Uttar Pradesh,SHRAVASTI,2004,Kharif     ,Groundnut,227,154
+Uttar Pradesh,SHRAVASTI,2006,Kharif     ,Groundnut,322,233
+Uttar Pradesh,SHRAVASTI,2007,Kharif     ,Groundnut,294,176
+Uttar Pradesh,SHRAVASTI,2008,Kharif     ,Groundnut,70,50
+Uttar Pradesh,SHRAVASTI,2009,Kharif     ,Groundnut,43,29
+Uttar Pradesh,SHRAVASTI,2010,Kharif     ,Groundnut,416,411
+Uttar Pradesh,SHRAVASTI,2011,Kharif     ,Groundnut,290,290
+Uttar Pradesh,SHRAVASTI,2012,Kharif     ,Groundnut,215,213
+Uttar Pradesh,SHRAVASTI,2013,Kharif     ,Groundnut,158,141
+Uttar Pradesh,SHRAVASTI,2014,Kharif     ,Groundnut,159,137
+Uttar Pradesh,SIDDHARTH NAGAR,1997,Kharif     ,Groundnut,470,421
+Uttar Pradesh,SIDDHARTH NAGAR,1998,Kharif     ,Groundnut,253,164
+Uttar Pradesh,SIDDHARTH NAGAR,1999,Kharif     ,Groundnut,305,254
+Uttar Pradesh,SIDDHARTH NAGAR,2000,Kharif     ,Groundnut,305,254
+Uttar Pradesh,SIDDHARTH NAGAR,2001,Kharif     ,Groundnut,239,200
+Uttar Pradesh,SIDDHARTH NAGAR,2002,Kharif     ,Groundnut,234,153
+Uttar Pradesh,SIDDHARTH NAGAR,2003,Kharif     ,Groundnut,104,69
+Uttar Pradesh,SIDDHARTH NAGAR,2004,Kharif     ,Groundnut,70,58
+Uttar Pradesh,SIDDHARTH NAGAR,2006,Kharif     ,Groundnut,70,51
+Uttar Pradesh,SIDDHARTH NAGAR,2007,Kharif     ,Groundnut,70,42
+Uttar Pradesh,SIDDHARTH NAGAR,2008,Kharif     ,Groundnut,126,90
+Uttar Pradesh,SIDDHARTH NAGAR,2009,Kharif     ,Groundnut,40,27
+Uttar Pradesh,SIDDHARTH NAGAR,2010,Kharif     ,Groundnut,39,39
+Uttar Pradesh,SIDDHARTH NAGAR,2011,Kharif     ,Groundnut,46,46
+Uttar Pradesh,SIDDHARTH NAGAR,2012,Kharif     ,Groundnut,34,34
+Uttar Pradesh,SIDDHARTH NAGAR,2013,Kharif     ,Groundnut,37,33
+Uttar Pradesh,SIDDHARTH NAGAR,2014,Kharif     ,Groundnut,30,26
+Uttar Pradesh,SITAPUR,1997,Kharif     ,Groundnut,5765,3004
+Uttar Pradesh,SITAPUR,1998,Kharif     ,Groundnut,5947,2307
+Uttar Pradesh,SITAPUR,1999,Kharif     ,Groundnut,4687,4739
+Uttar Pradesh,SITAPUR,2000,Kharif     ,Groundnut,6441,4227
+Uttar Pradesh,SITAPUR,2001,Kharif     ,Groundnut,3351,3006
+Uttar Pradesh,SITAPUR,2002,Kharif     ,Groundnut,2733,1115
+Uttar Pradesh,SITAPUR,2003,Kharif     ,Groundnut,2208,689
+Uttar Pradesh,SITAPUR,2004,Kharif     ,Groundnut,1552,723
+Uttar Pradesh,SITAPUR,2006,Kharif     ,Groundnut,2271,1581
+Uttar Pradesh,SITAPUR,2007,Kharif     ,Groundnut,1850,623
+Uttar Pradesh,SITAPUR,2008,Kharif     ,Groundnut,2067,1277
+Uttar Pradesh,SITAPUR,2009,Kharif     ,Groundnut,2367,1340
+Uttar Pradesh,SITAPUR,2010,Kharif     ,Groundnut,1594,1231
+Uttar Pradesh,SITAPUR,2011,Kharif     ,Groundnut,2449,2101
+Uttar Pradesh,SITAPUR,2012,Kharif     ,Groundnut,2608,2102
+Uttar Pradesh,SITAPUR,2013,Kharif     ,Groundnut,2164,1203
+Uttar Pradesh,SITAPUR,2014,Kharif     ,Groundnut,2390,2032
+Uttar Pradesh,SONBHADRA,1997,Kharif     ,Groundnut,124,99
+Uttar Pradesh,SONBHADRA,1998,Kharif     ,Groundnut,208,172
+Uttar Pradesh,SONBHADRA,1999,Kharif     ,Groundnut,306,357
+Uttar Pradesh,SONBHADRA,2000,Kharif     ,Groundnut,294,379
+Uttar Pradesh,SONBHADRA,2001,Kharif     ,Groundnut,328,275
+Uttar Pradesh,SONBHADRA,2002,Kharif     ,Groundnut,320,580
+Uttar Pradesh,SONBHADRA,2003,Kharif     ,Groundnut,317,331
+Uttar Pradesh,SONBHADRA,2004,Kharif     ,Groundnut,286,310
+Uttar Pradesh,SONBHADRA,2006,Kharif     ,Groundnut,360,542
+Uttar Pradesh,SONBHADRA,2007,Kharif     ,Groundnut,235,252
+Uttar Pradesh,SONBHADRA,2008,Kharif     ,Groundnut,254,384
+Uttar Pradesh,SONBHADRA,2009,Kharif     ,Groundnut,257,327
+Uttar Pradesh,SONBHADRA,2010,Kharif     ,Groundnut,254,440
+Uttar Pradesh,SONBHADRA,2011,Kharif     ,Groundnut,360,798
+Uttar Pradesh,SONBHADRA,2012,Kharif     ,Groundnut,373,685
+Uttar Pradesh,SONBHADRA,2013,Kharif     ,Groundnut,367,494
+Uttar Pradesh,SONBHADRA,2014,Kharif     ,Groundnut,303,496
+Uttar Pradesh,SULTANPUR,1997,Kharif     ,Groundnut,13,10
+Uttar Pradesh,SULTANPUR,1998,Kharif     ,Groundnut,9,7
+Uttar Pradesh,SULTANPUR,1999,Kharif     ,Groundnut,10,12
+Uttar Pradesh,SULTANPUR,2000,Kharif     ,Groundnut,5,4
+Uttar Pradesh,SULTANPUR,2001,Kharif     ,Groundnut,2,2
+Uttar Pradesh,SULTANPUR,2002,Kharif     ,Groundnut,14,9
+Uttar Pradesh,SULTANPUR,2003,Kharif     ,Groundnut,7,5
+Uttar Pradesh,SULTANPUR,2004,Kharif     ,Groundnut,18,15
+Uttar Pradesh,SULTANPUR,2006,Kharif     ,Groundnut,18,13
+Uttar Pradesh,SULTANPUR,2007,Kharif     ,Groundnut,23,14
+Uttar Pradesh,SULTANPUR,2009,Kharif     ,Groundnut,32,22
+Uttar Pradesh,SULTANPUR,2010,Kharif     ,Groundnut,18,9
+Uttar Pradesh,SULTANPUR,2012,Kharif     ,Groundnut,17,17
+Uttar Pradesh,SULTANPUR,2013,Kharif     ,Groundnut,18,14
+Uttar Pradesh,SULTANPUR,2014,Kharif     ,Groundnut,23,12
+Uttar Pradesh,UNNAO,1997,Kharif     ,Groundnut,5209,5318
+Uttar Pradesh,UNNAO,1998,Kharif     ,Groundnut,4071,395
+Uttar Pradesh,UNNAO,1999,Kharif     ,Groundnut,2829,3856
+Uttar Pradesh,UNNAO,2000,Kharif     ,Groundnut,3499,2297
+Uttar Pradesh,UNNAO,2001,Kharif     ,Groundnut,3511,2475
+Uttar Pradesh,UNNAO,2002,Kharif     ,Groundnut,2160,2644
+Uttar Pradesh,UNNAO,2003,Kharif     ,Groundnut,2310,536
+Uttar Pradesh,UNNAO,2004,Kharif     ,Groundnut,2173,2264
+Uttar Pradesh,UNNAO,2006,Kharif     ,Groundnut,887,790
+Uttar Pradesh,UNNAO,2007,Kharif     ,Groundnut,5522,5080
+Uttar Pradesh,UNNAO,2008,Kharif     ,Groundnut,2766,2290
+Uttar Pradesh,UNNAO,2009,Kharif     ,Groundnut,2713,2279
+Uttar Pradesh,UNNAO,2010,Kharif     ,Groundnut,2850,1257
+Uttar Pradesh,UNNAO,2011,Kharif     ,Groundnut,2587,1563
+Uttar Pradesh,UNNAO,2012,Kharif     ,Groundnut,2703,1619
+Uttar Pradesh,UNNAO,2013,Kharif     ,Groundnut,2732,2311
+Uttar Pradesh,UNNAO,2014,Kharif     ,Groundnut,1945,1731
+Uttar Pradesh,VARANASI,1997,Kharif     ,Groundnut,2,2
+Uttar Pradesh,VARANASI,2001,Kharif     ,Groundnut,1,1
+Uttar Pradesh,VARANASI,2008,Kharif     ,Groundnut,9,6
+Uttar Pradesh,VARANASI,2010,Kharif     ,Groundnut,1,1
+Uttar Pradesh,VARANASI,2012,Kharif     ,Groundnut,1,1
+Uttar Pradesh,VARANASI,2013,Kharif     ,Groundnut,8,7

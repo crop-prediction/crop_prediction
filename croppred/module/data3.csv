@@ -1,0 +1,738 @@
+State,District_Name,Crop_Year,Season,Crop,Area,Production
+Uttar Pradesh,AGRA,2004,Whole Year ,Dry chillies,109,102
+Uttar Pradesh,AGRA,2005,Whole Year ,Dry chillies,105,96
+Uttar Pradesh,AGRA,2006,Whole Year ,Dry chillies,100,95
+Uttar Pradesh,AGRA,2007,Kharif     ,Dry chillies,57,55
+Uttar Pradesh,AGRA,2008,Kharif     ,Dry chillies,79,79
+Uttar Pradesh,AGRA,2009,Kharif     ,Dry chillies,90,79
+Uttar Pradesh,AGRA,2010,Kharif     ,Dry chillies,348,304
+Uttar Pradesh,AGRA,2011,Kharif     ,Dry chillies,135,112
+Uttar Pradesh,AGRA,2012,Kharif     ,Dry chillies,695,558
+Uttar Pradesh,AGRA,2013,Kharif     ,Dry chillies,213,172
+Uttar Pradesh,AGRA,2014,Kharif     ,Dry chillies,350,289
+Uttar Pradesh,ALIGARH,2004,Whole Year ,Dry chillies,78,73
+Uttar Pradesh,ALIGARH,2005,Whole Year ,Dry chillies,55,50
+Uttar Pradesh,ALIGARH,2006,Whole Year ,Dry chillies,60,57
+Uttar Pradesh,ALIGARH,2007,Kharif     ,Dry chillies,46,44
+Uttar Pradesh,ALIGARH,2008,Kharif     ,Dry chillies,30,30
+Uttar Pradesh,ALIGARH,2009,Kharif     ,Dry chillies,54,48
+Uttar Pradesh,ALIGARH,2010,Kharif     ,Dry chillies,49,43
+Uttar Pradesh,ALIGARH,2011,Kharif     ,Dry chillies,48,40
+Uttar Pradesh,ALIGARH,2012,Kharif     ,Dry chillies,41,33
+Uttar Pradesh,ALIGARH,2013,Kharif     ,Dry chillies,27,22
+Uttar Pradesh,ALIGARH,2014,Kharif     ,Dry chillies,18,15
+Uttar Pradesh,ALLAHABAD,2004,Whole Year ,Dry chillies,176,165
+Uttar Pradesh,ALLAHABAD,2005,Whole Year ,Dry chillies,115,105
+Uttar Pradesh,ALLAHABAD,2006,Whole Year ,Dry chillies,135,128
+Uttar Pradesh,ALLAHABAD,2007,Kharif     ,Dry chillies,255,246
+Uttar Pradesh,ALLAHABAD,2008,Kharif     ,Dry chillies,65,65
+Uttar Pradesh,ALLAHABAD,2009,Kharif     ,Dry chillies,72,64
+Uttar Pradesh,ALLAHABAD,2010,Kharif     ,Dry chillies,106,93
+Uttar Pradesh,ALLAHABAD,2011,Kharif     ,Dry chillies,127,105
+Uttar Pradesh,ALLAHABAD,2012,Kharif     ,Dry chillies,119,96
+Uttar Pradesh,ALLAHABAD,2013,Kharif     ,Dry chillies,122,99
+Uttar Pradesh,ALLAHABAD,2014,Kharif     ,Dry chillies,133,110
+Uttar Pradesh,AMBEDKAR NAGAR,2004,Whole Year ,Dry chillies,25,23
+Uttar Pradesh,AMBEDKAR NAGAR,2005,Whole Year ,Dry chillies,11,10
+Uttar Pradesh,AMBEDKAR NAGAR,2006,Whole Year ,Dry chillies,6,6
+Uttar Pradesh,AMBEDKAR NAGAR,2007,Kharif     ,Dry chillies,15,14
+Uttar Pradesh,AMBEDKAR NAGAR,2008,Kharif     ,Dry chillies,3,3
+Uttar Pradesh,AMBEDKAR NAGAR,2009,Kharif     ,Dry chillies,12,11
+Uttar Pradesh,AMBEDKAR NAGAR,2010,Kharif     ,Dry chillies,19,17
+Uttar Pradesh,AMBEDKAR NAGAR,2011,Kharif     ,Dry chillies,11,9
+Uttar Pradesh,AMBEDKAR NAGAR,2012,Kharif     ,Dry chillies,32,26
+Uttar Pradesh,AMBEDKAR NAGAR,2013,Kharif     ,Dry chillies,13,11
+Uttar Pradesh,AMBEDKAR NAGAR,2014,Kharif     ,Dry chillies,39,32
+Uttar Pradesh,AMETHI,2011,Kharif     ,Dry chillies,34,28
+Uttar Pradesh,AMETHI,2012,Kharif     ,Dry chillies,29,23
+Uttar Pradesh,AMETHI,2013,Kharif     ,Dry chillies,64,52
+Uttar Pradesh,AMETHI,2014,Kharif     ,Dry chillies,29,24
+Uttar Pradesh,AMROHA,2004,Whole Year ,Dry chillies,80,75
+Uttar Pradesh,AMROHA,2005,Whole Year ,Dry chillies,78,71
+Uttar Pradesh,AMROHA,2006,Whole Year ,Dry chillies,127,120
+Uttar Pradesh,AMROHA,2007,Kharif     ,Dry chillies,119,115
+Uttar Pradesh,AMROHA,2008,Kharif     ,Dry chillies,76,75
+Uttar Pradesh,AMROHA,2009,Kharif     ,Dry chillies,96,85
+Uttar Pradesh,AMROHA,2010,Kharif     ,Dry chillies,92,81
+Uttar Pradesh,AMROHA,2011,Kharif     ,Dry chillies,102,85
+Uttar Pradesh,AMROHA,2012,Kharif     ,Dry chillies,62,50
+Uttar Pradesh,AMROHA,2013,Kharif     ,Dry chillies,39,31
+Uttar Pradesh,AMROHA,2014,Kharif     ,Dry chillies,78,64
+Uttar Pradesh,AURAIYA,2004,Whole Year ,Dry chillies,44,41
+Uttar Pradesh,AURAIYA,2005,Whole Year ,Dry chillies,36,33
+Uttar Pradesh,AURAIYA,2006,Whole Year ,Dry chillies,30,28
+Uttar Pradesh,AURAIYA,2007,Kharif     ,Dry chillies,8,8
+Uttar Pradesh,AURAIYA,2008,Kharif     ,Dry chillies,31,31
+Uttar Pradesh,AURAIYA,2009,Kharif     ,Dry chillies,78,69
+Uttar Pradesh,AURAIYA,2010,Kharif     ,Dry chillies,27,24
+Uttar Pradesh,AURAIYA,2011,Kharif     ,Dry chillies,21,17
+Uttar Pradesh,AURAIYA,2012,Kharif     ,Dry chillies,12,10
+Uttar Pradesh,AURAIYA,2013,Kharif     ,Dry chillies,68,55
+Uttar Pradesh,AURAIYA,2014,Kharif     ,Dry chillies,279,230
+Uttar Pradesh,AZAMGARH,2004,Whole Year ,Dry chillies,38,36
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Dry chillies,25,23
+Uttar Pradesh,AZAMGARH,2006,Whole Year ,Dry chillies,24,23
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Dry chillies,25,24
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Dry chillies,21,21
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Dry chillies,21,19
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Dry chillies,18,16
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Dry chillies,35,29
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Dry chillies,49,39
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Dry chillies,7,6
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Dry chillies,17,14
+Uttar Pradesh,BAGHPAT,2004,Whole Year ,Dry chillies,40,38
+Uttar Pradesh,BAGHPAT,2005,Whole Year ,Dry chillies,24,22
+Uttar Pradesh,BAGHPAT,2006,Whole Year ,Dry chillies,35,33
+Uttar Pradesh,BAGHPAT,2007,Kharif     ,Dry chillies,32,31
+Uttar Pradesh,BAGHPAT,2008,Kharif     ,Dry chillies,33,33
+Uttar Pradesh,BAGHPAT,2009,Kharif     ,Dry chillies,13,12
+Uttar Pradesh,BAGHPAT,2010,Kharif     ,Dry chillies,27,24
+Uttar Pradesh,BAGHPAT,2011,Kharif     ,Dry chillies,35,29
+Uttar Pradesh,BAGHPAT,2012,Kharif     ,Dry chillies,11,9
+Uttar Pradesh,BAGHPAT,2013,Kharif     ,Dry chillies,13,10
+Uttar Pradesh,BAGHPAT,2014,Kharif     ,Dry chillies,19,16
+Uttar Pradesh,BAHRAICH,2004,Whole Year ,Dry chillies,158,148
+Uttar Pradesh,BAHRAICH,2005,Whole Year ,Dry chillies,235,215
+Uttar Pradesh,BAHRAICH,2006,Whole Year ,Dry chillies,340,323
+Uttar Pradesh,BAHRAICH,2007,Kharif     ,Dry chillies,246,237
+Uttar Pradesh,BAHRAICH,2008,Kharif     ,Dry chillies,49,49
+Uttar Pradesh,BAHRAICH,2009,Kharif     ,Dry chillies,206,181
+Uttar Pradesh,BAHRAICH,2010,Kharif     ,Dry chillies,238,208
+Uttar Pradesh,BAHRAICH,2011,Kharif     ,Dry chillies,176,146
+Uttar Pradesh,BAHRAICH,2012,Kharif     ,Dry chillies,190,152
+Uttar Pradesh,BAHRAICH,2013,Kharif     ,Dry chillies,264,213
+Uttar Pradesh,BAHRAICH,2014,Kharif     ,Dry chillies,139,114
+Uttar Pradesh,BALLIA,2004,Whole Year ,Dry chillies,144,135
+Uttar Pradesh,BALLIA,2005,Whole Year ,Dry chillies,138,126
+Uttar Pradesh,BALLIA,2006,Whole Year ,Dry chillies,109,103
+Uttar Pradesh,BALLIA,2007,Kharif     ,Dry chillies,134,129
+Uttar Pradesh,BALLIA,2008,Kharif     ,Dry chillies,84,84
+Uttar Pradesh,BALLIA,2009,Kharif     ,Dry chillies,122,107
+Uttar Pradesh,BALLIA,2010,Kharif     ,Dry chillies,102,89
+Uttar Pradesh,BALLIA,2011,Kharif     ,Dry chillies,118,98
+Uttar Pradesh,BALLIA,2012,Kharif     ,Dry chillies,119,96
+Uttar Pradesh,BALLIA,2013,Kharif     ,Dry chillies,98,79
+Uttar Pradesh,BALLIA,2014,Kharif     ,Dry chillies,49,40
+Uttar Pradesh,BALRAMPUR,2004,Whole Year ,Dry chillies,18,17
+Uttar Pradesh,BALRAMPUR,2005,Whole Year ,Dry chillies,20,18
+Uttar Pradesh,BALRAMPUR,2006,Whole Year ,Dry chillies,35,33
+Uttar Pradesh,BALRAMPUR,2007,Kharif     ,Dry chillies,20,19
+Uttar Pradesh,BALRAMPUR,2008,Kharif     ,Dry chillies,20,20
+Uttar Pradesh,BALRAMPUR,2009,Kharif     ,Dry chillies,21,19
+Uttar Pradesh,BALRAMPUR,2010,Kharif     ,Dry chillies,12,11
+Uttar Pradesh,BALRAMPUR,2011,Kharif     ,Dry chillies,22,19
+Uttar Pradesh,BALRAMPUR,2012,Kharif     ,Dry chillies,11,9
+Uttar Pradesh,BALRAMPUR,2014,Kharif     ,Dry chillies,7,6
+Uttar Pradesh,BANDA,2004,Whole Year ,Dry chillies,6,6
+Uttar Pradesh,BANDA,2005,Whole Year ,Dry chillies,9,8
+Uttar Pradesh,BANDA,2006,Whole Year ,Dry chillies,12,11
+Uttar Pradesh,BANDA,2007,Kharif     ,Dry chillies,5,5
+Uttar Pradesh,BANDA,2008,Kharif     ,Dry chillies,8,8
+Uttar Pradesh,BANDA,2009,Kharif     ,Dry chillies,3,3
+Uttar Pradesh,BANDA,2010,Kharif     ,Dry chillies,14,12
+Uttar Pradesh,BANDA,2011,Kharif     ,Dry chillies,10,8
+Uttar Pradesh,BANDA,2012,Kharif     ,Dry chillies,16,13
+Uttar Pradesh,BANDA,2013,Kharif     ,Dry chillies,10,8
+Uttar Pradesh,BANDA,2014,Kharif     ,Dry chillies,282,233
+Uttar Pradesh,BARABANKI,2004,Whole Year ,Dry chillies,477,447
+Uttar Pradesh,BARABANKI,2005,Whole Year ,Dry chillies,427,390
+Uttar Pradesh,BARABANKI,2006,Whole Year ,Dry chillies,455,431
+Uttar Pradesh,BARABANKI,2007,Kharif     ,Dry chillies,449,433
+Uttar Pradesh,BARABANKI,2008,Kharif     ,Dry chillies,445,444
+Uttar Pradesh,BARABANKI,2009,Kharif     ,Dry chillies,451,397
+Uttar Pradesh,BARABANKI,2010,Kharif     ,Dry chillies,395,345
+Uttar Pradesh,BARABANKI,2011,Kharif     ,Dry chillies,74,62
+Uttar Pradesh,BARABANKI,2012,Kharif     ,Dry chillies,307,247
+Uttar Pradesh,BARABANKI,2013,Kharif     ,Dry chillies,336,271
+Uttar Pradesh,BARABANKI,2014,Kharif     ,Dry chillies,283,233
+Uttar Pradesh,BAREILLY,2004,Whole Year ,Dry chillies,78,73
+Uttar Pradesh,BAREILLY,2005,Whole Year ,Dry chillies,97,88
+Uttar Pradesh,BAREILLY,2006,Whole Year ,Dry chillies,86,81
+Uttar Pradesh,BAREILLY,2007,Kharif     ,Dry chillies,50,48
+Uttar Pradesh,BAREILLY,2008,Kharif     ,Dry chillies,79,79
+Uttar Pradesh,BAREILLY,2009,Kharif     ,Dry chillies,88,77
+Uttar Pradesh,BAREILLY,2010,Kharif     ,Dry chillies,157,137
+Uttar Pradesh,BAREILLY,2011,Kharif     ,Dry chillies,251,208
+Uttar Pradesh,BAREILLY,2012,Kharif     ,Dry chillies,202,162
+Uttar Pradesh,BAREILLY,2013,Kharif     ,Dry chillies,54,44
+Uttar Pradesh,BAREILLY,2014,Kharif     ,Dry chillies,97,80
+Uttar Pradesh,BIJNOR,2004,Whole Year ,Dry chillies,48,45
+Uttar Pradesh,BIJNOR,2005,Whole Year ,Dry chillies,24,22
+Uttar Pradesh,BIJNOR,2006,Whole Year ,Dry chillies,60,57
+Uttar Pradesh,BIJNOR,2007,Kharif     ,Dry chillies,26,25
+Uttar Pradesh,BIJNOR,2008,Kharif     ,Dry chillies,47,47
+Uttar Pradesh,BIJNOR,2009,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,BIJNOR,2010,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,BIJNOR,2011,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,BIJNOR,2012,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,BIJNOR,2013,Kharif     ,Dry chillies,5,4
+Uttar Pradesh,BIJNOR,2014,Kharif     ,Dry chillies,15,13
+Uttar Pradesh,BUDAUN,2004,Whole Year ,Dry chillies,68,64
+Uttar Pradesh,BUDAUN,2005,Whole Year ,Dry chillies,50,46
+Uttar Pradesh,BUDAUN,2006,Whole Year ,Dry chillies,83,79
+Uttar Pradesh,BUDAUN,2007,Kharif     ,Dry chillies,90,87
+Uttar Pradesh,BUDAUN,2008,Kharif     ,Dry chillies,79,79
+Uttar Pradesh,BUDAUN,2009,Kharif     ,Dry chillies,62,55
+Uttar Pradesh,BUDAUN,2010,Kharif     ,Dry chillies,73,64
+Uttar Pradesh,BUDAUN,2011,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,BUDAUN,2012,Kharif     ,Dry chillies,193,155
+Uttar Pradesh,BUDAUN,2013,Kharif     ,Dry chillies,249,201
+Uttar Pradesh,BUDAUN,2014,Kharif     ,Dry chillies,116,95
+Uttar Pradesh,BULANDSHAHR,2004,Whole Year ,Dry chillies,821,770
+Uttar Pradesh,BULANDSHAHR,2005,Whole Year ,Dry chillies,589,538
+Uttar Pradesh,BULANDSHAHR,2006,Whole Year ,Dry chillies,709,672
+Uttar Pradesh,BULANDSHAHR,2007,Kharif     ,Dry chillies,723,697
+Uttar Pradesh,BULANDSHAHR,2008,Kharif     ,Dry chillies,716,714
+Uttar Pradesh,BULANDSHAHR,2009,Kharif     ,Dry chillies,712,627
+Uttar Pradesh,BULANDSHAHR,2010,Kharif     ,Dry chillies,168,147
+Uttar Pradesh,BULANDSHAHR,2011,Kharif     ,Dry chillies,490,407
+Uttar Pradesh,BULANDSHAHR,2012,Kharif     ,Dry chillies,347,279
+Uttar Pradesh,BULANDSHAHR,2013,Kharif     ,Dry chillies,293,237
+Uttar Pradesh,BULANDSHAHR,2014,Kharif     ,Dry chillies,329,271
+Uttar Pradesh,CHANDAULI,2004,Whole Year ,Dry chillies,3,3
+Uttar Pradesh,CHANDAULI,2005,Whole Year ,Dry chillies,1,1
+Uttar Pradesh,CHANDAULI,2006,Whole Year ,Dry chillies,31,29
+Uttar Pradesh,CHANDAULI,2007,Kharif     ,Dry chillies,8,7
+Uttar Pradesh,CHANDAULI,2008,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,CHANDAULI,2009,Kharif     ,Dry chillies,9,8
+Uttar Pradesh,CHANDAULI,2010,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,CHANDAULI,2011,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,CHANDAULI,2014,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,CHITRAKOOT,2004,Whole Year ,Dry chillies,42,39
+Uttar Pradesh,CHITRAKOOT,2005,Whole Year ,Dry chillies,36,33
+Uttar Pradesh,CHITRAKOOT,2006,Whole Year ,Dry chillies,34,32
+Uttar Pradesh,CHITRAKOOT,2007,Kharif     ,Dry chillies,26,25
+Uttar Pradesh,CHITRAKOOT,2008,Kharif     ,Dry chillies,34,34
+Uttar Pradesh,CHITRAKOOT,2009,Kharif     ,Dry chillies,30,26
+Uttar Pradesh,CHITRAKOOT,2010,Kharif     ,Dry chillies,32,28
+Uttar Pradesh,CHITRAKOOT,2011,Kharif     ,Dry chillies,32,27
+Uttar Pradesh,CHITRAKOOT,2012,Kharif     ,Dry chillies,21,17
+Uttar Pradesh,CHITRAKOOT,2013,Kharif     ,Dry chillies,46,37
+Uttar Pradesh,CHITRAKOOT,2014,Kharif     ,Dry chillies,16,13
+Uttar Pradesh,DEORIA,2004,Whole Year ,Dry chillies,8,8
+Uttar Pradesh,DEORIA,2005,Whole Year ,Dry chillies,5,5
+Uttar Pradesh,DEORIA,2006,Whole Year ,Dry chillies,4,4
+Uttar Pradesh,DEORIA,2007,Kharif     ,Dry chillies,5,5
+Uttar Pradesh,DEORIA,2008,Kharif     ,Dry chillies,5,5
+Uttar Pradesh,DEORIA,2009,Kharif     ,Dry chillies,5,4
+Uttar Pradesh,DEORIA,2010,Kharif     ,Dry chillies,5,4
+Uttar Pradesh,DEORIA,2011,Kharif     ,Dry chillies,5,4
+Uttar Pradesh,ETAH,2004,Whole Year ,Dry chillies,284,267
+Uttar Pradesh,ETAH,2005,Whole Year ,Dry chillies,238,217
+Uttar Pradesh,ETAH,2006,Whole Year ,Dry chillies,228,216
+Uttar Pradesh,ETAH,2007,Kharif     ,Dry chillies,245,236
+Uttar Pradesh,ETAH,2008,Kharif     ,Dry chillies,242,241
+Uttar Pradesh,ETAH,2009,Kharif     ,Dry chillies,192,169
+Uttar Pradesh,ETAH,2010,Kharif     ,Dry chillies,81,71
+Uttar Pradesh,ETAH,2011,Kharif     ,Dry chillies,198,164
+Uttar Pradesh,ETAH,2012,Kharif     ,Dry chillies,63,50
+Uttar Pradesh,ETAH,2013,Kharif     ,Dry chillies,155,125
+Uttar Pradesh,ETAH,2014,Kharif     ,Dry chillies,138,114
+Uttar Pradesh,ETAWAH,2004,Whole Year ,Dry chillies,188,177
+Uttar Pradesh,ETAWAH,2005,Whole Year ,Dry chillies,218,199
+Uttar Pradesh,ETAWAH,2006,Whole Year ,Dry chillies,207,196
+Uttar Pradesh,ETAWAH,2007,Kharif     ,Dry chillies,194,187
+Uttar Pradesh,ETAWAH,2008,Kharif     ,Dry chillies,314,313
+Uttar Pradesh,ETAWAH,2009,Kharif     ,Dry chillies,224,197
+Uttar Pradesh,ETAWAH,2010,Kharif     ,Dry chillies,195,171
+Uttar Pradesh,ETAWAH,2011,Kharif     ,Dry chillies,227,188
+Uttar Pradesh,ETAWAH,2012,Kharif     ,Dry chillies,161,129
+Uttar Pradesh,ETAWAH,2013,Kharif     ,Dry chillies,121,98
+Uttar Pradesh,ETAWAH,2014,Kharif     ,Dry chillies,144,119
+Uttar Pradesh,FAIZABAD,2004,Whole Year ,Dry chillies,39,37
+Uttar Pradesh,FAIZABAD,2005,Whole Year ,Dry chillies,44,40
+Uttar Pradesh,FAIZABAD,2006,Whole Year ,Dry chillies,34,32
+Uttar Pradesh,FAIZABAD,2007,Kharif     ,Dry chillies,57,55
+Uttar Pradesh,FAIZABAD,2008,Kharif     ,Dry chillies,44,44
+Uttar Pradesh,FAIZABAD,2009,Kharif     ,Dry chillies,44,39
+Uttar Pradesh,FAIZABAD,2010,Kharif     ,Dry chillies,10,9
+Uttar Pradesh,FAIZABAD,2011,Kharif     ,Dry chillies,52,43
+Uttar Pradesh,FAIZABAD,2012,Kharif     ,Dry chillies,8,7
+Uttar Pradesh,FAIZABAD,2013,Kharif     ,Dry chillies,3,2
+Uttar Pradesh,FAIZABAD,2014,Kharif     ,Dry chillies,24,20
+Uttar Pradesh,FARRUKHABAD,2004,Whole Year ,Dry chillies,194,182
+Uttar Pradesh,FARRUKHABAD,2005,Whole Year ,Dry chillies,238,218
+Uttar Pradesh,FARRUKHABAD,2006,Whole Year ,Dry chillies,204,194
+Uttar Pradesh,FARRUKHABAD,2007,Kharif     ,Dry chillies,203,195
+Uttar Pradesh,FARRUKHABAD,2008,Kharif     ,Dry chillies,207,206
+Uttar Pradesh,FARRUKHABAD,2009,Kharif     ,Dry chillies,209,184
+Uttar Pradesh,FARRUKHABAD,2010,Kharif     ,Dry chillies,26,23
+Uttar Pradesh,FARRUKHABAD,2011,Kharif     ,Dry chillies,111,92
+Uttar Pradesh,FARRUKHABAD,2012,Kharif     ,Dry chillies,137,110
+Uttar Pradesh,FARRUKHABAD,2013,Kharif     ,Dry chillies,197,159
+Uttar Pradesh,FARRUKHABAD,2014,Kharif     ,Dry chillies,192,158
+Uttar Pradesh,FATEHPUR,2004,Whole Year ,Dry chillies,2249,2111
+Uttar Pradesh,FATEHPUR,2005,Whole Year ,Dry chillies,2272,2075
+Uttar Pradesh,FATEHPUR,2006,Whole Year ,Dry chillies,1891,1793
+Uttar Pradesh,FATEHPUR,2007,Kharif     ,Dry chillies,1866,1799
+Uttar Pradesh,FATEHPUR,2008,Kharif     ,Dry chillies,2211,2204
+Uttar Pradesh,FATEHPUR,2009,Kharif     ,Dry chillies,2098,1848
+Uttar Pradesh,FATEHPUR,2010,Kharif     ,Dry chillies,2052,1795
+Uttar Pradesh,FATEHPUR,2011,Kharif     ,Dry chillies,2301,1910
+Uttar Pradesh,FATEHPUR,2012,Kharif     ,Dry chillies,2401,1929
+Uttar Pradesh,FATEHPUR,2013,Kharif     ,Dry chillies,2402,1939
+Uttar Pradesh,FATEHPUR,2014,Kharif     ,Dry chillies,2405,1983
+Uttar Pradesh,FIROZABAD,2004,Whole Year ,Dry chillies,3753,2584
+Uttar Pradesh,FIROZABAD,2005,Whole Year ,Dry chillies,1227,1121
+Uttar Pradesh,FIROZABAD,2006,Whole Year ,Dry chillies,1118,1060
+Uttar Pradesh,FIROZABAD,2007,Kharif     ,Dry chillies,1753,1690
+Uttar Pradesh,FIROZABAD,2008,Kharif     ,Dry chillies,849,846
+Uttar Pradesh,FIROZABAD,2009,Kharif     ,Dry chillies,1538,1355
+Uttar Pradesh,FIROZABAD,2010,Kharif     ,Dry chillies,1295,1133
+Uttar Pradesh,FIROZABAD,2011,Kharif     ,Dry chillies,1512,1255
+Uttar Pradesh,FIROZABAD,2012,Kharif     ,Dry chillies,1389,1116
+Uttar Pradesh,FIROZABAD,2013,Kharif     ,Dry chillies,1746,1410
+Uttar Pradesh,FIROZABAD,2014,Kharif     ,Dry chillies,1393,1148
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2009,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2011,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2014,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,GHAZIABAD,2004,Whole Year ,Dry chillies,155,145
+Uttar Pradesh,GHAZIABAD,2005,Whole Year ,Dry chillies,66,60
+Uttar Pradesh,GHAZIABAD,2006,Whole Year ,Dry chillies,182,173
+Uttar Pradesh,GHAZIABAD,2007,Kharif     ,Dry chillies,144,139
+Uttar Pradesh,GHAZIABAD,2008,Kharif     ,Dry chillies,134,133
+Uttar Pradesh,GHAZIABAD,2009,Kharif     ,Dry chillies,136,120
+Uttar Pradesh,GHAZIABAD,2010,Kharif     ,Dry chillies,20,17
+Uttar Pradesh,GHAZIABAD,2011,Kharif     ,Dry chillies,74,61
+Uttar Pradesh,GHAZIABAD,2012,Kharif     ,Dry chillies,102,82
+Uttar Pradesh,GHAZIABAD,2013,Kharif     ,Dry chillies,93,75
+Uttar Pradesh,GHAZIABAD,2014,Kharif     ,Dry chillies,85,70
+Uttar Pradesh,GHAZIPUR,2004,Whole Year ,Dry chillies,622,584
+Uttar Pradesh,GHAZIPUR,2005,Whole Year ,Dry chillies,668,610
+Uttar Pradesh,GHAZIPUR,2006,Whole Year ,Dry chillies,606,575
+Uttar Pradesh,GHAZIPUR,2007,Kharif     ,Dry chillies,662,638
+Uttar Pradesh,GHAZIPUR,2008,Kharif     ,Dry chillies,591,589
+Uttar Pradesh,GHAZIPUR,2009,Kharif     ,Dry chillies,630,555
+Uttar Pradesh,GHAZIPUR,2010,Kharif     ,Dry chillies,587,513
+Uttar Pradesh,GHAZIPUR,2011,Kharif     ,Dry chillies,615,510
+Uttar Pradesh,GHAZIPUR,2012,Kharif     ,Dry chillies,331,266
+Uttar Pradesh,GHAZIPUR,2013,Kharif     ,Dry chillies,269,217
+Uttar Pradesh,GHAZIPUR,2014,Kharif     ,Dry chillies,248,205
+Uttar Pradesh,GONDA,2004,Whole Year ,Dry chillies,18,17
+Uttar Pradesh,GONDA,2005,Whole Year ,Dry chillies,24,22
+Uttar Pradesh,GONDA,2006,Whole Year ,Dry chillies,18,17
+Uttar Pradesh,GONDA,2007,Kharif     ,Dry chillies,36,35
+Uttar Pradesh,GONDA,2008,Kharif     ,Dry chillies,116,116
+Uttar Pradesh,GONDA,2009,Kharif     ,Dry chillies,42,37
+Uttar Pradesh,GONDA,2010,Kharif     ,Dry chillies,47,41
+Uttar Pradesh,GONDA,2011,Kharif     ,Dry chillies,52,43
+Uttar Pradesh,GONDA,2012,Kharif     ,Dry chillies,27,22
+Uttar Pradesh,GONDA,2013,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,GONDA,2014,Kharif     ,Dry chillies,143,118
+Uttar Pradesh,GORAKHPUR,2004,Whole Year ,Dry chillies,13,12
+Uttar Pradesh,GORAKHPUR,2005,Whole Year ,Dry chillies,4,3
+Uttar Pradesh,GORAKHPUR,2006,Whole Year ,Dry chillies,13,12
+Uttar Pradesh,GORAKHPUR,2007,Kharif     ,Dry chillies,16,15
+Uttar Pradesh,GORAKHPUR,2008,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,GORAKHPUR,2009,Kharif     ,Dry chillies,10,9
+Uttar Pradesh,GORAKHPUR,2010,Kharif     ,Dry chillies,9,8
+Uttar Pradesh,GORAKHPUR,2011,Kharif     ,Dry chillies,3,2
+Uttar Pradesh,GORAKHPUR,2012,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,GORAKHPUR,2013,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,GORAKHPUR,2014,Kharif     ,Dry chillies,8,7
+Uttar Pradesh,HAMIRPUR,2004,Whole Year ,Dry chillies,99,93
+Uttar Pradesh,HAMIRPUR,2005,Whole Year ,Dry chillies,63,57
+Uttar Pradesh,HAMIRPUR,2006,Whole Year ,Dry chillies,78,74
+Uttar Pradesh,HAMIRPUR,2007,Kharif     ,Dry chillies,87,84
+Uttar Pradesh,HAMIRPUR,2008,Kharif     ,Dry chillies,83,82
+Uttar Pradesh,HAMIRPUR,2009,Kharif     ,Dry chillies,82,72
+Uttar Pradesh,HAMIRPUR,2010,Kharif     ,Dry chillies,79,69
+Uttar Pradesh,HAMIRPUR,2011,Kharif     ,Dry chillies,38,32
+Uttar Pradesh,HAMIRPUR,2012,Kharif     ,Dry chillies,74,59
+Uttar Pradesh,HAMIRPUR,2013,Kharif     ,Dry chillies,128,103
+Uttar Pradesh,HAMIRPUR,2014,Kharif     ,Dry chillies,57,47
+Uttar Pradesh,HAPUR,2014,Kharif     ,Dry chillies,40,33
+Uttar Pradesh,HARDOI,2004,Whole Year ,Dry chillies,741,695
+Uttar Pradesh,HARDOI,2005,Whole Year ,Dry chillies,537,491
+Uttar Pradesh,HARDOI,2006,Whole Year ,Dry chillies,521,494
+Uttar Pradesh,HARDOI,2007,Kharif     ,Dry chillies,529,510
+Uttar Pradesh,HARDOI,2008,Kharif     ,Dry chillies,407,406
+Uttar Pradesh,HARDOI,2009,Kharif     ,Dry chillies,547,482
+Uttar Pradesh,HARDOI,2010,Kharif     ,Dry chillies,508,445
+Uttar Pradesh,HARDOI,2011,Kharif     ,Dry chillies,351,291
+Uttar Pradesh,HARDOI,2012,Kharif     ,Dry chillies,468,376
+Uttar Pradesh,HARDOI,2013,Kharif     ,Dry chillies,456,368
+Uttar Pradesh,HARDOI,2014,Kharif     ,Dry chillies,51,42
+Uttar Pradesh,HATHRAS,2004,Whole Year ,Dry chillies,275,258
+Uttar Pradesh,HATHRAS,2005,Whole Year ,Dry chillies,195,178
+Uttar Pradesh,HATHRAS,2006,Whole Year ,Dry chillies,201,191
+Uttar Pradesh,HATHRAS,2007,Kharif     ,Dry chillies,207,200
+Uttar Pradesh,HATHRAS,2008,Kharif     ,Dry chillies,130,130
+Uttar Pradesh,HATHRAS,2009,Kharif     ,Dry chillies,202,178
+Uttar Pradesh,HATHRAS,2010,Kharif     ,Dry chillies,451,394
+Uttar Pradesh,HATHRAS,2011,Kharif     ,Dry chillies,183,152
+Uttar Pradesh,HATHRAS,2012,Kharif     ,Dry chillies,235,189
+Uttar Pradesh,HATHRAS,2013,Kharif     ,Dry chillies,220,178
+Uttar Pradesh,HATHRAS,2014,Kharif     ,Dry chillies,303,250
+Uttar Pradesh,JALAUN,2004,Whole Year ,Dry chillies,64,60
+Uttar Pradesh,JALAUN,2005,Whole Year ,Dry chillies,102,93
+Uttar Pradesh,JALAUN,2006,Whole Year ,Dry chillies,94,89
+Uttar Pradesh,JALAUN,2007,Kharif     ,Dry chillies,78,75
+Uttar Pradesh,JALAUN,2008,Kharif     ,Dry chillies,85,85
+Uttar Pradesh,JALAUN,2009,Kharif     ,Dry chillies,85,75
+Uttar Pradesh,JALAUN,2010,Kharif     ,Dry chillies,176,154
+Uttar Pradesh,JALAUN,2011,Kharif     ,Dry chillies,37,31
+Uttar Pradesh,JALAUN,2012,Kharif     ,Dry chillies,92,74
+Uttar Pradesh,JALAUN,2013,Kharif     ,Dry chillies,111,90
+Uttar Pradesh,JALAUN,2014,Kharif     ,Dry chillies,103,85
+Uttar Pradesh,JAUNPUR,2004,Whole Year ,Dry chillies,4,4
+Uttar Pradesh,JAUNPUR,2005,Whole Year ,Dry chillies,5,4
+Uttar Pradesh,JAUNPUR,2006,Whole Year ,Dry chillies,5,5
+Uttar Pradesh,JAUNPUR,2007,Kharif     ,Dry chillies,5,5
+Uttar Pradesh,JAUNPUR,2008,Kharif     ,Dry chillies,5,5
+Uttar Pradesh,JAUNPUR,2009,Kharif     ,Dry chillies,5,4
+Uttar Pradesh,JAUNPUR,2010,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,JAUNPUR,2011,Kharif     ,Dry chillies,4,3
+Uttar Pradesh,JAUNPUR,2012,Kharif     ,Dry chillies,3,2
+Uttar Pradesh,JAUNPUR,2013,Kharif     ,Dry chillies,3,2
+Uttar Pradesh,JAUNPUR,2014,Kharif     ,Dry chillies,3,2
+Uttar Pradesh,JHANSI,2004,Whole Year ,Dry chillies,5,5
+Uttar Pradesh,JHANSI,2005,Whole Year ,Dry chillies,5,5
+Uttar Pradesh,JHANSI,2007,Kharif     ,Dry chillies,12,12
+Uttar Pradesh,JHANSI,2008,Kharif     ,Dry chillies,6,6
+Uttar Pradesh,JHANSI,2009,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,JHANSI,2010,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,JHANSI,2011,Kharif     ,Dry chillies,3,3
+Uttar Pradesh,JHANSI,2014,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,KANNAUJ,2004,Whole Year ,Dry chillies,260,244
+Uttar Pradesh,KANNAUJ,2005,Whole Year ,Dry chillies,219,200
+Uttar Pradesh,KANNAUJ,2006,Whole Year ,Dry chillies,269,255
+Uttar Pradesh,KANNAUJ,2007,Kharif     ,Dry chillies,228,220
+Uttar Pradesh,KANNAUJ,2008,Kharif     ,Dry chillies,178,177
+Uttar Pradesh,KANNAUJ,2009,Kharif     ,Dry chillies,227,200
+Uttar Pradesh,KANNAUJ,2010,Kharif     ,Dry chillies,72,63
+Uttar Pradesh,KANNAUJ,2011,Kharif     ,Dry chillies,206,171
+Uttar Pradesh,KANNAUJ,2012,Kharif     ,Dry chillies,140,112
+Uttar Pradesh,KANNAUJ,2013,Kharif     ,Dry chillies,126,101
+Uttar Pradesh,KANNAUJ,2014,Kharif     ,Dry chillies,42,35
+Uttar Pradesh,KANPUR DEHAT,2004,Whole Year ,Dry chillies,147,138
+Uttar Pradesh,KANPUR DEHAT,2005,Whole Year ,Dry chillies,135,123
+Uttar Pradesh,KANPUR DEHAT,2006,Whole Year ,Dry chillies,150,142
+Uttar Pradesh,KANPUR DEHAT,2007,Kharif     ,Dry chillies,146,141
+Uttar Pradesh,KANPUR DEHAT,2008,Kharif     ,Dry chillies,152,152
+Uttar Pradesh,KANPUR DEHAT,2009,Kharif     ,Dry chillies,146,129
+Uttar Pradesh,KANPUR DEHAT,2010,Kharif     ,Dry chillies,93,81
+Uttar Pradesh,KANPUR DEHAT,2011,Kharif     ,Dry chillies,137,114
+Uttar Pradesh,KANPUR DEHAT,2012,Kharif     ,Dry chillies,103,83
+Uttar Pradesh,KANPUR DEHAT,2013,Kharif     ,Dry chillies,146,118
+Uttar Pradesh,KANPUR DEHAT,2014,Kharif     ,Dry chillies,116,95
+Uttar Pradesh,KANPUR NAGAR,2004,Whole Year ,Dry chillies,1873,1758
+Uttar Pradesh,KANPUR NAGAR,2005,Whole Year ,Dry chillies,1785,1630
+Uttar Pradesh,KANPUR NAGAR,2006,Whole Year ,Dry chillies,1599,1517
+Uttar Pradesh,KANPUR NAGAR,2007,Kharif     ,Dry chillies,1639,1580
+Uttar Pradesh,KANPUR NAGAR,2008,Kharif     ,Dry chillies,1683,1678
+Uttar Pradesh,KANPUR NAGAR,2009,Kharif     ,Dry chillies,1716,1512
+Uttar Pradesh,KANPUR NAGAR,2010,Kharif     ,Dry chillies,1684,1473
+Uttar Pradesh,KANPUR NAGAR,2011,Kharif     ,Dry chillies,1265,1050
+Uttar Pradesh,KANPUR NAGAR,2012,Kharif     ,Dry chillies,1303,1047
+Uttar Pradesh,KANPUR NAGAR,2013,Kharif     ,Dry chillies,1459,1178
+Uttar Pradesh,KANPUR NAGAR,2014,Kharif     ,Dry chillies,1648,1359
+Uttar Pradesh,KASGANJ,2010,Kharif     ,Dry chillies,86,75
+Uttar Pradesh,KASGANJ,2011,Kharif     ,Dry chillies,73,61
+Uttar Pradesh,KASGANJ,2012,Kharif     ,Dry chillies,88,71
+Uttar Pradesh,KASGANJ,2013,Kharif     ,Dry chillies,19,15
+Uttar Pradesh,KASGANJ,2014,Kharif     ,Dry chillies,72,59
+Uttar Pradesh,KAUSHAMBI,2004,Whole Year ,Dry chillies,369,347
+Uttar Pradesh,KAUSHAMBI,2005,Whole Year ,Dry chillies,339,310
+Uttar Pradesh,KAUSHAMBI,2006,Whole Year ,Dry chillies,338,321
+Uttar Pradesh,KAUSHAMBI,2007,Kharif     ,Dry chillies,362,349
+Uttar Pradesh,KAUSHAMBI,2008,Kharif     ,Dry chillies,260,259
+Uttar Pradesh,KAUSHAMBI,2009,Kharif     ,Dry chillies,334,294
+Uttar Pradesh,KAUSHAMBI,2010,Kharif     ,Dry chillies,430,376
+Uttar Pradesh,KAUSHAMBI,2011,Kharif     ,Dry chillies,420,349
+Uttar Pradesh,KAUSHAMBI,2012,Kharif     ,Dry chillies,362,291
+Uttar Pradesh,KAUSHAMBI,2013,Kharif     ,Dry chillies,348,280
+Uttar Pradesh,KAUSHAMBI,2014,Kharif     ,Dry chillies,62,51
+Uttar Pradesh,KHERI,2004,Whole Year ,Dry chillies,367,344
+Uttar Pradesh,KHERI,2005,Whole Year ,Dry chillies,170,155
+Uttar Pradesh,KHERI,2006,Whole Year ,Dry chillies,324,307
+Uttar Pradesh,KHERI,2007,Kharif     ,Dry chillies,172,166
+Uttar Pradesh,KHERI,2008,Kharif     ,Dry chillies,314,313
+Uttar Pradesh,KHERI,2009,Kharif     ,Dry chillies,269,237
+Uttar Pradesh,KHERI,2010,Kharif     ,Dry chillies,250,219
+Uttar Pradesh,KHERI,2011,Kharif     ,Dry chillies,266,221
+Uttar Pradesh,KHERI,2012,Kharif     ,Dry chillies,302,242
+Uttar Pradesh,KHERI,2013,Kharif     ,Dry chillies,295,238
+Uttar Pradesh,KHERI,2014,Kharif     ,Dry chillies,115,95
+Uttar Pradesh,KUSHI NAGAR,2004,Whole Year ,Dry chillies,13,12
+Uttar Pradesh,KUSHI NAGAR,2005,Whole Year ,Dry chillies,5,5
+Uttar Pradesh,KUSHI NAGAR,2006,Whole Year ,Dry chillies,15,14
+Uttar Pradesh,KUSHI NAGAR,2007,Kharif     ,Dry chillies,6,6
+Uttar Pradesh,KUSHI NAGAR,2008,Kharif     ,Dry chillies,7,7
+Uttar Pradesh,KUSHI NAGAR,2009,Kharif     ,Dry chillies,9,8
+Uttar Pradesh,KUSHI NAGAR,2010,Kharif     ,Dry chillies,8,7
+Uttar Pradesh,KUSHI NAGAR,2011,Kharif     ,Dry chillies,20,17
+Uttar Pradesh,KUSHI NAGAR,2012,Kharif     ,Dry chillies,7,6
+Uttar Pradesh,KUSHI NAGAR,2013,Kharif     ,Dry chillies,19,15
+Uttar Pradesh,KUSHI NAGAR,2014,Kharif     ,Dry chillies,13,10
+Uttar Pradesh,LALITPUR,2004,Whole Year ,Dry chillies,9,8
+Uttar Pradesh,LALITPUR,2005,Whole Year ,Dry chillies,11,10
+Uttar Pradesh,LALITPUR,2006,Whole Year ,Dry chillies,7,7
+Uttar Pradesh,LALITPUR,2008,Kharif     ,Dry chillies,6,6
+Uttar Pradesh,LALITPUR,2009,Kharif     ,Dry chillies,3,2
+Uttar Pradesh,LALITPUR,2010,Kharif     ,Dry chillies,10,9
+Uttar Pradesh,LALITPUR,2011,Kharif     ,Dry chillies,9,7
+Uttar Pradesh,LALITPUR,2012,Kharif     ,Dry chillies,9,7
+Uttar Pradesh,LALITPUR,2013,Kharif     ,Dry chillies,30,24
+Uttar Pradesh,LALITPUR,2014,Kharif     ,Dry chillies,16,13
+Uttar Pradesh,LUCKNOW,2004,Whole Year ,Dry chillies,84,79
+Uttar Pradesh,LUCKNOW,2005,Whole Year ,Dry chillies,100,91
+Uttar Pradesh,LUCKNOW,2006,Whole Year ,Dry chillies,142,135
+Uttar Pradesh,LUCKNOW,2007,Kharif     ,Dry chillies,114,110
+Uttar Pradesh,LUCKNOW,2008,Kharif     ,Dry chillies,101,101
+Uttar Pradesh,LUCKNOW,2009,Kharif     ,Dry chillies,42,37
+Uttar Pradesh,LUCKNOW,2010,Kharif     ,Dry chillies,27,23
+Uttar Pradesh,LUCKNOW,2011,Kharif     ,Dry chillies,92,76
+Uttar Pradesh,LUCKNOW,2012,Kharif     ,Dry chillies,68,55
+Uttar Pradesh,LUCKNOW,2013,Kharif     ,Dry chillies,30,24
+Uttar Pradesh,LUCKNOW,2014,Kharif     ,Dry chillies,38,31
+Uttar Pradesh,MAHARAJGANJ,2004,Whole Year ,Dry chillies,25,23
+Uttar Pradesh,MAHARAJGANJ,2005,Whole Year ,Dry chillies,25,23
+Uttar Pradesh,MAHARAJGANJ,2006,Whole Year ,Dry chillies,24,23
+Uttar Pradesh,MAHARAJGANJ,2007,Kharif     ,Dry chillies,25,24
+Uttar Pradesh,MAHARAJGANJ,2008,Kharif     ,Dry chillies,21,21
+Uttar Pradesh,MAHARAJGANJ,2009,Kharif     ,Dry chillies,10,9
+Uttar Pradesh,MAHARAJGANJ,2010,Kharif     ,Dry chillies,27,24
+Uttar Pradesh,MAHARAJGANJ,2011,Kharif     ,Dry chillies,14,12
+Uttar Pradesh,MAHARAJGANJ,2012,Kharif     ,Dry chillies,13,10
+Uttar Pradesh,MAHARAJGANJ,2013,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,MAHARAJGANJ,2014,Kharif     ,Dry chillies,8,7
+Uttar Pradesh,MAHOBA,2004,Whole Year ,Dry chillies,50,47
+Uttar Pradesh,MAHOBA,2005,Whole Year ,Dry chillies,26,24
+Uttar Pradesh,MAHOBA,2006,Whole Year ,Dry chillies,50,48
+Uttar Pradesh,MAHOBA,2007,Kharif     ,Dry chillies,31,30
+Uttar Pradesh,MAHOBA,2008,Kharif     ,Dry chillies,42,42
+Uttar Pradesh,MAHOBA,2009,Kharif     ,Dry chillies,41,36
+Uttar Pradesh,MAHOBA,2010,Kharif     ,Dry chillies,61,54
+Uttar Pradesh,MAHOBA,2011,Kharif     ,Dry chillies,46,38
+Uttar Pradesh,MAHOBA,2012,Kharif     ,Dry chillies,42,34
+Uttar Pradesh,MAHOBA,2013,Kharif     ,Dry chillies,43,35
+Uttar Pradesh,MAHOBA,2014,Kharif     ,Dry chillies,43,35
+Uttar Pradesh,MAINPURI,2004,Whole Year ,Dry chillies,61,57
+Uttar Pradesh,MAINPURI,2005,Whole Year ,Dry chillies,140,128
+Uttar Pradesh,MAINPURI,2006,Whole Year ,Dry chillies,101,96
+Uttar Pradesh,MAINPURI,2007,Kharif     ,Dry chillies,214,206
+Uttar Pradesh,MAINPURI,2008,Kharif     ,Dry chillies,131,131
+Uttar Pradesh,MAINPURI,2009,Kharif     ,Dry chillies,129,114
+Uttar Pradesh,MAINPURI,2010,Kharif     ,Dry chillies,66,58
+Uttar Pradesh,MAINPURI,2011,Kharif     ,Dry chillies,129,107
+Uttar Pradesh,MAINPURI,2012,Kharif     ,Dry chillies,83,66
+Uttar Pradesh,MAINPURI,2013,Kharif     ,Dry chillies,108,87
+Uttar Pradesh,MAINPURI,2014,Kharif     ,Dry chillies,181,149
+Uttar Pradesh,MATHURA,2004,Whole Year ,Dry chillies,26,25
+Uttar Pradesh,MATHURA,2005,Whole Year ,Dry chillies,9,8
+Uttar Pradesh,MATHURA,2006,Whole Year ,Dry chillies,17,16
+Uttar Pradesh,MATHURA,2007,Kharif     ,Dry chillies,17,16
+Uttar Pradesh,MATHURA,2008,Kharif     ,Dry chillies,13,13
+Uttar Pradesh,MATHURA,2009,Kharif     ,Dry chillies,7,6
+Uttar Pradesh,MATHURA,2010,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,MATHURA,2011,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,MATHURA,2012,Kharif     ,Dry chillies,12,10
+Uttar Pradesh,MATHURA,2013,Kharif     ,Dry chillies,16,13
+Uttar Pradesh,MATHURA,2014,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,MAU,2004,Whole Year ,Dry chillies,7,6
+Uttar Pradesh,MAU,2005,Whole Year ,Dry chillies,2,2
+Uttar Pradesh,MAU,2006,Whole Year ,Dry chillies,7,7
+Uttar Pradesh,MAU,2007,Kharif     ,Dry chillies,5,5
+Uttar Pradesh,MAU,2008,Kharif     ,Dry chillies,5,5
+Uttar Pradesh,MAU,2009,Kharif     ,Dry chillies,10,9
+Uttar Pradesh,MAU,2010,Kharif     ,Dry chillies,10,9
+Uttar Pradesh,MAU,2011,Kharif     ,Dry chillies,42,35
+Uttar Pradesh,MAU,2012,Kharif     ,Dry chillies,44,35
+Uttar Pradesh,MEERUT,2004,Whole Year ,Dry chillies,154,145
+Uttar Pradesh,MEERUT,2005,Whole Year ,Dry chillies,126,115
+Uttar Pradesh,MEERUT,2006,Whole Year ,Dry chillies,172,163
+Uttar Pradesh,MEERUT,2007,Kharif     ,Dry chillies,156,150
+Uttar Pradesh,MEERUT,2008,Kharif     ,Dry chillies,152,152
+Uttar Pradesh,MEERUT,2009,Kharif     ,Dry chillies,152,134
+Uttar Pradesh,MEERUT,2010,Kharif     ,Dry chillies,123,108
+Uttar Pradesh,MEERUT,2011,Kharif     ,Dry chillies,151,125
+Uttar Pradesh,MEERUT,2012,Kharif     ,Dry chillies,147,118
+Uttar Pradesh,MEERUT,2013,Kharif     ,Dry chillies,64,51
+Uttar Pradesh,MEERUT,2014,Kharif     ,Dry chillies,34,28
+Uttar Pradesh,MIRZAPUR,2004,Whole Year ,Dry chillies,1025,962
+Uttar Pradesh,MIRZAPUR,2005,Whole Year ,Dry chillies,1152,1052
+Uttar Pradesh,MIRZAPUR,2006,Whole Year ,Dry chillies,1019,967
+Uttar Pradesh,MIRZAPUR,2007,Kharif     ,Dry chillies,1230,1186
+Uttar Pradesh,MIRZAPUR,2008,Kharif     ,Dry chillies,1413,1409
+Uttar Pradesh,MIRZAPUR,2009,Kharif     ,Dry chillies,1168,1029
+Uttar Pradesh,MIRZAPUR,2010,Kharif     ,Dry chillies,716,627
+Uttar Pradesh,MIRZAPUR,2011,Kharif     ,Dry chillies,829,688
+Uttar Pradesh,MIRZAPUR,2012,Kharif     ,Dry chillies,1071,860
+Uttar Pradesh,MIRZAPUR,2013,Kharif     ,Dry chillies,658,531
+Uttar Pradesh,MIRZAPUR,2014,Kharif     ,Dry chillies,658,543
+Uttar Pradesh,MORADABAD,2004,Whole Year ,Dry chillies,1024,961
+Uttar Pradesh,MORADABAD,2005,Whole Year ,Dry chillies,802,733
+Uttar Pradesh,MORADABAD,2006,Whole Year ,Dry chillies,836,793
+Uttar Pradesh,MORADABAD,2007,Kharif     ,Dry chillies,734,707
+Uttar Pradesh,MORADABAD,2008,Kharif     ,Dry chillies,851,848
+Uttar Pradesh,MORADABAD,2009,Kharif     ,Dry chillies,850,749
+Uttar Pradesh,MORADABAD,2010,Kharif     ,Dry chillies,623,545
+Uttar Pradesh,MORADABAD,2011,Kharif     ,Dry chillies,550,456
+Uttar Pradesh,MORADABAD,2012,Kharif     ,Dry chillies,148,119
+Uttar Pradesh,MORADABAD,2013,Kharif     ,Dry chillies,604,488
+Uttar Pradesh,MORADABAD,2014,Kharif     ,Dry chillies,100,82
+Uttar Pradesh,MUZAFFARNAGAR,2004,Whole Year ,Dry chillies,246,231
+Uttar Pradesh,MUZAFFARNAGAR,2005,Whole Year ,Dry chillies,167,153
+Uttar Pradesh,MUZAFFARNAGAR,2006,Whole Year ,Dry chillies,258,245
+Uttar Pradesh,MUZAFFARNAGAR,2007,Kharif     ,Dry chillies,230,222
+Uttar Pradesh,MUZAFFARNAGAR,2008,Kharif     ,Dry chillies,206,205
+Uttar Pradesh,MUZAFFARNAGAR,2009,Kharif     ,Dry chillies,221,194
+Uttar Pradesh,MUZAFFARNAGAR,2010,Kharif     ,Dry chillies,216,189
+Uttar Pradesh,MUZAFFARNAGAR,2011,Kharif     ,Dry chillies,90,75
+Uttar Pradesh,MUZAFFARNAGAR,2012,Kharif     ,Dry chillies,23,18
+Uttar Pradesh,MUZAFFARNAGAR,2013,Kharif     ,Dry chillies,37,30
+Uttar Pradesh,MUZAFFARNAGAR,2014,Kharif     ,Dry chillies,219,181
+Uttar Pradesh,PILIBHIT,2006,Whole Year ,Dry chillies,2,2
+Uttar Pradesh,PILIBHIT,2008,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,PILIBHIT,2009,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,PILIBHIT,2010,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,PILIBHIT,2014,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,PRATAPGARH,2004,Whole Year ,Dry chillies,11,10
+Uttar Pradesh,PRATAPGARH,2005,Whole Year ,Dry chillies,16,14
+Uttar Pradesh,PRATAPGARH,2006,Whole Year ,Dry chillies,21,20
+Uttar Pradesh,PRATAPGARH,2007,Kharif     ,Dry chillies,17,16
+Uttar Pradesh,PRATAPGARH,2008,Kharif     ,Dry chillies,17,17
+Uttar Pradesh,PRATAPGARH,2009,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,PRATAPGARH,2010,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,PRATAPGARH,2011,Kharif     ,Dry chillies,4,3
+Uttar Pradesh,PRATAPGARH,2012,Kharif     ,Dry chillies,3,2
+Uttar Pradesh,PRATAPGARH,2013,Kharif     ,Dry chillies,4,3
+Uttar Pradesh,PRATAPGARH,2014,Kharif     ,Dry chillies,3,2
+Uttar Pradesh,RAE BARELI,2004,Whole Year ,Dry chillies,626,588
+Uttar Pradesh,RAE BARELI,2005,Whole Year ,Dry chillies,666,608
+Uttar Pradesh,RAE BARELI,2006,Whole Year ,Dry chillies,574,544
+Uttar Pradesh,RAE BARELI,2007,Kharif     ,Dry chillies,562,541
+Uttar Pradesh,RAE BARELI,2008,Kharif     ,Dry chillies,854,851
+Uttar Pradesh,RAE BARELI,2009,Kharif     ,Dry chillies,397,350
+Uttar Pradesh,RAE BARELI,2010,Kharif     ,Dry chillies,361,316
+Uttar Pradesh,RAE BARELI,2011,Kharif     ,Dry chillies,196,163
+Uttar Pradesh,RAE BARELI,2012,Kharif     ,Dry chillies,38,31
+Uttar Pradesh,RAE BARELI,2013,Kharif     ,Dry chillies,388,313
+Uttar Pradesh,RAE BARELI,2014,Kharif     ,Dry chillies,442,365
+Uttar Pradesh,RAMPUR,2004,Whole Year ,Dry chillies,96,90
+Uttar Pradesh,RAMPUR,2005,Whole Year ,Dry chillies,43,39
+Uttar Pradesh,RAMPUR,2006,Whole Year ,Dry chillies,128,121
+Uttar Pradesh,RAMPUR,2007,Kharif     ,Dry chillies,96,93
+Uttar Pradesh,RAMPUR,2008,Kharif     ,Dry chillies,75,75
+Uttar Pradesh,RAMPUR,2009,Kharif     ,Dry chillies,37,32
+Uttar Pradesh,RAMPUR,2010,Kharif     ,Dry chillies,174,152
+Uttar Pradesh,RAMPUR,2011,Kharif     ,Dry chillies,72,60
+Uttar Pradesh,RAMPUR,2012,Kharif     ,Dry chillies,2,2
+Uttar Pradesh,RAMPUR,2013,Kharif     ,Dry chillies,112,90
+Uttar Pradesh,RAMPUR,2014,Kharif     ,Dry chillies,63,52
+Uttar Pradesh,SAHARANPUR,2004,Whole Year ,Dry chillies,84,79
+Uttar Pradesh,SAHARANPUR,2005,Whole Year ,Dry chillies,47,43
+Uttar Pradesh,SAHARANPUR,2006,Whole Year ,Dry chillies,57,54
+Uttar Pradesh,SAHARANPUR,2007,Kharif     ,Dry chillies,43,41
+Uttar Pradesh,SAHARANPUR,2008,Kharif     ,Dry chillies,22,22
+Uttar Pradesh,SAHARANPUR,2009,Kharif     ,Dry chillies,11,10
+Uttar Pradesh,SAHARANPUR,2010,Kharif     ,Dry chillies,35,31
+Uttar Pradesh,SAHARANPUR,2011,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,SAHARANPUR,2012,Kharif     ,Dry chillies,23,18
+Uttar Pradesh,SAHARANPUR,2013,Kharif     ,Dry chillies,7,6
+Uttar Pradesh,SAHARANPUR,2014,Kharif     ,Dry chillies,51,42
+Uttar Pradesh,SAMBHAL,2012,Kharif     ,Dry chillies,688,552
+Uttar Pradesh,SAMBHAL,2013,Kharif     ,Dry chillies,138,112
+Uttar Pradesh,SAMBHAL,2014,Kharif     ,Dry chillies,716,590
+Uttar Pradesh,SANT KABEER NAGAR,2004,Whole Year ,Dry chillies,46,43
+Uttar Pradesh,SANT KABEER NAGAR,2005,Whole Year ,Dry chillies,59,54
+Uttar Pradesh,SANT KABEER NAGAR,2006,Whole Year ,Dry chillies,40,38
+Uttar Pradesh,SANT KABEER NAGAR,2007,Kharif     ,Dry chillies,53,51
+Uttar Pradesh,SANT KABEER NAGAR,2008,Kharif     ,Dry chillies,49,49
+Uttar Pradesh,SANT KABEER NAGAR,2009,Kharif     ,Dry chillies,27,24
+Uttar Pradesh,SANT KABEER NAGAR,2010,Kharif     ,Dry chillies,7,6
+Uttar Pradesh,SANT KABEER NAGAR,2011,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,SANT KABEER NAGAR,2012,Kharif     ,Dry chillies,134,108
+Uttar Pradesh,SANT KABEER NAGAR,2013,Kharif     ,Dry chillies,105,85
+Uttar Pradesh,SANT KABEER NAGAR,2014,Kharif     ,Dry chillies,134,110
+Uttar Pradesh,SANT RAVIDAS NAGAR,2005,Whole Year ,Dry chillies,3,3
+Uttar Pradesh,SANT RAVIDAS NAGAR,2006,Whole Year ,Dry chillies,2,2
+Uttar Pradesh,SANT RAVIDAS NAGAR,2008,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,SANT RAVIDAS NAGAR,2009,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,SANT RAVIDAS NAGAR,2010,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,SANT RAVIDAS NAGAR,2012,Kharif     ,Dry chillies,8,7
+Uttar Pradesh,SANT RAVIDAS NAGAR,2013,Kharif     ,Dry chillies,19,15
+Uttar Pradesh,SHAHJAHANPUR,2004,Whole Year ,Dry chillies,35,33
+Uttar Pradesh,SHAHJAHANPUR,2005,Whole Year ,Dry chillies,35,32
+Uttar Pradesh,SHAHJAHANPUR,2006,Whole Year ,Dry chillies,28,27
+Uttar Pradesh,SHAHJAHANPUR,2007,Kharif     ,Dry chillies,29,28
+Uttar Pradesh,SHAHJAHANPUR,2008,Kharif     ,Dry chillies,38,37
+Uttar Pradesh,SHAHJAHANPUR,2009,Kharif     ,Dry chillies,33,29
+Uttar Pradesh,SHAHJAHANPUR,2010,Kharif     ,Dry chillies,187,164
+Uttar Pradesh,SHAHJAHANPUR,2011,Kharif     ,Dry chillies,63,52
+Uttar Pradesh,SHAHJAHANPUR,2012,Kharif     ,Dry chillies,115,93
+Uttar Pradesh,SHAHJAHANPUR,2013,Kharif     ,Dry chillies,76,61
+Uttar Pradesh,SHAHJAHANPUR,2014,Kharif     ,Dry chillies,7,6
+Uttar Pradesh,SHAMLI,2012,Kharif     ,Dry chillies,68,55
+Uttar Pradesh,SHAMLI,2013,Kharif     ,Dry chillies,56,45
+Uttar Pradesh,SHAMLI,2014,Kharif     ,Dry chillies,47,39
+Uttar Pradesh,SHRAVASTI,2004,Whole Year ,Dry chillies,15,14
+Uttar Pradesh,SHRAVASTI,2005,Whole Year ,Dry chillies,3,3
+Uttar Pradesh,SHRAVASTI,2006,Whole Year ,Dry chillies,8,7
+Uttar Pradesh,SHRAVASTI,2007,Kharif     ,Dry chillies,11,11
+Uttar Pradesh,SHRAVASTI,2008,Kharif     ,Dry chillies,7,7
+Uttar Pradesh,SHRAVASTI,2009,Kharif     ,Dry chillies,9,8
+Uttar Pradesh,SHRAVASTI,2010,Kharif     ,Dry chillies,3,2
+Uttar Pradesh,SHRAVASTI,2011,Kharif     ,Dry chillies,4,3
+Uttar Pradesh,SHRAVASTI,2013,Kharif     ,Dry chillies,8,7
+Uttar Pradesh,SHRAVASTI,2014,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,SIDDHARTH NAGAR,2004,Whole Year ,Dry chillies,3,3
+Uttar Pradesh,SIDDHARTH NAGAR,2005,Whole Year ,Dry chillies,19,17
+Uttar Pradesh,SIDDHARTH NAGAR,2006,Whole Year ,Dry chillies,13,13
+Uttar Pradesh,SIDDHARTH NAGAR,2007,Kharif     ,Dry chillies,19,18
+Uttar Pradesh,SIDDHARTH NAGAR,2008,Kharif     ,Dry chillies,12,12
+Uttar Pradesh,SITAPUR,2004,Whole Year ,Dry chillies,124,116
+Uttar Pradesh,SITAPUR,2005,Whole Year ,Dry chillies,81,74
+Uttar Pradesh,SITAPUR,2006,Whole Year ,Dry chillies,104,99
+Uttar Pradesh,SITAPUR,2007,Kharif     ,Dry chillies,122,118
+Uttar Pradesh,SITAPUR,2008,Kharif     ,Dry chillies,59,59
+Uttar Pradesh,SITAPUR,2009,Kharif     ,Dry chillies,236,208
+Uttar Pradesh,SITAPUR,2010,Kharif     ,Dry chillies,48,42
+Uttar Pradesh,SITAPUR,2011,Kharif     ,Dry chillies,114,95
+Uttar Pradesh,SITAPUR,2012,Kharif     ,Dry chillies,72,58
+Uttar Pradesh,SITAPUR,2013,Kharif     ,Dry chillies,46,37
+Uttar Pradesh,SITAPUR,2014,Kharif     ,Dry chillies,45,37
+Uttar Pradesh,SONBHADRA,2004,Whole Year ,Dry chillies,16,15
+Uttar Pradesh,SONBHADRA,2005,Whole Year ,Dry chillies,28,25
+Uttar Pradesh,SONBHADRA,2006,Whole Year ,Dry chillies,19,18
+Uttar Pradesh,SONBHADRA,2007,Kharif     ,Dry chillies,20,19
+Uttar Pradesh,SONBHADRA,2008,Kharif     ,Dry chillies,21,21
+Uttar Pradesh,SONBHADRA,2009,Kharif     ,Dry chillies,21,18
+Uttar Pradesh,SONBHADRA,2010,Kharif     ,Dry chillies,22,19
+Uttar Pradesh,SONBHADRA,2011,Kharif     ,Dry chillies,21,17
+Uttar Pradesh,SONBHADRA,2012,Kharif     ,Dry chillies,10,8
+Uttar Pradesh,SONBHADRA,2013,Kharif     ,Dry chillies,14,12
+Uttar Pradesh,SONBHADRA,2014,Kharif     ,Dry chillies,4,3
+Uttar Pradesh,SULTANPUR,2004,Whole Year ,Dry chillies,7,7
+Uttar Pradesh,SULTANPUR,2005,Whole Year ,Dry chillies,7,7
+Uttar Pradesh,SULTANPUR,2006,Whole Year ,Dry chillies,7,7
+Uttar Pradesh,SULTANPUR,2007,Kharif     ,Dry chillies,7,7
+Uttar Pradesh,SULTANPUR,2008,Kharif     ,Dry chillies,1,1
+Uttar Pradesh,SULTANPUR,2009,Kharif     ,Dry chillies,6,5
+Uttar Pradesh,SULTANPUR,2010,Kharif     ,Dry chillies,15,13
+Uttar Pradesh,SULTANPUR,2011,Kharif     ,Dry chillies,13,11
+Uttar Pradesh,SULTANPUR,2012,Kharif     ,Dry chillies,13,10
+Uttar Pradesh,SULTANPUR,2013,Kharif     ,Dry chillies,27,22
+Uttar Pradesh,UNNAO,2004,Whole Year ,Dry chillies,752,706
+Uttar Pradesh,UNNAO,2005,Whole Year ,Dry chillies,502,550
+Uttar Pradesh,UNNAO,2006,Whole Year ,Dry chillies,592,562
+Uttar Pradesh,UNNAO,2007,Kharif     ,Dry chillies,654,630
+Uttar Pradesh,UNNAO,2008,Kharif     ,Dry chillies,608,606
+Uttar Pradesh,UNNAO,2009,Kharif     ,Dry chillies,317,279
+Uttar Pradesh,UNNAO,2010,Kharif     ,Dry chillies,555,485
+Uttar Pradesh,UNNAO,2011,Kharif     ,Dry chillies,545,452
+Uttar Pradesh,UNNAO,2012,Kharif     ,Dry chillies,300,241
+Uttar Pradesh,UNNAO,2013,Kharif     ,Dry chillies,570,461
+Uttar Pradesh,UNNAO,2014,Kharif     ,Dry chillies,460,379
+Uttar Pradesh,VARANASI,2004,Whole Year ,Dry chillies,308,289
+Uttar Pradesh,VARANASI,2005,Whole Year ,Dry chillies,291,266
+Uttar Pradesh,VARANASI,2006,Whole Year ,Dry chillies,273,259
+Uttar Pradesh,VARANASI,2007,Kharif     ,Dry chillies,283,273
+Uttar Pradesh,VARANASI,2008,Kharif     ,Dry chillies,286,285
+Uttar Pradesh,VARANASI,2009,Kharif     ,Dry chillies,288,254
+Uttar Pradesh,VARANASI,2010,Kharif     ,Dry chillies,331,290
+Uttar Pradesh,VARANASI,2011,Kharif     ,Dry chillies,407,338
+Uttar Pradesh,VARANASI,2012,Kharif     ,Dry chillies,494,397
+Uttar Pradesh,VARANASI,2013,Kharif     ,Dry chillies,356,288
+Uttar Pradesh,VARANASI,2014,Kharif     ,Dry chillies,291,240

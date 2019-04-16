@@ -1,0 +1,1612 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Uttar Pradesh,AGRA,1997,Kharif     ,Rice,935,2073
+Uttar Pradesh,AGRA,1998,Kharif     ,Rice,1536,3478
+Uttar Pradesh,AGRA,1999,Kharif     ,Rice,2142,3781
+Uttar Pradesh,AGRA,2000,Kharif     ,Rice,1322,2502
+Uttar Pradesh,AGRA,2001,Kharif     ,Rice,1318,2476
+Uttar Pradesh,AGRA,2002,Kharif     ,Rice,1134,1900
+Uttar Pradesh,AGRA,2003,Kharif     ,Rice,824,1436
+Uttar Pradesh,AGRA,2004,Kharif     ,Rice,1097,2575
+Uttar Pradesh,AGRA,2005,Kharif     ,Rice,1021,2314
+Uttar Pradesh,AGRA,2006,Kharif     ,Rice,1086,2056
+Uttar Pradesh,AGRA,2007,Kharif     ,Rice,1395,2763
+Uttar Pradesh,AGRA,2008,Kharif     ,Rice,4176,9183
+Uttar Pradesh,AGRA,2008,Summer     ,Rice,27,59
+Uttar Pradesh,AGRA,2009,Kharif     ,Rice,4816,8467
+Uttar Pradesh,AGRA,2009,Summer     ,Rice,35,62
+Uttar Pradesh,AGRA,2010,Kharif     ,Rice,4342,9413
+Uttar Pradesh,AGRA,2011,Kharif     ,Rice,6724,16803
+Uttar Pradesh,AGRA,2011,Summer     ,Rice,30,75
+Uttar Pradesh,AGRA,2012,Kharif     ,Rice,3556,8975
+Uttar Pradesh,AGRA,2012,Summer     ,Rice,37,94
+Uttar Pradesh,AGRA,2013,Kharif     ,Rice,8691,22475
+Uttar Pradesh,AGRA,2014,Kharif     ,Rice,10164,24231
+Uttar Pradesh,ALIGARH,1997,Kharif     ,Rice,17167,36571
+Uttar Pradesh,ALIGARH,1998,Kharif     ,Rice,22174,35078
+Uttar Pradesh,ALIGARH,1999,Kharif     ,Rice,31898,56313
+Uttar Pradesh,ALIGARH,2000,Kharif     ,Rice,34648,68335
+Uttar Pradesh,ALIGARH,2001,Kharif     ,Rice,33654,65137
+Uttar Pradesh,ALIGARH,2002,Kharif     ,Rice,26117,45992
+Uttar Pradesh,ALIGARH,2003,Kharif     ,Rice,30731,63252
+Uttar Pradesh,ALIGARH,2003,Summer     ,Rice,5,10
+Uttar Pradesh,ALIGARH,2004,Kharif     ,Rice,38381,86421
+Uttar Pradesh,ALIGARH,2005,Kharif     ,Rice,36832,76868
+Uttar Pradesh,ALIGARH,2006,Kharif     ,Rice,38447,79239
+Uttar Pradesh,ALIGARH,2007,Kharif     ,Rice,47382,95096
+Uttar Pradesh,ALIGARH,2008,Kharif     ,Rice,47544,102410
+Uttar Pradesh,ALIGARH,2009,Kharif     ,Rice,66448,115088
+Uttar Pradesh,ALIGARH,2010,Kharif     ,Rice,64485,131614
+Uttar Pradesh,ALIGARH,2011,Kharif     ,Rice,70307,154394
+Uttar Pradesh,ALIGARH,2012,Kharif     ,Rice,85311,209609
+Uttar Pradesh,ALIGARH,2013,Kharif     ,Rice,87525,196144
+Uttar Pradesh,ALIGARH,2014,Kharif     ,Rice,90420,201998
+Uttar Pradesh,ALLAHABAD,1997,Kharif     ,Rice,142391,264382
+Uttar Pradesh,ALLAHABAD,1998,Kharif     ,Rice,187453,334437
+Uttar Pradesh,ALLAHABAD,1999,Kharif     ,Rice,205329,431418
+Uttar Pradesh,ALLAHABAD,2000,Kharif     ,Rice,210540,385279
+Uttar Pradesh,ALLAHABAD,2001,Kharif     ,Rice,182098,364115
+Uttar Pradesh,ALLAHABAD,2002,Kharif     ,Rice,165627,315023
+Uttar Pradesh,ALLAHABAD,2003,Kharif     ,Rice,175078,408380
+Uttar Pradesh,ALLAHABAD,2004,Kharif     ,Rice,162912,291720
+Uttar Pradesh,ALLAHABAD,2005,Kharif     ,Rice,187745,378494
+Uttar Pradesh,ALLAHABAD,2006,Kharif     ,Rice,162136,342918
+Uttar Pradesh,ALLAHABAD,2007,Kharif     ,Rice,165636,356449
+Uttar Pradesh,ALLAHABAD,2008,Kharif     ,Rice,185494,453347
+Uttar Pradesh,ALLAHABAD,2009,Kharif     ,Rice,105361,228633
+Uttar Pradesh,ALLAHABAD,2010,Kharif     ,Rice,141316,328560
+Uttar Pradesh,ALLAHABAD,2011,Kharif     ,Rice,155232,397083
+Uttar Pradesh,ALLAHABAD,2012,Kharif     ,Rice,148937,427300
+Uttar Pradesh,ALLAHABAD,2013,Kharif     ,Rice,159525,420986
+Uttar Pradesh,ALLAHABAD,2014,Kharif     ,Rice,149419,313780
+Uttar Pradesh,AMBEDKAR NAGAR,1997,Kharif     ,Rice,110693,270417
+Uttar Pradesh,AMBEDKAR NAGAR,1998,Kharif     ,Rice,110093,256380
+Uttar Pradesh,AMBEDKAR NAGAR,1999,Kharif     ,Rice,111467,317373
+Uttar Pradesh,AMBEDKAR NAGAR,2000,Kharif     ,Rice,116502,288186
+Uttar Pradesh,AMBEDKAR NAGAR,2001,Kharif     ,Rice,122588,296503
+Uttar Pradesh,AMBEDKAR NAGAR,2002,Kharif     ,Rice,113857,243408
+Uttar Pradesh,AMBEDKAR NAGAR,2003,Kharif     ,Rice,114092,298678
+Uttar Pradesh,AMBEDKAR NAGAR,2004,Kharif     ,Rice,116438,233800
+Uttar Pradesh,AMBEDKAR NAGAR,2005,Kharif     ,Rice,114474,273020
+Uttar Pradesh,AMBEDKAR NAGAR,2006,Kharif     ,Rice,113782,204580
+Uttar Pradesh,AMBEDKAR NAGAR,2007,Kharif     ,Rice,113450,289411
+Uttar Pradesh,AMBEDKAR NAGAR,2008,Kharif     ,Rice,132870,358749
+Uttar Pradesh,AMBEDKAR NAGAR,2009,Kharif     ,Rice,111508,288806
+Uttar Pradesh,AMBEDKAR NAGAR,2010,Kharif     ,Rice,113002,298099
+Uttar Pradesh,AMBEDKAR NAGAR,2011,Kharif     ,Rice,116323,313374
+Uttar Pradesh,AMBEDKAR NAGAR,2012,Kharif     ,Rice,115800,319492
+Uttar Pradesh,AMBEDKAR NAGAR,2013,Kharif     ,Rice,115279,314251
+Uttar Pradesh,AMBEDKAR NAGAR,2014,Kharif     ,Rice,118607,290706
+Uttar Pradesh,AMETHI,2010,Kharif     ,Rice,113314,236940
+Uttar Pradesh,AMETHI,2011,Kharif     ,Rice,122203,272146
+Uttar Pradesh,AMETHI,2012,Kharif     ,Rice,118227,308454
+Uttar Pradesh,AMETHI,2013,Kharif     ,Rice,123251,280396
+Uttar Pradesh,AMETHI,2014,Kharif     ,Rice,97395,147846
+Uttar Pradesh,AMROHA,1997,Kharif     ,Rice,31690,76136
+Uttar Pradesh,AMROHA,1997,Summer     ,Rice,2,5
+Uttar Pradesh,AMROHA,1998,Kharif     ,Rice,32346,76964
+Uttar Pradesh,AMROHA,1998,Summer     ,Rice,3,7
+Uttar Pradesh,AMROHA,1999,Kharif     ,Rice,29503,60476
+Uttar Pradesh,AMROHA,2000,Kharif     ,Rice,28486,66368
+Uttar Pradesh,AMROHA,2001,Kharif     ,Rice,29610,65900
+Uttar Pradesh,AMROHA,2002,Kharif     ,Rice,24588,55423
+Uttar Pradesh,AMROHA,2003,Kharif     ,Rice,23717,51949
+Uttar Pradesh,AMROHA,2004,Kharif     ,Rice,26017,59524
+Uttar Pradesh,AMROHA,2005,Kharif     ,Rice,21783,46267
+Uttar Pradesh,AMROHA,2006,Kharif     ,Rice,23621,48683
+Uttar Pradesh,AMROHA,2007,Kharif     ,Rice,21178,46761
+Uttar Pradesh,AMROHA,2008,Kharif     ,Rice,31620,62418
+Uttar Pradesh,AMROHA,2008,Summer     ,Rice,1,2
+Uttar Pradesh,AMROHA,2009,Kharif     ,Rice,26586,53916
+Uttar Pradesh,AMROHA,2009,Summer     ,Rice,1,2
+Uttar Pradesh,AMROHA,2010,Kharif     ,Rice,24355,47127
+Uttar Pradesh,AMROHA,2011,Kharif     ,Rice,28429,57370
+Uttar Pradesh,AMROHA,2012,Kharif     ,Rice,22530,40914
+Uttar Pradesh,AMROHA,2013,Kharif     ,Rice,28126,59177
+Uttar Pradesh,AMROHA,2013,Summer     ,Rice,2,4
+Uttar Pradesh,AMROHA,2014,Kharif     ,Rice,23134,61606
+Uttar Pradesh,AMROHA,2014,Summer     ,Rice,13,34
+Uttar Pradesh,AURAIYA,1997,Kharif     ,Rice,41064,94537
+Uttar Pradesh,AURAIYA,1998,Kharif     ,Rice,42018,109833
+Uttar Pradesh,AURAIYA,1999,Kharif     ,Rice,49516,121005
+Uttar Pradesh,AURAIYA,2000,Kharif     ,Rice,48622,89219
+Uttar Pradesh,AURAIYA,2001,Kharif     ,Rice,51471,125273
+Uttar Pradesh,AURAIYA,2002,Kharif     ,Rice,36993,81678
+Uttar Pradesh,AURAIYA,2003,Kharif     ,Rice,43191,97961
+Uttar Pradesh,AURAIYA,2004,Kharif     ,Rice,45897,129492
+Uttar Pradesh,AURAIYA,2005,Kharif     ,Rice,42877,108007
+Uttar Pradesh,AURAIYA,2006,Kharif     ,Rice,48919,135457
+Uttar Pradesh,AURAIYA,2007,Kharif     ,Rice,44161,121045
+Uttar Pradesh,AURAIYA,2008,Kharif     ,Rice,52031,159631
+Uttar Pradesh,AURAIYA,2009,Kharif     ,Rice,35567,100406
+Uttar Pradesh,AURAIYA,2010,Kharif     ,Rice,37124,99641
+Uttar Pradesh,AURAIYA,2011,Kharif     ,Rice,50179,145519
+Uttar Pradesh,AURAIYA,2012,Kharif     ,Rice,52566,164321
+Uttar Pradesh,AURAIYA,2013,Kharif     ,Rice,53582,176070
+Uttar Pradesh,AURAIYA,2014,Kharif     ,Rice,55752,175898
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Rice,202707,419064
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Rice,199011,346646
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Rice,203833,445549
+Uttar Pradesh,AZAMGARH,1999,Summer     ,Rice,2,4
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Rice,211031,390953
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Rice,209614,433548
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Rice,180384,303911
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Rice,205352,417537
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Rice,212127,187398
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Rice,201562,353338
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Rice,207566,304914
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Rice,215737,416372
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Rice,213081,419343
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Rice,190222,332128
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Rice,203577,417536
+Uttar Pradesh,AZAMGARH,2010,Summer     ,Rice,1,2
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Rice,210944,469350
+Uttar Pradesh,AZAMGARH,2011,Summer     ,Rice,1,2
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Rice,210961,453777
+Uttar Pradesh,AZAMGARH,2012,Summer     ,Rice,1,2
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Rice,217062,477971
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Rice,202341,400028
+Uttar Pradesh,BAGHPAT,1997,Kharif     ,Rice,3307,9518
+Uttar Pradesh,BAGHPAT,1997,Summer     ,Rice,4,12
+Uttar Pradesh,BAGHPAT,1998,Kharif     ,Rice,4591,9200
+Uttar Pradesh,BAGHPAT,1999,Kharif     ,Rice,5342,13777
+Uttar Pradesh,BAGHPAT,2000,Kharif     ,Rice,5949,16013
+Uttar Pradesh,BAGHPAT,2001,Kharif     ,Rice,5949,13576
+Uttar Pradesh,BAGHPAT,2002,Kharif     ,Rice,2806,6252
+Uttar Pradesh,BAGHPAT,2003,Kharif     ,Rice,3147,8514
+Uttar Pradesh,BAGHPAT,2004,Kharif     ,Rice,3230,8459
+Uttar Pradesh,BAGHPAT,2005,Kharif     ,Rice,3010,7429
+Uttar Pradesh,BAGHPAT,2006,Kharif     ,Rice,2637,6848
+Uttar Pradesh,BAGHPAT,2007,Kharif     ,Rice,1866,5643
+Uttar Pradesh,BAGHPAT,2008,Kharif     ,Rice,3279,7594
+Uttar Pradesh,BAGHPAT,2009,Kharif     ,Rice,3646,9906
+Uttar Pradesh,BAGHPAT,2010,Kharif     ,Rice,4575,10756
+Uttar Pradesh,BAGHPAT,2011,Kharif     ,Rice,5108,14292
+Uttar Pradesh,BAGHPAT,2012,Kharif     ,Rice,5088,15483
+Uttar Pradesh,BAGHPAT,2013,Kharif     ,Rice,7931,24126
+Uttar Pradesh,BAGHPAT,2014,Kharif     ,Rice,5792,14515
+Uttar Pradesh,BAHRAICH,1997,Kharif     ,Rice,123564,202315
+Uttar Pradesh,BAHRAICH,1997,Summer     ,Rice,4,7
+Uttar Pradesh,BAHRAICH,1998,Kharif     ,Rice,120967,202696
+Uttar Pradesh,BAHRAICH,1998,Summer     ,Rice,7,12
+Uttar Pradesh,BAHRAICH,1999,Kharif     ,Rice,121579,216828
+Uttar Pradesh,BAHRAICH,1999,Summer     ,Rice,4,7
+Uttar Pradesh,BAHRAICH,2000,Kharif     ,Rice,122059,224983
+Uttar Pradesh,BAHRAICH,2000,Summer     ,Rice,9,17
+Uttar Pradesh,BAHRAICH,2001,Kharif     ,Rice,151827,299111
+Uttar Pradesh,BAHRAICH,2002,Kharif     ,Rice,157356,224311
+Uttar Pradesh,BAHRAICH,2003,Kharif     ,Rice,156432,291867
+Uttar Pradesh,BAHRAICH,2003,Summer     ,Rice,9,17
+Uttar Pradesh,BAHRAICH,2004,Kharif     ,Rice,159114,291375
+Uttar Pradesh,BAHRAICH,2005,Kharif     ,Rice,157629,296815
+Uttar Pradesh,BAHRAICH,2006,Kharif     ,Rice,153920,254892
+Uttar Pradesh,BAHRAICH,2006,Summer     ,Rice,7,12
+Uttar Pradesh,BAHRAICH,2007,Kharif     ,Rice,163515,302339
+Uttar Pradesh,BAHRAICH,2008,Kharif     ,Rice,159350,312804
+Uttar Pradesh,BAHRAICH,2009,Kharif     ,Rice,160636,323039
+Uttar Pradesh,BAHRAICH,2010,Kharif     ,Rice,159111,329519
+Uttar Pradesh,BAHRAICH,2011,Kharif     ,Rice,159686,352427
+Uttar Pradesh,BAHRAICH,2012,Kharif     ,Rice,159182,380445
+Uttar Pradesh,BAHRAICH,2013,Kharif     ,Rice,159025,375935
+Uttar Pradesh,BAHRAICH,2014,Kharif     ,Rice,165249,367679
+Uttar Pradesh,BALLIA,1997,Kharif     ,Rice,112791,213555
+Uttar Pradesh,BALLIA,1998,Kharif     ,Rice,119290,218751
+Uttar Pradesh,BALLIA,1998,Summer     ,Rice,1,2
+Uttar Pradesh,BALLIA,1999,Kharif     ,Rice,117170,227541
+Uttar Pradesh,BALLIA,1999,Summer     ,Rice,1,2
+Uttar Pradesh,BALLIA,2000,Kharif     ,Rice,119614,207163
+Uttar Pradesh,BALLIA,2001,Kharif     ,Rice,120779,233776
+Uttar Pradesh,BALLIA,2001,Summer     ,Rice,2,4
+Uttar Pradesh,BALLIA,2002,Kharif     ,Rice,116396,167845
+Uttar Pradesh,BALLIA,2003,Kharif     ,Rice,122943,219624
+Uttar Pradesh,BALLIA,2004,Kharif     ,Rice,120195,64687
+Uttar Pradesh,BALLIA,2005,Kharif     ,Rice,122495,179210
+Uttar Pradesh,BALLIA,2006,Kharif     ,Rice,119243,159309
+Uttar Pradesh,BALLIA,2007,Kharif     ,Rice,118660,220114
+Uttar Pradesh,BALLIA,2008,Kharif     ,Rice,123485,242401
+Uttar Pradesh,BALLIA,2009,Kharif     ,Rice,82351,89433
+Uttar Pradesh,BALLIA,2010,Kharif     ,Rice,108568,206931
+Uttar Pradesh,BALLIA,2011,Kharif     ,Rice,117098,297663
+Uttar Pradesh,BALLIA,2012,Kharif     ,Rice,112168,244302
+Uttar Pradesh,BALLIA,2013,Kharif     ,Rice,118000,261960
+Uttar Pradesh,BALLIA,2014,Kharif     ,Rice,122464,251908
+Uttar Pradesh,BALRAMPUR,1997,Kharif     ,Rice,81826,160619
+Uttar Pradesh,BALRAMPUR,1997,Summer     ,Rice,5,10
+Uttar Pradesh,BALRAMPUR,1998,Kharif     ,Rice,79453,135837
+Uttar Pradesh,BALRAMPUR,1999,Kharif     ,Rice,79413,144816
+Uttar Pradesh,BALRAMPUR,2000,Kharif     ,Rice,117161,189759
+Uttar Pradesh,BALRAMPUR,2001,Kharif     ,Rice,116107,220172
+Uttar Pradesh,BALRAMPUR,2002,Kharif     ,Rice,106445,83699
+Uttar Pradesh,BALRAMPUR,2003,Kharif     ,Rice,98272,171771
+Uttar Pradesh,BALRAMPUR,2004,Kharif     ,Rice,110144,173215
+Uttar Pradesh,BALRAMPUR,2005,Kharif     ,Rice,98272,192122
+Uttar Pradesh,BALRAMPUR,2006,Kharif     ,Rice,122512,222727
+Uttar Pradesh,BALRAMPUR,2007,Kharif     ,Rice,100608,204838
+Uttar Pradesh,BALRAMPUR,2008,Kharif     ,Rice,108039,284035
+Uttar Pradesh,BALRAMPUR,2009,Kharif     ,Rice,101195,179419
+Uttar Pradesh,BALRAMPUR,2010,Kharif     ,Rice,105641,230192
+Uttar Pradesh,BALRAMPUR,2011,Kharif     ,Rice,107106,235098
+Uttar Pradesh,BALRAMPUR,2012,Kharif     ,Rice,106533,247370
+Uttar Pradesh,BALRAMPUR,2013,Kharif     ,Rice,105387,232800
+Uttar Pradesh,BALRAMPUR,2014,Kharif     ,Rice,108030,198235
+Uttar Pradesh,BANDA,1997,Kharif     ,Rice,59411,71202
+Uttar Pradesh,BANDA,1998,Kharif     ,Rice,61300,91229
+Uttar Pradesh,BANDA,1999,Kharif     ,Rice,64840,86354
+Uttar Pradesh,BANDA,2000,Kharif     ,Rice,65618,66153
+Uttar Pradesh,BANDA,2001,Kharif     ,Rice,66005,92333
+Uttar Pradesh,BANDA,2002,Kharif     ,Rice,58582,47473
+Uttar Pradesh,BANDA,2003,Kharif     ,Rice,60840,71378
+Uttar Pradesh,BANDA,2004,Kharif     ,Rice,64353,75917
+Uttar Pradesh,BANDA,2005,Kharif     ,Rice,14460,11929
+Uttar Pradesh,BANDA,2006,Kharif     ,Rice,57838,51129
+Uttar Pradesh,BANDA,2007,Kharif     ,Rice,28577,17975
+Uttar Pradesh,BANDA,2008,Kharif     ,Rice,56371,80949
+Uttar Pradesh,BANDA,2009,Kharif     ,Rice,30889,32650
+Uttar Pradesh,BANDA,2010,Kharif     ,Rice,47536,54761
+Uttar Pradesh,BANDA,2011,Kharif     ,Rice,55840,82587
+Uttar Pradesh,BANDA,2012,Kharif     ,Rice,49833,87208
+Uttar Pradesh,BANDA,2013,Kharif     ,Rice,56350,101881
+Uttar Pradesh,BANDA,2014,Kharif     ,Rice,45895,81923
+Uttar Pradesh,BARABANKI,1997,Kharif     ,Rice,139476,276910
+Uttar Pradesh,BARABANKI,1997,Summer     ,Rice,15,30
+Uttar Pradesh,BARABANKI,1998,Kharif     ,Rice,149413,321486
+Uttar Pradesh,BARABANKI,1999,Kharif     ,Rice,154008,330481
+Uttar Pradesh,BARABANKI,2000,Kharif     ,Rice,159139,282912
+Uttar Pradesh,BARABANKI,2000,Summer     ,Rice,4,7
+Uttar Pradesh,BARABANKI,2001,Kharif     ,Rice,158817,336886
+Uttar Pradesh,BARABANKI,2002,Kharif     ,Rice,146179,310333
+Uttar Pradesh,BARABANKI,2003,Kharif     ,Rice,176642,415220
+Uttar Pradesh,BARABANKI,2004,Kharif     ,Rice,186987,461762
+Uttar Pradesh,BARABANKI,2005,Kharif     ,Rice,179338,416602
+Uttar Pradesh,BARABANKI,2006,Kharif     ,Rice,182527,376553
+Uttar Pradesh,BARABANKI,2007,Kharif     ,Rice,195339,294767
+Uttar Pradesh,BARABANKI,2008,Kharif     ,Rice,161107,331397
+Uttar Pradesh,BARABANKI,2009,Kharif     ,Rice,172786,399827
+Uttar Pradesh,BARABANKI,2010,Kharif     ,Rice,176864,420936
+Uttar Pradesh,BARABANKI,2011,Kharif     ,Rice,177698,486004
+Uttar Pradesh,BARABANKI,2011,Summer     ,Rice,2,5
+Uttar Pradesh,BARABANKI,2012,Kharif     ,Rice,183962,562372
+Uttar Pradesh,BARABANKI,2013,Kharif     ,Rice,181235,517970
+Uttar Pradesh,BARABANKI,2014,Kharif     ,Rice,191884,529600
+Uttar Pradesh,BAREILLY,1997,Kharif     ,Rice,162862,376411
+Uttar Pradesh,BAREILLY,1997,Summer     ,Rice,336,776
+Uttar Pradesh,BAREILLY,1998,Kharif     ,Rice,172969,361703
+Uttar Pradesh,BAREILLY,1998,Summer     ,Rice,181,378
+Uttar Pradesh,BAREILLY,1999,Kharif     ,Rice,181820,386081
+Uttar Pradesh,BAREILLY,1999,Summer     ,Rice,103,219
+Uttar Pradesh,BAREILLY,2000,Kharif     ,Rice,179743,348088
+Uttar Pradesh,BAREILLY,2000,Summer     ,Rice,138,267
+Uttar Pradesh,BAREILLY,2001,Kharif     ,Rice,175784,363683
+Uttar Pradesh,BAREILLY,2001,Summer     ,Rice,157,325
+Uttar Pradesh,BAREILLY,2002,Kharif     ,Rice,122792,229487
+Uttar Pradesh,BAREILLY,2002,Summer     ,Rice,249,465
+Uttar Pradesh,BAREILLY,2003,Kharif     ,Rice,159862,338695
+Uttar Pradesh,BAREILLY,2003,Summer     ,Rice,273,578
+Uttar Pradesh,BAREILLY,2004,Kharif     ,Rice,187526,359792
+Uttar Pradesh,BAREILLY,2005,Kharif     ,Rice,159862,301819
+Uttar Pradesh,BAREILLY,2006,Kharif     ,Rice,187526,335484
+Uttar Pradesh,BAREILLY,2006,Summer     ,Rice,406,726
+Uttar Pradesh,BAREILLY,2007,Kharif     ,Rice,151272,292711
+Uttar Pradesh,BAREILLY,2007,Summer     ,Rice,381,737
+Uttar Pradesh,BAREILLY,2008,Kharif     ,Rice,186648,326447
+Uttar Pradesh,BAREILLY,2008,Summer     ,Rice,997,1744
+Uttar Pradesh,BAREILLY,2009,Kharif     ,Rice,149116,266321
+Uttar Pradesh,BAREILLY,2009,Summer     ,Rice,1129,2016
+Uttar Pradesh,BAREILLY,2010,Kharif     ,Rice,163015,270279
+Uttar Pradesh,BAREILLY,2010,Summer     ,Rice,1035,1716
+Uttar Pradesh,BAREILLY,2011,Kharif     ,Rice,166888,420558
+Uttar Pradesh,BAREILLY,2011,Summer     ,Rice,634,1598
+Uttar Pradesh,BAREILLY,2012,Kharif     ,Rice,145203,324384
+Uttar Pradesh,BAREILLY,2012,Summer     ,Rice,783,1749
+Uttar Pradesh,BAREILLY,2013,Kharif     ,Rice,162916,366561
+Uttar Pradesh,BAREILLY,2013,Summer     ,Rice,1190,2677
+Uttar Pradesh,BAREILLY,2014,Kharif     ,Rice,162390,334361
+Uttar Pradesh,BAREILLY,2014,Summer     ,Rice,1558,3208
+Uttar Pradesh,BASTI,1997,Kharif     ,Rice,115757,205182
+Uttar Pradesh,BASTI,1997,Summer     ,Rice,72,128
+Uttar Pradesh,BASTI,1998,Kharif     ,Rice,111703,164962
+Uttar Pradesh,BASTI,1998,Summer     ,Rice,64,95
+Uttar Pradesh,BASTI,1999,Kharif     ,Rice,111806,252057
+Uttar Pradesh,BASTI,1999,Summer     ,Rice,63,142
+Uttar Pradesh,BASTI,2000,Kharif     ,Rice,111560,240346
+Uttar Pradesh,BASTI,2000,Summer     ,Rice,65,140
+Uttar Pradesh,BASTI,2001,Kharif     ,Rice,119463,254295
+Uttar Pradesh,BASTI,2002,Kharif     ,Rice,117509,133227
+Uttar Pradesh,BASTI,2003,Kharif     ,Rice,118834,263294
+Uttar Pradesh,BASTI,2004,Kharif     ,Rice,118438,176170
+Uttar Pradesh,BASTI,2005,Kharif     ,Rice,118834,197502
+Uttar Pradesh,BASTI,2006,Kharif     ,Rice,109692,165525
+Uttar Pradesh,BASTI,2007,Kharif     ,Rice,114107,210984
+Uttar Pradesh,BASTI,2008,Kharif     ,Rice,111663,223884
+Uttar Pradesh,BASTI,2009,Kharif     ,Rice,108375,231056
+Uttar Pradesh,BASTI,2010,Kharif     ,Rice,102314,215473
+Uttar Pradesh,BASTI,2011,Kharif     ,Rice,122176,316802
+Uttar Pradesh,BASTI,2012,Kharif     ,Rice,107977,265084
+Uttar Pradesh,BASTI,2013,Kharif     ,Rice,104860,263933
+Uttar Pradesh,BASTI,2014,Kharif     ,Rice,104328,202814
+Uttar Pradesh,BIJNOR,1997,Kharif     ,Rice,62687,186400
+Uttar Pradesh,BIJNOR,1997,Summer     ,Rice,6,18
+Uttar Pradesh,BIJNOR,1998,Kharif     ,Rice,65312,183983
+Uttar Pradesh,BIJNOR,1998,Summer     ,Rice,3,8
+Uttar Pradesh,BIJNOR,1999,Kharif     ,Rice,63349,176290
+Uttar Pradesh,BIJNOR,1999,Summer     ,Rice,5,14
+Uttar Pradesh,BIJNOR,2000,Kharif     ,Rice,65831,183353
+Uttar Pradesh,BIJNOR,2000,Summer     ,Rice,1,3
+Uttar Pradesh,BIJNOR,2001,Kharif     ,Rice,64581,194561
+Uttar Pradesh,BIJNOR,2001,Summer     ,Rice,3,9
+Uttar Pradesh,BIJNOR,2002,Kharif     ,Rice,52924,141933
+Uttar Pradesh,BIJNOR,2002,Summer     ,Rice,19,51
+Uttar Pradesh,BIJNOR,2003,Kharif     ,Rice,55591,142603
+Uttar Pradesh,BIJNOR,2003,Summer     ,Rice,54,139
+Uttar Pradesh,BIJNOR,2004,Kharif     ,Rice,61346,175022
+Uttar Pradesh,BIJNOR,2005,Kharif     ,Rice,53816,140567
+Uttar Pradesh,BIJNOR,2006,Kharif     ,Rice,61346,158641
+Uttar Pradesh,BIJNOR,2006,Summer     ,Rice,74,191
+Uttar Pradesh,BIJNOR,2007,Kharif     ,Rice,60515,157763
+Uttar Pradesh,BIJNOR,2007,Summer     ,Rice,45,117
+Uttar Pradesh,BIJNOR,2008,Kharif     ,Rice,52426,131747
+Uttar Pradesh,BIJNOR,2008,Summer     ,Rice,91,229
+Uttar Pradesh,BIJNOR,2009,Kharif     ,Rice,49403,118024
+Uttar Pradesh,BIJNOR,2009,Summer     ,Rice,77,184
+Uttar Pradesh,BIJNOR,2010,Kharif     ,Rice,55816,131000
+Uttar Pradesh,BIJNOR,2010,Summer     ,Rice,90,211
+Uttar Pradesh,BIJNOR,2011,Kharif     ,Rice,53734,128800
+Uttar Pradesh,BIJNOR,2011,Summer     ,Rice,70,168
+Uttar Pradesh,BIJNOR,2012,Kharif     ,Rice,51390,129708
+Uttar Pradesh,BIJNOR,2012,Summer     ,Rice,124,313
+Uttar Pradesh,BIJNOR,2013,Kharif     ,Rice,52943,123304
+Uttar Pradesh,BIJNOR,2013,Summer     ,Rice,52,121
+Uttar Pradesh,BIJNOR,2014,Kharif     ,Rice,54742,143205
+Uttar Pradesh,BIJNOR,2014,Summer     ,Rice,67,175
+Uttar Pradesh,BUDAUN,1997,Kharif     ,Rice,75479,141053
+Uttar Pradesh,BUDAUN,1997,Summer     ,Rice,26,49
+Uttar Pradesh,BUDAUN,1998,Kharif     ,Rice,86247,150611
+Uttar Pradesh,BUDAUN,1998,Summer     ,Rice,54,94
+Uttar Pradesh,BUDAUN,1999,Kharif     ,Rice,108043,200329
+Uttar Pradesh,BUDAUN,1999,Summer     ,Rice,60,111
+Uttar Pradesh,BUDAUN,2000,Kharif     ,Rice,110184,169222
+Uttar Pradesh,BUDAUN,2000,Summer     ,Rice,42,65
+Uttar Pradesh,BUDAUN,2001,Kharif     ,Rice,103869,162355
+Uttar Pradesh,BUDAUN,2001,Summer     ,Rice,41,64
+Uttar Pradesh,BUDAUN,2002,Kharif     ,Rice,56688,76092
+Uttar Pradesh,BUDAUN,2002,Summer     ,Rice,57,76
+Uttar Pradesh,BUDAUN,2003,Kharif     ,Rice,73263,146059
+Uttar Pradesh,BUDAUN,2003,Summer     ,Rice,105,209
+Uttar Pradesh,BUDAUN,2004,Kharif     ,Rice,90405,142174
+Uttar Pradesh,BUDAUN,2005,Kharif     ,Rice,67430,118407
+Uttar Pradesh,BUDAUN,2006,Kharif     ,Rice,87564,161030
+Uttar Pradesh,BUDAUN,2006,Summer     ,Rice,73,134
+Uttar Pradesh,BUDAUN,2007,Kharif     ,Rice,88595,163724
+Uttar Pradesh,BUDAUN,2007,Summer     ,Rice,6,11
+Uttar Pradesh,BUDAUN,2008,Kharif     ,Rice,77267,137149
+Uttar Pradesh,BUDAUN,2008,Summer     ,Rice,8,14
+Uttar Pradesh,BUDAUN,2009,Kharif     ,Rice,67293,135124
+Uttar Pradesh,BUDAUN,2009,Summer     ,Rice,78,157
+Uttar Pradesh,BUDAUN,2010,Kharif     ,Rice,84311,158167
+Uttar Pradesh,BUDAUN,2010,Summer     ,Rice,1,2
+Uttar Pradesh,BUDAUN,2011,Kharif     ,Rice,87728,187299
+Uttar Pradesh,BUDAUN,2011,Summer     ,Rice,20,43
+Uttar Pradesh,BUDAUN,2012,Kharif     ,Rice,83806,191329
+Uttar Pradesh,BUDAUN,2012,Summer     ,Rice,20,46
+Uttar Pradesh,BUDAUN,2013,Kharif     ,Rice,79975,176185
+Uttar Pradesh,BUDAUN,2014,Kharif     ,Rice,81242,166790
+Uttar Pradesh,BUDAUN,2014,Summer     ,Rice,33,68
+Uttar Pradesh,BULANDSHAHR,1997,Kharif     ,Rice,14777,42533
+Uttar Pradesh,BULANDSHAHR,1998,Kharif     ,Rice,21946,49298
+Uttar Pradesh,BULANDSHAHR,1999,Kharif     ,Rice,34970,79529
+Uttar Pradesh,BULANDSHAHR,2000,Kharif     ,Rice,45683,93141
+Uttar Pradesh,BULANDSHAHR,2000,Summer     ,Rice,2,5
+Uttar Pradesh,BULANDSHAHR,2001,Kharif     ,Rice,39615,89141
+Uttar Pradesh,BULANDSHAHR,2001,Summer     ,Rice,1,2
+Uttar Pradesh,BULANDSHAHR,2002,Kharif     ,Rice,39646,91108
+Uttar Pradesh,BULANDSHAHR,2003,Kharif     ,Rice,44941,102596
+Uttar Pradesh,BULANDSHAHR,2004,Kharif     ,Rice,50510,122273
+Uttar Pradesh,BULANDSHAHR,2005,Kharif     ,Rice,45027,102031
+Uttar Pradesh,BULANDSHAHR,2006,Kharif     ,Rice,46033,100444
+Uttar Pradesh,BULANDSHAHR,2007,Kharif     ,Rice,58105,135908
+Uttar Pradesh,BULANDSHAHR,2007,Summer     ,Rice,1,2
+Uttar Pradesh,BULANDSHAHR,2008,Kharif     ,Rice,69306,160374
+Uttar Pradesh,BULANDSHAHR,2009,Kharif     ,Rice,61431,138220
+Uttar Pradesh,BULANDSHAHR,2010,Kharif     ,Rice,74827,168885
+Uttar Pradesh,BULANDSHAHR,2010,Summer     ,Rice,1,2
+Uttar Pradesh,BULANDSHAHR,2011,Kharif     ,Rice,88300,209271
+Uttar Pradesh,BULANDSHAHR,2012,Kharif     ,Rice,83783,216328
+Uttar Pradesh,BULANDSHAHR,2012,Summer     ,Rice,1,3
+Uttar Pradesh,BULANDSHAHR,2013,Kharif     ,Rice,95669,251801
+Uttar Pradesh,BULANDSHAHR,2013,Summer     ,Rice,1,3
+Uttar Pradesh,BULANDSHAHR,2014,Kharif     ,Rice,107595,275551
+Uttar Pradesh,BULANDSHAHR,2014,Summer     ,Rice,1,3
+Uttar Pradesh,CHANDAULI,1997,Kharif     ,Rice,102240,314455
+Uttar Pradesh,CHANDAULI,1998,Kharif     ,Rice,102928,279799
+Uttar Pradesh,CHANDAULI,1999,Kharif     ,Rice,103837,298636
+Uttar Pradesh,CHANDAULI,2000,Kharif     ,Rice,102824,224044
+Uttar Pradesh,CHANDAULI,2001,Kharif     ,Rice,113079,322634
+Uttar Pradesh,CHANDAULI,2002,Kharif     ,Rice,111195,282086
+Uttar Pradesh,CHANDAULI,2003,Kharif     ,Rice,111549,332782
+Uttar Pradesh,CHANDAULI,2004,Kharif     ,Rice,110987,212735
+Uttar Pradesh,CHANDAULI,2005,Kharif     ,Rice,108759,233288
+Uttar Pradesh,CHANDAULI,2006,Kharif     ,Rice,140300,359168
+Uttar Pradesh,CHANDAULI,2007,Kharif     ,Rice,94847,247456
+Uttar Pradesh,CHANDAULI,2008,Kharif     ,Rice,116198,310365
+Uttar Pradesh,CHANDAULI,2009,Kharif     ,Rice,86936,174654
+Uttar Pradesh,CHANDAULI,2010,Kharif     ,Rice,98325,270984
+Uttar Pradesh,CHANDAULI,2011,Kharif     ,Rice,111777,299451
+Uttar Pradesh,CHANDAULI,2012,Kharif     ,Rice,108200,302203
+Uttar Pradesh,CHANDAULI,2013,Kharif     ,Rice,112455,300817
+Uttar Pradesh,CHANDAULI,2014,Kharif     ,Rice,102598,303793
+Uttar Pradesh,CHITRAKOOT,1997,Kharif     ,Rice,14170,11661
+Uttar Pradesh,CHITRAKOOT,1998,Kharif     ,Rice,15134,24526
+Uttar Pradesh,CHITRAKOOT,1999,Kharif     ,Rice,17044,18527
+Uttar Pradesh,CHITRAKOOT,2000,Kharif     ,Rice,17088,14775
+Uttar Pradesh,CHITRAKOOT,2001,Kharif     ,Rice,18842,21379
+Uttar Pradesh,CHITRAKOOT,2002,Kharif     ,Rice,10259,7435
+Uttar Pradesh,CHITRAKOOT,2003,Kharif     ,Rice,13864,15805
+Uttar Pradesh,CHITRAKOOT,2004,Kharif     ,Rice,15140,12356
+Uttar Pradesh,CHITRAKOOT,2005,Kharif     ,Rice,10047,7565
+Uttar Pradesh,CHITRAKOOT,2006,Kharif     ,Rice,10584,4953
+Uttar Pradesh,CHITRAKOOT,2007,Kharif     ,Rice,12979,3271
+Uttar Pradesh,CHITRAKOOT,2008,Kharif     ,Rice,9532,7187
+Uttar Pradesh,CHITRAKOOT,2009,Kharif     ,Rice,7026,3864
+Uttar Pradesh,CHITRAKOOT,2010,Kharif     ,Rice,7506,5892
+Uttar Pradesh,CHITRAKOOT,2011,Kharif     ,Rice,7886,7949
+Uttar Pradesh,CHITRAKOOT,2012,Kharif     ,Rice,8494,12741
+Uttar Pradesh,CHITRAKOOT,2013,Kharif     ,Rice,10155,18208
+Uttar Pradesh,CHITRAKOOT,2014,Kharif     ,Rice,12662,12763
+Uttar Pradesh,DEORIA,1997,Kharif     ,Rice,121281,234686
+Uttar Pradesh,DEORIA,1997,Summer     ,Rice,8,15
+Uttar Pradesh,DEORIA,1998,Kharif     ,Rice,120846,206791
+Uttar Pradesh,DEORIA,1999,Kharif     ,Rice,123788,280524
+Uttar Pradesh,DEORIA,2000,Kharif     ,Rice,123132,300532
+Uttar Pradesh,DEORIA,2000,Summer     ,Rice,22,54
+Uttar Pradesh,DEORIA,2001,Kharif     ,Rice,126977,247386
+Uttar Pradesh,DEORIA,2002,Kharif     ,Rice,128478,223404
+Uttar Pradesh,DEORIA,2003,Kharif     ,Rice,130793,281680
+Uttar Pradesh,DEORIA,2003,Summer     ,Rice,23,50
+Uttar Pradesh,DEORIA,2004,Kharif     ,Rice,130539,213166
+Uttar Pradesh,DEORIA,2005,Kharif     ,Rice,130793,237128
+Uttar Pradesh,DEORIA,2006,Kharif     ,Rice,121228,207785
+Uttar Pradesh,DEORIA,2007,Kharif     ,Rice,129723,255814
+Uttar Pradesh,DEORIA,2008,Kharif     ,Rice,129385,278695
+Uttar Pradesh,DEORIA,2008,Summer     ,Rice,87,187
+Uttar Pradesh,DEORIA,2009,Kharif     ,Rice,118768,169244
+Uttar Pradesh,DEORIA,2009,Summer     ,Rice,19,27
+Uttar Pradesh,DEORIA,2010,Kharif     ,Rice,128344,256303
+Uttar Pradesh,DEORIA,2010,Summer     ,Rice,21,42
+Uttar Pradesh,DEORIA,2011,Kharif     ,Rice,130611,287736
+Uttar Pradesh,DEORIA,2011,Summer     ,Rice,22,48
+Uttar Pradesh,DEORIA,2012,Kharif     ,Rice,132142,295337
+Uttar Pradesh,DEORIA,2012,Summer     ,Rice,23,51
+Uttar Pradesh,DEORIA,2013,Kharif     ,Rice,135616,333480
+Uttar Pradesh,DEORIA,2013,Summer     ,Rice,14,34
+Uttar Pradesh,DEORIA,2014,Kharif     ,Rice,132892,266980
+Uttar Pradesh,DEORIA,2014,Summer     ,Rice,14,28
+Uttar Pradesh,ETAH,1997,Kharif     ,Rice,38760,71267
+Uttar Pradesh,ETAH,1998,Kharif     ,Rice,37560,77436
+Uttar Pradesh,ETAH,1999,Kharif     ,Rice,37477,64489
+Uttar Pradesh,ETAH,2000,Kharif     ,Rice,40199,72599
+Uttar Pradesh,ETAH,2001,Kharif     ,Rice,51795,77583
+Uttar Pradesh,ETAH,2001,Summer     ,Rice,1,1
+Uttar Pradesh,ETAH,2002,Kharif     ,Rice,41099,63128
+Uttar Pradesh,ETAH,2003,Kharif     ,Rice,36048,64971
+Uttar Pradesh,ETAH,2003,Summer     ,Rice,3,5
+Uttar Pradesh,ETAH,2004,Kharif     ,Rice,40518,82558
+Uttar Pradesh,ETAH,2005,Kharif     ,Rice,37875,83666
+Uttar Pradesh,ETAH,2006,Kharif     ,Rice,41564,90028
+Uttar Pradesh,ETAH,2007,Kharif     ,Rice,30937,70784
+Uttar Pradesh,ETAH,2008,Kharif     ,Rice,45774,101527
+Uttar Pradesh,ETAH,2009,Kharif     ,Rice,16367,36400
+Uttar Pradesh,ETAH,2010,Kharif     ,Rice,21823,45872
+Uttar Pradesh,ETAH,2011,Kharif     ,Rice,27072,69358
+Uttar Pradesh,ETAH,2012,Kharif     ,Rice,18727,49608
+Uttar Pradesh,ETAH,2013,Kharif     ,Rice,19297,45001
+Uttar Pradesh,ETAH,2014,Kharif     ,Rice,18244,40283
+Uttar Pradesh,ETAWAH,1997,Kharif     ,Rice,41202,110865
+Uttar Pradesh,ETAWAH,1998,Kharif     ,Rice,43453,96948
+Uttar Pradesh,ETAWAH,1998,Summer     ,Rice,2,4
+Uttar Pradesh,ETAWAH,1999,Kharif     ,Rice,45212,113986
+Uttar Pradesh,ETAWAH,2000,Kharif     ,Rice,47332,94299
+Uttar Pradesh,ETAWAH,2001,Kharif     ,Rice,48308,106787
+Uttar Pradesh,ETAWAH,2002,Kharif     ,Rice,38965,90273
+Uttar Pradesh,ETAWAH,2003,Kharif     ,Rice,42058,98652
+Uttar Pradesh,ETAWAH,2004,Kharif     ,Rice,44493,121859
+Uttar Pradesh,ETAWAH,2005,Kharif     ,Rice,41868,107936
+Uttar Pradesh,ETAWAH,2006,Kharif     ,Rice,31781,85046
+Uttar Pradesh,ETAWAH,2007,Kharif     ,Rice,44284,113633
+Uttar Pradesh,ETAWAH,2008,Kharif     ,Rice,45157,125040
+Uttar Pradesh,ETAWAH,2009,Kharif     ,Rice,37865,98260
+Uttar Pradesh,ETAWAH,2010,Kharif     ,Rice,43727,108224
+Uttar Pradesh,ETAWAH,2011,Kharif     ,Rice,50571,136997
+Uttar Pradesh,ETAWAH,2012,Kharif     ,Rice,49251,145734
+Uttar Pradesh,ETAWAH,2013,Kharif     ,Rice,58263,169604
+Uttar Pradesh,ETAWAH,2014,Kharif     ,Rice,52797,136533
+Uttar Pradesh,FAIZABAD,1997,Kharif     ,Rice,101815,230758
+Uttar Pradesh,FAIZABAD,1998,Kharif     ,Rice,104169,195720
+Uttar Pradesh,FAIZABAD,1999,Kharif     ,Rice,101251,209220
+Uttar Pradesh,FAIZABAD,2000,Kharif     ,Rice,100564,213450
+Uttar Pradesh,FAIZABAD,2001,Kharif     ,Rice,104185,249943
+Uttar Pradesh,FAIZABAD,2002,Kharif     ,Rice,85292,194284
+Uttar Pradesh,FAIZABAD,2003,Kharif     ,Rice,72165,197095
+Uttar Pradesh,FAIZABAD,2004,Kharif     ,Rice,72651,171176
+Uttar Pradesh,FAIZABAD,2005,Kharif     ,Rice,88399,220379
+Uttar Pradesh,FAIZABAD,2006,Kharif     ,Rice,72337,125866
+Uttar Pradesh,FAIZABAD,2007,Kharif     ,Rice,70484,149144
+Uttar Pradesh,FAIZABAD,2008,Kharif     ,Rice,104233,247762
+Uttar Pradesh,FAIZABAD,2009,Kharif     ,Rice,82232,189216
+Uttar Pradesh,FAIZABAD,2010,Kharif     ,Rice,97099,214200
+Uttar Pradesh,FAIZABAD,2011,Kharif     ,Rice,99295,236719
+Uttar Pradesh,FAIZABAD,2012,Kharif     ,Rice,99791,253569
+Uttar Pradesh,FAIZABAD,2013,Kharif     ,Rice,103896,272519
+Uttar Pradesh,FAIZABAD,2014,Kharif     ,Rice,94586,207805
+Uttar Pradesh,FARRUKHABAD,1997,Kharif     ,Rice,13215,25031
+Uttar Pradesh,FARRUKHABAD,1997,Summer     ,Rice,1,2
+Uttar Pradesh,FARRUKHABAD,1998,Kharif     ,Rice,11278,22788
+Uttar Pradesh,FARRUKHABAD,1998,Summer     ,Rice,9,18
+Uttar Pradesh,FARRUKHABAD,1999,Kharif     ,Rice,13251,28315
+Uttar Pradesh,FARRUKHABAD,1999,Summer     ,Rice,9,19
+Uttar Pradesh,FARRUKHABAD,2000,Kharif     ,Rice,13743,28025
+Uttar Pradesh,FARRUKHABAD,2001,Kharif     ,Rice,14306,30081
+Uttar Pradesh,FARRUKHABAD,2002,Kharif     ,Rice,9501,19468
+Uttar Pradesh,FARRUKHABAD,2002,Summer     ,Rice,4,8
+Uttar Pradesh,FARRUKHABAD,2003,Kharif     ,Rice,12582,21304
+Uttar Pradesh,FARRUKHABAD,2004,Kharif     ,Rice,15644,35859
+Uttar Pradesh,FARRUKHABAD,2005,Kharif     ,Rice,13144,27458
+Uttar Pradesh,FARRUKHABAD,2006,Kharif     ,Rice,14986,34108
+Uttar Pradesh,FARRUKHABAD,2007,Kharif     ,Rice,13047,29734
+Uttar Pradesh,FARRUKHABAD,2008,Kharif     ,Rice,14975,37048
+Uttar Pradesh,FARRUKHABAD,2009,Kharif     ,Rice,8899,19934
+Uttar Pradesh,FARRUKHABAD,2010,Kharif     ,Rice,14963,24075
+Uttar Pradesh,FARRUKHABAD,2011,Kharif     ,Rice,14915,33469
+Uttar Pradesh,FARRUKHABAD,2012,Kharif     ,Rice,15283,42471
+Uttar Pradesh,FARRUKHABAD,2013,Kharif     ,Rice,16524,44202
+Uttar Pradesh,FARRUKHABAD,2014,Kharif     ,Rice,11900,33213
+Uttar Pradesh,FATEHPUR,1997,Kharif     ,Rice,81838,162415
+Uttar Pradesh,FATEHPUR,1998,Kharif     ,Rice,89110,163432
+Uttar Pradesh,FATEHPUR,1999,Kharif     ,Rice,89904,170543
+Uttar Pradesh,FATEHPUR,2000,Kharif     ,Rice,91781,162713
+Uttar Pradesh,FATEHPUR,2001,Kharif     ,Rice,97302,198290
+Uttar Pradesh,FATEHPUR,2002,Kharif     ,Rice,69093,114885
+Uttar Pradesh,FATEHPUR,2003,Kharif     ,Rice,85350,155333
+Uttar Pradesh,FATEHPUR,2004,Kharif     ,Rice,86201,160017
+Uttar Pradesh,FATEHPUR,2005,Kharif     ,Rice,71543,120765
+Uttar Pradesh,FATEHPUR,2006,Kharif     ,Rice,80582,136425
+Uttar Pradesh,FATEHPUR,2007,Kharif     ,Rice,84135,158258
+Uttar Pradesh,FATEHPUR,2008,Kharif     ,Rice,79122,182139
+Uttar Pradesh,FATEHPUR,2009,Kharif     ,Rice,61678,133410
+Uttar Pradesh,FATEHPUR,2010,Kharif     ,Rice,63527,134105
+Uttar Pradesh,FATEHPUR,2011,Kharif     ,Rice,77736,182446
+Uttar Pradesh,FATEHPUR,2012,Kharif     ,Rice,77164,189515
+Uttar Pradesh,FATEHPUR,2013,Kharif     ,Rice,86459,225226
+Uttar Pradesh,FATEHPUR,2014,Kharif     ,Rice,80702,157046
+Uttar Pradesh,FIROZABAD,1997,Kharif     ,Rice,14013,31220
+Uttar Pradesh,FIROZABAD,1998,Kharif     ,Rice,19291,35053
+Uttar Pradesh,FIROZABAD,1999,Kharif     ,Rice,20570,34018
+Uttar Pradesh,FIROZABAD,2000,Kharif     ,Rice,21506,34330
+Uttar Pradesh,FIROZABAD,2001,Kharif     ,Rice,19184,33752
+Uttar Pradesh,FIROZABAD,2002,Kharif     ,Rice,13947,26639
+Uttar Pradesh,FIROZABAD,2003,Kharif     ,Rice,13865,26784
+Uttar Pradesh,FIROZABAD,2004,Kharif     ,Rice,14649,40988
+Uttar Pradesh,FIROZABAD,2005,Kharif     ,Rice,14433,44381
+Uttar Pradesh,FIROZABAD,2006,Kharif     ,Rice,14989,43963
+Uttar Pradesh,FIROZABAD,2007,Kharif     ,Rice,16103,48905
+Uttar Pradesh,FIROZABAD,2008,Kharif     ,Rice,18713,56176
+Uttar Pradesh,FIROZABAD,2009,Kharif     ,Rice,16939,49513
+Uttar Pradesh,FIROZABAD,2010,Kharif     ,Rice,19919,54976
+Uttar Pradesh,FIROZABAD,2011,Kharif     ,Rice,25410,72164
+Uttar Pradesh,FIROZABAD,2012,Kharif     ,Rice,19297,54726
+Uttar Pradesh,FIROZABAD,2013,Kharif     ,Rice,21599,59354
+Uttar Pradesh,FIROZABAD,2013,Summer     ,Rice,1,3
+Uttar Pradesh,FIROZABAD,2014,Kharif     ,Rice,23319,56619
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1997,Kharif     ,Rice,19479,52056
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1998,Kharif     ,Rice,15584,31620
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1999,Kharif     ,Rice,15049,32261
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2000,Kharif     ,Rice,15652,30547
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2001,Kharif     ,Rice,15784,42375
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2002,Kharif     ,Rice,6498,14078
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2003,Kharif     ,Rice,17908,35343
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2004,Kharif     ,Rice,20021,52898
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2005,Kharif     ,Rice,15994,35619
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2006,Kharif     ,Rice,20170,40078
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2007,Kharif     ,Rice,25054,62510
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2008,Kharif     ,Rice,29549,56941
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2009,Kharif     ,Rice,22014,52966
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2010,Kharif     ,Rice,23459,48701
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2011,Kharif     ,Rice,22276,49809
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2012,Kharif     ,Rice,23455,49772
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2013,Kharif     ,Rice,13750,33660
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2014,Kharif     ,Rice,22522,62701
+Uttar Pradesh,GHAZIABAD,1997,Kharif     ,Rice,13719,31372
+Uttar Pradesh,GHAZIABAD,1997,Summer     ,Rice,12,27
+Uttar Pradesh,GHAZIABAD,1998,Kharif     ,Rice,18134,36424
+Uttar Pradesh,GHAZIABAD,1998,Summer     ,Rice,3,6
+Uttar Pradesh,GHAZIABAD,1999,Kharif     ,Rice,20830,44729
+Uttar Pradesh,GHAZIABAD,2000,Kharif     ,Rice,21726,43067
+Uttar Pradesh,GHAZIABAD,2001,Kharif     ,Rice,21142,49840
+Uttar Pradesh,GHAZIABAD,2002,Kharif     ,Rice,17552,41996
+Uttar Pradesh,GHAZIABAD,2003,Kharif     ,Rice,19549,45904
+Uttar Pradesh,GHAZIABAD,2004,Kharif     ,Rice,20309,49123
+Uttar Pradesh,GHAZIABAD,2005,Kharif     ,Rice,21841,50584
+Uttar Pradesh,GHAZIABAD,2006,Kharif     ,Rice,21606,49326
+Uttar Pradesh,GHAZIABAD,2007,Kharif     ,Rice,20949,49921
+Uttar Pradesh,GHAZIABAD,2008,Kharif     ,Rice,23436,59035
+Uttar Pradesh,GHAZIABAD,2009,Kharif     ,Rice,22340,61368
+Uttar Pradesh,GHAZIABAD,2010,Kharif     ,Rice,30102,76730
+Uttar Pradesh,GHAZIABAD,2011,Kharif     ,Rice,29971,81731
+Uttar Pradesh,GHAZIABAD,2012,Kharif     ,Rice,10098,26083
+Uttar Pradesh,GHAZIABAD,2013,Kharif     ,Rice,9296,25267
+Uttar Pradesh,GHAZIABAD,2014,Kharif     ,Rice,8650,23727
+Uttar Pradesh,GHAZIPUR,1997,Kharif     ,Rice,134838,298115
+Uttar Pradesh,GHAZIPUR,1998,Kharif     ,Rice,134616,265915
+Uttar Pradesh,GHAZIPUR,1999,Kharif     ,Rice,136533,314658
+Uttar Pradesh,GHAZIPUR,2000,Kharif     ,Rice,137877,261830
+Uttar Pradesh,GHAZIPUR,2001,Kharif     ,Rice,156348,343647
+Uttar Pradesh,GHAZIPUR,2002,Kharif     ,Rice,151011,298868
+Uttar Pradesh,GHAZIPUR,2003,Kharif     ,Rice,155599,344404
+Uttar Pradesh,GHAZIPUR,2004,Kharif     ,Rice,151689,157236
+Uttar Pradesh,GHAZIPUR,2005,Kharif     ,Rice,144930,278990
+Uttar Pradesh,GHAZIPUR,2006,Kharif     ,Rice,149754,288576
+Uttar Pradesh,GHAZIPUR,2007,Kharif     ,Rice,149871,324021
+Uttar Pradesh,GHAZIPUR,2008,Kharif     ,Rice,151654,339402
+Uttar Pradesh,GHAZIPUR,2009,Kharif     ,Rice,121103,224041
+Uttar Pradesh,GHAZIPUR,2010,Kharif     ,Rice,149321,314321
+Uttar Pradesh,GHAZIPUR,2011,Kharif     ,Rice,154085,336830
+Uttar Pradesh,GHAZIPUR,2012,Kharif     ,Rice,149175,348622
+Uttar Pradesh,GHAZIPUR,2013,Kharif     ,Rice,148895,318040
+Uttar Pradesh,GHAZIPUR,2014,Kharif     ,Rice,136673,294257
+Uttar Pradesh,GONDA,1997,Kharif     ,Rice,115201,249365
+Uttar Pradesh,GONDA,1997,Summer     ,Rice,15,32
+Uttar Pradesh,GONDA,1998,Kharif     ,Rice,117169,213740
+Uttar Pradesh,GONDA,1998,Summer     ,Rice,15,27
+Uttar Pradesh,GONDA,1999,Kharif     ,Rice,124736,258547
+Uttar Pradesh,GONDA,1999,Summer     ,Rice,15,31
+Uttar Pradesh,GONDA,2000,Kharif     ,Rice,123698,241421
+Uttar Pradesh,GONDA,2000,Summer     ,Rice,15,29
+Uttar Pradesh,GONDA,2001,Kharif     ,Rice,144714,290604
+Uttar Pradesh,GONDA,2001,Summer     ,Rice,1,2
+Uttar Pradesh,GONDA,2002,Kharif     ,Rice,129875,166254
+Uttar Pradesh,GONDA,2002,Summer     ,Rice,2,3
+Uttar Pradesh,GONDA,2003,Kharif     ,Rice,130399,245990
+Uttar Pradesh,GONDA,2003,Summer     ,Rice,15,28
+Uttar Pradesh,GONDA,2004,Kharif     ,Rice,137035,219000
+Uttar Pradesh,GONDA,2005,Kharif     ,Rice,132082,265617
+Uttar Pradesh,GONDA,2006,Kharif     ,Rice,139035,217868
+Uttar Pradesh,GONDA,2006,Summer     ,Rice,14,22
+Uttar Pradesh,GONDA,2007,Kharif     ,Rice,127327,251725
+Uttar Pradesh,GONDA,2008,Kharif     ,Rice,116178,247343
+Uttar Pradesh,GONDA,2009,Kharif     ,Rice,116741,256363
+Uttar Pradesh,GONDA,2010,Kharif     ,Rice,117388,263888
+Uttar Pradesh,GONDA,2011,Kharif     ,Rice,121429,279651
+Uttar Pradesh,GONDA,2012,Kharif     ,Rice,122264,287932
+Uttar Pradesh,GONDA,2013,Kharif     ,Rice,126768,310582
+Uttar Pradesh,GONDA,2014,Kharif     ,Rice,134534,278485
+Uttar Pradesh,GORAKHPUR,1997,Kharif     ,Rice,152774,245823
+Uttar Pradesh,GORAKHPUR,1997,Summer     ,Rice,298,479
+Uttar Pradesh,GORAKHPUR,1998,Kharif     ,Rice,139260,197081
+Uttar Pradesh,GORAKHPUR,1998,Summer     ,Rice,247,350
+Uttar Pradesh,GORAKHPUR,1999,Kharif     ,Rice,151577,285787
+Uttar Pradesh,GORAKHPUR,1999,Summer     ,Rice,204,385
+Uttar Pradesh,GORAKHPUR,2000,Kharif     ,Rice,149402,278272
+Uttar Pradesh,GORAKHPUR,2000,Summer     ,Rice,229,427
+Uttar Pradesh,GORAKHPUR,2001,Kharif     ,Rice,155864,262873
+Uttar Pradesh,GORAKHPUR,2001,Summer     ,Rice,208,351
+Uttar Pradesh,GORAKHPUR,2002,Kharif     ,Rice,151601,227291
+Uttar Pradesh,GORAKHPUR,2002,Summer     ,Rice,160,240
+Uttar Pradesh,GORAKHPUR,2003,Kharif     ,Rice,150889,305263
+Uttar Pradesh,GORAKHPUR,2003,Summer     ,Rice,142,287
+Uttar Pradesh,GORAKHPUR,2004,Kharif     ,Rice,148255,224879
+Uttar Pradesh,GORAKHPUR,2005,Kharif     ,Rice,150889,271902
+Uttar Pradesh,GORAKHPUR,2006,Kharif     ,Rice,145171,246210
+Uttar Pradesh,GORAKHPUR,2006,Summer     ,Rice,174,295
+Uttar Pradesh,GORAKHPUR,2007,Kharif     ,Rice,149578,282104
+Uttar Pradesh,GORAKHPUR,2007,Summer     ,Rice,138,260
+Uttar Pradesh,GORAKHPUR,2008,Kharif     ,Rice,152772,296072
+Uttar Pradesh,GORAKHPUR,2008,Summer     ,Rice,157,304
+Uttar Pradesh,GORAKHPUR,2009,Kharif     ,Rice,152407,277533
+Uttar Pradesh,GORAKHPUR,2009,Summer     ,Rice,89,162
+Uttar Pradesh,GORAKHPUR,2010,Kharif     ,Rice,153977,312111
+Uttar Pradesh,GORAKHPUR,2010,Summer     ,Rice,152,308
+Uttar Pradesh,GORAKHPUR,2011,Kharif     ,Rice,152103,332041
+Uttar Pradesh,GORAKHPUR,2011,Summer     ,Rice,147,321
+Uttar Pradesh,GORAKHPUR,2012,Kharif     ,Rice,151122,344256
+Uttar Pradesh,GORAKHPUR,2012,Summer     ,Rice,147,335
+Uttar Pradesh,GORAKHPUR,2013,Kharif     ,Rice,150740,362228
+Uttar Pradesh,GORAKHPUR,2013,Summer     ,Rice,47,113
+Uttar Pradesh,GORAKHPUR,2014,Kharif     ,Rice,152431,336873
+Uttar Pradesh,GORAKHPUR,2014,Summer     ,Rice,52,115
+Uttar Pradesh,HAMIRPUR,1997,Kharif     ,Rice,1573,1771
+Uttar Pradesh,HAMIRPUR,1998,Kharif     ,Rice,1019,1651
+Uttar Pradesh,HAMIRPUR,1999,Kharif     ,Rice,1407,1529
+Uttar Pradesh,HAMIRPUR,2000,Kharif     ,Rice,1668,1657
+Uttar Pradesh,HAMIRPUR,2001,Kharif     ,Rice,1320,1759
+Uttar Pradesh,HAMIRPUR,2002,Kharif     ,Rice,546,447
+Uttar Pradesh,HAMIRPUR,2003,Kharif     ,Rice,478,556
+Uttar Pradesh,HAMIRPUR,2004,Kharif     ,Rice,630,683
+Uttar Pradesh,HAMIRPUR,2005,Kharif     ,Rice,203,158
+Uttar Pradesh,HAMIRPUR,2006,Kharif     ,Rice,630,537
+Uttar Pradesh,HAMIRPUR,2007,Kharif     ,Rice,254,125
+Uttar Pradesh,HAMIRPUR,2008,Kharif     ,Rice,201,259
+Uttar Pradesh,HAMIRPUR,2009,Kharif     ,Rice,64,61
+Uttar Pradesh,HAMIRPUR,2010,Kharif     ,Rice,159,177
+Uttar Pradesh,HAMIRPUR,2011,Kharif     ,Rice,76,119
+Uttar Pradesh,HAMIRPUR,2012,Kharif     ,Rice,97,181
+Uttar Pradesh,HAMIRPUR,2013,Kharif     ,Rice,84,152
+Uttar Pradesh,HAMIRPUR,2014,Kharif     ,Rice,41,66
+Uttar Pradesh,HAPUR,2012,Kharif     ,Rice,20160,59593
+Uttar Pradesh,HAPUR,2013,Kharif     ,Rice,20322,59422
+Uttar Pradesh,HAPUR,2014,Kharif     ,Rice,20839,61496
+Uttar Pradesh,HARDOI,1997,Kharif     ,Rice,113939,250053
+Uttar Pradesh,HARDOI,1997,Summer     ,Rice,17,37
+Uttar Pradesh,HARDOI,1998,Kharif     ,Rice,114318,234782
+Uttar Pradesh,HARDOI,1998,Summer     ,Rice,17,35
+Uttar Pradesh,HARDOI,1999,Kharif     ,Rice,111718,224346
+Uttar Pradesh,HARDOI,1999,Summer     ,Rice,15,30
+Uttar Pradesh,HARDOI,2000,Kharif     ,Rice,127531,216441
+Uttar Pradesh,HARDOI,2000,Summer     ,Rice,15,25
+Uttar Pradesh,HARDOI,2001,Kharif     ,Rice,154011,264047
+Uttar Pradesh,HARDOI,2002,Kharif     ,Rice,85917,143964
+Uttar Pradesh,HARDOI,2002,Summer     ,Rice,1,2
+Uttar Pradesh,HARDOI,2003,Kharif     ,Rice,130256,267702
+Uttar Pradesh,HARDOI,2003,Summer     ,Rice,1,2
+Uttar Pradesh,HARDOI,2004,Kharif     ,Rice,147130,345455
+Uttar Pradesh,HARDOI,2005,Kharif     ,Rice,127800,278476
+Uttar Pradesh,HARDOI,2006,Kharif     ,Rice,147130,298674
+Uttar Pradesh,HARDOI,2006,Summer     ,Rice,35,71
+Uttar Pradesh,HARDOI,2007,Kharif     ,Rice,151320,294469
+Uttar Pradesh,HARDOI,2007,Summer     ,Rice,39,76
+Uttar Pradesh,HARDOI,2008,Kharif     ,Rice,161906,339517
+Uttar Pradesh,HARDOI,2008,Summer     ,Rice,42,88
+Uttar Pradesh,HARDOI,2009,Kharif     ,Rice,123955,279271
+Uttar Pradesh,HARDOI,2009,Summer     ,Rice,13,29
+Uttar Pradesh,HARDOI,2010,Kharif     ,Rice,130217,265252
+Uttar Pradesh,HARDOI,2010,Summer     ,Rice,26,53
+Uttar Pradesh,HARDOI,2011,Kharif     ,Rice,152396,342586
+Uttar Pradesh,HARDOI,2011,Summer     ,Rice,1,2
+Uttar Pradesh,HARDOI,2012,Kharif     ,Rice,144505,354615
+Uttar Pradesh,HARDOI,2012,Summer     ,Rice,10,25
+Uttar Pradesh,HARDOI,2013,Kharif     ,Rice,149084,375095
+Uttar Pradesh,HARDOI,2013,Summer     ,Rice,96,242
+Uttar Pradesh,HARDOI,2014,Kharif     ,Rice,142184,279392
+Uttar Pradesh,HARDOI,2014,Summer     ,Rice,50,98
+Uttar Pradesh,HATHRAS,1997,Kharif     ,Rice,8294,18393
+Uttar Pradesh,HATHRAS,1997,Summer     ,Rice,1,2
+Uttar Pradesh,HATHRAS,1998,Kharif     ,Rice,8394,19007
+Uttar Pradesh,HATHRAS,1999,Kharif     ,Rice,9048,15969
+Uttar Pradesh,HATHRAS,2000,Kharif     ,Rice,9989,21446
+Uttar Pradesh,HATHRAS,2001,Kharif     ,Rice,10296,14187
+Uttar Pradesh,HATHRAS,2002,Kharif     ,Rice,13872,21805
+Uttar Pradesh,HATHRAS,2003,Kharif     ,Rice,7129,13766
+Uttar Pradesh,HATHRAS,2004,Kharif     ,Rice,9536,20936
+Uttar Pradesh,HATHRAS,2005,Kharif     ,Rice,7755,16045
+Uttar Pradesh,HATHRAS,2006,Kharif     ,Rice,8922,16952
+Uttar Pradesh,HATHRAS,2007,Kharif     ,Rice,9837,20127
+Uttar Pradesh,HATHRAS,2008,Kharif     ,Rice,11098,21630
+Uttar Pradesh,HATHRAS,2008,Summer     ,Rice,4,8
+Uttar Pradesh,HATHRAS,2009,Kharif     ,Rice,16011,28227
+Uttar Pradesh,HATHRAS,2010,Kharif     ,Rice,17158,30044
+Uttar Pradesh,HATHRAS,2011,Kharif     ,Rice,18259,38472
+Uttar Pradesh,HATHRAS,2012,Kharif     ,Rice,20857,47137
+Uttar Pradesh,HATHRAS,2013,Kharif     ,Rice,23223,54690
+Uttar Pradesh,HATHRAS,2013,Summer     ,Rice,12,28
+Uttar Pradesh,HATHRAS,2014,Kharif     ,Rice,29465,56956
+Uttar Pradesh,JALAUN,1997,Kharif     ,Rice,1754,1053
+Uttar Pradesh,JALAUN,1998,Kharif     ,Rice,1654,1253
+Uttar Pradesh,JALAUN,1999,Kharif     ,Rice,1661,1361
+Uttar Pradesh,JALAUN,2000,Kharif     ,Rice,2211,2164
+Uttar Pradesh,JALAUN,2001,Kharif     ,Rice,1089,769
+Uttar Pradesh,JALAUN,2002,Kharif     ,Rice,395,221
+Uttar Pradesh,JALAUN,2003,Kharif     ,Rice,861,770
+Uttar Pradesh,JALAUN,2004,Kharif     ,Rice,930,519
+Uttar Pradesh,JALAUN,2005,Kharif     ,Rice,818,869
+Uttar Pradesh,JALAUN,2006,Kharif     ,Rice,1485,1217
+Uttar Pradesh,JALAUN,2007,Kharif     ,Rice,233,130
+Uttar Pradesh,JALAUN,2008,Kharif     ,Rice,432,496
+Uttar Pradesh,JALAUN,2009,Kharif     ,Rice,227,230
+Uttar Pradesh,JALAUN,2010,Kharif     ,Rice,339,458
+Uttar Pradesh,JALAUN,2011,Kharif     ,Rice,1062,1951
+Uttar Pradesh,JALAUN,2012,Kharif     ,Rice,512,555
+Uttar Pradesh,JALAUN,2013,Kharif     ,Rice,520,934
+Uttar Pradesh,JALAUN,2014,Kharif     ,Rice,509,890
+Uttar Pradesh,JAUNPUR,1997,Kharif     ,Rice,123113,276701
+Uttar Pradesh,JAUNPUR,1997,Summer     ,Rice,3,7
+Uttar Pradesh,JAUNPUR,1998,Kharif     ,Rice,124648,231524
+Uttar Pradesh,JAUNPUR,1998,Summer     ,Rice,3,6
+Uttar Pradesh,JAUNPUR,1999,Kharif     ,Rice,126076,303487
+Uttar Pradesh,JAUNPUR,1999,Summer     ,Rice,5,12
+Uttar Pradesh,JAUNPUR,2000,Kharif     ,Rice,126846,260090
+Uttar Pradesh,JAUNPUR,2000,Summer     ,Rice,3,6
+Uttar Pradesh,JAUNPUR,2001,Kharif     ,Rice,129896,268798
+Uttar Pradesh,JAUNPUR,2001,Summer     ,Rice,3,6
+Uttar Pradesh,JAUNPUR,2002,Kharif     ,Rice,123457,243387
+Uttar Pradesh,JAUNPUR,2003,Kharif     ,Rice,129566,293353
+Uttar Pradesh,JAUNPUR,2004,Kharif     ,Rice,137757,162226
+Uttar Pradesh,JAUNPUR,2005,Kharif     ,Rice,112040,214557
+Uttar Pradesh,JAUNPUR,2006,Kharif     ,Rice,144237,266983
+Uttar Pradesh,JAUNPUR,2007,Kharif     ,Rice,138085,265261
+Uttar Pradesh,JAUNPUR,2008,Kharif     ,Rice,144174,309686
+Uttar Pradesh,JAUNPUR,2009,Kharif     ,Rice,129556,255484
+Uttar Pradesh,JAUNPUR,2010,Kharif     ,Rice,139885,292220
+Uttar Pradesh,JAUNPUR,2011,Kharif     ,Rice,139160,311301
+Uttar Pradesh,JAUNPUR,2012,Kharif     ,Rice,147185,343971
+Uttar Pradesh,JAUNPUR,2013,Kharif     ,Rice,149517,342394
+Uttar Pradesh,JAUNPUR,2014,Kharif     ,Rice,140428,338993
+Uttar Pradesh,JHANSI,1997,Kharif     ,Rice,2306,1385
+Uttar Pradesh,JHANSI,1998,Kharif     ,Rice,1976,1498
+Uttar Pradesh,JHANSI,1999,Kharif     ,Rice,1575,1291
+Uttar Pradesh,JHANSI,2000,Kharif     ,Rice,2972,2910
+Uttar Pradesh,JHANSI,2001,Kharif     ,Rice,2986,2107
+Uttar Pradesh,JHANSI,2002,Kharif     ,Rice,688,384
+Uttar Pradesh,JHANSI,2002,Summer     ,Rice,1,1
+Uttar Pradesh,JHANSI,2003,Kharif     ,Rice,2220,3455
+Uttar Pradesh,JHANSI,2004,Kharif     ,Rice,3461,2911
+Uttar Pradesh,JHANSI,2005,Kharif     ,Rice,1909,3581
+Uttar Pradesh,JHANSI,2006,Kharif     ,Rice,1082,1365
+Uttar Pradesh,JHANSI,2007,Kharif     ,Rice,3994,3047
+Uttar Pradesh,JHANSI,2008,Kharif     ,Rice,1689,3197
+Uttar Pradesh,JHANSI,2009,Kharif     ,Rice,1823,3167
+Uttar Pradesh,JHANSI,2010,Kharif     ,Rice,2067,4738
+Uttar Pradesh,JHANSI,2011,Kharif     ,Rice,10590,21265
+Uttar Pradesh,JHANSI,2012,Kharif     ,Rice,10042,19893
+Uttar Pradesh,JHANSI,2013,Kharif     ,Rice,10738,20907
+Uttar Pradesh,JHANSI,2014,Kharif     ,Rice,9590,17694
+Uttar Pradesh,JHANSI,2014,Summer     ,Rice,2,4
+Uttar Pradesh,KANNAUJ,1997,Kharif     ,Rice,15841,40925
+Uttar Pradesh,KANNAUJ,1998,Kharif     ,Rice,20370,41452
+Uttar Pradesh,KANNAUJ,1999,Kharif     ,Rice,23585,49882
+Uttar Pradesh,KANNAUJ,1999,Summer     ,Rice,2,4
+Uttar Pradesh,KANNAUJ,2000,Kharif     ,Rice,20703,33539
+Uttar Pradesh,KANNAUJ,2001,Kharif     ,Rice,22922,45047
+Uttar Pradesh,KANNAUJ,2002,Kharif     ,Rice,16078,34519
+Uttar Pradesh,KANNAUJ,2003,Kharif     ,Rice,19017,36763
+Uttar Pradesh,KANNAUJ,2004,Kharif     ,Rice,18978,45665
+Uttar Pradesh,KANNAUJ,2005,Kharif     ,Rice,19679,49965
+Uttar Pradesh,KANNAUJ,2006,Kharif     ,Rice,17211,41289
+Uttar Pradesh,KANNAUJ,2007,Kharif     ,Rice,16925,44682
+Uttar Pradesh,KANNAUJ,2008,Kharif     ,Rice,19972,54384
+Uttar Pradesh,KANNAUJ,2009,Kharif     ,Rice,13821,36764
+Uttar Pradesh,KANNAUJ,2010,Kharif     ,Rice,15388,42933
+Uttar Pradesh,KANNAUJ,2011,Kharif     ,Rice,16289,45577
+Uttar Pradesh,KANNAUJ,2012,Kharif     ,Rice,17275,52257
+Uttar Pradesh,KANNAUJ,2013,Kharif     ,Rice,21390,63165
+Uttar Pradesh,KANNAUJ,2014,Kharif     ,Rice,22007,52355
+Uttar Pradesh,KANPUR DEHAT,1997,Kharif     ,Rice,45187,101835
+Uttar Pradesh,KANPUR DEHAT,1998,Kharif     ,Rice,45393,104018
+Uttar Pradesh,KANPUR DEHAT,2003,Kharif     ,Rice,52617,109175
+Uttar Pradesh,KANPUR DEHAT,2004,Kharif     ,Rice,52802,126264
+Uttar Pradesh,KANPUR DEHAT,2005,Kharif     ,Rice,55080,123765
+Uttar Pradesh,KANPUR DEHAT,2006,Kharif     ,Rice,56707,107290
+Uttar Pradesh,KANPUR DEHAT,2007,Kharif     ,Rice,56442,114747
+Uttar Pradesh,KANPUR DEHAT,2008,Kharif     ,Rice,52436,125374
+Uttar Pradesh,KANPUR DEHAT,2009,Kharif     ,Rice,29397,66114
+Uttar Pradesh,KANPUR DEHAT,2010,Kharif     ,Rice,43449,99976
+Uttar Pradesh,KANPUR DEHAT,2011,Kharif     ,Rice,43053,115425
+Uttar Pradesh,KANPUR DEHAT,2012,Kharif     ,Rice,39670,119367
+Uttar Pradesh,KANPUR DEHAT,2013,Kharif     ,Rice,41454,112299
+Uttar Pradesh,KANPUR DEHAT,2014,Kharif     ,Rice,37513,92770
+Uttar Pradesh,KANPUR NAGAR,1997,Kharif     ,Rice,37026,79325
+Uttar Pradesh,KANPUR NAGAR,1998,Kharif     ,Rice,37150,77053
+Uttar Pradesh,KANPUR NAGAR,1998,Summer     ,Rice,1,2
+Uttar Pradesh,KANPUR NAGAR,1999,Kharif     ,Rice,81418,182417
+Uttar Pradesh,KANPUR NAGAR,2000,Kharif     ,Rice,79780,139920
+Uttar Pradesh,KANPUR NAGAR,2001,Kharif     ,Rice,102651,199417
+Uttar Pradesh,KANPUR NAGAR,2002,Kharif     ,Rice,83843,154159
+Uttar Pradesh,KANPUR NAGAR,2002,Summer     ,Rice,4,8
+Uttar Pradesh,KANPUR NAGAR,2003,Kharif     ,Rice,36528,74896
+Uttar Pradesh,KANPUR NAGAR,2004,Kharif     ,Rice,37165,71748
+Uttar Pradesh,KANPUR NAGAR,2005,Kharif     ,Rice,32279,64493
+Uttar Pradesh,KANPUR NAGAR,2006,Kharif     ,Rice,30487,49480
+Uttar Pradesh,KANPUR NAGAR,2007,Kharif     ,Rice,33909,63986
+Uttar Pradesh,KANPUR NAGAR,2008,Kharif     ,Rice,34040,74003
+Uttar Pradesh,KANPUR NAGAR,2009,Kharif     ,Rice,24103,55485
+Uttar Pradesh,KANPUR NAGAR,2010,Kharif     ,Rice,31353,70638
+Uttar Pradesh,KANPUR NAGAR,2011,Kharif     ,Rice,33478,90658
+Uttar Pradesh,KANPUR NAGAR,2012,Kharif     ,Rice,31891,74689
+Uttar Pradesh,KANPUR NAGAR,2013,Kharif     ,Rice,33584,85941
+Uttar Pradesh,KANPUR NAGAR,2014,Kharif     ,Rice,29881,69204
+Uttar Pradesh,KASGANJ,2009,Kharif     ,Rice,14317,29679
+Uttar Pradesh,KASGANJ,2009,Summer     ,Rice,38,79
+Uttar Pradesh,KASGANJ,2010,Kharif     ,Rice,17901,37216
+Uttar Pradesh,KASGANJ,2011,Kharif     ,Rice,16107,41411
+Uttar Pradesh,KASGANJ,2011,Summer     ,Rice,8,21
+Uttar Pradesh,KASGANJ,2012,Kharif     ,Rice,17238,46974
+Uttar Pradesh,KASGANJ,2013,Kharif     ,Rice,17015,37977
+Uttar Pradesh,KASGANJ,2014,Kharif     ,Rice,19146,45740
+Uttar Pradesh,KAUSHAMBI,1997,Kharif     ,Rice,30563,43697
+Uttar Pradesh,KAUSHAMBI,1998,Kharif     ,Rice,30650,47496
+Uttar Pradesh,KAUSHAMBI,1999,Kharif     ,Rice,24975,50043
+Uttar Pradesh,KAUSHAMBI,2000,Kharif     ,Rice,31025,67116
+Uttar Pradesh,KAUSHAMBI,2001,Kharif     ,Rice,49500,108109
+Uttar Pradesh,KAUSHAMBI,2002,Kharif     ,Rice,23959,37592
+Uttar Pradesh,KAUSHAMBI,2003,Kharif     ,Rice,41462,77682
+Uttar Pradesh,KAUSHAMBI,2004,Kharif     ,Rice,44335,85788
+Uttar Pradesh,KAUSHAMBI,2005,Kharif     ,Rice,41745,69130
+Uttar Pradesh,KAUSHAMBI,2006,Kharif     ,Rice,44367,67260
+Uttar Pradesh,KAUSHAMBI,2007,Kharif     ,Rice,40533,64042
+Uttar Pradesh,KAUSHAMBI,2008,Kharif     ,Rice,57888,122086
+Uttar Pradesh,KAUSHAMBI,2009,Kharif     ,Rice,28255,51594
+Uttar Pradesh,KAUSHAMBI,2010,Kharif     ,Rice,40103,79965
+Uttar Pradesh,KAUSHAMBI,2011,Kharif     ,Rice,45799,111108
+Uttar Pradesh,KAUSHAMBI,2012,Kharif     ,Rice,46141,100357
+Uttar Pradesh,KAUSHAMBI,2013,Kharif     ,Rice,50894,112425
+Uttar Pradesh,KAUSHAMBI,2014,Kharif     ,Rice,43224,93494
+Uttar Pradesh,KHERI,1997,Kharif     ,Rice,184332,475902
+Uttar Pradesh,KHERI,1997,Summer     ,Rice,187,483
+Uttar Pradesh,KHERI,1998,Kharif     ,Rice,189267,421981
+Uttar Pradesh,KHERI,1998,Summer     ,Rice,158,352
+Uttar Pradesh,KHERI,1999,Kharif     ,Rice,188822,481946
+Uttar Pradesh,KHERI,1999,Summer     ,Rice,176,449
+Uttar Pradesh,KHERI,2000,Kharif     ,Rice,188067,477644
+Uttar Pradesh,KHERI,2000,Summer     ,Rice,137,334
+Uttar Pradesh,KHERI,2001,Kharif     ,Rice,187416,484045
+Uttar Pradesh,KHERI,2001,Summer     ,Rice,128,331
+Uttar Pradesh,KHERI,2002,Kharif     ,Rice,172651,363489
+Uttar Pradesh,KHERI,2002,Summer     ,Rice,288,606
+Uttar Pradesh,KHERI,2003,Kharif     ,Rice,179692,428236
+Uttar Pradesh,KHERI,2003,Summer     ,Rice,471,1122
+Uttar Pradesh,KHERI,2004,Kharif     ,Rice,190686,397276
+Uttar Pradesh,KHERI,2005,Kharif     ,Rice,176122,396803
+Uttar Pradesh,KHERI,2006,Kharif     ,Rice,183844,376880
+Uttar Pradesh,KHERI,2006,Summer     ,Rice,2881,5906
+Uttar Pradesh,KHERI,2007,Kharif     ,Rice,179820,372227
+Uttar Pradesh,KHERI,2007,Summer     ,Rice,1401,2900
+Uttar Pradesh,KHERI,2008,Kharif     ,Rice,187595,334107
+Uttar Pradesh,KHERI,2008,Summer     ,Rice,2657,4732
+Uttar Pradesh,KHERI,2009,Kharif     ,Rice,163394,321886
+Uttar Pradesh,KHERI,2009,Summer     ,Rice,3019,5947
+Uttar Pradesh,KHERI,2010,Kharif     ,Rice,181676,393329
+Uttar Pradesh,KHERI,2010,Summer     ,Rice,3707,8026
+Uttar Pradesh,KHERI,2011,Kharif     ,Rice,184419,443159
+Uttar Pradesh,KHERI,2011,Summer     ,Rice,3183,7649
+Uttar Pradesh,KHERI,2012,Kharif     ,Rice,183167,469457
+Uttar Pradesh,KHERI,2012,Summer     ,Rice,3512,9001
+Uttar Pradesh,KHERI,2013,Kharif     ,Rice,173556,467907
+Uttar Pradesh,KHERI,2013,Summer     ,Rice,2526,6810
+Uttar Pradesh,KHERI,2014,Kharif     ,Rice,155403,423318
+Uttar Pradesh,KHERI,2014,Summer     ,Rice,1822,4963
+Uttar Pradesh,KUSHI NAGAR,1997,Kharif     ,Rice,111830,290944
+Uttar Pradesh,KUSHI NAGAR,1998,Kharif     ,Rice,112395,292763
+Uttar Pradesh,KUSHI NAGAR,1999,Kharif     ,Rice,115083,288530
+Uttar Pradesh,KUSHI NAGAR,2000,Kharif     ,Rice,118027,340514
+Uttar Pradesh,KUSHI NAGAR,2001,Kharif     ,Rice,118068,286058
+Uttar Pradesh,KUSHI NAGAR,2002,Kharif     ,Rice,117743,313789
+Uttar Pradesh,KUSHI NAGAR,2002,Summer     ,Rice,3,8
+Uttar Pradesh,KUSHI NAGAR,2003,Kharif     ,Rice,120358,317165
+Uttar Pradesh,KUSHI NAGAR,2004,Kharif     ,Rice,123633,289803
+Uttar Pradesh,KUSHI NAGAR,2005,Kharif     ,Rice,120335,305651
+Uttar Pradesh,KUSHI NAGAR,2006,Kharif     ,Rice,119909,264879
+Uttar Pradesh,KUSHI NAGAR,2007,Kharif     ,Rice,122757,308611
+Uttar Pradesh,KUSHI NAGAR,2008,Kharif     ,Rice,121337,313049
+Uttar Pradesh,KUSHI NAGAR,2009,Kharif     ,Rice,122496,265081
+Uttar Pradesh,KUSHI NAGAR,2010,Kharif     ,Rice,125415,292844
+Uttar Pradesh,KUSHI NAGAR,2011,Kharif     ,Rice,127193,303991
+Uttar Pradesh,KUSHI NAGAR,2012,Kharif     ,Rice,132485,327370
+Uttar Pradesh,KUSHI NAGAR,2013,Kharif     ,Rice,122607,320863
+Uttar Pradesh,KUSHI NAGAR,2014,Kharif     ,Rice,118425,253666
+Uttar Pradesh,LALITPUR,1997,Kharif     ,Rice,6709,4023
+Uttar Pradesh,LALITPUR,1997,Summer     ,Rice,3,2
+Uttar Pradesh,LALITPUR,1998,Kharif     ,Rice,9983,7581
+Uttar Pradesh,LALITPUR,1999,Kharif     ,Rice,7330,6002
+Uttar Pradesh,LALITPUR,1999,Summer     ,Rice,1,1
+Uttar Pradesh,LALITPUR,2000,Kharif     ,Rice,7337,7183
+Uttar Pradesh,LALITPUR,2001,Kharif     ,Rice,7435,5239
+Uttar Pradesh,LALITPUR,2002,Kharif     ,Rice,5529,612
+Uttar Pradesh,LALITPUR,2003,Kharif     ,Rice,6004,3870
+Uttar Pradesh,LALITPUR,2004,Kharif     ,Rice,5668,2203
+Uttar Pradesh,LALITPUR,2005,Kharif     ,Rice,3484,2146
+Uttar Pradesh,LALITPUR,2006,Kharif     ,Rice,4996,3612
+Uttar Pradesh,LALITPUR,2007,Kharif     ,Rice,3485,1049
+Uttar Pradesh,LALITPUR,2008,Kharif     ,Rice,3207,2402
+Uttar Pradesh,LALITPUR,2009,Kharif     ,Rice,3434,2136
+Uttar Pradesh,LALITPUR,2010,Kharif     ,Rice,2833,1856
+Uttar Pradesh,LALITPUR,2011,Kharif     ,Rice,1631,1132
+Uttar Pradesh,LALITPUR,2012,Kharif     ,Rice,1315,1427
+Uttar Pradesh,LALITPUR,2013,Kharif     ,Rice,1355,963
+Uttar Pradesh,LALITPUR,2014,Kharif     ,Rice,962,750
+Uttar Pradesh,LUCKNOW,1997,Kharif     ,Rice,53897,91903
+Uttar Pradesh,LUCKNOW,1997,Summer     ,Rice,3,5
+Uttar Pradesh,LUCKNOW,1998,Kharif     ,Rice,55254,91055
+Uttar Pradesh,LUCKNOW,1998,Summer     ,Rice,6,10
+Uttar Pradesh,LUCKNOW,1999,Kharif     ,Rice,55483,94571
+Uttar Pradesh,LUCKNOW,1999,Summer     ,Rice,7,12
+Uttar Pradesh,LUCKNOW,2000,Kharif     ,Rice,51533,65339
+Uttar Pradesh,LUCKNOW,2000,Summer     ,Rice,6,8
+Uttar Pradesh,LUCKNOW,2001,Kharif     ,Rice,52458,90256
+Uttar Pradesh,LUCKNOW,2001,Summer     ,Rice,2,3
+Uttar Pradesh,LUCKNOW,2002,Kharif     ,Rice,40753,74299
+Uttar Pradesh,LUCKNOW,2002,Summer     ,Rice,3,5
+Uttar Pradesh,LUCKNOW,2003,Kharif     ,Rice,48397,102433
+Uttar Pradesh,LUCKNOW,2004,Kharif     ,Rice,52825,99033
+Uttar Pradesh,LUCKNOW,2005,Kharif     ,Rice,35499,68300
+Uttar Pradesh,LUCKNOW,2006,Kharif     ,Rice,48107,93520
+Uttar Pradesh,LUCKNOW,2007,Kharif     ,Rice,47542,87097
+Uttar Pradesh,LUCKNOW,2008,Kharif     ,Rice,56308,118810
+Uttar Pradesh,LUCKNOW,2009,Kharif     ,Rice,43549,95329
+Uttar Pradesh,LUCKNOW,2009,Summer     ,Rice,2,4
+Uttar Pradesh,LUCKNOW,2010,Kharif     ,Rice,48833,93320
+Uttar Pradesh,LUCKNOW,2011,Kharif     ,Rice,52978,106645
+Uttar Pradesh,LUCKNOW,2012,Kharif     ,Rice,51138,104833
+Uttar Pradesh,LUCKNOW,2013,Kharif     ,Rice,52159,105674
+Uttar Pradesh,LUCKNOW,2014,Kharif     ,Rice,54126,125843
+Uttar Pradesh,MAHARAJGANJ,1997,Kharif     ,Rice,164729,373051
+Uttar Pradesh,MAHARAJGANJ,1997,Summer     ,Rice,165,374
+Uttar Pradesh,MAHARAJGANJ,1998,Kharif     ,Rice,163828,348183
+Uttar Pradesh,MAHARAJGANJ,1998,Summer     ,Rice,182,387
+Uttar Pradesh,MAHARAJGANJ,1999,Kharif     ,Rice,162602,446907
+Uttar Pradesh,MAHARAJGANJ,1999,Summer     ,Rice,176,484
+Uttar Pradesh,MAHARAJGANJ,2000,Kharif     ,Rice,166489,418224
+Uttar Pradesh,MAHARAJGANJ,2000,Summer     ,Rice,179,450
+Uttar Pradesh,MAHARAJGANJ,2001,Kharif     ,Rice,165097,370150
+Uttar Pradesh,MAHARAJGANJ,2001,Summer     ,Rice,176,395
+Uttar Pradesh,MAHARAJGANJ,2002,Kharif     ,Rice,162597,436958
+Uttar Pradesh,MAHARAJGANJ,2002,Summer     ,Rice,172,462
+Uttar Pradesh,MAHARAJGANJ,2003,Kharif     ,Rice,163882,450103
+Uttar Pradesh,MAHARAJGANJ,2003,Summer     ,Rice,214,588
+Uttar Pradesh,MAHARAJGANJ,2004,Kharif     ,Rice,171788,385422
+Uttar Pradesh,MAHARAJGANJ,2005,Kharif     ,Rice,158717,370763
+Uttar Pradesh,MAHARAJGANJ,2006,Kharif     ,Rice,168666,389281
+Uttar Pradesh,MAHARAJGANJ,2006,Summer     ,Rice,187,432
+Uttar Pradesh,MAHARAJGANJ,2007,Kharif     ,Rice,161982,358952
+Uttar Pradesh,MAHARAJGANJ,2007,Summer     ,Rice,106,235
+Uttar Pradesh,MAHARAJGANJ,2008,Kharif     ,Rice,165274,381287
+Uttar Pradesh,MAHARAJGANJ,2008,Summer     ,Rice,155,357
+Uttar Pradesh,MAHARAJGANJ,2009,Kharif     ,Rice,167645,407210
+Uttar Pradesh,MAHARAJGANJ,2009,Summer     ,Rice,94,228
+Uttar Pradesh,MAHARAJGANJ,2010,Kharif     ,Rice,167451,363536
+Uttar Pradesh,MAHARAJGANJ,2010,Summer     ,Rice,28,61
+Uttar Pradesh,MAHARAJGANJ,2011,Kharif     ,Rice,166780,399271
+Uttar Pradesh,MAHARAJGANJ,2011,Summer     ,Rice,19,45
+Uttar Pradesh,MAHARAJGANJ,2012,Kharif     ,Rice,164762,405150
+Uttar Pradesh,MAHARAJGANJ,2012,Summer     ,Rice,20,49
+Uttar Pradesh,MAHARAJGANJ,2013,Kharif     ,Rice,161164,398397
+Uttar Pradesh,MAHARAJGANJ,2013,Summer     ,Rice,110,272
+Uttar Pradesh,MAHARAJGANJ,2014,Kharif     ,Rice,165814,406742
+Uttar Pradesh,MAHARAJGANJ,2014,Summer     ,Rice,110,270
+Uttar Pradesh,MAHOBA,1997,Kharif     ,Rice,1042,1173
+Uttar Pradesh,MAHOBA,1998,Kharif     ,Rice,869,1408
+Uttar Pradesh,MAHOBA,1999,Kharif     ,Rice,1139,1238
+Uttar Pradesh,MAHOBA,2000,Kharif     ,Rice,1206,1198
+Uttar Pradesh,MAHOBA,2001,Kharif     ,Rice,940,1252
+Uttar Pradesh,MAHOBA,2002,Kharif     ,Rice,758,621
+Uttar Pradesh,MAHOBA,2003,Kharif     ,Rice,759,884
+Uttar Pradesh,MAHOBA,2004,Kharif     ,Rice,724,784
+Uttar Pradesh,MAHOBA,2005,Kharif     ,Rice,406,315
+Uttar Pradesh,MAHOBA,2006,Kharif     ,Rice,109,93
+Uttar Pradesh,MAHOBA,2007,Kharif     ,Rice,330,163
+Uttar Pradesh,MAHOBA,2008,Kharif     ,Rice,293,378
+Uttar Pradesh,MAHOBA,2009,Kharif     ,Rice,212,203
+Uttar Pradesh,MAHOBA,2010,Kharif     ,Rice,76,85
+Uttar Pradesh,MAHOBA,2011,Kharif     ,Rice,58,90
+Uttar Pradesh,MAHOBA,2012,Kharif     ,Rice,56,105
+Uttar Pradesh,MAHOBA,2013,Kharif     ,Rice,48,86
+Uttar Pradesh,MAHOBA,2014,Kharif     ,Rice,12,19
+Uttar Pradesh,MAINPURI,1997,Kharif     ,Rice,60647,137159
+Uttar Pradesh,MAINPURI,1998,Kharif     ,Rice,63872,136170
+Uttar Pradesh,MAINPURI,1999,Kharif     ,Rice,61188,124111
+Uttar Pradesh,MAINPURI,2000,Kharif     ,Rice,64729,130602
+Uttar Pradesh,MAINPURI,2001,Kharif     ,Rice,67429,141118
+Uttar Pradesh,MAINPURI,2002,Kharif     ,Rice,52388,100585
+Uttar Pradesh,MAINPURI,2002,Summer     ,Rice,4,8
+Uttar Pradesh,MAINPURI,2003,Kharif     ,Rice,57993,93556
+Uttar Pradesh,MAINPURI,2004,Kharif     ,Rice,81474,179085
+Uttar Pradesh,MAINPURI,2005,Kharif     ,Rice,56735,133441
+Uttar Pradesh,MAINPURI,2006,Kharif     ,Rice,81474,204174
+Uttar Pradesh,MAINPURI,2006,Summer     ,Rice,18,45
+Uttar Pradesh,MAINPURI,2007,Kharif     ,Rice,75962,185195
+Uttar Pradesh,MAINPURI,2007,Summer     ,Rice,19,46
+Uttar Pradesh,MAINPURI,2008,Kharif     ,Rice,83634,209336
+Uttar Pradesh,MAINPURI,2008,Summer     ,Rice,105,263
+Uttar Pradesh,MAINPURI,2009,Kharif     ,Rice,60622,137673
+Uttar Pradesh,MAINPURI,2009,Summer     ,Rice,39,89
+Uttar Pradesh,MAINPURI,2010,Kharif     ,Rice,49602,120434
+Uttar Pradesh,MAINPURI,2011,Kharif     ,Rice,64437,168825
+Uttar Pradesh,MAINPURI,2011,Summer     ,Rice,21,55
+Uttar Pradesh,MAINPURI,2012,Kharif     ,Rice,59963,157943
+Uttar Pradesh,MAINPURI,2012,Summer     ,Rice,21,55
+Uttar Pradesh,MAINPURI,2013,Kharif     ,Rice,65174,172059
+Uttar Pradesh,MAINPURI,2013,Summer     ,Rice,216,570
+Uttar Pradesh,MAINPURI,2014,Kharif     ,Rice,73176,190843
+Uttar Pradesh,MAINPURI,2014,Summer     ,Rice,63,164
+Uttar Pradesh,MATHURA,1997,Kharif     ,Rice,25931,56690
+Uttar Pradesh,MATHURA,1998,Kharif     ,Rice,31123,59471
+Uttar Pradesh,MATHURA,1999,Kharif     ,Rice,39971,82441
+Uttar Pradesh,MATHURA,2000,Kharif     ,Rice,38821,80997
+Uttar Pradesh,MATHURA,2001,Kharif     ,Rice,36964,75917
+Uttar Pradesh,MATHURA,2002,Kharif     ,Rice,25096,43496
+Uttar Pradesh,MATHURA,2002,Summer     ,Rice,7,12
+Uttar Pradesh,MATHURA,2003,Kharif     ,Rice,33054,67858
+Uttar Pradesh,MATHURA,2004,Kharif     ,Rice,37089,94625
+Uttar Pradesh,MATHURA,2005,Kharif     ,Rice,32880,82858
+Uttar Pradesh,MATHURA,2006,Kharif     ,Rice,37089,77442
+Uttar Pradesh,MATHURA,2007,Kharif     ,Rice,42229,103377
+Uttar Pradesh,MATHURA,2008,Kharif     ,Rice,45394,119522
+Uttar Pradesh,MATHURA,2009,Kharif     ,Rice,42931,92817
+Uttar Pradesh,MATHURA,2010,Kharif     ,Rice,47142,101167
+Uttar Pradesh,MATHURA,2011,Kharif     ,Rice,45927,104300
+Uttar Pradesh,MATHURA,2012,Kharif     ,Rice,48596,120081
+Uttar Pradesh,MATHURA,2013,Kharif     ,Rice,52654,126580
+Uttar Pradesh,MATHURA,2014,Kharif     ,Rice,49400,114756
+Uttar Pradesh,MAU,1997,Kharif     ,Rice,87189,151667
+Uttar Pradesh,MAU,1998,Kharif     ,Rice,88317,155987
+Uttar Pradesh,MAU,1999,Kharif     ,Rice,89139,186084
+Uttar Pradesh,MAU,2000,Kharif     ,Rice,90471,169071
+Uttar Pradesh,MAU,2001,Kharif     ,Rice,91166,174232
+Uttar Pradesh,MAU,2002,Kharif     ,Rice,90346,195837
+Uttar Pradesh,MAU,2003,Kharif     ,Rice,91170,192364
+Uttar Pradesh,MAU,2004,Kharif     ,Rice,90051,116405
+Uttar Pradesh,MAU,2005,Kharif     ,Rice,90387,158629
+Uttar Pradesh,MAU,2006,Kharif     ,Rice,85278,88433
+Uttar Pradesh,MAU,2007,Kharif     ,Rice,74202,133489
+Uttar Pradesh,MAU,2008,Kharif     ,Rice,91102,182022
+Uttar Pradesh,MAU,2009,Kharif     ,Rice,76241,111464
+Uttar Pradesh,MAU,2010,Kharif     ,Rice,84040,155894
+Uttar Pradesh,MAU,2011,Kharif     ,Rice,91733,218691
+Uttar Pradesh,MAU,2012,Kharif     ,Rice,84412,180557
+Uttar Pradesh,MAU,2013,Kharif     ,Rice,88001,184626
+Uttar Pradesh,MAU,2014,Kharif     ,Rice,91396,160583
+Uttar Pradesh,MEERUT,1997,Kharif     ,Rice,17696,44758
+Uttar Pradesh,MEERUT,1998,Kharif     ,Rice,18878,41048
+Uttar Pradesh,MEERUT,1999,Kharif     ,Rice,20624,51208
+Uttar Pradesh,MEERUT,2000,Kharif     ,Rice,21226,48008
+Uttar Pradesh,MEERUT,2001,Kharif     ,Rice,19823,42559
+Uttar Pradesh,MEERUT,2002,Kharif     ,Rice,13220,30021
+Uttar Pradesh,MEERUT,2003,Kharif     ,Rice,14320,33423
+Uttar Pradesh,MEERUT,2004,Kharif     ,Rice,15186,38020
+Uttar Pradesh,MEERUT,2005,Kharif     ,Rice,12110,27199
+Uttar Pradesh,MEERUT,2006,Kharif     ,Rice,15848,39921
+Uttar Pradesh,MEERUT,2007,Kharif     ,Rice,13707,32335
+Uttar Pradesh,MEERUT,2008,Kharif     ,Rice,17372,39938
+Uttar Pradesh,MEERUT,2009,Kharif     ,Rice,17629,45113
+Uttar Pradesh,MEERUT,2010,Kharif     ,Rice,17605,38608
+Uttar Pradesh,MEERUT,2011,Kharif     ,Rice,16159,42143
+Uttar Pradesh,MEERUT,2012,Kharif     ,Rice,16117,44273
+Uttar Pradesh,MEERUT,2013,Kharif     ,Rice,14493,39305
+Uttar Pradesh,MEERUT,2013,Summer     ,Rice,21,57
+Uttar Pradesh,MEERUT,2014,Kharif     ,Rice,14466,42892
+Uttar Pradesh,MEERUT,2014,Summer     ,Rice,162,480
+Uttar Pradesh,MIRZAPUR,1997,Kharif     ,Rice,100385,187366
+Uttar Pradesh,MIRZAPUR,1998,Kharif     ,Rice,105655,230950
+Uttar Pradesh,MIRZAPUR,1999,Kharif     ,Rice,107865,261050
+Uttar Pradesh,MIRZAPUR,2000,Kharif     ,Rice,106923,207490
+Uttar Pradesh,MIRZAPUR,2001,Kharif     ,Rice,110842,246817
+Uttar Pradesh,MIRZAPUR,2002,Kharif     ,Rice,89277,167705
+Uttar Pradesh,MIRZAPUR,2003,Kharif     ,Rice,103594,215028
+Uttar Pradesh,MIRZAPUR,2004,Kharif     ,Rice,90318,99621
+Uttar Pradesh,MIRZAPUR,2005,Kharif     ,Rice,103594,151765
+Uttar Pradesh,MIRZAPUR,2006,Kharif     ,Rice,99740,194094
+Uttar Pradesh,MIRZAPUR,2007,Kharif     ,Rice,78848,111806
+Uttar Pradesh,MIRZAPUR,2008,Kharif     ,Rice,108567,221368
+Uttar Pradesh,MIRZAPUR,2009,Kharif     ,Rice,61987,96080
+Uttar Pradesh,MIRZAPUR,2010,Kharif     ,Rice,64224,132879
+Uttar Pradesh,MIRZAPUR,2011,Kharif     ,Rice,91949,199897
+Uttar Pradesh,MIRZAPUR,2012,Kharif     ,Rice,89158,208630
+Uttar Pradesh,MIRZAPUR,2013,Kharif     ,Rice,81099,186771
+Uttar Pradesh,MIRZAPUR,2014,Kharif     ,Rice,81132,187821
+Uttar Pradesh,MORADABAD,1997,Kharif     ,Rice,108473,266267
+Uttar Pradesh,MORADABAD,1997,Summer     ,Rice,2,5
+Uttar Pradesh,MORADABAD,1998,Kharif     ,Rice,113283,242782
+Uttar Pradesh,MORADABAD,1998,Summer     ,Rice,3,6
+Uttar Pradesh,MORADABAD,1999,Kharif     ,Rice,128647,279097
+Uttar Pradesh,MORADABAD,1999,Summer     ,Rice,5,11
+Uttar Pradesh,MORADABAD,2000,Kharif     ,Rice,134465,308851
+Uttar Pradesh,MORADABAD,2000,Summer     ,Rice,1,2
+Uttar Pradesh,MORADABAD,2001,Kharif     ,Rice,136399,314024
+Uttar Pradesh,MORADABAD,2002,Kharif     ,Rice,96795,215401
+Uttar Pradesh,MORADABAD,2002,Summer     ,Rice,3,7
+Uttar Pradesh,MORADABAD,2003,Kharif     ,Rice,122354,291505
+Uttar Pradesh,MORADABAD,2003,Summer     ,Rice,13,31
+Uttar Pradesh,MORADABAD,2004,Kharif     ,Rice,138207,326147
+Uttar Pradesh,MORADABAD,2005,Kharif     ,Rice,114978,233865
+Uttar Pradesh,MORADABAD,2006,Kharif     ,Rice,138207,289405
+Uttar Pradesh,MORADABAD,2006,Summer     ,Rice,117,245
+Uttar Pradesh,MORADABAD,2007,Kharif     ,Rice,139065,325690
+Uttar Pradesh,MORADABAD,2008,Kharif     ,Rice,136178,302043
+Uttar Pradesh,MORADABAD,2008,Summer     ,Rice,369,818
+Uttar Pradesh,MORADABAD,2009,Kharif     ,Rice,120321,279506
+Uttar Pradesh,MORADABAD,2009,Summer     ,Rice,664,1542
+Uttar Pradesh,MORADABAD,2010,Kharif     ,Rice,125006,224136
+Uttar Pradesh,MORADABAD,2010,Summer     ,Rice,473,848
+Uttar Pradesh,MORADABAD,2011,Kharif     ,Rice,128889,277111
+Uttar Pradesh,MORADABAD,2011,Summer     ,Rice,425,914
+Uttar Pradesh,MORADABAD,2012,Kharif     ,Rice,90672,215799
+Uttar Pradesh,MORADABAD,2012,Summer     ,Rice,476,1133
+Uttar Pradesh,MORADABAD,2013,Kharif     ,Rice,95250,207931
+Uttar Pradesh,MORADABAD,2013,Summer     ,Rice,713,1556
+Uttar Pradesh,MORADABAD,2014,Kharif     ,Rice,87934,205941
+Uttar Pradesh,MORADABAD,2014,Summer     ,Rice,552,1293
+Uttar Pradesh,MUZAFFARNAGAR,1997,Kharif     ,Rice,39413,117226
+Uttar Pradesh,MUZAFFARNAGAR,1998,Kharif     ,Rice,41593,105401
+Uttar Pradesh,MUZAFFARNAGAR,1998,Summer     ,Rice,1,3
+Uttar Pradesh,MUZAFFARNAGAR,1999,Kharif     ,Rice,41988,105345
+Uttar Pradesh,MUZAFFARNAGAR,2000,Kharif     ,Rice,41836,93538
+Uttar Pradesh,MUZAFFARNAGAR,2001,Kharif     ,Rice,38253,101853
+Uttar Pradesh,MUZAFFARNAGAR,2002,Kharif     ,Rice,19082,44682
+Uttar Pradesh,MUZAFFARNAGAR,2003,Kharif     ,Rice,26432,66673
+Uttar Pradesh,MUZAFFARNAGAR,2004,Kharif     ,Rice,31015,80429
+Uttar Pradesh,MUZAFFARNAGAR,2005,Kharif     ,Rice,22442,50876
+Uttar Pradesh,MUZAFFARNAGAR,2006,Kharif     ,Rice,25690,57854
+Uttar Pradesh,MUZAFFARNAGAR,2007,Kharif     ,Rice,22302,55911
+Uttar Pradesh,MUZAFFARNAGAR,2008,Kharif     ,Rice,29373,68938
+Uttar Pradesh,MUZAFFARNAGAR,2008,Summer     ,Rice,6,14
+Uttar Pradesh,MUZAFFARNAGAR,2009,Kharif     ,Rice,35635,92794
+Uttar Pradesh,MUZAFFARNAGAR,2009,Summer     ,Rice,9,23
+Uttar Pradesh,MUZAFFARNAGAR,2010,Kharif     ,Rice,37128,82944
+Uttar Pradesh,MUZAFFARNAGAR,2010,Summer     ,Rice,34,76
+Uttar Pradesh,MUZAFFARNAGAR,2011,Kharif     ,Rice,37144,86880
+Uttar Pradesh,MUZAFFARNAGAR,2011,Summer     ,Rice,34,80
+Uttar Pradesh,MUZAFFARNAGAR,2012,Kharif     ,Rice,14646,36644
+Uttar Pradesh,MUZAFFARNAGAR,2012,Summer     ,Rice,2,5
+Uttar Pradesh,MUZAFFARNAGAR,2013,Kharif     ,Rice,11064,25857
+Uttar Pradesh,MUZAFFARNAGAR,2013,Summer     ,Rice,1,2
+Uttar Pradesh,MUZAFFARNAGAR,2014,Kharif     ,Rice,10667,25729
+Uttar Pradesh,MUZAFFARNAGAR,2014,Summer     ,Rice,109,263
+Uttar Pradesh,PILIBHIT,1997,Kharif     ,Rice,144926,434147
+Uttar Pradesh,PILIBHIT,1997,Summer     ,Rice,442,1324
+Uttar Pradesh,PILIBHIT,1998,Kharif     ,Rice,148002,385748
+Uttar Pradesh,PILIBHIT,1998,Summer     ,Rice,394,1027
+Uttar Pradesh,PILIBHIT,1999,Kharif     ,Rice,149592,397044
+Uttar Pradesh,PILIBHIT,1999,Summer     ,Rice,579,1537
+Uttar Pradesh,PILIBHIT,2000,Kharif     ,Rice,150878,404330
+Uttar Pradesh,PILIBHIT,2000,Summer     ,Rice,513,1375
+Uttar Pradesh,PILIBHIT,2001,Kharif     ,Rice,140480,426304
+Uttar Pradesh,PILIBHIT,2001,Summer     ,Rice,369,1120
+Uttar Pradesh,PILIBHIT,2002,Kharif     ,Rice,144387,405772
+Uttar Pradesh,PILIBHIT,2002,Summer     ,Rice,723,2032
+Uttar Pradesh,PILIBHIT,2003,Kharif     ,Rice,157680,428098
+Uttar Pradesh,PILIBHIT,2003,Summer     ,Rice,995,2701
+Uttar Pradesh,PILIBHIT,2004,Kharif     ,Rice,165534,418292
+Uttar Pradesh,PILIBHIT,2005,Kharif     ,Rice,151953,380642
+Uttar Pradesh,PILIBHIT,2006,Kharif     ,Rice,165534,397116
+Uttar Pradesh,PILIBHIT,2006,Summer     ,Rice,6314,15147
+Uttar Pradesh,PILIBHIT,2007,Kharif     ,Rice,160112,455198
+Uttar Pradesh,PILIBHIT,2007,Summer     ,Rice,9110,25900
+Uttar Pradesh,PILIBHIT,2008,Kharif     ,Rice,154385,345822
+Uttar Pradesh,PILIBHIT,2008,Summer     ,Rice,7665,17170
+Uttar Pradesh,PILIBHIT,2009,Kharif     ,Rice,154810,403280
+Uttar Pradesh,PILIBHIT,2009,Summer     ,Rice,8682,22617
+Uttar Pradesh,PILIBHIT,2010,Kharif     ,Rice,149172,370692
+Uttar Pradesh,PILIBHIT,2010,Summer     ,Rice,8391,20852
+Uttar Pradesh,PILIBHIT,2011,Kharif     ,Rice,152550,427750
+Uttar Pradesh,PILIBHIT,2011,Summer     ,Rice,7258,20351
+Uttar Pradesh,PILIBHIT,2012,Kharif     ,Rice,152957,423844
+Uttar Pradesh,PILIBHIT,2012,Summer     ,Rice,8583,23783
+Uttar Pradesh,PILIBHIT,2013,Kharif     ,Rice,135908,380135
+Uttar Pradesh,PILIBHIT,2013,Summer     ,Rice,10502,29374
+Uttar Pradesh,PILIBHIT,2014,Kharif     ,Rice,118036,309963
+Uttar Pradesh,PILIBHIT,2014,Summer     ,Rice,10953,28763
+Uttar Pradesh,PRATAPGARH,1997,Kharif     ,Rice,109370,228671
+Uttar Pradesh,PRATAPGARH,1998,Kharif     ,Rice,111838,174882
+Uttar Pradesh,PRATAPGARH,1999,Kharif     ,Rice,112157,228834
+Uttar Pradesh,PRATAPGARH,2000,Kharif     ,Rice,109804,172170
+Uttar Pradesh,PRATAPGARH,2001,Kharif     ,Rice,116257,231694
+Uttar Pradesh,PRATAPGARH,2002,Kharif     ,Rice,99302,179042
+Uttar Pradesh,PRATAPGARH,2003,Kharif     ,Rice,107856,239818
+Uttar Pradesh,PRATAPGARH,2004,Kharif     ,Rice,96432,157306
+Uttar Pradesh,PRATAPGARH,2005,Kharif     ,Rice,106016,198038
+Uttar Pradesh,PRATAPGARH,2006,Kharif     ,Rice,98612,184503
+Uttar Pradesh,PRATAPGARH,2007,Kharif     ,Rice,102207,196340
+Uttar Pradesh,PRATAPGARH,2008,Kharif     ,Rice,95782,209092
+Uttar Pradesh,PRATAPGARH,2009,Kharif     ,Rice,97382,207132
+Uttar Pradesh,PRATAPGARH,2010,Kharif     ,Rice,96664,193811
+Uttar Pradesh,PRATAPGARH,2011,Kharif     ,Rice,97289,225516
+Uttar Pradesh,PRATAPGARH,2012,Kharif     ,Rice,99174,240993
+Uttar Pradesh,PRATAPGARH,2013,Kharif     ,Rice,99245,237791
+Uttar Pradesh,PRATAPGARH,2014,Kharif     ,Rice,104143,235676
+Uttar Pradesh,RAE BARELI,1997,Kharif     ,Rice,139896,240099
+Uttar Pradesh,RAE BARELI,1997,Summer     ,Rice,1,2
+Uttar Pradesh,RAE BARELI,1998,Kharif     ,Rice,140703,240025
+Uttar Pradesh,RAE BARELI,1998,Summer     ,Rice,1,2
+Uttar Pradesh,RAE BARELI,1999,Kharif     ,Rice,136174,252465
+Uttar Pradesh,RAE BARELI,2000,Kharif     ,Rice,136455,209971
+Uttar Pradesh,RAE BARELI,2001,Kharif     ,Rice,142774,299278
+Uttar Pradesh,RAE BARELI,2002,Kharif     ,Rice,114773,223545
+Uttar Pradesh,RAE BARELI,2002,Summer     ,Rice,3,6
+Uttar Pradesh,RAE BARELI,2003,Kharif     ,Rice,137691,274443
+Uttar Pradesh,RAE BARELI,2003,Summer     ,Rice,1,2
+Uttar Pradesh,RAE BARELI,2004,Kharif     ,Rice,136369,279701
+Uttar Pradesh,RAE BARELI,2005,Kharif     ,Rice,136732,281121
+Uttar Pradesh,RAE BARELI,2006,Kharif     ,Rice,136669,248738
+Uttar Pradesh,RAE BARELI,2007,Kharif     ,Rice,135591,287182
+Uttar Pradesh,RAE BARELI,2007,Summer     ,Rice,4,8
+Uttar Pradesh,RAE BARELI,2008,Kharif     ,Rice,142503,318922
+Uttar Pradesh,RAE BARELI,2009,Kharif     ,Rice,123177,269388
+Uttar Pradesh,RAE BARELI,2010,Kharif     ,Rice,80776,172941
+Uttar Pradesh,RAE BARELI,2010,Summer     ,Rice,2,4
+Uttar Pradesh,RAE BARELI,2011,Kharif     ,Rice,83159,188438
+Uttar Pradesh,RAE BARELI,2011,Summer     ,Rice,1,2
+Uttar Pradesh,RAE BARELI,2012,Kharif     ,Rice,84448,204618
+Uttar Pradesh,RAE BARELI,2013,Kharif     ,Rice,89513,219665
+Uttar Pradesh,RAE BARELI,2014,Kharif     ,Rice,104251,246449
+Uttar Pradesh,RAMPUR,1997,Kharif     ,Rice,129699,328252
+Uttar Pradesh,RAMPUR,1997,Summer     ,Rice,368,931
+Uttar Pradesh,RAMPUR,1998,Kharif     ,Rice,133421,245914
+Uttar Pradesh,RAMPUR,1998,Summer     ,Rice,140,258
+Uttar Pradesh,RAMPUR,1999,Kharif     ,Rice,133293,306205
+Uttar Pradesh,RAMPUR,1999,Summer     ,Rice,235,540
+Uttar Pradesh,RAMPUR,2000,Kharif     ,Rice,136636,307990
+Uttar Pradesh,RAMPUR,2000,Summer     ,Rice,186,419
+Uttar Pradesh,RAMPUR,2001,Kharif     ,Rice,138520,332478
+Uttar Pradesh,RAMPUR,2001,Summer     ,Rice,432,1037
+Uttar Pradesh,RAMPUR,2002,Kharif     ,Rice,133921,301776
+Uttar Pradesh,RAMPUR,2002,Summer     ,Rice,676,1523
+Uttar Pradesh,RAMPUR,2003,Kharif     ,Rice,137198,290515
+Uttar Pradesh,RAMPUR,2003,Summer     ,Rice,1334,2824
+Uttar Pradesh,RAMPUR,2004,Kharif     ,Rice,144038,319405
+Uttar Pradesh,RAMPUR,2005,Kharif     ,Rice,129443,257333
+Uttar Pradesh,RAMPUR,2006,Kharif     ,Rice,144038,303776
+Uttar Pradesh,RAMPUR,2006,Summer     ,Rice,1530,3227
+Uttar Pradesh,RAMPUR,2007,Kharif     ,Rice,134046,301335
+Uttar Pradesh,RAMPUR,2007,Summer     ,Rice,1507,3388
+Uttar Pradesh,RAMPUR,2008,Kharif     ,Rice,139590,274294
+Uttar Pradesh,RAMPUR,2008,Summer     ,Rice,3816,7498
+Uttar Pradesh,RAMPUR,2009,Kharif     ,Rice,116154,260766
+Uttar Pradesh,RAMPUR,2009,Summer     ,Rice,4084,9169
+Uttar Pradesh,RAMPUR,2010,Kharif     ,Rice,140906,267580
+Uttar Pradesh,RAMPUR,2010,Summer     ,Rice,5170,9818
+Uttar Pradesh,RAMPUR,2011,Kharif     ,Rice,140595,306075
+Uttar Pradesh,RAMPUR,2011,Summer     ,Rice,5994,13049
+Uttar Pradesh,RAMPUR,2012,Kharif     ,Rice,133026,302368
+Uttar Pradesh,RAMPUR,2012,Summer     ,Rice,4516,10265
+Uttar Pradesh,RAMPUR,2013,Kharif     ,Rice,136970,306950
+Uttar Pradesh,RAMPUR,2013,Summer     ,Rice,6050,13558
+Uttar Pradesh,RAMPUR,2014,Kharif     ,Rice,124076,280412
+Uttar Pradesh,RAMPUR,2014,Summer     ,Rice,8614,19468
+Uttar Pradesh,SAHARANPUR,1997,Kharif     ,Rice,74098,197286
+Uttar Pradesh,SAHARANPUR,1998,Kharif     ,Rice,76479,185236
+Uttar Pradesh,SAHARANPUR,1999,Kharif     ,Rice,73505,174750
+Uttar Pradesh,SAHARANPUR,2000,Kharif     ,Rice,71743,170555
+Uttar Pradesh,SAHARANPUR,2000,Summer     ,Rice,1396,3162
+Uttar Pradesh,SAHARANPUR,2001,Kharif     ,Rice,64769,146049
+Uttar Pradesh,SAHARANPUR,2002,Kharif     ,Rice,57907,134817
+Uttar Pradesh,SAHARANPUR,2003,Kharif     ,Rice,57924,119053
+Uttar Pradesh,SAHARANPUR,2003,Summer     ,Rice,3,6
+Uttar Pradesh,SAHARANPUR,2004,Kharif     ,Rice,59988,134030
+Uttar Pradesh,SAHARANPUR,2005,Kharif     ,Rice,50264,115205
+Uttar Pradesh,SAHARANPUR,2006,Kharif     ,Rice,56475,127803
+Uttar Pradesh,SAHARANPUR,2007,Kharif     ,Rice,49206,112879
+Uttar Pradesh,SAHARANPUR,2008,Kharif     ,Rice,47858,106580
+Uttar Pradesh,SAHARANPUR,2009,Kharif     ,Rice,51884,118140
+Uttar Pradesh,SAHARANPUR,2010,Kharif     ,Rice,54830,120023
+Uttar Pradesh,SAHARANPUR,2011,Kharif     ,Rice,52344,119920
+Uttar Pradesh,SAHARANPUR,2011,Summer     ,Rice,2,5
+Uttar Pradesh,SAHARANPUR,2012,Kharif     ,Rice,54042,141428
+Uttar Pradesh,SAHARANPUR,2013,Kharif     ,Rice,57786,141345
+Uttar Pradesh,SAHARANPUR,2014,Kharif     ,Rice,62552,155629
+Uttar Pradesh,SAMBHAL,2012,Kharif     ,Rice,35823,86262
+Uttar Pradesh,SAMBHAL,2013,Kharif     ,Rice,40134,92388
+Uttar Pradesh,SAMBHAL,2014,Kharif     ,Rice,35060,76746
+Uttar Pradesh,SANT KABEER NAGAR,1997,Kharif     ,Rice,82567,151002
+Uttar Pradesh,SANT KABEER NAGAR,1997,Summer     ,Rice,83,152
+Uttar Pradesh,SANT KABEER NAGAR,1998,Kharif     ,Rice,81670,110377
+Uttar Pradesh,SANT KABEER NAGAR,1998,Summer     ,Rice,83,112
+Uttar Pradesh,SANT KABEER NAGAR,1999,Kharif     ,Rice,89701,201454
+Uttar Pradesh,SANT KABEER NAGAR,1999,Summer     ,Rice,84,189
+Uttar Pradesh,SANT KABEER NAGAR,2000,Kharif     ,Rice,85220,174596
+Uttar Pradesh,SANT KABEER NAGAR,2000,Summer     ,Rice,5,10
+Uttar Pradesh,SANT KABEER NAGAR,2001,Kharif     ,Rice,89102,196191
+Uttar Pradesh,SANT KABEER NAGAR,2001,Summer     ,Rice,10,22
+Uttar Pradesh,SANT KABEER NAGAR,2002,Kharif     ,Rice,89895,89921
+Uttar Pradesh,SANT KABEER NAGAR,2002,Summer     ,Rice,74,74
+Uttar Pradesh,SANT KABEER NAGAR,2003,Kharif     ,Rice,89836,205872
+Uttar Pradesh,SANT KABEER NAGAR,2003,Summer     ,Rice,10,23
+Uttar Pradesh,SANT KABEER NAGAR,2004,Kharif     ,Rice,91204,128752
+Uttar Pradesh,SANT KABEER NAGAR,2005,Kharif     ,Rice,86338,158258
+Uttar Pradesh,SANT KABEER NAGAR,2006,Kharif     ,Rice,85996,121168
+Uttar Pradesh,SANT KABEER NAGAR,2006,Summer     ,Rice,77,108
+Uttar Pradesh,SANT KABEER NAGAR,2007,Kharif     ,Rice,92217,172907
+Uttar Pradesh,SANT KABEER NAGAR,2008,Kharif     ,Rice,108544,210033
+Uttar Pradesh,SANT KABEER NAGAR,2008,Summer     ,Rice,65,126
+Uttar Pradesh,SANT KABEER NAGAR,2009,Kharif     ,Rice,86158,166113
+Uttar Pradesh,SANT KABEER NAGAR,2009,Summer     ,Rice,63,121
+Uttar Pradesh,SANT KABEER NAGAR,2010,Kharif     ,Rice,90035,173768
+Uttar Pradesh,SANT KABEER NAGAR,2011,Kharif     ,Rice,90665,190578
+Uttar Pradesh,SANT KABEER NAGAR,2011,Summer     ,Rice,65,137
+Uttar Pradesh,SANT KABEER NAGAR,2012,Kharif     ,Rice,87731,200202
+Uttar Pradesh,SANT KABEER NAGAR,2012,Summer     ,Rice,65,148
+Uttar Pradesh,SANT KABEER NAGAR,2013,Kharif     ,Rice,89987,208230
+Uttar Pradesh,SANT KABEER NAGAR,2013,Summer     ,Rice,67,155
+Uttar Pradesh,SANT KABEER NAGAR,2014,Kharif     ,Rice,90918,162561
+Uttar Pradesh,SANT KABEER NAGAR,2014,Summer     ,Rice,60,107
+Uttar Pradesh,SANT RAVIDAS NAGAR,1997,Kharif     ,Rice,25492,58265
+Uttar Pradesh,SANT RAVIDAS NAGAR,1998,Kharif     ,Rice,25915,54970
+Uttar Pradesh,SANT RAVIDAS NAGAR,1999,Kharif     ,Rice,28176,71301
+Uttar Pradesh,SANT RAVIDAS NAGAR,2000,Kharif     ,Rice,27806,56897
+Uttar Pradesh,SANT RAVIDAS NAGAR,2001,Kharif     ,Rice,28129,58604
+Uttar Pradesh,SANT RAVIDAS NAGAR,2002,Kharif     ,Rice,28652,65832
+Uttar Pradesh,SANT RAVIDAS NAGAR,2003,Kharif     ,Rice,29014,78633
+Uttar Pradesh,SANT RAVIDAS NAGAR,2004,Kharif     ,Rice,26519,16851
+Uttar Pradesh,SANT RAVIDAS NAGAR,2005,Kharif     ,Rice,30057,49895
+Uttar Pradesh,SANT RAVIDAS NAGAR,2006,Kharif     ,Rice,33388,52553
+Uttar Pradesh,SANT RAVIDAS NAGAR,2007,Kharif     ,Rice,25758,43016
+Uttar Pradesh,SANT RAVIDAS NAGAR,2008,Kharif     ,Rice,27762,55274
+Uttar Pradesh,SANT RAVIDAS NAGAR,2009,Kharif     ,Rice,22857,44320
+Uttar Pradesh,SANT RAVIDAS NAGAR,2010,Kharif     ,Rice,22116,44918
+Uttar Pradesh,SANT RAVIDAS NAGAR,2011,Kharif     ,Rice,27635,67098
+Uttar Pradesh,SANT RAVIDAS NAGAR,2012,Kharif     ,Rice,23422,59750
+Uttar Pradesh,SANT RAVIDAS NAGAR,2013,Kharif     ,Rice,27721,70938
+Uttar Pradesh,SANT RAVIDAS NAGAR,2014,Kharif     ,Rice,27981,61950
+Uttar Pradesh,SHAHJAHANPUR,1997,Kharif     ,Rice,161820,424904
+Uttar Pradesh,SHAHJAHANPUR,1997,Summer     ,Rice,1013,2660
+Uttar Pradesh,SHAHJAHANPUR,1998,Kharif     ,Rice,171346,379215
+Uttar Pradesh,SHAHJAHANPUR,1998,Summer     ,Rice,1028,2275
+Uttar Pradesh,SHAHJAHANPUR,1999,Kharif     ,Rice,190128,467747
+Uttar Pradesh,SHAHJAHANPUR,1999,Summer     ,Rice,1143,2812
+Uttar Pradesh,SHAHJAHANPUR,2000,Kharif     ,Rice,195853,443656
+Uttar Pradesh,SHAHJAHANPUR,2001,Kharif     ,Rice,213911,509203
+Uttar Pradesh,SHAHJAHANPUR,2001,Summer     ,Rice,1258,2994
+Uttar Pradesh,SHAHJAHANPUR,2002,Kharif     ,Rice,141350,293162
+Uttar Pradesh,SHAHJAHANPUR,2002,Summer     ,Rice,1839,3814
+Uttar Pradesh,SHAHJAHANPUR,2003,Kharif     ,Rice,186774,421045
+Uttar Pradesh,SHAHJAHANPUR,2003,Summer     ,Rice,4167,9392
+Uttar Pradesh,SHAHJAHANPUR,2004,Kharif     ,Rice,204915,483179
+Uttar Pradesh,SHAHJAHANPUR,2005,Kharif     ,Rice,191956,408482
+Uttar Pradesh,SHAHJAHANPUR,2006,Kharif     ,Rice,204915,459829
+Uttar Pradesh,SHAHJAHANPUR,2006,Summer     ,Rice,6258,14043
+Uttar Pradesh,SHAHJAHANPUR,2007,Kharif     ,Rice,183655,442792
+Uttar Pradesh,SHAHJAHANPUR,2007,Summer     ,Rice,6077,14652
+Uttar Pradesh,SHAHJAHANPUR,2008,Kharif     ,Rice,217806,490281
+Uttar Pradesh,SHAHJAHANPUR,2008,Summer     ,Rice,5295,11919
+Uttar Pradesh,SHAHJAHANPUR,2009,Kharif     ,Rice,162992,425246
+Uttar Pradesh,SHAHJAHANPUR,2009,Summer     ,Rice,6535,19010
+Uttar Pradesh,SHAHJAHANPUR,2010,Kharif     ,Rice,211075,430171
+Uttar Pradesh,SHAHJAHANPUR,2010,Summer     ,Rice,5949,12124
+Uttar Pradesh,SHAHJAHANPUR,2011,Kharif     ,Rice,191093,500281
+Uttar Pradesh,SHAHJAHANPUR,2011,Summer     ,Rice,5679,14868
+Uttar Pradesh,SHAHJAHANPUR,2012,Kharif     ,Rice,215646,579441
+Uttar Pradesh,SHAHJAHANPUR,2012,Summer     ,Rice,5581,14996
+Uttar Pradesh,SHAHJAHANPUR,2013,Kharif     ,Rice,198105,531714
+Uttar Pradesh,SHAHJAHANPUR,2013,Summer     ,Rice,5320,14279
+Uttar Pradesh,SHAHJAHANPUR,2014,Kharif     ,Rice,203946,572069
+Uttar Pradesh,SHAHJAHANPUR,2014,Summer     ,Rice,5379,15088
+Uttar Pradesh,SHAMLI,2012,Kharif     ,Rice,20766,53639
+Uttar Pradesh,SHAMLI,2012,Summer     ,Rice,25,65
+Uttar Pradesh,SHAMLI,2013,Kharif     ,Rice,19778,52234
+Uttar Pradesh,SHAMLI,2013,Summer     ,Rice,78,206
+Uttar Pradesh,SHAMLI,2014,Kharif     ,Rice,22666,59952
+Uttar Pradesh,SHAMLI,2014,Summer     ,Rice,257,680
+Uttar Pradesh,SHRAVASTI,1997,Kharif     ,Rice,69338,102960
+Uttar Pradesh,SHRAVASTI,1998,Kharif     ,Rice,70718,115290
+Uttar Pradesh,SHRAVASTI,1999,Kharif     ,Rice,73377,124666
+Uttar Pradesh,SHRAVASTI,2000,Kharif     ,Rice,77496,138415
+Uttar Pradesh,SHRAVASTI,2001,Kharif     ,Rice,73835,142250
+Uttar Pradesh,SHRAVASTI,2002,Kharif     ,Rice,68489,62505
+Uttar Pradesh,SHRAVASTI,2003,Kharif     ,Rice,66303,125715
+Uttar Pradesh,SHRAVASTI,2004,Kharif     ,Rice,69819,112400
+Uttar Pradesh,SHRAVASTI,2005,Kharif     ,Rice,72030,129294
+Uttar Pradesh,SHRAVASTI,2006,Kharif     ,Rice,66170,95152
+Uttar Pradesh,SHRAVASTI,2007,Kharif     ,Rice,69358,129561
+Uttar Pradesh,SHRAVASTI,2008,Kharif     ,Rice,71092,162801
+Uttar Pradesh,SHRAVASTI,2008,Summer     ,Rice,12,27
+Uttar Pradesh,SHRAVASTI,2009,Kharif     ,Rice,68558,147125
+Uttar Pradesh,SHRAVASTI,2010,Kharif     ,Rice,71137,135658
+Uttar Pradesh,SHRAVASTI,2011,Kharif     ,Rice,74974,139452
+Uttar Pradesh,SHRAVASTI,2012,Kharif     ,Rice,73500,163832
+Uttar Pradesh,SHRAVASTI,2013,Kharif     ,Rice,75337,155119
+Uttar Pradesh,SHRAVASTI,2014,Kharif     ,Rice,79949,173889
+Uttar Pradesh,SIDDHARTH NAGAR,1997,Kharif     ,Rice,180716,325255
+Uttar Pradesh,SIDDHARTH NAGAR,1997,Summer     ,Rice,64,115
+Uttar Pradesh,SIDDHARTH NAGAR,1998,Kharif     ,Rice,149112,156394
+Uttar Pradesh,SIDDHARTH NAGAR,1998,Summer     ,Rice,48,50
+Uttar Pradesh,SIDDHARTH NAGAR,1999,Kharif     ,Rice,165261,339177
+Uttar Pradesh,SIDDHARTH NAGAR,1999,Summer     ,Rice,53,109
+Uttar Pradesh,SIDDHARTH NAGAR,2000,Kharif     ,Rice,165059,273971
+Uttar Pradesh,SIDDHARTH NAGAR,2000,Summer     ,Rice,48,80
+Uttar Pradesh,SIDDHARTH NAGAR,2001,Kharif     ,Rice,152097,280586
+Uttar Pradesh,SIDDHARTH NAGAR,2001,Summer     ,Rice,20,37
+Uttar Pradesh,SIDDHARTH NAGAR,2002,Kharif     ,Rice,169559,137859
+Uttar Pradesh,SIDDHARTH NAGAR,2003,Kharif     ,Rice,173147,362578
+Uttar Pradesh,SIDDHARTH NAGAR,2004,Kharif     ,Rice,169257,149191
+Uttar Pradesh,SIDDHARTH NAGAR,2005,Kharif     ,Rice,173147,288290
+Uttar Pradesh,SIDDHARTH NAGAR,2006,Kharif     ,Rice,170011,236995
+Uttar Pradesh,SIDDHARTH NAGAR,2007,Kharif     ,Rice,187537,391390
+Uttar Pradesh,SIDDHARTH NAGAR,2008,Kharif     ,Rice,171877,405973
+Uttar Pradesh,SIDDHARTH NAGAR,2009,Kharif     ,Rice,172893,363940
+Uttar Pradesh,SIDDHARTH NAGAR,2010,Kharif     ,Rice,175157,415297
+Uttar Pradesh,SIDDHARTH NAGAR,2011,Kharif     ,Rice,169824,435429
+Uttar Pradesh,SIDDHARTH NAGAR,2012,Kharif     ,Rice,160991,411332
+Uttar Pradesh,SIDDHARTH NAGAR,2013,Kharif     ,Rice,173903,477016
+Uttar Pradesh,SIDDHARTH NAGAR,2014,Kharif     ,Rice,170404,414082
+Uttar Pradesh,SITAPUR,1997,Kharif     ,Rice,141093,313355
+Uttar Pradesh,SITAPUR,1998,Kharif     ,Rice,141182,250568
+Uttar Pradesh,SITAPUR,1999,Kharif     ,Rice,156206,320394
+Uttar Pradesh,SITAPUR,2000,Kharif     ,Rice,163309,232696
+Uttar Pradesh,SITAPUR,2001,Kharif     ,Rice,160975,276372
+Uttar Pradesh,SITAPUR,2002,Kharif     ,Rice,119808,188830
+Uttar Pradesh,SITAPUR,2003,Kharif     ,Rice,140773,262915
+Uttar Pradesh,SITAPUR,2004,Kharif     ,Rice,158642,241358
+Uttar Pradesh,SITAPUR,2005,Kharif     ,Rice,133490,221860
+Uttar Pradesh,SITAPUR,2006,Kharif     ,Rice,158642,257317
+Uttar Pradesh,SITAPUR,2006,Summer     ,Rice,10,16
+Uttar Pradesh,SITAPUR,2007,Kharif     ,Rice,149280,260494
+Uttar Pradesh,SITAPUR,2007,Summer     ,Rice,15,26
+Uttar Pradesh,SITAPUR,2008,Kharif     ,Rice,148440,257098
+Uttar Pradesh,SITAPUR,2008,Summer     ,Rice,62,107
+Uttar Pradesh,SITAPUR,2009,Kharif     ,Rice,148649,275595
+Uttar Pradesh,SITAPUR,2009,Summer     ,Rice,25,46
+Uttar Pradesh,SITAPUR,2010,Kharif     ,Rice,156947,310441
+Uttar Pradesh,SITAPUR,2010,Summer     ,Rice,29,57
+Uttar Pradesh,SITAPUR,2011,Kharif     ,Rice,155655,346177
+Uttar Pradesh,SITAPUR,2011,Summer     ,Rice,26,58
+Uttar Pradesh,SITAPUR,2012,Kharif     ,Rice,162205,388481
+Uttar Pradesh,SITAPUR,2012,Summer     ,Rice,26,63
+Uttar Pradesh,SITAPUR,2013,Kharif     ,Rice,169741,413998
+Uttar Pradesh,SITAPUR,2013,Summer     ,Rice,44,107
+Uttar Pradesh,SITAPUR,2014,Kharif     ,Rice,164128,382911
+Uttar Pradesh,SITAPUR,2014,Summer     ,Rice,75,175
+Uttar Pradesh,SONBHADRA,1997,Kharif     ,Rice,80194,126656
+Uttar Pradesh,SONBHADRA,1998,Kharif     ,Rice,80496,147115
+Uttar Pradesh,SONBHADRA,1999,Kharif     ,Rice,85193,174875
+Uttar Pradesh,SONBHADRA,2000,Kharif     ,Rice,86337,125793
+Uttar Pradesh,SONBHADRA,2001,Kharif     ,Rice,89244,181172
+Uttar Pradesh,SONBHADRA,2002,Kharif     ,Rice,79557,113616
+Uttar Pradesh,SONBHADRA,2003,Kharif     ,Rice,96168,182495
+Uttar Pradesh,SONBHADRA,2004,Kharif     ,Rice,68909,34420
+Uttar Pradesh,SONBHADRA,2005,Kharif     ,Rice,82683,83841
+Uttar Pradesh,SONBHADRA,2006,Kharif     ,Rice,82060,120218
+Uttar Pradesh,SONBHADRA,2007,Kharif     ,Rice,30582,31408
+Uttar Pradesh,SONBHADRA,2008,Kharif     ,Rice,27301,37703
+Uttar Pradesh,SONBHADRA,2009,Kharif     ,Rice,17327,21399
+Uttar Pradesh,SONBHADRA,2010,Kharif     ,Rice,27442,42014
+Uttar Pradesh,SONBHADRA,2011,Kharif     ,Rice,32987,67260
+Uttar Pradesh,SONBHADRA,2012,Kharif     ,Rice,35344,73586
+Uttar Pradesh,SONBHADRA,2013,Kharif     ,Rice,30842,66680
+Uttar Pradesh,SONBHADRA,2014,Kharif     ,Rice,29426,52290
+Uttar Pradesh,SULTANPUR,1997,Kharif     ,Rice,158244,334187
+Uttar Pradesh,SULTANPUR,1997,Summer     ,Rice,18,38
+Uttar Pradesh,SULTANPUR,1998,Kharif     ,Rice,159948,317796
+Uttar Pradesh,SULTANPUR,1998,Summer     ,Rice,8,16
+Uttar Pradesh,SULTANPUR,1999,Kharif     ,Rice,159882,340777
+Uttar Pradesh,SULTANPUR,1999,Summer     ,Rice,9,19
+Uttar Pradesh,SULTANPUR,2000,Kharif     ,Rice,160083,329111
+Uttar Pradesh,SULTANPUR,2000,Summer     ,Rice,7,14
+Uttar Pradesh,SULTANPUR,2001,Kharif     ,Rice,160521,358439
+Uttar Pradesh,SULTANPUR,2001,Summer     ,Rice,17,38
+Uttar Pradesh,SULTANPUR,2002,Kharif     ,Rice,127534,263269
+Uttar Pradesh,SULTANPUR,2003,Kharif     ,Rice,157553,358923
+Uttar Pradesh,SULTANPUR,2004,Kharif     ,Rice,155041,315565
+Uttar Pradesh,SULTANPUR,2005,Kharif     ,Rice,156578,333041
+Uttar Pradesh,SULTANPUR,2006,Kharif     ,Rice,157713,281833
+Uttar Pradesh,SULTANPUR,2007,Kharif     ,Rice,156243,320923
+Uttar Pradesh,SULTANPUR,2008,Kharif     ,Rice,173487,380110
+Uttar Pradesh,SULTANPUR,2009,Kharif     ,Rice,133285,303223
+Uttar Pradesh,SULTANPUR,2010,Kharif     ,Rice,90048,216836
+Uttar Pradesh,SULTANPUR,2011,Kharif     ,Rice,93636,227161
+Uttar Pradesh,SULTANPUR,2012,Kharif     ,Rice,93861,236060
+Uttar Pradesh,SULTANPUR,2013,Kharif     ,Rice,93449,227735
+Uttar Pradesh,SULTANPUR,2014,Kharif     ,Rice,85103,151568
+Uttar Pradesh,UNNAO,1997,Kharif     ,Rice,93169,158595
+Uttar Pradesh,UNNAO,1998,Kharif     ,Rice,96125,141883
+Uttar Pradesh,UNNAO,1999,Kharif     ,Rice,97663,146633
+Uttar Pradesh,UNNAO,2000,Kharif     ,Rice,93204,105622
+Uttar Pradesh,UNNAO,2001,Kharif     ,Rice,99276,155812
+Uttar Pradesh,UNNAO,2002,Kharif     ,Rice,59042,84666
+Uttar Pradesh,UNNAO,2003,Kharif     ,Rice,87407,169705
+Uttar Pradesh,UNNAO,2003,Summer     ,Rice,1,2
+Uttar Pradesh,UNNAO,2004,Kharif     ,Rice,94154,164546
+Uttar Pradesh,UNNAO,2005,Kharif     ,Rice,87407,150078
+Uttar Pradesh,UNNAO,2006,Kharif     ,Rice,89698,129883
+Uttar Pradesh,UNNAO,2007,Kharif     ,Rice,90658,171525
+Uttar Pradesh,UNNAO,2008,Kharif     ,Rice,91689,193922
+Uttar Pradesh,UNNAO,2009,Kharif     ,Rice,56056,100452
+Uttar Pradesh,UNNAO,2010,Kharif     ,Rice,81000,138186
+Uttar Pradesh,UNNAO,2010,Summer     ,Rice,11,19
+Uttar Pradesh,UNNAO,2011,Kharif     ,Rice,96881,173708
+Uttar Pradesh,UNNAO,2012,Kharif     ,Rice,98269,192804
+Uttar Pradesh,UNNAO,2012,Summer     ,Rice,11,22
+Uttar Pradesh,UNNAO,2013,Kharif     ,Rice,102455,218229
+Uttar Pradesh,UNNAO,2014,Kharif     ,Rice,96435,161818
+Uttar Pradesh,UNNAO,2014,Summer     ,Rice,1,2
+Uttar Pradesh,VARANASI,1997,Kharif     ,Rice,43189,115352
+Uttar Pradesh,VARANASI,1998,Kharif     ,Rice,49869,121321
+Uttar Pradesh,VARANASI,1999,Kharif     ,Rice,50073,136151
+Uttar Pradesh,VARANASI,2000,Kharif     ,Rice,50174,120656
+Uttar Pradesh,VARANASI,2001,Kharif     ,Rice,50666,126909
+Uttar Pradesh,VARANASI,2002,Kharif     ,Rice,49582,89166
+Uttar Pradesh,VARANASI,2003,Kharif     ,Rice,50096,133775
+Uttar Pradesh,VARANASI,2004,Kharif     ,Rice,48948,28319
+Uttar Pradesh,VARANASI,2005,Kharif     ,Rice,47369,72048
+Uttar Pradesh,VARANASI,2006,Kharif     ,Rice,60959,95645
+Uttar Pradesh,VARANASI,2007,Kharif     ,Rice,50910,86343
+Uttar Pradesh,VARANASI,2008,Kharif     ,Rice,51740,111034
+Uttar Pradesh,VARANASI,2009,Kharif     ,Rice,39295,58274
+Uttar Pradesh,VARANASI,2010,Kharif     ,Rice,42021,84882
+Uttar Pradesh,VARANASI,2011,Kharif     ,Rice,50950,112854
+Uttar Pradesh,VARANASI,2012,Kharif     ,Rice,42757,103814
+Uttar Pradesh,VARANASI,2013,Kharif     ,Rice,46938,100964
+Uttar Pradesh,VARANASI,2014,Kharif     ,Rice,43862,101848
