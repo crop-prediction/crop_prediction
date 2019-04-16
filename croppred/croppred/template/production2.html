@@ -1,0 +1,19 @@
+{% load staticfiles %}
+{% static "" as baseUrl %}
+<html>
+<head>
+    <style>
+        body{
+              background-image:url("{{baseUrl}}prro.jpg");
+
+        }
+
+
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><center>
+<h1>{{dist}}</h1>
+<b>You may produce {{prod}} quintal of {{crop}} on {{area}} heactares in {{year}}.
+</b></center></body>
+</html>

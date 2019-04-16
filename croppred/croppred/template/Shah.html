@@ -1,0 +1,17 @@
+﻿{% load staticfiles %}
+{% static "" as baseUrl %}
+<html xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+<body background="{{baseUrl}}img/back3.jpg">
+<center><h1 style="color:white">Know How much You Can Produce in upcoming year</h1></center>
+<form action="soh">
+    <center><table><tr><td>Crop Name(फसल का नाम)</td><td><select id="crop" name="crop"><option>-</option><option>Wheat</option><option>Bajra</option></select></td></tr>
+<tr><td>Choose District</td><td><select id="dist" name="dist"><option>Deoria</option><option>Hathras</option></select></td></tr>
+<tr><td>Enter Year</td><td><input type="text" id="yr" name="yr"></td></tr>
+     <tr>   <td>Enter Area in hectare(क्षेत्र दर्ज करें)</td><td><input type="text" name="area" id="area"></td></tr>
+        <tr><td></td>   <td> <input type="submit" value="Submit"></td></tr></table></center>
+</form>
+    <br><br>
+
+
+</body>
+</html>
